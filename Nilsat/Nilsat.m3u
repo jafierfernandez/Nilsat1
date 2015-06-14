@@ -1,5 +1,6 @@
 #EXTM3U
- #EXTINF:-1,abu_dhabi_drama
+#EXTINF:-1, JafierFernandez Ramadan 2015
+ #EXTINF:-1,Abu Dabi Drama
  rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
  #EXTINF:-1,abu_dhabi_drama m3u8
  http://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream/HasBahCa.m3u8
@@ -17,7 +18,7 @@
  rtmp://66.23.237.233:1935/alkout/alkout
  #EXTINF:-1,Al Maaref
  http://almaareftv.com:1935/live/1/HasBahCa.m3u8
- #EXTINF:-1,Al yawm
+ #EXTINF:-1,Al Yawm
  http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
  #EXTINF:-1,Albadawiyah
  http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
