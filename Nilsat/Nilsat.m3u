@@ -94,6 +94,15 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 #EXTINF:-1,Sports Pro HD
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=misralaan
+#EXTIN:-1,Alnahar
+http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/playlist.m3u8
+EXTINF:-1,Alnahar Alyoum
+http://50.7.180.18:1935/elnahar_tv/nahar_youmprofile2.stream/playlist.m3u8
+EXTINF:-1,Alnahar Drama
+http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/playlist.m3u8S
+#EXTINF:-1,Misr Alaan
+http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w844819533_b394100_slen.m3u8
+
 
 
  #EXTINF:-1,Abu Dabi Drama
