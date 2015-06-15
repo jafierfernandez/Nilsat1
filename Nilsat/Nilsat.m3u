@@ -1,5 +1,67 @@
 #EXTM3U
-#EXTINF:-1,JafierFernandez Ramadan 2015
+
+#EXTINF:-1, [COLOR red]Jafier Fernandey best list Ramadan 2015[/COLOR]
+
+
+
+#EXTINF:-1, [COLOR red]Arabic Channels[/COLOR]
+
+
+
+#EXTINF:-1,Iqraa TV
+
+http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
+
+
+#EXTINF:-1,Sunnah TV
+
+rtmp://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream
+ 
+
+
+#EXTINF:-1,Wissal TV
+http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
+ 
+#EXTINF:-1,Sharjah
+ rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+#EXTINF:-1,Al Majd
+
+rtmp://162.212.176.107/al_majd?v=1591695855/globaltv-al_majd.stream
+
+
+#EXTINF:0,Mekke
+
+http://46.245.160.224/mekke/mekke/playlist.m3u8
+
+#EXTINF:-1,Medine
+
+http://46.245.160.224/medine/medine/gmswf.m3u8
+
+
+#EXTINF:0,Al Maghribia
+
+rtmp://162.212.176.107:1935/al_maghribia/globaltv-al_maghribia.stream
+
+
+#EXTINF:0,Al Oula Maroc
+rtmp://162.212.176.107/al_aoula_maroc//globaltv-al_aoula_maroc.stream
+
+#EXTINF:0,Alriadia Sport 
+
+http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/playlist.m3u8
+
+#EXTINF:0,Medi 1
+
+rtmp://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream 
+
+
+
+#EXTINF:-1, Assadisa
+
+http://162.212.176.107:1935/assadissa/globaltv-assadissa.stream/playlist.m3u8
+
+
+
  #EXTINF:-1,Abu Dabi Drama
  rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
 #EXTINF:-1,DUBAI TV
@@ -19,6 +81,10 @@
  rtmp://66.23.237.233:1935/alkout/alkout
  #EXTINF:-1,Alhayat 1
  rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream
+#EXTINF:-1,Al Hayat 2
+
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
+
  #EXTINF:-1,AlJazeera Children
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
  #EXTINF:-1,Aljazeera Doc
@@ -97,6 +163,11 @@
  rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
  #EXTINF:-1,Tunisia 2
  rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
+#EXTINF:-1,Hanibal
+
+rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
+
+
  #EXTINF:0,Alhurra TV
  rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
    #EXTINF:0,Shada TV
@@ -118,8 +189,7 @@
  #EXTINF:0,Jordan
  rtmp://64.251.14.168/jorlive/jrtv
  http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
- #EXTINF:-1,Agyal
- http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
+ 
  #EXTINF:-1,Mayadeen
  http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
  #EXTINF:-1,MTV Liban
@@ -130,26 +200,30 @@
  http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/chunklist_w236136394.m3u8
  #EXTINF:-1,NBN
  rtmp://lived.nbn.com.lb/nbn?gmswf=1481326180/mpegts.stream
- #EXTINF:-1, Syria
- http://82.137.248.16:1935/Sat/SatLive3/chunklist_w511398413.m3u8
- #EXTINF:-1, Syria Nour
- rtmp://82.137.248.21/Nour?gmswf=1481251590/NourLive3
+ #EXTINF:-1,Syria
+
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+
+ #EXTINF:-1,Syria Nour
+
+http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
+
  #EXTINF:-1, Sama Syria
  rtmp://sama-tv.net/live//samatv
  #EXTINF:-1, Syria Aloula
  http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
- #EXTINF:-1, Syria Drama
- http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+ #EXTINF:-1,Syrian Drama
+
+rtmp://82.137.248.21/Drama/DramaLive2
+ 
  #EXTINF:-1,Talaqie
  rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
  #EXTINF:-1,Syrian Educational TV
  rtmp://82.137.248.16/Snews/SnewsLive1
  #EXTINF:-1,Alikhbaria Syria
  rtmp://82.137.248.16/Snews/SnewsLive1
- #EXTINF:-1,wissal-tv
- http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
- #EXTINF:-1,Sharjah
- rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+ 
+ 
  #EXTINF:-1,Sharjah Sport
  rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
  #EXTINF:-1,MBC Masr 1
@@ -166,21 +240,95 @@
  rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv 
  #EXTINF:-1,Palestine
  rtmp://vstream2.hadara.ps:1935/pbc/mp4:pbc_1
+#EXTINF:-1,Echorouk TV
+
+http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+ 
  #EXTINF:-1,AL Ryan
  rtmp://AgendaStreamerx1.qna.org.qa/ryn/ryn
  #EXTINF:-1,Abu Dhabi Sports 2
  http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
  #EXTINF:-1,Maan news tv
  http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
+#EXTINF:-1,EURO-NEWS Arabic
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/euronews_ar/ls_satlink/b_,264,528,828,.m3u8
+
+#EXTINF:-1,i24News Arabic
+
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+ 
+ 
+#EXTINF:-1,BBC World News
+
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+ 
+#EXTINF:-1,ABC News
+ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
+
+
  #EXTINF:-1,AL Aan
  http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8
+#EXTINF:-1,Al Jazeera Doc
+
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+ 
+
+#EXTINF:-1,NASA
+
+http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
+ 
+
+ 
+ 
+
+#EXTINF:-1,Nat Geo AD HD
+
+rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
+ 
+
+
+#EXTINF:-1,Marina FM TV
+
+rtmp://38.96.175.16/live/MarinaFM2
+ 
+
+ 
+
+#EXTINF:-1,AGHANI TV
+
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+ 
+ 
+
+
+#EXTINF:-1, Jeem Kids
+
+rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
+ 
  #EXTINF: 0,MBC DRAMA
  http://91.109.20.227:8080/TV6035
- #EXTINF:0 group-title="News",ABC News
- http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
- #EXTINF:-1,EURO-NEWS (Arabia)
- http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/euronews_ar/ls_satlink/b_,264,528,828,.m3u8
- #EXTINF:-1,DW (Arabia)
+#EXTINF:-1,AL Sharqiya
+
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:-1, Jeem Kids
+
+rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
+ 
+#EXTINF:-1,Agyal
+
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
+
+
+
+
+
+
+ 
+
+ 
+ 
+ #EXTINF:-1,DW Arabic
  http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
  #EXTINF:-1,AL-NABA
  http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
@@ -190,6 +338,10 @@
  rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv_1 
  #EXTINF:-1,Al Baghdadia
  http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+#EXTINF:-1,Albaghdadia 2
+
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+
 #EXTINF:-1,Baghdad tv
  http://streamer1.hamuraabi.com:1935/baghdad/live/HasBahCa.m3u8
 #EXTINF:-1,Iraqiya
@@ -200,8 +352,8 @@
  http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
 #EXTINF:-1,Turkiye
  http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,Al Kawthar
- http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
+
+
 #EXTINF:-1,Al Yawm
  http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alfady TV
@@ -214,3 +366,204 @@
  http://37.59.51.173:8085/zee_aflam/index.m3u8?token=sib5543dbe28d940
  #EXTINF:-1,Zee Alwan
  http://37.59.51.173:8085/zee_alwan/index.m3u8?token=sib5543dbe28d940
+
+
+
+
+
+#EXTINF:-1, [COLOR red]France[/COLOR]
+
+
+
+#EXTINF:-1, TF1
+
+http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/index_900_av-b.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&X-Forwarded-For=146.159.95.38
+ 
+ 
+
+#EXTINF:-1,France 2 HD
+
+http://pebbles101-lh.akamaihd.net/i/france2_1@97347/index_900_av-b.m3u8|X-Forwarded-For=146.159.95.38
+ 
+
+#EXTINF:-1,France 3
+
+http://pebbles100-lh.akamaihd.net/i/france3_1@97329/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+ 
+
+ 
+
+#EXTINF:-1,France 5
+
+http://pebbles102-lh.akamaihd.net/i/france5_1@97351/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+
+
+#EXTINF:-1,M6 HD
+
+http://pebbles108-lh.akamaihd.net/i/m6_1@97467/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+
+#EXTINF:-1,D8
+
+http://stream.streaming-hub.com:8180/live/hls/d8-clair-v3-sd-and/and-sd-clair/index.m3u8
+
+
+
+#EXTINF:-1,D17
+
+http://stream.streaming-hub.com:8180/live/hls/d17-clair-v3-sd-and/and-sd-clair/index.m3u8
+
+
+ 
+
+#EXTINF:-1 ,RTL9
+
+http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+
+
+
+#EXTINF:-1,Arte HD
+
+http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
+
+ 
+
+#EXTINF:-1,CHASSE ET PECHE
+
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
+
+
+#EXTINF:-1,L'»norme TV
+
+rtmp://ec.playmedia.fr/enorme-tv/ playpath=live swfUrl=http://enorme.tv/mediaelement-live/flashmediaelement.swf pageUrl=http://enorme.tv/
+ 
+
+#EXTINF:-1,W»o
+
+rtmp://str81.creacast.com:80/weo/high
+ 
+
+#EXTINF:-1,TV Rennes 35
+
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+ 
+
+#EXTINF:-1,La Chaine Normande
+
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+
+
+#EXTINF:-1,TV Fil 78
+
+http://rtmp.infomaniak.ch/livecast/tvfil78/playlist.m3u8
+ 
+
+#EXTINF:-1 ,Mirabelle TV
+
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+ 
+
+
+#EXTINF:-1, Antenne R»union
+
+http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Franco",Cinq+
+http://teleclub.fr/cinqplus.mp4
+
+#EXTINF:-1,Cin FiL
+
+http://teleclub.fr/cinefil.mp4?start=0
+
+
+#EXTINF:-1,Cinetoile
+
+http://tv.ut.cx/cinetoile.mp4?start=0
+
+
+#EXTINF:-1,Club 1
+
+http://teleclub.fr/club1.mp4?start=0
+
+
+#EXTINF:-1 tvg-logo="tva.png" tvg-id="I4.28457403.microsoft.com" tvg-name="TVA" group-title="FRANCO",TVA MontrÈal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+
+#EXTINF:-1 tvg-logo="theweathernetwork.png" group-title="ANGLO",The Weather Network Canada [COLOR yellow]720p[/COLOR]
+
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+
+#EXTINF:-1 tvg-logo="theweathernetwork.png" group-title="ANGLO",The Weather Network Canada [COLOR yellow]SD[/COLOR]
+
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer4.m3u8
+
+
+#EXTINF:-1,Euronews
+
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
+
+
+#EXTINF:-1,BFM TV
+
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+ 
+ 
+#EXTINF:-1,iTele tv
+
+http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8
+
+
+ 
+
+
+#EXTINF:-1,LíÈquipe 21
+
+http://stream.streaming-hub.com:8280/5687/index.m3u8
+
+#EXTINF:-1,i24News
+
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+
+#EXTINF:0,France 24
+
+rtmp://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream
+ 
+#EXTINF:-1,[COLOR red] Switzerland TV [/COLOR]
+
+#EXTINF:-1 ,RTS Un
+
+http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
+ 
+
+#EXTINF:,RTS Deux
+
+http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
+#EXTINF:-1,[COLOR red]  Belgium  TV [/COLOR]
+
+
+ 
+
+#EXTINF:-1 ,T»l» MB
+
+http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8
+ 
+
+#EXTINF:-1 ,T»l» Sambre
+
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+ 
+
+#EXTINF:-1 ,T»l» Bruxelles
+
+rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout=60
+ 
+
+#EXTINF:-1 ,TV Lux
+
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+
+
