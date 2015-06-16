@@ -97,6 +97,8 @@ http://bit.ly/1G8ycei
 http://bit.ly/1KTjFd7
 #EXTINF:-1,Rotana Music
  rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
+#EXTINF:-1,Rotana Clip
+http://198.179.30.110/live/2603.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee51d25e9b770ff0df8bcf775db39c45336835b30f952c1391bfdc2725d135dc259e35be4a61620601132a9788d01e0559bf3f30e977c85d126eb52c1aaea6a1668671780afe93fc13d0587e99fb660d160da7d98bbc2f27c2498d0247aa9d81bde69e86bc2ed1a33d7515dd83c6b1ca724f05c5b96f4e7f385ceb50bef038a093db810856306d3b0ea759927e34a1f46
 #EXTINF:-1,Dream1
 rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
 #EXTINF:-1,Melody Aflam
