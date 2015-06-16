@@ -71,7 +71,7 @@ http://162.212.176.107:1935/assadissa/globaltv-assadissa.stream/playlist.m3u8
 
 
 #EXTINF:-1,2M
-http://t1p.de/undx
+http://5.196.90.97/origin02/amlst:2m-maroc/chunklist_w900202306_b800000.m3u8?dar=sd&t=18ddf1b11ff0fbb2c04fc333f9bc795bdacaf3550faae81f89511155b0eef7b90fe4349b0b4144fed1ae4f142093bcaa1e4d8db901500505b04ec05648f91c721fd690cb00592f49cb831ce87592a273b5c185186ad45218807a96d847115c19f21ee8c8e0514cc4d6dcd16bebe66656b92f678c44196e8cc54f4339ba0410e0
 #EXTINF:-1,Saltanat Oman
 http://38.96.148.30:1935/live/omantv3/chunklist.m3u8?wowzasessionid=1751231831&v=1342104563
 #EXTINF:-1,Al Badaweya
@@ -86,15 +86,14 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/chunklist_w508315077.m3u
 #EXTINF:-1,MTV Lebanon
 http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/chunklist_w316213873_b524000.m3u8
 #EXTINF:-1,Rotana Cinema
-http://bit.ly/1IFJz1y
+http://198.179.30.110/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeac0b4e2e4f554ae343df19c52da37a024484e54935fc73f6cfac5e3e83fa82c34b9b73def183c593432b622368048d27aa2436c0141b47805b0bfce2b49f607775768aa46d6e6fc7f825ae514258d2328b97bca3207fa05ea729a7efa748dfad090054450a78e1feb3ddf0f170e827129a29fbe47a15d4a4392ef83e87603ed0ea8246f92c2eb8879c4b1bc6c4e4b388
 #EXTINF:-1,Rotana Classic
-http://bit.ly/1R1opgl
+http://195.244.40.232:8001/1:0:1:6A7:3138:13E:820000:0:0:0:
 #EXTINF:-1,Rotana Masria
-http://bit.ly/1ehWHjt
-#EXTINF:-1,Rotana Aflam
-http://bit.ly/1G8ycei
+http://198.179.30.110/live/2612.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec3f4d30056ccd0aaccb1663801fea5dd5f0e322f1aabe1cf9ad35b3656baa973e3a2762d5d08b0bf7617c5fc93b751e46a06bb0ec2ac3d8fe32d59e8ee8ff2332b50e8f8ccbb835d36a5faf82071f6f193a600e0ed605c1f87f0b7c592f2a67eed45b78499eedd153fb2b0f4fcf05429836dc97be9041061368548b8657672db8b5903865398d0c7256aeabb32ba8d60
+
 #EXTINF:-1,Rotana Khalijia
-http://bit.ly/1KTjFd7
+http://198.179.30.110/live/2606.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef710a9551ae503c025fc5dd3c4f299a5b37bd36dd7a0e07f61bf031acf1fd52359149747ea8b17f59a80f6ff7118df9335acb6e5b3557e23e69cbb167c87327d376797121867fc65568970dc157196b2b7c677ddc20e689a413577211a51df2c076d4579270eb19dfae09a863e586726efc5321c97492c7d9706d76308f0cada083dfea95ce5fa80072f382e5cbe9caa
 #EXTINF:-1,Rotana Music
  rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 #EXTINF:-1,Rotana Clip
@@ -112,7 +111,7 @@ http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:-1,Alnahar Alyoum
 http://50.7.180.18:1935/elnahar_tv/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1,Alnahar Drama
-http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/playlist.m3u8S
+http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/playlist.m3u8
 #EXTINF:-1,Art Aflam
  rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream
  #EXTINF:-1,Art Aflam_2
@@ -131,7 +130,25 @@ http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/playlist.m3u8S
  http://37.59.51.173:8085/NILE_TV/index.m3u8?token=sib5543dbe28d940
 
 
+#EXTINF:-1,Sudan Drama
+http://195.244.40.212:8001/1:0:1:8:24E:2BE:1040000:0:0:0:
+#EXTINF:-1,Sudan
+http://195.244.40.212:8001/1:0:1:7DA:24E:2BE:1040000:0:0:0:
+# EXTINF:-1,Sudan-OUS
+http://195.244.40.212:8001/1:0:1:B:24E:2BE:1040000:0:0:0:
+# EXTINF:-1,AL SHARQIYA
+http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
+# EXTINF:-1,Tanasuh TV
+http://195.244.40.212:8001/1:0:1:C:24E:2BE:1040000:0:0:0:
+# EXTINF:-1,Khair
+http://195.244.40.212:8001/1:0:1:7:24E:2BE:1040000:0:0:0:
+# EXTINF:-1,JAWNA
+http://195.244.40.204:8001/1:0:1:E:1FF:2BE:1040000:0:0:0:
+# EXTINF:-1,PEACE TV
+http://195.244.40.204:8001/1:0:1:F:1FF:2BE:1040000:0:0:0:
 
+# EXTINF:-1,ALAAN TV
+http://195.244.40.204:8001/1:0:1:9:1FF:2BE:1040000:0:0:0:
 #EXTINF:-1,Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1,Arrayan
