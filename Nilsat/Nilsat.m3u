@@ -137,6 +137,8 @@ http://198.179.30.110/live/2603.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee51d
 
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
+#EXTINF:-1,Hawacom
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
 
 #EXTINF:-1,Saltanat Oman
@@ -287,7 +289,8 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
  
  
  
- 
+ #EXTINF:-1, Al-hurra Iraq
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
  #EXTINF:-1,Royatv
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
  #EXTINF:-1,SaudiSport
@@ -442,7 +445,8 @@ rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch02?user=emrekutahya&p
 rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch03?user=emrekutahya&pass=11122014
 
 
-
+#EXTINF:-1,HD MEDIA 3D
+rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
 #EXTINF:-1, [COLOR red]France[/COLOR]
 
 
