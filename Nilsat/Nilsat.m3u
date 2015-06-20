@@ -65,6 +65,24 @@ http://162.212.176.107:1935/assadissa/globaltv-assadissa.stream/playlist.m3u8
 
 #EXTINF:-1,2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1,Al_masriyah 
+rtmp://162.212.176.107:1935/al_masriyah?v=3160872028/globaltv-al_masriyah.stream 
+#EXTINF:-1,Al_thaniya 
+rtmp://162.212.176.107:1935/al_thaniya?v=3160872028/globaltv-al_thaniya.stream 
+#EXTINF:-1,Alnahar
+http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/playlist.m3u8
+#EXTINF:-1,Alnahar Alyoum
+http://50.7.180.18:1935/elnahar_tv/nahar_youmprofile2.stream/playlist.m3u8
+#EXTINF:-1,Alnahar Drama
+http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/playlist.m3u8
+#EXTINF:-1,Ontv live 
+rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream 
+#EXTINF:-1,LBC 
+http://162.212.176.107:1935/time_comedy/globaltv-time_comedy.stream/chunklist_w489583599.m3u8
+#EXTINF:-1,alalamia 
+rtmp://ns8.indexforce.com/alalamia/alalamia
+#EXTINF:-1,Alfajer TV 
+rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv_1
 
 
 #EXTINF:-1,OTV
@@ -72,7 +90,7 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/chunklist_w508315077.m3u
 #EXTINF:-1,MTV Lebanon
 http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/chunklist_w316213873_b524000.m3u8
 #EXTINF:-1,Rotana Cinema
-http://198.179.30.110/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeac0b4e2e4f554ae343df19c52da37a024484e54935fc73f6cfac5e3e83fa82c34b9b73def183c593432b622368048d27aa2436c0141b47805b0bfce2b49f607775768aa46d6e6fc7f825ae514258d2328b97bca3207fa05ea729a7efa748dfad090054450a78e1feb3ddf0f170e827129a29fbe47a15d4a4392ef83e87603ed0ea8246f92c2eb8879c4b1bc6c4e4b388
+http://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream/chunklist_w1546865381.m3u8
 #EXTINF:-1,Rotana Classic
 http://195.244.40.232:8001/1:0:1:6A7:3138:13E:820000:0:0:0:
 #EXTINF:-1,Rotana Masria
@@ -88,12 +106,7 @@ rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
  rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
  #EXTINF:-1,Cairo Drama
  rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
-#EXTINF:-1,Alnahar
-http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/playlist.m3u8
-#EXTINF:-1,Alnahar Alyoum
-http://50.7.180.18:1935/elnahar_tv/nahar_youmprofile2.stream/playlist.m3u8
-#EXTINF:-1,Alnahar Drama
-http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/playlist.m3u8
+
 #EXTINF:-1,Moga Comedy 
 rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream 
 #EXTINF:-1,Art Aflam
@@ -188,7 +201,7 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 #EXTINF:-1,Mekammelin
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 #EXTINF:-1,Misr Alaan
-http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w844819533_b394100_slen.m3u8
+http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1344100_slen.m3u8
 #EXTINF:-1,mayadeen
  http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 #EXTINF:-1,Sports Pro HD
