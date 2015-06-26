@@ -65,9 +65,20 @@ http://162.212.176.107:1935/assadissa/globaltv-assadissa.stream/playlist.m3u8
 
 #EXTINF:-1,2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
-#EXTINF:-1,Al_masriyah 
+
+#EXTINF:-1,OSN YAHALA DRAMA HD 
+http://hbox.cdnss.com/aga9y9/9hbkjg/1004.ts
+#EXTINF:-1,OSN YAHALA HD +2 
+http://hbox.cdnss.com/aga9y9/9hbkjg/1006.ts
+#EXTINF:-1,OSN MOVIES DRAMA HD 
+http://hbox.cdnss.com/aga9y9/9hbkjg/1007.ts
+#EXTINF:-1,OSN YAHALA HD 
+http://hbox.cdnss.com/aga9y9/9hbkjg/1012.ts
+
+
+#EXTINF:-1,Al Masriyah 
 rtmp://162.212.176.107:1935/al_masriyah?v=3160872028/globaltv-al_masriyah.stream 
-#EXTINF:-1,Al_thaniya 
+#EXTINF:-1,Al Thaniya 
 rtmp://162.212.176.107:1935/al_thaniya?v=3160872028/globaltv-al_thaniya.stream 
 #EXTINF:-1,Alnahar
 http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/playlist.m3u8
@@ -79,7 +90,7 @@ http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/playlist.m3u8
 rtmp://50.7.180.18/elONTV?gmswf=1591696272/ontvlive_profile2.stream 
 #EXTINF:-1,LBC 
 http://162.212.176.107:1935/time_comedy/globaltv-time_comedy.stream/chunklist_w489583599.m3u8
-#EXTINF:-1,alalamia 
+#EXTINF:-1,Alalamia 
 rtmp://ns8.indexforce.com/alalamia/alalamia
 #EXTINF:-1,Alfajer TV 
 rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv_1
@@ -89,15 +100,14 @@ rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv_1
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/chunklist_w508315077.m3u8
 #EXTINF:-1,MTV Lebanon
 http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/chunklist_w316213873_b524000.m3u8
-#EXTINF:-1,Rotana Cinema
-http://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream/chunklist_w1546865381.m3u8
-#EXTINF:-1,Rotana Classic
-http://195.244.40.232:8001/1:0:1:6A7:3138:13E:820000:0:0:0:
-#EXTINF:-1,Rotana Masria
-http://198.179.30.110/live/2612.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec3f4d30056ccd0aaccb1663801fea5dd5f0e322f1aabe1cf9ad35b3656baa973e3a2762d5d08b0bf7617c5fc93b751e46a06bb0ec2ac3d8fe32d59e8ee8ff2332b50e8f8ccbb835d36a5faf82071f6f193a600e0ed605c1f87f0b7c592f2a67eed45b78499eedd153fb2b0f4fcf05429836dc97be9041061368548b8657672db8b5903865398d0c7256aeabb32ba8d60
-#EXTINF:-1,Rotana Khalijia
-http://198.179.30.110/live/2606.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef710a9551ae503c025fc5dd3c4f299a5b37bd36dd7a0e07f61bf031acf1fd52359149747ea8b17f59a80f6ff7118df9335acb6e5b3557e23e69cbb167c87327d376797121867fc65568970dc157196b2b7c677ddc20e689a413577211a51df2c076d4579270eb19dfae09a863e586726efc5321c97492c7d9706d76308f0cada083dfea95ce5fa80072f382e5cbe9caa
-
+#EXTINF:-1,ROTANA_CLASSIC
+http://hbox.cdnss.com/aga9y9/9hbkjg/505.ts
+#EXTINF:-1,ROTANA MASRIAH
+http://hbox.cdnss.com/aga9y9/9hbkjg/506.ts
+#EXTINF:-1,ROTANA CINEMA
+http://hbox.cdnss.com/aga9y9/9hbkjg/507.ts
+#EXTINF:-1,ROTANA KHALIJIAH
+http://hbox.cdnss.com/aga9y9/9hbkjg/504.ts
 #EXTINF:-1,Dream1
 rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
 #EXTINF:-1,Melody 
@@ -111,8 +121,17 @@ rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
 rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream 
 #EXTINF:-1,Art Aflam
  rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream
- #EXTINF:-1,Art Aflam_2
+#EXTINF:-1,ART Aflam 1
+http://hbox.cdnss.com/aga9y9/9hbkjg/648.ts
+ #EXTINF:-1,Art Aflam 2
  rtmp://162.212.176.107:1935/art_aflam_2?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIw.MTUtMDEtMjUtMDAtNDUtMTc=/globaltv-art_aflam_2.stream
+#EXTINF:-1,ART HIKAYET KAMEN
+http://hbox.cdnss.com/aga9y9/9hbkjg/651.ts
+#EXTINF:-1,ART HIKAYET 1
+http://hbox.cdnss.com/aga9y9/9hbkjg/646.ts
+#EXTINF:-1,ART HIKAYET 2
+http://hbox.cdnss.com/aga9y9/9hbkjg/647.ts
+
 #EXTINF:-1,Alhayat 1
  rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream
 #EXTINF:-1,Alhayat Cinema
@@ -121,25 +140,30 @@ rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
  http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
 #EXTINF:-1,LBC
  rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
- #EXTINF:-1,Mbc 2
- http://63.237.48.3/ios/MBC2/MBC2.m3u8
- #EXTINF:-1,MBC 3
- rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
- #EXTINF:-1,MBC ACTION
- http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
- #EXTINF:-1,MBC BOLLYWOOD
- http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
- #EXTINF:-1,Mbc Max
- rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
-#EXTINF:-1,MBC Masr 1
- rtmp://162.212.176.107/mbc_masr?v=3160814918/globaltv-mbc_masr.stream
-#EXTINF: 0,MBC DRAMA
- http://91.109.20.227:8080/TV6035
+ #EXTINF:-1,MBC 1
+http://hbox.cdnss.com/aga9y9/9hbkjg/479.ts
+#EXTINF:-1,MBC 2
+http://hbox.cdnss.com/aga9y9/9hbkjg/485.ts
+#EXTINF:-1,MBC 3
+http://hbox.cdnss.com/aga9y9/9hbkjg/3.ts
+#EXTINF:-1,MBC 4
+http://hbox.cdnss.com/aga9y9/9hbkjg/478.ts
+#EXTINF:-1,MBC BOOLWOOD
+http://hbox.cdnss.com/aga9y9/9hbkjg/483.ts
+#EXTINF:-1,MBC ACTION
+http://hbox.cdnss.com/aga9y9/9hbkjg/482.ts
+#EXTINF:-1,MBC_ DRAMA
+http://hbox.cdnss.com/aga9y9/9hbkjg/480.ts
  #EXTINF:-1,Moga Momedy
  rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
+#EXTINF:-1,HOGGAR_TV
+http://hbox.cdnss.com/aga9y9/9hbkjg/487.ts
 
-#EXTINF:-1,Rotana Music
-rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
+
+#EXTINF:-1,SAMIRA
+http://hbox.cdnss.com/aga9y9/9hbkjg/498.ts
+#EXTINF:-1,ROTANA MUSICA
+http://hbox.cdnss.com/aga9y9/9hbkjg/501.ts
 #EXTINF:-1,Rotana Clip
 http://198.179.30.110/live/2603.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee51d25e9b770ff0df8bcf775db39c45336835b30f952c1391bfdc2725d135dc259e35be4a61620601132a9788d01e0559bf3f30e977c85d126eb52c1aaea6a1668671780afe93fc13d0587e99fb660d160da7d98bbc2f27c2498d0247aa9d81bde69e86bc2ed1a33d7515dd83c6b1ca724f05c5b96f4e7f385ceb50bef038a093db810856306d3b0ea759927e34a1f46
 #EXTINF:-1,Melody
@@ -152,6 +176,15 @@ http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 #EXTINF:-1,Hawacom
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT 1HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/553.ts
+#EXTINF:-1,BEIN SPORT 4HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/555.ts
+#EXTINF:-1,BEIN SPORT 9
+http://hbox.cdnss.com/aga9y9/9hbkjg/589.ts
+#EXTINF:-1,BEIN SPORT 10
+http://hbox.cdnss.com/aga9y9/9hbkjg/590.ts
 
 
 #EXTINF:-1,Saltanat Oman
@@ -231,7 +264,8 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=misralaan
  rtmp://66.23.237.233:1935/alkout/alkout
  
  
-
+#EXTINF:-1,Cartoon Network
+http://162.212.176.107:1935/cartoon_network/globaltv-cartoon_network.stream/chunklist_w1071831081.m3u8
 #EXTINF:-1, Jeem Kids
 
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
@@ -312,13 +346,20 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
  http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
  #EXTINF:-1,Syria Nour
  http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
+#EXTINF:-1,ATTASI3A
+http://hbox.cdnss.com/aga9y9/9hbkjg/653.ts
+#EXTINF:-1,M24 TUNISIA
+http://hbox.cdnss.com/aga9y9/9hbkjg/655.ts
+#EXTINF:-1,ALJANOUBIA
+http://hbox.cdnss.com/aga9y9/9hbkjg/586.ts
  #EXTINF:-1,Tunisia 1
  rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
  #EXTINF:-1,Tunisia 2
  rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
-#EXTINF:-1,Hanibal
-
-rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
+#EXTINF:-1,NESSMA
+http://hbox.cdnss.com/aga9y9/9hbkjg/585.ts
+#EXTINF:-1,HANNIBAL
+http://hbox.cdnss.com/aga9y9/9hbkjg/582.ts
 
 
  #EXTINF:0,Alhurra TV
