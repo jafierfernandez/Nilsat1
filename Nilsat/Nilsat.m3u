@@ -55,6 +55,8 @@ http://50.23.65.8/live/rotana_massriya/index.m3u8
  http://stream.magictvbox.com/live/rotana_khalijiah_plus/index.m3u8
 #EXTINF:-1,Set El Bit
  http://stream.magictvbox.com/live/set_el_bait/index.m3u8
+#EXTINF:-1,Set El Bit PLUS
+http://50.23.65.8/live/set_el_bait_plus/index.m3u8
 #EXTINF:-1,ONTV
  http://stream.magictvbox.com/live/ontv/index.m3u8
 #EXTINF:-1,ONTV Live
