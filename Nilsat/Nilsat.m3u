@@ -22,8 +22,10 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
 #EXTINF:-1,ALAAN TV
 http://195.244.40.204:8001/1:0:1:9:1FF:2BE:1040000:0:0:0:
 
-
-
+#EXTINF:-1,Dream 1
+http://50.23.65.8/live/dream1/index.m3u8
+#EXTINF:-1,Dream 2
+http://50.23.65.8/live/dream2/index.m3u8
 #EXTINF:-1,MBC
 http://stream.magictvbox.com/live/mbc/index.m3u8
 #EXTINF:-1,Sada El Balad
@@ -45,6 +47,8 @@ http://stream.magictvbox.com/live/sada_el_balad_plus/index.m3u8
  http://stream.magictvbox.com/live/rotana_khalijiah/index.m3u8
 #EXTINF:-1,Rotana Cinema PLUS
  http://stream.magictvbox.com/live/rotana_cinema_plus/index.m3u8
+#EXTINF:-1,Rotana Masriya
+http://50.23.65.8/live/rotana_massriya/index.m3u8
 #EXTINF:-1,Rotana Masriya PLUS
  http://stream.magictvbox.com/live/rotana_massriya_plus/index.m3u8
 #EXTINF:-1,Rotana Khalijiah PLUS
