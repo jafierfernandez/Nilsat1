@@ -411,11 +411,11 @@ http://stream.magictvbox.com/live/al_resalla/index.m3u8
 
 
 
-#EXTINF:-1,Sky Atlantic HD
- http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1491.ts
- #EXTINF:-1,Sky Family HD
- http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1504.ts
- #EXTINF:-1,Sky Movies Action HD
- http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1686.ts
- #EXTINF:-1,Sky Movies Select HD
- http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/808.ts
+#EXTINF:0,SKY Bundesliga DE
+http://balkanstream.com/stream/SKYbundes/rajko/rajko
+
+#EXTINF:0,SKY Sport 1 DE
+http://balkanstream.com/stream/SKYsport01/rajko/rajko
+
+#EXTINF:0,SKY Sport 2 DE
+http://balkanstream.com/stream/SKYsport02/rajko/rajko 
