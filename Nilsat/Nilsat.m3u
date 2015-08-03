@@ -27,13 +27,15 @@
  http://38.99.146.36:7777/Baraem_HD.m3u8
 #EXTINF:-1,Cartoon Network
  http://38.99.146.36:7777/CNArabia_HD.m3u8
+#EXTINF:-1,MBC 3
+ http://38.99.146.36:7777/MBC3_HD.m3u8
 #EXTINF:-1,Atfal wa Mawaheb
  http://38.99.146.36:7777/AtfalwaMawaheb_HD.m3u8
 #EXTINF:-1,Arabic Tv:Kaifa
  http://38.99.146.36:7777/Kaifa_HD.m3u8
- #EXTINF:-1,Arabic Tv:Karameesh
+ #EXTINF:-1,Karameesh
  http://38.99.146.36:7777/Karameesh_HD.m3u8
- #EXTINF:-1,Arabic Tv:Koky Kids
+ #EXTINF:-1,Koky Kids
  http://38.99.146.36:7777/Koky_HD.m3u8
 #EXTINF:-1,Noon Kids
  http://38.99.146.36:7777/Noon_HD.m3u8
@@ -51,7 +53,6 @@
  http://38.99.146.36:7777/AlArabiya_HD.m3u8
  #EXTINF:-1,Al Hadath
  http://38.99.146.36:7777/AlArabiyaHadath_HD.m3u8
-
 #EXTINF:-1,Mekammelin
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 #EXTINF:-1,Misr Alaan
@@ -88,8 +89,7 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/MBC1_HD.m3u8
  #EXTINF:-1,MBC 2
  http://38.99.146.36:7777/MBC2_HD.m3u8
- #EXTINF:-1,MBC 3
- http://38.99.146.36:7777/MBC3_HD.m3u8
+ 
  #EXTINF:-1,MBC 4
  http://38.99.146.36:7777/MBC4_HD.m3u8
  #EXTINF:-1,MBC Action
