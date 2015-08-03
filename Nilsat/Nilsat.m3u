@@ -67,16 +67,12 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/AlJazeeraLive_HD.m3u8
  #EXTINF:-1,Aljazeera Doc
  http://38.99.146.36:7777/AlJazeeraDocument_HD.m3u8
- #EXTINF:-1,Aljazeera En
- http://38.99.146.36:7777/AlJazeeraEnglish_HD.m3u8
  #EXTINF:-1,Aljazeera US
  http://38.99.146.36:7777/AlJazeeraInt_HD.m3u8
 #EXTINF:-1,Al Moustakilla
  http://38.99.146.36:7777/AlMustakila_HD.m3u8
 #EXTINF:-1,Al Sharqiya News
  http://38.99.146.36:7777/AlsharqiyaNews_HD.m3u8
-#EXTINF:-1,CCTV Arabic
- http://38.99.146.36:7777/CCTVArabia_HD.m3u8
 #EXTINF:-1,TRT Arabic
  http://38.99.146.36:7777/TRTArabic_HD.m3u8
  #EXTINF:-1,BBC Arabic
@@ -534,7 +530,8 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://8.21.48.19:7777/MehwarPlus2_HD.m3u8
  
  
- 
+ #EXTINF:-1,CCTV Arabic
+ http://38.99.146.36:7777/CCTVArabia_HD.m3u8
  
  
  
