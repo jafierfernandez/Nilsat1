@@ -3,21 +3,23 @@
 #EXTM3U
 
 
-#EXTINF:-1,2M
+
+
+#EXTINF:-1 group-title="Arabic",2M
  http://38.99.146.36:7777/M2Morocco_HD.m3u8
-#EXTINF:-1,Medi 1 Sat
+#EXTINF:-1 group-title="Arabic",Medi 1 Sat
  http://38.99.146.36:7777/Medi1_HD.m3u8
-#EXTINF:-1,Tamazigh Maroc
+#EXTINF:-1 group-title="Arabic",Tamazigh Maroc
  http://38.99.146.36:7777/Tamazight_HD.m3u8
-#EXTINF:-1,Al oula Maroc
+#EXTINF:-1 group-title="Arabic",Al oula Maroc
  http://38.99.146.36:7777/AlAoulaEurope_HD.m3u8
-#EXTINF:-1,Al Maghribia
+#EXTINF:-1 group-title="Arabic",Al Maghribia
  http://38.99.146.36:7777/AlMaghribia_HD.m3u8
-#EXTINF:-1,Arrabia
+#EXTINF:-1 group-title="Arabic",Arrabia
  http://38.99.146.36:7777/Arrabiaa_HD.m3u8
- #EXTINF:-1,Alriadia Sport
+ #EXTINF:-1 group-title="Arabic",Alriadia Sport
  http://38.99.146.36:7777/Arryadia_HD.m3u8
- #EXTINF:-1,Assadissa
+ #EXTINF:-1 group-title="Arabic",Assadissa
  http://38.99.146.36:7777/Assadissa_HD.m3u8
 
 
