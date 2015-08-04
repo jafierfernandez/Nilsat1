@@ -946,6 +946,53 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
+#EXTINF:-1 tvg-id="0805" group-title="Türk" tvg-logo="0805.png",[COLOR orangered]TRT HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0801" group-title="Türk" tvg-logo="0801.png",[COLOR orangered]TRT1 HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0803" group-title="Türk" tvg-logo="0803.png",[COLOR orangered]TRT HABER HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0806" group-title="Türk" tvg-logo="0807.png",[COLOR orangered]TRT SPOR HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0808" group-title="Türk" tvg-logo="0809.png",[COLOR orange]TRT MÜZIK[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0810" group-title="Türk" tvg-logo="0811.png",[COLOR orange]TRT Çocuk[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0812" group-title="Türk" tvg-logo="0813.png",[COLOR orangered]TRT TÜRK HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0814" group-title="Türk" tvg-logo="0815.png",[COLOR orangered]Kanal D HD[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0816" group-title="Türk" tvg-logo="0816.png",[COLOR orange]CNN Türk[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0817" group-title="Türk" tvg-logo="0817.png",[COLOR orange]TV 2[/COLOR]
+http://bit.do/Tv2tv|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0817" group-title="Türk" tvg-logo="0817.png",[COLOR orange]TV 2 HD[/COLOR]
+http://31.186.24.232:8000/21|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0818" group-title="Türk" tvg-logo="0818.png",[COLOR orange]Dream TV[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0819" group-title="Türk" tvg-logo="0819.png",[COLOR orange]Dreamtürk TV[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0820" group-title="Türk" tvg-logo="0820.png",[COLOR orange]Taksim[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0821" group-title="Türk" tvg-logo="0821.png",[COLOR orange]FOX TV[/COLOR]
+rtsp://foxtv-i.mncdn.com/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0822" group-title="Türk" tvg-logo="0822.png",[COLOR orange]STAR TV[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0823" group-title="Türk" tvg-logo="0823.png",[COLOR orange]ATV[/COLOR]
+http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w2124135919_b256000.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0824" group-title="Türk" tvg-logo="0824.png",[COLOR orange]SHOW TV[/COLOR]
+http://bit.do/Showtv|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0825" group-title="Türk" tvg-logo="0825.png",[COLOR orangered]KANAL 7 HD[/COLOR]
+http://bit.do/kanal7hd|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0826" group-title="Türk" tvg-logo="0826.png",[COLOR orange]TV 8[/COLOR]
+http://yayin6.canlitv.com:1935/live/tv8/chunklist_w1348996191.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0827" group-title="Türk" tvg-logo="0827.png",[COLOR orange]NTV[/COLOR]
+http://31.186.24.232:8000/2|X-Forwarded-For=82.222.61.111
+#EXTINF:-1 tvg-id="0828" group-title="Türk" tvg-logo="0828.png",[COLOR orange]NTV SPOR[/COLOR]
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8|X-Forwarded-For=82.222.61.111
+
+
+
 
 
 
