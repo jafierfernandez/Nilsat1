@@ -31,7 +31,7 @@
  http://38.99.146.36:7777/MBC3_HD.m3u8
 #EXTINF:-1,Atfal wa Mawaheb
  http://38.99.146.36:7777/AtfalwaMawaheb_HD.m3u8
-#EXTINF:-1,Arabic Tv:Kaifa
+#EXTINF:-1,Kaifa
  http://38.99.146.36:7777/Kaifa_HD.m3u8
  #EXTINF:-1,Karameesh
  http://38.99.146.36:7777/Karameesh_HD.m3u8
@@ -47,7 +47,8 @@
  http://38.99.146.36:7777/SpaceToonArabic_HD.m3u8
 #EXTINF:-1,Ajyal
  http://38.99.146.36:7777/AjyalTV_HD.m3u8
-
+#EXTINF:-1,HodHod
+ http://38.99.146.36:7777/HodHod_HD.m3u8
 
 #EXTINF:-1,Alarabiya
  http://38.99.146.36:7777/AlArabiya_HD.m3u8
@@ -89,7 +90,6 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/MBC1_HD.m3u8
  #EXTINF:-1,MBC 2
  http://38.99.146.36:7777/MBC2_HD.m3u8
- 
  #EXTINF:-1,MBC 4
  http://38.99.146.36:7777/MBC4_HD.m3u8
  #EXTINF:-1,MBC Action
@@ -270,9 +270,33 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/RoyalEdhak_HD.m3u8
  #EXTINF:-1,Royal Secret
  http://38.99.146.36:7777/RoyalSecrets_HD.m3u8
-#EXTINF:-1,Jordan Sport
- http://38.99.146.36:7777/JordanSport_HD.m3u8
- 
+
+#EXTINF:-1,Noor Dubai
+ http://38.99.146.36:7777/NoorDubai_HD.m3u8
+ #EXTINF:-1,Sama Dubai
+ http://38.99.146.36:7777/SamaDubai_HD.m3u8
+ #EXTINF:-1,Sama Syria
+ http://38.99.146.36:7777/SamaTV_HD.m3u8
+ #EXTINF:-1,Samira TV
+ http://38.99.146.36:7777/SamiraTV_HD.m3u8
+#EXTINF:-1,Ajman
+ http://38.99.146.36:7777/Ajman_HD.m3u8
+ #EXTINF:-1,Abu Dhabi
+ http://38.99.146.36:7777/ADAlOula_HD.m3u8
+ #EXTINF:-1,Abu Dhabi Drama
+ http://38.99.146.36:7777/ADDrama_HD.m3u8
+ #EXTINF:-1,Abu Dhabi Emirates
+ http://38.99.146.36:7777/ADEmirates_HD.m3u8
+ #EXTINF:-1,National Geo Ad
+ http://38.99.146.36:7777/ADNatGeo_HD.m3u8
+#EXTINF:-1,Dubai
+ http://38.99.146.36:7777/DubaiEurope_HD.m3u8
+ #EXTINF:-1,Dubai One
+ http://38.99.146.36:7777/DubaiOne_HD.m3u8
+#EXTINF:-1,Al Thakafiyah
+ http://38.99.146.36:7777/AlThakafiyah_HD.m3u8
+ #EXTINF:-1,Al Eqtisadiyah
+ http://38.99.146.36:7777/AlEqtisadiyah_HD.m3u8
  #EXTINF:-1,KSA 1
  http://38.99.146.36:7777/SaudiArabia1_HD.m3u8
  #EXTINF:-1,KSA 2
@@ -291,28 +315,36 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/Alwatan_HD.m3u8
  #EXTINF:-1,Alwatan Plus
  http://38.99.146.36:7777/AlwatanPlus_HD.m3u8
- #EXTINF:-1,BAHRAIN SPORTS
- http://38.99.146.36:7777/BahrainSport_HD.m3u8
- #EXTINF:-1,Noor Dubai
- http://38.99.146.36:7777/NoorDubai_HD.m3u8
- #EXTINF:-1,Sama Dubai
- http://38.99.146.36:7777/SamaDubai_HD.m3u8
- #EXTINF:-1,Sama Syria
- http://38.99.146.36:7777/SamaTV_HD.m3u8
- #EXTINF:-1,Samira TV
- http://38.99.146.36:7777/SamiraTV_HD.m3u8
-#EXTINF:-1,Dubai
- http://38.99.146.36:7777/DubaiEurope_HD.m3u8
- #EXTINF:-1,Dubai One
- http://38.99.146.36:7777/DubaiOne_HD.m3u8
- #EXTINF:-1,Dubai Sport HD2
- http://38.99.146.36:7777/DubaiSport2_HD.m3u8
- #EXTINF:-1,Dubai Sport HD2
- http://8.21.48.19:7777/DubaiSport2_HD.m3u8
- #EXTINF:-1,Dubai Sport 3
- http://38.99.146.36:7777/DubaiSports_HD.m3u8
- #EXTINF:-1,DW Arabic
- http://38.99.146.36:7777/DWTVArabia_HD.m3u8
+ #EXTINF:-1,Oman
+ http://38.99.146.36:7777/Oman_HD.m3u8
+ #EXTINF:-1,Al Sabah
+ http://38.99.146.36:7777/AlSabah_HD.m3u8
+ #EXTINF:-1,Alsaeedah
+ http://38.99.146.36:7777/AlSaeeda_HD.m3u8
+ #EXTINF:-1,Al sahraa
+ http://38.99.146.36:7777/AlSahraa_HD.m3u8
+ #EXTINF:-1,Al Shaab
+ http://38.99.146.36:7777/AlShaab_HD.m3u8
+ #EXTINF:-1,Al Sharqiya
+ http://38.99.146.36:7777/AlSharqiya_HD.m3u8
+ #EXTINF:-1,Al Ordonia
+ http://38.99.146.36:7777/AlOrdoni_HD.m3u8
+ #EXTINF:-1,Jordan
+ http://38.99.146.36:7777/A1Jordan_HD.m3u8
+ #EXTINF:-1,Zweina Bladna
+ http://38.99.146.36:7777/ZweinaBaladna_HD.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ #EXTINF:-1,ANB
+ http://38.99.146.36:7777/ANB_HD.m3u8
+ #EXTINF:-1,ANN
+ http://38.99.146.36:7777/ANN_HD.m3u8
+ 
+ 
  #EXTINF:-1,Mehwar
  http://38.99.146.36:7777/MehwarPlus2_HD.m3u8
  #EXTINF:-1,ETV1
@@ -325,16 +357,15 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/Fox_HD.m3u8
  #EXTINF:-1,Fox Movies
  http://38.99.146.36:7777/FoxMovies_HD.m3u8
- 
  #EXTINF:-1,Funoon
  http://38.99.146.36:7777/Funoon_HD.m3u8
  #EXTINF:-1,Future TV
  http://38.99.146.36:7777/Future_HD.m3u8
  #EXTINF:-1,Future News
  http://38.99.146.36:7777/FutureNews_HD.m3u8
- #EXTINF:-1,FutureUSA
+ #EXTINF:-1,Future USA
  http://38.99.146.36:7777/FutureUSA_HD.m3u8
- #EXTINF:-1,GearOne
+ #EXTINF:-1,Gear One
  http://38.99.146.36:7777/GearOne_HD.m3u8
  #EXTINF:-1,Gladiator
  http://38.99.146.36:7777/Gladiator_HD.m3u8
@@ -342,148 +373,90 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/GoanTV_HD.m3u8
  #EXTINF:-1,Al Kout
  http://38.99.146.36:7777/AlKout_HD.m3u8
+#EXTINF:-1,Tele Liban
+ http://38.99.146.36:7777/TeleLiban_HD.m3u8
  #EXTINF:-1,Al Lubnania
  http://38.99.146.36:7777/AlLubnania_HD.m3u8
  #EXTINF:-1,OTV Lebanon
  http://38.99.146.36:7777/OTV_HD.m3u8
  #EXTINF:-1,Aljadeed
  http://38.99.146.36:7777/AlJadeed_HD.m3u8
- 
- #EXTINF:-1,Scope
- http://38.99.146.36:7777/ScopeTV_HD.m3u8
-#EXTINF:-1,4Shbab
- http://38.99.146.36:7777/4Shbab_HD.m3u8
- #EXTINF:-1,Al Ordonia
- http://38.99.146.36:7777/AlOrdoni_HD.m3u8
- #EXTINF:-1,Jordan
- http://38.99.146.36:7777/A1Jordan_HD.m3u8
-  #EXTINF:-1,Lbc Europe
+ #EXTINF:-1,Lbc Europe
  http://38.99.146.36:7777/LBC_HD.m3u8
  #EXTINF:-1,LCD AFLAM
  http://38.99.146.36:7777/LcdTurkey_HD.m3u8
  #EXTINF:-1,LDC
  http://38.99.146.36:7777/LDC_HD.m3u8
+ #EXTINF:-1,Scope
+ http://38.99.146.36:7777/ScopeTV_HD.m3u8
+#EXTINF:-1,4Shbab
+ http://38.99.146.36:7777/4Shbab_HD.m3u8
  
- #EXTINF:-1,LineSport
- http://38.99.146.36:7777/LineSport_HD.m3u8
+  
+ 
+ 
  #EXTINF:-1,LLBN
  http://38.99.146.36:7777/LLBN_HD.m3u8
  #EXTINF:-1,ABN
  http://38.99.146.36:7777/ABN_HD.m3u8
- #EXTINF:-1,Abu Dhabi
- http://38.99.146.36:7777/ADAlOula_HD.m3u8
- #EXTINF:-1,Abu Dhabi Drama
- http://38.99.146.36:7777/ADDrama_HD.m3u8
- #EXTINF:-1,Abu Dhabi Emirates
- http://38.99.146.36:7777/ADEmirates_HD.m3u8
- #EXTINF:-1,Aden
- http://38.99.146.36:7777/Aden_HD.m3u8
- #EXTINF:-1,National Geo Ad
- http://38.99.146.36:7777/ADNatGeo_HD.m3u8
- #EXTINF:-1,Abu Dhabi Sports 1
- http://38.99.146.36:7777/ADSport_HD.m3u8
 
  
- #EXTINF:-1,Ajman
- http://38.99.146.36:7777/Ajman_HD.m3u8
+
+ 
+ 
  
  
  #EXTINF:-1,Al Adala
  http://38.99.146.36:7777/AlAdala_HD.m3u8
- #EXTINF:-1,AL AHLY
- http://38.99.146.36:7777/AlAhlyTV_HD.m3u8
- 
-
  #EXTINF:-1,Al Anwar
  http://38.99.146.36:7777/AlAnwar_HD.m3u8
- 
- 
- 
-
- #EXTINF:-1,Alkass
- http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
  #EXTINF:-1,Aldiyar
  http://38.99.146.36:7777/AldiyarSat_HD.m3u8
- 
- 
- #EXTINF:-1,Al Eqtisadiyah
- http://38.99.146.36:7777/AlEqtisadiyah_HD.m3u8
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
  #EXTINF:-1,Almas
  http://38.99.146.36:7777/AlMas_HD.m3u8
- #EXTINF:-1,Al Masar
- http://38.99.146.36:7777/AlMasar_HD.m3u8
-
- #EXTINF:-1,Al mayaden
+#EXTINF:-1,Al mayaden
  http://38.99.146.36:7777/AlMayadeen_HD.m3u8
+#EXTINF:-1,DW Arabic
+ http://38.99.146.36:7777/DWTVArabia_HD.m3u8
  
  
- 
+
+
+
+#EXTINF:-1,Abu Dhabi Sports 1
+ http://38.99.146.36:7777/ADSport_HD.m3u8
+#EXTINF:-1,Dubai Sport HD2
+ http://38.99.146.36:7777/DubaiSport2_HD.m3u8
+ #EXTINF:-1,Dubai Sport HD2
+ http://8.21.48.19:7777/DubaiSport2_HD.m3u8
+ #EXTINF:-1,Dubai Sport 3
+ http://38.99.146.36:7777/DubaiSports_HD.m3u8
+ #EXTINF:-1,Jordan Sport
+ http://38.99.146.36:7777/JordanSport_HD.m3u8
  #EXTINF:-1,Al Nahar Sport
  http://38.99.146.36:7777/AlNaharSport_HD.m3u8
- 
-
- 
- 
- 
- #EXTINF:-1,Saudia Sport
+  #EXTINF:-1,Saudia Sport
  http://38.99.146.36:7777/AlRiyadiah1_HD.m3u8
- #EXTINF:-1,Al Sabah
- http://38.99.146.36:7777/AlSabah_HD.m3u8
- #EXTINF:-1,Alsaeedah
- http://38.99.146.36:7777/AlSaeeda_HD.m3u8
- #EXTINF:-1,Al sahraa
- http://38.99.146.36:7777/AlSahraa_HD.m3u8
- #EXTINF:-1,Al Shaab
- http://38.99.146.36:7777/AlShaab_HD.m3u8
- #EXTINF:-1,Al Sharqiya
- http://38.99.146.36:7777/AlSharqiya_HD.m3u8
- 
- 
- 
- 
- 
- #EXTINF:-1,Al Thakafiyah
- http://38.99.146.36:7777/AlThakafiyah_HD.m3u8
- 
- 
- #EXTINF:-1,ANB
- http://38.99.146.36:7777/ANB_HD.m3u8
- #EXTINF:-1,ANN
- http://38.99.146.36:7777/ANN_HD.m3u8
- 
- 
- 
-
- 
- 
- 
- 
+ #EXTINF:-1,Alkass
+ http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
+#EXTINF:-1,AL AHLY
+ http://38.99.146.36:7777/AlAhlyTV_HD.m3u8
+#EXTINF:-1,LineSport
+ http://38.99.146.36:7777/LineSport_HD.m3u8
+#EXTINF:-1,BAHRAIN SPORTS
+ http://38.99.146.36:7777/BahrainSport_HD.m3u8
  #EXTINF:-1,beINSports
  http://38.99.146.36:7777/beINSports_HD.m3u8
  #EXTINF:-1,BEIN US
  http://38.99.146.36:7777/beINSportsNews_HD.m3u8
+ #EXTINF:-1,Neelain Sport
+ http://38.99.146.36:7777/NeelainSport_HD.m3u8
+#EXTINF:-1,Nile Sport
+ http://38.99.146.36:7777/NileSport_HD.m3u8
  
-
  
  
  
- #EXTINF:-1,HodHod
- http://38.99.146.36:7777/HodHod_HD.m3u8
  
  
  
@@ -503,21 +476,9 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  
  #EXTINF:-1,CCTV Arabic
  http://38.99.146.36:7777/CCTVArabia_HD.m3u8
- 
- 
- 
- #EXTINF:-1,Nart
- http://38.99.146.36:7777/Nart_HD.m3u8
- 
- #EXTINF:-1,Neelain Sport
- http://38.99.146.36:7777/NeelainSport_HD.m3u8
- 
- 
- 
  #EXTINF:-1,Nile News
  http://38.99.146.36:7777/NileNews_HD.m3u8
- #EXTINF:-1,Nile Sport
- http://38.99.146.36:7777/NileSport_HD.m3u8
+ 
  
  
  
@@ -525,17 +486,16 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/NourAlShabab_HD.m3u8
  #EXTINF:-1,Syria Nour
  http://38.99.146.36:7777/NourElSham_HD.m3u8
- 
- #EXTINF:-1,Noursat
- http://38.99.146.36:7777/Noursat_HD.m3u8
- #EXTINF:-1,Oman
- http://38.99.146.36:7777/Oman_HD.m3u8
- #EXTINF:-1,Om Durman
- http://38.99.146.36:7777/OmDurman_HD.m3u8
- 
- 
- #EXTINF:-1,ORTM
- http://38.99.146.36:7777/ORTM_HD.m3u8
+ #EXTINF:-1,Syria Drama
+ http://38.99.146.36:7777/SyriaDrama_HD.m3u8
+ #EXTINF:-1,Syria Sedu
+ http://38.99.146.36:7777/SyrianEducation_HD.m3u8
+ #EXTINF:-1,Syria
+ http://38.99.146.36:7777/SyriaSat_HD.m3u8
+ #EXTINF:-1,AssyrSat
+ http://38.99.146.36:7777/AssyrSat_HD.m3u8
+ #EXTINF:-1,Syria Talaqie
+ http://38.99.146.36:7777/Talaqi_HD.m3u8
  
  
  #EXTINF:-1,Palestine AlYawm
@@ -560,12 +520,13 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/Wanasah_HD.m3u8
  #EXTINF:-1,Yemen
  http://38.99.146.36:7777/Yemen_HD.m3u8
+#EXTINF:-1,Aden
+ http://38.99.146.36:7777/Aden_HD.m3u8
  #EXTINF:-1,Zee Aflam
  http://38.99.146.36:7777/ZeeAflam_HD.m3u8
  #EXTINF:-1,Zee Alwan
  http://38.99.146.36:7777/ZeeAlwan_HD.m3u8
- #EXTINF:-1,Zweina Bladna
- http://38.99.146.36:7777/ZweinaBaladna_HD.m3u8
+ 
  
  
  #EXTINF:-1,SNTV
@@ -579,20 +540,12 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/SSTV_HD.m3u8
  #EXTINF:-1,Huda
  http://38.99.146.36:7777/Huda_HD.m3u8
+#EXTINF:-1,Om Durman
+ http://38.99.146.36:7777/OmDurman_HD.m3u8
  #EXTINF:-1,Sudan TV
  http://38.99.146.36:7777/Sudan_HD.m3u8
- #EXTINF:-1,Syria Drama
- http://38.99.146.36:7777/SyriaDrama_HD.m3u8
- #EXTINF:-1,Syria Sedu
- http://38.99.146.36:7777/SyrianEducation_HD.m3u8
- #EXTINF:-1,Syria
- http://38.99.146.36:7777/SyriaSat_HD.m3u8
- #EXTINF:-1,AssyrSat
- http://38.99.146.36:7777/AssyrSat_HD.m3u8
- #EXTINF:-1,Syria Talaqie
- http://38.99.146.36:7777/Talaqi_HD.m3u8
- #EXTINF:-1,Tele Liban
- http://38.99.146.36:7777/TeleLiban_HD.m3u8
+ 
+ 
  #EXTINF:-1,Algeria 3
  http://38.99.146.36:7777/Thalitha_HD.m3u8
  #EXTINF:-1,AlGeria
