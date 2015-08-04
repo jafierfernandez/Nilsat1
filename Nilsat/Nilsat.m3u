@@ -627,150 +627,157 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
 
 
 
+#EXTINF:-1 tvg-id="0045" group-title="Deutsch" tvg-logo="0045.png",[COLOR orange]Super RTL[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0046" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKA HD[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/kikahd_1@97423/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0043" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nickelodeon[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0048" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
+http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
 
 
-#EXTINF:-1 tvg-id="0001" group-title="Deutsch" tvg-logo="0001.png",[COLOR orange]Das Erste[/COLOR]
-http://pebbles112-lh.akamaihd.net/i/daserste_1@97481/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0001" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]Das Erste HD[/COLOR]
-http://pebbles104-lh.akamaihd.net/i/daserstehd_1@97395/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0003" group-title="Deutsch" tvg-logo="0003.png",[COLOR orange]ZDF[/COLOR]
-http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0003" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
-http://pebbles108-lh.akamaihd.net/i/zdfhd_1@97431/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0005" group-title="Deutsch" tvg-logo="0005.png",[COLOR orange]RTL[/COLOR]
-http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0007" group-title="Deutsch" tvg-logo="0007.png",[COLOR orangered]ProSieben HD[/COLOR]
+http://pebbles119-lh.akamaihd.net/i/pro7chhd_1@135262/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0009" group-title="Deutsch" tvg-logo="0009.png",[COLOR orange]RTL II[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0005" group-title="Deutsch" tvg-logo="0005.png",[COLOR orangered]RTL HD[/COLOR]
 http://pebbles118-lh.akamaihd.net/i/rtlchhd_1@135257/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0006" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1[/COLOR]
 http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0006" group-title="Deutsch" tvg-logo="0006.png",[COLOR orangered]Sat.1 HD[/COLOR]
-http://s155.embed-tv.com/nvnv5a/1038/index.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0007" group-title="Deutsch" tvg-logo="0007.png",[COLOR orange]ProSieben[/COLOR]
-http://pebbles106-lh.akamaihd.net/i/prosieben_1@97456/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0007" group-title="Deutsch" tvg-logo="0007.png",[COLOR orangered]ProSieben HD[/COLOR]
-http://pebbles119-lh.akamaihd.net/i/pro7chhd_1@135262/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0008" group-title="Deutsch" tvg-logo="0008.png",[COLOR orange]kabel eins[/COLOR]
-http://pebbles105-lh.akamaihd.net/i/kabeleins_1@97453/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0008" group-title="Deutsch" tvg-logo="0008.png",[COLOR orangered]kabel eins HD[/COLOR]
-http://s155.embed-tv.com/nvnv5a/1039/index.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0009" group-title="Deutsch" tvg-logo="0009.png",[COLOR orange]RTL II[/COLOR]
-http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0009" group-title="Deutsch" tvg-logo="0009.png",[COLOR orangered]RTL II HD[/COLOR]
-http://s155.embed-tv.com/nvnv5a/1024/index.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0010" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX[/COLOR]
 http://pebbles108-lh.akamaihd.net/i/vox_1@97466/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0010" group-title="Deutsch" tvg-logo="0010.png",[COLOR orangered]VOX HD[/COLOR]
-http://s155.embed-tv.com/nvnv5a/1021/index.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0011" group-title="Deutsch" tvg-logo="0011.png",[COLOR orange]arte[/COLOR]
-http://pebbles107-lh.akamaihd.net/i/artede_1@97463/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0008" group-title="Deutsch" tvg-logo="0008.png",[COLOR orange]kabel eins[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/kabeleins_1@97453/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0041" group-title="Deutsch" tvg-logo="0041.png",[COLOR orange]TELE 5[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/tele5_1@97465/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0051" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]ProSieben Maxx[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/pro7maxx_1@97522/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0070" group-title="Deutsch" tvg-logo="0071.png",[COLOR orangered]ORF eins HD[/COLOR]
+http://pebbles101-lh.akamaihd.net/i/orf1hd_1@97416/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0072" group-title="Deutsch" tvg-logo="0073.png",[COLOR orangered]ORF 2 HD[/COLOR]
+http://pebbles101-lh.akamaihd.net/i/orf2hd_1@97417/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0096" group-title="Deutsch" tvg-logo="0096.png",[COLOR gold]ORF III[/COLOR]
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:-1 tvg-id="0075" group-title="Deutsch" tvg-logo="0076.png",[COLOR orangered]SRF 1 HD[/COLOR]
+http://pebbles106-lh.akamaihd.net/i/sf1hd_1@97426/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0077" group-title="Deutsch" tvg-logo="0078.png",[COLOR orangered]SRF zwei HD[/COLOR]
+http://pebbles106-lh.akamaihd.net/i/sf2hd_1@97427/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0079" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/sfinfo_1@97408/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0080" group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]3plus[/COLOR]
+http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0127" group-title="Deutsch" tvg-logo="0127.png",[COLOR orangered]4plus HD[/COLOR]
+http://s155.embed-tv.com/nvnv5a/1031/index.m3u8|X-Forwarded-For=81.17.18.50
+
+
+
+
+
+#EXTINF:-1 tvg-id="0001" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]Das Erste HD[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/daserstehd_1@97395/master.m3u8|X-Forwarded-For=81.17.18.50
+
+
+#EXTINF:-1 tvg-id="0003" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/zdfhd_1@97431/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0011" group-title="Deutsch" tvg-logo="0012.png",[COLOR orangered]arte HD[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/artedehd_1@97394/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0013" group-title="Deutsch" tvg-logo="0013.png",[COLOR orange]3sat[/COLOR]
-http://pebbles112-lh.akamaihd.net/i/3sat_1@97480/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0013" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/3sathd_1@97393/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0106" group-title="Deutsch" tvg-logo="0106.png",[COLOR gold]NDR Hamburg[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0106" group-title="Deutsch" tvg-logo="0107.png",[COLOR orangered]NDR Hamburg HD[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0108" group-title="Deutsch" tvg-logo="0108.png",[COLOR gold]NDR Meck.-Vorp.[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0108" group-title="Deutsch" tvg-logo="0109.png",[COLOR orangered]NDR Meck.-Vorp. HD[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0110" group-title="Deutsch" tvg-logo="0110.png",[COLOR gold]NDR Niedersachsen[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0110" group-title="Deutsch" tvg-logo="0111.png",[COLOR orangered]NDR Niedersachsen HD[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0112" group-title="Deutsch" tvg-logo="0112.png",[COLOR gold]NDR Schleswig-Hol.[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0112" group-title="Deutsch" tvg-logo="0113.png",[COLOR orangered]NDR Schleswig-Hol. HD[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0017" group-title="Deutsch" tvg-logo="0017.png",[COLOR orange]WDR[/COLOR]
-http://pebbles114-lh.akamaihd.net/i/wdr_1@97490/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0017" group-title="Deutsch" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR]
-http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0116" group-title="Deutsch" tvg-logo="0116.png",[COLOR gold]MDR Sachsenanhalt[/COLOR]
-http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0117" group-title="Deutsch" tvg-logo="0117.png",[COLOR gold]MDR Sachsen[/COLOR]
-http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0118" group-title="Deutsch" tvg-logo="0118.png",[COLOR gold]MDR Thüringen[/COLOR]
-http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0020" group-title="Deutsch" tvg-logo="0020.png",[COLOR orangered]MDR HD[/COLOR]
-http://pebbles127-lh.akamaihd.net/i/mdrhd_1@180319/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0021" group-title="Deutsch" tvg-logo="0021.png",[COLOR orange]BR[/COLOR]
-http://pebbles107-lh.akamaihd.net/i/br3_1@97517/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0021" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0015.png",[COLOR orange]Der SR[/COLOR]
-http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0023.png",[COLOR orange]SWR[/COLOR]
-http://pebbles113-lh.akamaihd.net/i/swr_1@97485/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0024.png",[COLOR orangered]SWR HD[/COLOR]
-http://pebbles107-lh.akamaihd.net/i/swrhd_1@97429/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0025" group-title="Deutsch" tvg-logo="0025.png",[COLOR orange]HR[/COLOR]
-http://pebbles123-lh.akamaihd.net/i/hr_1@137778/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0025" group-title="Deutsch" tvg-logo="0026.png",[COLOR orangered]HR HD[/COLOR]
-http://pebbles113-lh.akamaihd.net/i/hr_hd_1@97447/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0027" group-title="Deutsch" tvg-logo="0027.png",[COLOR orange]RBB[/COLOR]
-http://pebbles106-lh.akamaihd.net/i/rbb_1@97457/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0027" group-title="Deutsch" tvg-logo="0028.png",[COLOR orangered]RBB HD[/COLOR]
-http://pebbles114-lh.akamaihd.net/i/rbb_hd_1@97449/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0029" group-title="Deutsch" tvg-logo="0029.png",[COLOR orange]Phoenix[/COLOR]
-http://pebbles111-lh.akamaihd.net/i/phoenix_1@97476/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0029" group-title="Deutsch" tvg-logo="0030.png",[COLOR orangered]Phoenix HD[/COLOR]
-http://pebbles107-lh.akamaihd.net/i/phoenixhd_1@97428/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0031" group-title="Deutsch" tvg-logo="0031.png",[COLOR orange]ARD Alpha[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/bralpha_1@137776/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0032" group-title="Deutsch" tvg-logo="0032.png",[COLOR orange]N24[/COLOR]
-http://pebbles104-lh.akamaihd.net/i/n24_1@97406/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0053" group-title="Deutsch" tvg-logo="0054.png",[COLOR orangered]ZDFneo HD[/COLOR]
+http://pebbles109-lh.akamaihd.net/i/zdfneohd_1@97434/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0055" group-title="Deutsch" tvg-logo="0056.png",[COLOR orangered]ZDFkultur HD[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/zdfkulturhd_1@97433/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0057" group-title="Deutsch" tvg-logo="0058.png",[COLOR orangered]ZDFinfo HD[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/zdfinfohd_1@97432/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0059" group-title="Deutsch" tvg-logo="0060.png",[COLOR orangered]eins|plus HD[/COLOR]
+http://pebbles113-lh.akamaihd.net/i/einsplus_hd_1@97446/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0061" group-title="Deutsch" tvg-logo="0062.png",[COLOR orangered]eins.festival HD[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/einsfestivalhd_1@97422/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0063" group-title="Deutsch" tvg-logo="0064.png",[COLOR orangered]tagesschau24 HD[/COLOR]
+http://pebbles114-lh.akamaihd.net/i/tagesschau24_hd_1@97450/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0029" group-title="Deutsch" tvg-logo="0030.png",[COLOR orangered]Phoenix HD[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/phoenixhd_1@97428/master.m3u8|X-Forwarded-For=81.17.18.50
+
+
 #EXTINF:-1 tvg-id="0032" group-title="Deutsch" tvg-logo="0033.png",[COLOR orangered]N24 HD[/COLOR]
 http://pebbles109-lh.akamaihd.net/i/n24hd_1@97436/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0034" group-title="Deutsch" tvg-logo="0034.png",[COLOR orange]n-tv[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/ntv_1@97405/master.m3u8|X-Forwarded-For=81.17.18.50
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="0106" group-title="Deutsch" tvg-logo="0107.png",[COLOR orangered]NDR Hamburg HD[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8|X-Forwarded-For=78.43.32.8
+
+#EXTINF:-1 tvg-id="0017" group-title="Deutsch" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR]
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0020" group-title="Deutsch" tvg-logo="0020.png",[COLOR orangered]MDR HD[/COLOR]
+http://pebbles127-lh.akamaihd.net/i/mdrhd_1@180319/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0021" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0015.png",[COLOR orange]Der SR[/COLOR]
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?|X-Forwarded-For=78.43.32.8
+
+#EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0024.png",[COLOR orangered]SWR HD[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/swrhd_1@97429/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0025" group-title="Deutsch" tvg-logo="0026.png",[COLOR orangered]HR HD[/COLOR]
+http://pebbles113-lh.akamaihd.net/i/hr_hd_1@97447/master.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1 tvg-id="0027" group-title="Deutsch" tvg-logo="0028.png",[COLOR orangered]RBB HD[/COLOR]
+http://pebbles114-lh.akamaihd.net/i/rbb_hd_1@97449/master.m3u8|X-Forwarded-For=81.17.18.50
+
+
+
+
 #EXTINF:-1 tvg-id="0035" group-title="Deutsch" tvg-logo="0035.png",[COLOR orange]euronews[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/euronewsde_1@137774/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0036" group-title="Deutsch" tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0037" group-title="Deutsch" tvg-logo="0037.png",[COLOR orange]Sixx[/COLOR]
-http://pebbles107-lh.akamaihd.net/i/sixx_1@97462/master.m3u8|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="0037" group-title="Deutsch" tvg-logo="0037.png",[COLOR orangered]Sixx HD[/COLOR]
 http://s155.embed-tv.com/nvnv5a/1040/index.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0122" group-title="Deutsch" tvg-logo="0122.png",[COLOR gold]ServusTV DE[/COLOR]
-http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8|X-Forwarded-For=78.43.32.8
+
 #EXTINF:-1 tvg-id="0122" group-title="Deutsch" tvg-logo="0123.png",[COLOR orangered]ServusTV DE HD[/COLOR]
 http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="0040" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL NITRO[/COLOR]
 http://pebbles106-lh.akamaihd.net/i/rtlnitro_1@97458/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0040" group-title="Deutsch" tvg-logo="0040.png",[COLOR orangered]RTL NITRO HD[/COLOR]
-http://s155.embed-tv.com/nvnv5a/1027/index.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0041" group-title="Deutsch" tvg-logo="0041.png",[COLOR orange]TELE 5[/COLOR]
-http://pebbles108-lh.akamaihd.net/i/tele5_1@97465/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0120" group-title="Deutsch" tvg-logo="0120.png",[COLOR gold]JOIZ DE[/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8|X-Forwarded-For=78.43.32.8
+
+
+
 #EXTINF:-1 tvg-id="0120" group-title="Deutsch" tvg-logo="0120.png",[COLOR orangered]JOIZ DE HD[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0043" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nickelodeon[/COLOR]
-http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="0044" group-title="Deutsch" tvg-logo="0044.png",[COLOR orange]Viva/Comedy Central[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/viva_1@97493/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0045" group-title="Deutsch" tvg-logo="0045.png",[COLOR orange]Super RTL[/COLOR]
-http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0045" group-title="Deutsch" tvg-logo="0045.png",[COLOR orangered]Super RTL HD[/COLOR]
-http://s155.embed-tv.com/nvnv5a/1023/index.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0046" group-title="Deutsch" tvg-logo="0046.png",[COLOR orange]KiKA[/COLOR]
-http://pebbles113-lh.akamaihd.net/i/kika_1@97487/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0046" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKA HD[/COLOR]
-http://pebbles105-lh.akamaihd.net/i/kikahd_1@97423/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0048" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
-http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="0049" group-title="Deutsch" tvg-logo="0049.png",[COLOR orange]Eurosport[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0050" group-title="Deutsch" tvg-logo="0050.png",[COLOR orange]SPORT1[/COLOR]
-http://pebbles108-lh.akamaihd.net/i/sport1_1@97464/master.m3u8|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="0050" group-title="Deutsch" tvg-logo="0050.png",[COLOR orangered]SPORT1 HD[/COLOR]
 http://sport1-24x7-free-lh.streaming.sport1.de/i/24x7_SPORT1_FREE_1@324937/master.m3u8|X-Forwarded-For=92.122.51.27|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
-#EXTINF:-1 tvg-id="0051" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]ProSieben Maxx[/COLOR]
-http://pebbles107-lh.akamaihd.net/i/pro7maxx_1@97522/master.m3u8|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="0052" group-title="Deutsch" tvg-logo="0052.png",[COLOR orange]DMAX[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0124" group-title="Deutsch" tvg-logo="0124.png",[COLOR orange]münchen.tv[/COLOR]
@@ -783,34 +790,11 @@ http://83.169.58.38:1935/live/Stream3/playlist.m3u8|X-Forwarded-For=78.43.32.8
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/master.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="0104" group-title="Deutsch" tvg-logo="0104.png",[COLOR orangered]NRW TV HD[/COLOR]
 http://streaming001.broadcast.tneg.de:1935/nrwtv/_definst_/nrwtv.stream/playlist.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0053" group-title="Deutsch" tvg-logo="0053.png",[COLOR orange]ZDFneo[/COLOR]
-http://pebbles111-lh.akamaihd.net/i/zdfneo_1@97479/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0053" group-title="Deutsch" tvg-logo="0054.png",[COLOR orangered]ZDFneo HD[/COLOR]
-http://pebbles109-lh.akamaihd.net/i/zdfneohd_1@97434/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0055" group-title="Deutsch" tvg-logo="0055.png",[COLOR orange]ZDFkultur[/COLOR]
-http://pebbles111-lh.akamaihd.net/i/zdfkultur_1@97478/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0055" group-title="Deutsch" tvg-logo="0056.png",[COLOR orangered]ZDFkultur HD[/COLOR]
-http://pebbles108-lh.akamaihd.net/i/zdfkulturhd_1@97433/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0057" group-title="Deutsch" tvg-logo="0057.png",[COLOR orange]ZDFinfo[/COLOR]
-http://pebbles111-lh.akamaihd.net/i/zdfinfo_1@97477/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0057" group-title="Deutsch" tvg-logo="0058.png",[COLOR orangered]ZDFinfo HD[/COLOR]
-http://pebbles108-lh.akamaihd.net/i/zdfinfohd_1@97432/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0059" group-title="Deutsch" tvg-logo="0059.png",[COLOR orange]eins|plus[/COLOR]
-http://pebbles123-lh.akamaihd.net/i/einsplus_1@137775/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0059" group-title="Deutsch" tvg-logo="0060.png",[COLOR orangered]eins|plus HD[/COLOR]
-http://pebbles113-lh.akamaihd.net/i/einsplus_hd_1@97446/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0061" group-title="Deutsch" tvg-logo="0061.png",[COLOR orange]eins.festival[/COLOR]
-http://pebbles112-lh.akamaihd.net/i/einsfestival_1@97482/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0061" group-title="Deutsch" tvg-logo="0062.png",[COLOR orangered]eins.festival HD[/COLOR]
-http://pebbles105-lh.akamaihd.net/i/einsfestivalhd_1@97422/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0063" group-title="Deutsch" tvg-logo="0063.png",[COLOR orange]tagesschau24[/COLOR]
-http://pebbles123-lh.akamaihd.net/i/tagesschau24_1@137781/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0063" group-title="Deutsch" tvg-logo="0064.png",[COLOR orangered]tagesschau24 HD[/COLOR]
-http://pebbles114-lh.akamaihd.net/i/tagesschau24_hd_1@97450/master.m3u8|X-Forwarded-For=81.17.18.50
+
+
 #EXTINF:-1 tvg-id="0065" group-title="Deutsch" tvg-logo="0065.png",[COLOR orange]Deluxe Music[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/deluxemusic_1@137777/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0066" group-title="Deutsch" tvg-logo="0066.png",[COLOR orange]Anixe[/COLOR]
-http://pebbles113-lh.akamaihd.net/i/anixe_1@97486/master.m3u8|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="0066" group-title="Deutsch" tvg-logo="0067.png",[COLOR orangered]Anixe HD[/COLOR]
 http://pebbles111-lh.akamaihd.net/i/anixehd_1@97440/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0125" group-title="Deutsch" tvg-logo="0125.png",[COLOR gold]Deutsche Welle[/COLOR]
@@ -823,48 +807,24 @@ rtmp://fms.daf.tmt.de:1935/live/ playpath=dafstream100 swfUrl=http://partner.anl
 http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/playlist.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="0069" group-title="Deutsch" tvg-logo="0069.png",[COLOR orange]k-tv[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/ktv_1@97400/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0105" group-title="Deutsch" tvg-logo="0105.png",[COLOR gold]Bibel TV[/COLOR]
-http://mf.bibeltv.c.nmdn.net/bibeltv_live/BIBEL_TV_HQ-480p.stream/chunklist.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="0070" group-title="Deutsch" tvg-logo="0070.png",[COLOR orange]ORF eins[/COLOR]
-http://pebbles113-lh.akamaihd.net/i/orf1_1@97573/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0070" group-title="Deutsch" tvg-logo="0071.png",[COLOR orangered]ORF eins HD[/COLOR]
-http://pebbles101-lh.akamaihd.net/i/orf1hd_1@97416/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0072" group-title="Deutsch" tvg-logo="0072.png",[COLOR orange]ORF 2[/COLOR]
-http://pebbles113-lh.akamaihd.net/i/orf2_1@97574/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0072" group-title="Deutsch" tvg-logo="0073.png",[COLOR orangered]ORF 2 HD[/COLOR]
-http://pebbles101-lh.akamaihd.net/i/orf2hd_1@97417/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0096" group-title="Deutsch" tvg-logo="0096.png",[COLOR gold]ORF III[/COLOR]
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=84.114.88.26
+
+
+
 #EXTINF:-1 tvg-id="0097" group-title="Deutsch" tvg-logo="0097.png",[COLOR gold]ORF Sport+[/COLOR]
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=84.114.88.26
 #EXTINF:-1 tvg-id="0074" group-title="Deutsch" tvg-logo="0074.png",[COLOR orange]ATV[/COLOR]
 http://pebbles114-lh.akamaihd.net/i/atv_1@97491/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0126" group-title="Deutsch" tvg-logo="0126.png",[COLOR orange]gotv Music[/COLOR]
 http://stream1.gotv.at:1935/live/gotvlive_source/playlist.m3u8|X-Forwarded-For=84.114.88.26
-#EXTINF:-1 tvg-id="0075" group-title="Deutsch" tvg-logo="0075.png",[COLOR orange]SRF 1[/COLOR]
-http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0075" group-title="Deutsch" tvg-logo="0076.png",[COLOR orangered]SRF 1 HD[/COLOR]
-http://pebbles106-lh.akamaihd.net/i/sf1hd_1@97426/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0077" group-title="Deutsch" tvg-logo="0077.png",[COLOR orange]SRF zwei[/COLOR]
-http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0077" group-title="Deutsch" tvg-logo="0078.png",[COLOR orangered]SRF zwei HD[/COLOR]
-http://pebbles106-lh.akamaihd.net/i/sf2hd_1@97427/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0079" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
-http://pebbles104-lh.akamaihd.net/i/sfinfo_1@97408/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0080" group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]3plus[/COLOR]
-http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0080" group-title="Deutsch" tvg-logo="0080.png",[COLOR orangered]3plus HD[/COLOR]
-http://s155.embed-tv.com/nvnv5a/1013/index.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0127" group-title="Deutsch" tvg-logo="0127.png",[COLOR orangered]4plus HD[/COLOR]
-http://s155.embed-tv.com/nvnv5a/1031/index.m3u8|X-Forwarded-For=81.17.18.50
+
+
 #EXTINF:-1 tvg-id="0042" group-title="Deutsch" tvg-logo="0042.png",[COLOR orange]JOIZ CH[/COLOR]
 http://pebbles118-lh.akamaihd.net/i/joiz_1@135266/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0081" group-title="Deutsch" tvg-logo="0081.png",[COLOR orangered]S1 HD[/COLOR]
 http://pebbles117-lh.akamaihd.net/i/s1tvhd_1@135250/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0082" group-title="Deutsch" tvg-logo="0082.png",[COLOR orangered]TV24 HD[/COLOR]
 http://pebbles128-lh.akamaihd.net/i/tv24_hd_1@180322/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0083" group-title="Deutsch" tvg-logo="0083.png",[COLOR orange]Tele Züri[/COLOR]
-http://pebbles119-lh.akamaihd.net/i/tzurich_1@135275/master.m3u8|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="0083" group-title="Deutsch" tvg-logo="0084.png",[COLOR orangered]Tele Züri HD[/COLOR]
 http://pebbles128-lh.akamaihd.net/i/tzurich_hd_1@180321/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0085" group-title="Deutsch" tvg-logo="0085.png",[COLOR orange]Tele Bärn[/COLOR]
@@ -889,12 +849,17 @@ http://pebbles119-lh.akamaihd.net/i/ttzh_1@135271/master.m3u8|X-Forwarded-For=81
 http://pebbles118-lh.akamaihd.net/i/tm1o_1@135268/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0094" group-title="Deutsch" tvg-logo="0095.png",[COLOR orange]Tele M1 West[/COLOR]
 http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0201" group-title="Français" tvg-logo="0201.png",[COLOR orange]TF1[/COLOR]
-http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/master.m3u8|X-Forwarded-For=81.17.18.51
+
+
+
+
+#EXTINF:-1 tvg-id="0208" group-title="Français" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
+http://pebbles100-lh.akamaihd.net/i/m6hd_1@97421/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0233" group-title="Français" tvg-logo="0233.png",[COLOR orangered]RTL 9 HD[/COLOR]
+http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0201" group-title="Français" tvg-logo="0202.png",[COLOR orangered]TF1 HD[/COLOR]
 http://pebbles102-lh.akamaihd.net/i/tf1hd_1@97413/master.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1 tvg-id="0203" group-title="Français" tvg-logo="0203.png",[COLOR orange]France 2[/COLOR]
-http://pebbles101-lh.akamaihd.net/i/france2_1@97347/master.m3u8|X-Forwarded-For=81.17.18.51
+
 #EXTINF:-1 tvg-id="0203" group-title="Français" tvg-logo="0204.png",[COLOR orangered]France 2 HD[/COLOR]
 http://pebbles100-lh.akamaihd.net/i/france2hd_1@97420/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0205" group-title="Français" tvg-logo="0205.png",[COLOR orange]France 3[/COLOR]
@@ -905,20 +870,15 @@ http://pebbles100-lh.akamaihd.net/i/france4_1@97330/master.m3u8|X-Forwarded-For=
 http://pebbles102-lh.akamaihd.net/i/france5_1@97351/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0206" group-title="Français" tvg-logo="0206.png",[COLOR orange]Canal+[/COLOR]
 http://pebbles101-lh.akamaihd.net/i/canalplus_1@97337/master.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1 tvg-id="0208" group-title="Français" tvg-logo="0208.png",[COLOR orange]M6[/COLOR]
-http://pebbles108-lh.akamaihd.net/i/m6_1@97467/master.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1 tvg-id="0208" group-title="Français" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
-http://pebbles100-lh.akamaihd.net/i/m6hd_1@97421/master.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1 tvg-id="0210" group-title="Français" tvg-logo="0210.png",[COLOR orange]RTS Un[/COLOR]
-http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/master.m3u8|X-Forwarded-For=81.17.18.51
+
+
+
 #EXTINF:-1 tvg-id="0210" group-title="Français" tvg-logo="0211.png",[COLOR orangered]RTS Un HD[/COLOR]
 http://pebbles126-lh.akamaihd.net/i/rts1hd_1@114347/master.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1 tvg-id="0212" group-title="Français" tvg-logo="0212.png",[COLOR orange]RTS Deux[/COLOR]
-http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/master.m3u8|X-Forwarded-For=81.17.18.51
+
 #EXTINF:-1 tvg-id="0212" group-title="Français" tvg-logo="0213.png",[COLOR orangered]RTS Deux HD[/COLOR]
 http://pebbles102-lh.akamaihd.net/i/rts2hd_1@97415/master.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1 tvg-id="0214" group-title="Français" tvg-logo="0214.png",[COLOR orange]arte[/COLOR]
-http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/master.m3u8|X-Forwarded-For=81.17.18.51
+
 #EXTINF:-1 tvg-id="0214" group-title="Français" tvg-logo="0215.png",[COLOR orangered]arte HD[/COLOR]
 http://pebbles100-lh.akamaihd.net/i/artefrhd_1@97419/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0216" group-title="Français" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
@@ -955,8 +915,8 @@ http://pebbles112-lh.akamaihd.net/i/n23hd_1@97444/master.m3u8|X-Forwarded-For=81
 http://pebbles112-lh.akamaihd.net/i/rmchd_1@97445/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0232" group-title="Français" tvg-logo="0232.png",[COLOR orangered]Chérie 25 HD[/COLOR]
 http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For=81.17.18.51
-#EXTINF:-1 tvg-id="0233" group-title="Français" tvg-logo="0233.png",[COLOR orangered]RTL 9 HD[/COLOR]
-http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/master.m3u8|X-Forwarded-For=81.17.18.51
+
+
 #EXTINF:-1 tvg-id="0234" group-title="Français" tvg-logo="0234.png",[COLOR orange]TV5MONDE[/COLOR]
 http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0236" group-title="Français" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
