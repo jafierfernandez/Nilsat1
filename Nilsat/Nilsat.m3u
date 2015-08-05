@@ -106,6 +106,8 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
  #EXTINF:-1,MBC Max
  http://38.99.146.36:7777/MBCMax_HD.m3u8
+#EXTINF:0,ES: FOX Life
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5439.m3u8
 #EXTINF:-1,Rotana Aflam
  http://38.99.146.36:7777/RotanaAflam_HD.m3u8
  #EXTINF:-1,Rotana Cinema
@@ -670,18 +672,10 @@ http://pebbles106-lh.akamaihd.net/i/sf2hd_1@97427/master.m3u8|X-Forwarded-For=81
 http://pebbles104-lh.akamaihd.net/i/sfinfo_1@97408/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0080" group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]3plus[/COLOR]
 http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0127" group-title="Deutsch" tvg-logo="0127.png",[COLOR orangered]4plus HD[/COLOR]
 http://s155.embed-tv.com/nvnv5a/1031/index.m3u8|X-Forwarded-For=81.17.18.50
-
-
-
-
-
 #EXTINF:-1 tvg-id="0001" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]Das Erste HD[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/daserstehd_1@97395/master.m3u8|X-Forwarded-For=81.17.18.50
-
-
 #EXTINF:-1 tvg-id="0003" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
 http://pebbles108-lh.akamaihd.net/i/zdfhd_1@97431/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0011" group-title="Deutsch" tvg-logo="0012.png",[COLOR orangered]arte HD[/COLOR]
@@ -692,92 +686,56 @@ http://pebbles104-lh.akamaihd.net/i/3sathd_1@97393/master.m3u8|X-Forwarded-For=8
 http://pebbles123-lh.akamaihd.net/i/bralpha_1@137776/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0053" group-title="Deutsch" tvg-logo="0054.png",[COLOR orangered]ZDFneo HD[/COLOR]
 http://pebbles109-lh.akamaihd.net/i/zdfneohd_1@97434/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0055" group-title="Deutsch" tvg-logo="0056.png",[COLOR orangered]ZDFkultur HD[/COLOR]
 http://pebbles108-lh.akamaihd.net/i/zdfkulturhd_1@97433/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0057" group-title="Deutsch" tvg-logo="0058.png",[COLOR orangered]ZDFinfo HD[/COLOR]
 http://pebbles108-lh.akamaihd.net/i/zdfinfohd_1@97432/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0059" group-title="Deutsch" tvg-logo="0060.png",[COLOR orangered]eins|plus HD[/COLOR]
 http://pebbles113-lh.akamaihd.net/i/einsplus_hd_1@97446/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0061" group-title="Deutsch" tvg-logo="0062.png",[COLOR orangered]eins.festival HD[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/einsfestivalhd_1@97422/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0063" group-title="Deutsch" tvg-logo="0064.png",[COLOR orangered]tagesschau24 HD[/COLOR]
 http://pebbles114-lh.akamaihd.net/i/tagesschau24_hd_1@97450/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0029" group-title="Deutsch" tvg-logo="0030.png",[COLOR orangered]Phoenix HD[/COLOR]
 http://pebbles107-lh.akamaihd.net/i/phoenixhd_1@97428/master.m3u8|X-Forwarded-For=81.17.18.50
-
-
 #EXTINF:-1 tvg-id="0032" group-title="Deutsch" tvg-logo="0033.png",[COLOR orangered]N24 HD[/COLOR]
 http://pebbles109-lh.akamaihd.net/i/n24hd_1@97436/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0034" group-title="Deutsch" tvg-logo="0034.png",[COLOR orange]n-tv[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/ntv_1@97405/master.m3u8|X-Forwarded-For=81.17.18.50
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="0106" group-title="Deutsch" tvg-logo="0107.png",[COLOR orangered]NDR Hamburg HD[/COLOR]
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8|X-Forwarded-For=78.43.32.8
-
 #EXTINF:-1 tvg-id="0017" group-title="Deutsch" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR]
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0020" group-title="Deutsch" tvg-logo="0020.png",[COLOR orangered]MDR HD[/COLOR]
 http://pebbles127-lh.akamaihd.net/i/mdrhd_1@180319/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0021" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0015.png",[COLOR orange]Der SR[/COLOR]
 http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?|X-Forwarded-For=78.43.32.8
-
 #EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0024.png",[COLOR orangered]SWR HD[/COLOR]
 http://pebbles107-lh.akamaihd.net/i/swrhd_1@97429/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0025" group-title="Deutsch" tvg-logo="0026.png",[COLOR orangered]HR HD[/COLOR]
 http://pebbles113-lh.akamaihd.net/i/hr_hd_1@97447/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0027" group-title="Deutsch" tvg-logo="0028.png",[COLOR orangered]RBB HD[/COLOR]
 http://pebbles114-lh.akamaihd.net/i/rbb_hd_1@97449/master.m3u8|X-Forwarded-For=81.17.18.50
-
-
-
-
 #EXTINF:-1 tvg-id="0035" group-title="Deutsch" tvg-logo="0035.png",[COLOR orange]euronews[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/euronewsde_1@137774/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0036" group-title="Deutsch" tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0037" group-title="Deutsch" tvg-logo="0037.png",[COLOR orangered]Sixx HD[/COLOR]
 http://s155.embed-tv.com/nvnv5a/1040/index.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0122" group-title="Deutsch" tvg-logo="0123.png",[COLOR orangered]ServusTV DE HD[/COLOR]
 http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="0040" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL NITRO[/COLOR]
 http://pebbles106-lh.akamaihd.net/i/rtlnitro_1@97458/master.m3u8|X-Forwarded-For=81.17.18.50
-
-
-
 #EXTINF:-1 tvg-id="0120" group-title="Deutsch" tvg-logo="0120.png",[COLOR orangered]JOIZ DE HD[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8|X-Forwarded-For=78.43.32.8
-
 #EXTINF:-1 tvg-id="0044" group-title="Deutsch" tvg-logo="0044.png",[COLOR orange]Viva/Comedy Central[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/viva_1@97493/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0049" group-title="Deutsch" tvg-logo="0049.png",[COLOR orange]Eurosport[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0050" group-title="Deutsch" tvg-logo="0050.png",[COLOR orangered]SPORT1 HD[/COLOR]
 http://sport1-24x7-free-lh.streaming.sport1.de/i/24x7_SPORT1_FREE_1@324937/master.m3u8|X-Forwarded-For=92.122.51.27|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
-
 #EXTINF:-1 tvg-id="0052" group-title="Deutsch" tvg-logo="0052.png",[COLOR orange]DMAX[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0124" group-title="Deutsch" tvg-logo="0124.png",[COLOR orange]münchen.tv[/COLOR]
@@ -790,11 +748,8 @@ http://83.169.58.38:1935/live/Stream3/playlist.m3u8|X-Forwarded-For=78.43.32.8
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/master.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="0104" group-title="Deutsch" tvg-logo="0104.png",[COLOR orangered]NRW TV HD[/COLOR]
 http://streaming001.broadcast.tneg.de:1935/nrwtv/_definst_/nrwtv.stream/playlist.m3u8|X-Forwarded-For=78.43.32.8
-
-
 #EXTINF:-1 tvg-id="0065" group-title="Deutsch" tvg-logo="0065.png",[COLOR orange]Deluxe Music[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/deluxemusic_1@137777/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0066" group-title="Deutsch" tvg-logo="0067.png",[COLOR orangered]Anixe HD[/COLOR]
 http://pebbles111-lh.akamaihd.net/i/anixehd_1@97440/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0125" group-title="Deutsch" tvg-logo="0125.png",[COLOR gold]Deutsche Welle[/COLOR]
@@ -807,24 +762,18 @@ rtmp://fms.daf.tmt.de:1935/live/ playpath=dafstream100 swfUrl=http://partner.anl
 http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/playlist.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="0069" group-title="Deutsch" tvg-logo="0069.png",[COLOR orange]k-tv[/COLOR]
 http://pebbles104-lh.akamaihd.net/i/ktv_1@97400/master.m3u8|X-Forwarded-For=81.17.18.50
-
-
-
 #EXTINF:-1 tvg-id="0097" group-title="Deutsch" tvg-logo="0097.png",[COLOR gold]ORF Sport+[/COLOR]
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=84.114.88.26
 #EXTINF:-1 tvg-id="0074" group-title="Deutsch" tvg-logo="0074.png",[COLOR orange]ATV[/COLOR]
 http://pebbles114-lh.akamaihd.net/i/atv_1@97491/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0126" group-title="Deutsch" tvg-logo="0126.png",[COLOR orange]gotv Music[/COLOR]
 http://stream1.gotv.at:1935/live/gotvlive_source/playlist.m3u8|X-Forwarded-For=84.114.88.26
-
-
 #EXTINF:-1 tvg-id="0042" group-title="Deutsch" tvg-logo="0042.png",[COLOR orange]JOIZ CH[/COLOR]
 http://pebbles118-lh.akamaihd.net/i/joiz_1@135266/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0081" group-title="Deutsch" tvg-logo="0081.png",[COLOR orangered]S1 HD[/COLOR]
 http://pebbles117-lh.akamaihd.net/i/s1tvhd_1@135250/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0082" group-title="Deutsch" tvg-logo="0082.png",[COLOR orangered]TV24 HD[/COLOR]
 http://pebbles128-lh.akamaihd.net/i/tv24_hd_1@180322/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0083" group-title="Deutsch" tvg-logo="0084.png",[COLOR orangered]Tele Züri HD[/COLOR]
 http://pebbles128-lh.akamaihd.net/i/tzurich_hd_1@180321/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0085" group-title="Deutsch" tvg-logo="0085.png",[COLOR orange]Tele Bärn[/COLOR]
@@ -859,7 +808,6 @@ http://pebbles100-lh.akamaihd.net/i/m6hd_1@97421/master.m3u8|X-Forwarded-For=81.
 http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0201" group-title="Français" tvg-logo="0202.png",[COLOR orangered]TF1 HD[/COLOR]
 http://pebbles102-lh.akamaihd.net/i/tf1hd_1@97413/master.m3u8|X-Forwarded-For=81.17.18.51
-
 #EXTINF:-1 tvg-id="0203" group-title="Français" tvg-logo="0204.png",[COLOR orangered]France 2 HD[/COLOR]
 http://pebbles100-lh.akamaihd.net/i/france2hd_1@97420/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0205" group-title="Français" tvg-logo="0205.png",[COLOR orange]France 3[/COLOR]
@@ -870,15 +818,10 @@ http://pebbles100-lh.akamaihd.net/i/france4_1@97330/master.m3u8|X-Forwarded-For=
 http://pebbles102-lh.akamaihd.net/i/france5_1@97351/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0206" group-title="Français" tvg-logo="0206.png",[COLOR orange]Canal+[/COLOR]
 http://pebbles101-lh.akamaihd.net/i/canalplus_1@97337/master.m3u8|X-Forwarded-For=81.17.18.51
-
-
-
 #EXTINF:-1 tvg-id="0210" group-title="Français" tvg-logo="0211.png",[COLOR orangered]RTS Un HD[/COLOR]
 http://pebbles126-lh.akamaihd.net/i/rts1hd_1@114347/master.m3u8|X-Forwarded-For=81.17.18.51
-
 #EXTINF:-1 tvg-id="0212" group-title="Français" tvg-logo="0213.png",[COLOR orangered]RTS Deux HD[/COLOR]
 http://pebbles102-lh.akamaihd.net/i/rts2hd_1@97415/master.m3u8|X-Forwarded-For=81.17.18.51
-
 #EXTINF:-1 tvg-id="0214" group-title="Français" tvg-logo="0215.png",[COLOR orangered]arte HD[/COLOR]
 http://pebbles100-lh.akamaihd.net/i/artefrhd_1@97419/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0216" group-title="Français" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
@@ -915,8 +858,6 @@ http://pebbles112-lh.akamaihd.net/i/n23hd_1@97444/master.m3u8|X-Forwarded-For=81
 http://pebbles112-lh.akamaihd.net/i/rmchd_1@97445/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0232" group-title="Français" tvg-logo="0232.png",[COLOR orangered]Chérie 25 HD[/COLOR]
 http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For=81.17.18.51
-
-
 #EXTINF:-1 tvg-id="0234" group-title="Français" tvg-logo="0234.png",[COLOR orange]TV5MONDE[/COLOR]
 http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0236" group-title="Français" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
@@ -943,6 +884,85 @@ http://pebbles121-lh.akamaihd.net/i/lemanbleu_1@137757/master.m3u8|X-Forwarded-F
 http://pebbles117-lh.akamaihd.net/i/caju_1@135253/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0247" group-title="Français" tvg-logo="0247.png",[COLOR orange]canal alpha NE[/COLOR]
 http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81.17.18.51
+
+
+
+
+#EXTINF:0 group-title="Español",Canal DCine
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5461.m3u8
+#EXTINF:0 group-title="Español",Canal Comedia
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5462.m3u8
+#EXTINF:0 group-title="Español",Canal Accion
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5463.m3u8
+#EXTINF:0 group-title="Español",Canal 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5467.m3u8
+#EXTINF:0 group-title="Español",Canal 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5464.m3u8
+#EXTINF:0 group-title="Español",FOX
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5442.m3u8
+#EXTINF:0 group-title="Español",Syfy
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5417.m3u8
+#EXTINF:0 group-title="Español",AXN White
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5470.m3u8
+#EXTINF:0 group-title="Español",AXN
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5471.m3u8
+#EXTINF:0 group-title="Español",TVE 24
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5410.m3u8
+#EXTINF:0 group-title="Español",Antenna 3
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5472.m3u8
+#EXTINF:0 group-title="Español",Andalucia
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5473.m3u8
+#EXTINF:0 group-title="Español",A & E
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5474.m3u8
+#EXTINF:0 group-title="Español",TVE 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5411.m3u8
+#EXTINF:0 group-title="Español",Teledeporte
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5414.m3u8
+#EXTINF:0 group-title="Español",Telecinco
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5415.m3u8
+
+#EXTINF:0 group-title="Español",Real Madrid Channel
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5420.m3u8
+#EXTINF:0 group-title="Español",NAT GEO WILD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5476.m3u8
+#EXTINF:0 group-title="Español",Latino
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5428.m3u8
+#EXTINF:0 group-title="Español",Fox Sport 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5436.m3u8
+#EXTINF:0 group-title="Español",Fox Sport
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5437.m3u8
+#EXTINF:0 group-title="Español",Canal DEPORTES
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5465.m3u8
+
+#EXTINF:0 group-title="Español",Eurosport 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5445.m3u8
+#EXTINF:0 group-title="Español",Disney Channel
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5446.m3u8
+#EXTINF:0 group-title="Español",Discovery MAX
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5447.m3u8
+#EXTINF:0 group-title="Español",Discovery
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5448.m3u8
+#EXTINF:0 group-title="Español",Canal Xtra
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5455.m3u8
+#EXTINF:0 group-title="Español",Canal COSINA
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5456.m3u8
+#EXTINF:0 group-title="Español",Canal Liga
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5457.m3u8
+#EXTINF:0 group-title="Español",Canal Golf
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5458.m3u8
+#EXTINF:0 group-title="Español",Canal Futbol
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5459.m3u8
+#EXTINF:0 group-title="Español",Canal Decasa
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5460.m3u8
+
+#EXTINF:0 group-title="Español",Canal Deportes
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5468.m3u8
+#EXTINF:0 group-title="Español",Calle 13
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5469.m3u8
+#EXTINF:0 group-title="Español",Barca TV
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5466.m3u8
+
+
 
 
 
