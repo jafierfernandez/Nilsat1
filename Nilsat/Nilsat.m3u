@@ -648,7 +648,7 @@ http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/master.m3u8|X-Forwarded-For=81.
 http://pebbles118-lh.akamaihd.net/i/rtlchhd_1@135257/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0006" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1[/COLOR]
 http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0010" group-title="Deutsch",[COLOR orange]VOX[/COLOR]
+#EXTINF:-1 group-title="Deutsch",[COLOR orange]VOX[/COLOR]
 http://pebbles108-lh.akamaihd.net/i/vox_1@97466/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0008" group-title="Deutsch" tvg-logo="0008.png",[COLOR orange]kabel eins[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/kabeleins_1@97453/master.m3u8|X-Forwarded-For=81.17.18.50
