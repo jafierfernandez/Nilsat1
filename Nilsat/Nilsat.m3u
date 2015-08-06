@@ -629,13 +629,13 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5439.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0045" group-title="Deutsch" tvg-logo="0045.png",[COLOR orange]Super RTL[/COLOR]
+#EXTINF:-1 tvg-id="0045" group-title="Deutsch",[COLOR orange]Super RTL[/COLOR]
 http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0046" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKA HD[/COLOR]
+#EXTINF:-1 tvg-id="0046" group-title="Deutsch",[COLOR orangered]KiKA HD[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/kikahd_1@97423/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0043" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nickelodeon[/COLOR]
+#EXTINF:-1 tvg-id="0043" group-title="Deutsch",[COLOR orange]Nickelodeon[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0048" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
+#EXTINF:-1 tvg-id="0048" group-title="Deutsch",[COLOR orange]RIC[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
 
 
@@ -648,7 +648,7 @@ http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/master.m3u8|X-Forwarded-For=81.
 http://pebbles118-lh.akamaihd.net/i/rtlchhd_1@135257/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0006" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1[/COLOR]
 http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0010" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX[/COLOR]
+#EXTINF:-1 tvg-id="0010" group-title="Deutsch",[COLOR orange]VOX[/COLOR]
 http://pebbles108-lh.akamaihd.net/i/vox_1@97466/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0008" group-title="Deutsch" tvg-logo="0008.png",[COLOR orange]kabel eins[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/kabeleins_1@97453/master.m3u8|X-Forwarded-For=81.17.18.50
