@@ -7,11 +7,11 @@
 
 #EXTINF:-1 group-title="Arabic",2M
  http://38.99.146.36:7777/M2Morocco_HD.m3u8
-#EXTINF:-1 group-title="Arabic",Medi 1 Sat
+#EXTINF:-1 group-title="Arabic",Medi 1 
  http://38.99.146.36:7777/Medi1_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Tamazigh Maroc
  http://38.99.146.36:7777/Tamazight_HD.m3u8
-#EXTINF:-1 group-title="Arabic",Al oula Maroc
+#EXTINF:-1 group-title="Arabic",Al Oula Maroc
  http://38.99.146.36:7777/AlAoulaEurope_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Al Maghribia
  http://38.99.146.36:7777/AlMaghribia_HD.m3u8
@@ -22,7 +22,8 @@
  #EXTINF:-1 group-title="Arabic",Assadissa
  http://38.99.146.36:7777/Assadissa_HD.m3u8
 
-
+#EXTINF:-1,Taha
+ http://38.99.146.36:7777/Taha_HD.m3u8
 #EXTINF:-1,Aljazeera Children
  http://38.99.146.36:7777/AlJazeeraKid_HD.m3u8
 #EXTINF:-1,Baraem
@@ -68,8 +69,6 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/AlEkhbariya_HD.m3u8
 #EXTINF:-1,AlJazeera
  http://38.99.146.36:7777/AlJazeera_HD.m3u8
-#EXTINF:-1,Aljazeera Mubasher Masr
- http://38.99.146.36:7777/JSCLiveMisr_HD.m3u8
  #EXTINF:-1,Aljazeera Mubasher
  http://38.99.146.36:7777/AlJazeeraLive_HD.m3u8
  #EXTINF:-1,Aljazeera Doc
@@ -106,7 +105,7 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
  http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
  #EXTINF:-1,MBC Max
  http://38.99.146.36:7777/MBCMax_HD.m3u8
-#EXTINF:0,ES: FOX Life
+#EXTINF:0,FOX Life
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5439.m3u8
 #EXTINF:-1,Rotana Aflam
  http://38.99.146.36:7777/RotanaAflam_HD.m3u8
@@ -144,10 +143,10 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5439.m3u8
  http://38.99.146.36:7777/NileInt_HD.m3u8
  #EXTINF:-1,Nile Life
  http://38.99.146.36:7777/NileLife_HD.m3u8
-#EXTINF:-1,Alhayat2
- http://38.99.146.36:7777/Alhayat2_HD.m3u8
 #EXTINF:-1,Alhayat 1
  http://38.99.146.36:7777/Hayat_HD.m3u8
+#EXTINF:-1,Alhayat 2
+ http://38.99.146.36:7777/Alhayat2_HD.m3u8
  #EXTINF:-1,Al Amaken Drama
  http://38.99.146.36:7777/AlAmakenDrama_HD.m3u8
 #EXTINF:-1,Cima
@@ -348,9 +347,7 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5439.m3u8
  #EXTINF:-1,ANN
  http://38.99.146.36:7777/ANN_HD.m3u8
  
- 
- #EXTINF:-1,Mehwar
- http://38.99.146.36:7777/MehwarPlus2_HD.m3u8
+
  #EXTINF:-1,ETV1
  http://38.99.146.36:7777/ETV1_HD.m3u8
  #EXTINF:-1,Euro News Arabic
@@ -620,12 +617,11 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5439.m3u8
  http://38.99.146.36:7777/Alquds_HD.m3u8
 #EXTINF:-1,Alaqsa
  http://38.99.146.36:7777/AqsaSatCh_HD.m3u8
- #EXTINF:-1,Quran TV ksa
+ #EXTINF:-1,Quran TV
  http://38.99.146.36:7777/AlQuran_HD.m3u8
 #EXTINF:-1,Tayba
  http://38.99.146.36:7777/Tayba_HD.m3u8
-#EXTINF:-1,Taha
- http://38.99.146.36:7777/Taha_HD.m3u8
+
 
 
 
