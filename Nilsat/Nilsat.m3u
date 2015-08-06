@@ -940,8 +940,68 @@ http://pebbles106-lh.akamaihd.net/i/skynews_1@97511/master.m3u8|X-Forwarded-For=
 
 
 
-
-
+#EXTINF:0 group-title="Italiano",Premium Cinema
+ http://109.202.195.76:5013
+ #EXTINF:0 group-title="Italiano",Premium Cinema 2
+ http://109.202.195.76:5014
+ #EXTINF:0 group-title="Italiano",Cinema HD
+ http://212.51.148.162:2010/hdmi
+ #EXTINF:0 group-title="Italiano",Cinema HD
+ http://212.51.148.162:2011/hdmi
+ #EXTINF:0 group-title="Italiano",Cinema Comedy HD
+http://212.51.148.162:2012/hdmi
+#EXTINF:0 group-title="Italiano",SKY Cinema Max
+ http://212.51.146.19:4003
+#EXTINF:0 group-title="Italiano",SKY Cinema 1
+ http://212.51.156.151:3012
+ #EXTINF:0 group-title="Italiano",SKY Cinema Family
+ http://109.202.195.76:5005
+#EXTINF:0 group-title="Italiano",Cinema Passion HD
+ http://212.51.148.162:2007/hdmi
+ #EXTINF:0 group-title="Italiano",Cinema Classics
+ http://212.51.156.151:3007
+ #EXTINF:0 group-title="Italiano",SKY Cinema Hits
+ http://212.51.146.19:4002
+ #EXTINF:0 group-title="Italiano",FOX
+ http://212.51.146.19:4008
+ #EXTINF:0 group-title="Italiano",Fox Crime
+ http://212.51.156.151:3008
+ #EXTINF:0 group-title="Italiano",Cult
+ http://109.202.195.76:5006
+ #EXTINF:0 group-title="Italiano",AXN
+ http://212.51.156.151:3009
+ #EXTINF:0 group-title="Italiano",Sky TG 24 Meteo
+ http://212.51.146.19:4006
+ #EXTINF:0 group-title="Italiano",Nat Geographic
+ http://212.51.146.19:4001
+ #EXTINF:0 group-title="Italiano",Gambero-rosso
+ http://212.51.146.19:4005
+ #EXTINF:0 group-title="Italiano",Nat Geo Wild
+ http://109.202.195.76:5004
+ #EXTINF:0 group-title="Italiano",Discovery Channel
+ http://109.202.195.76:5002
+ #EXTINF:0 group-title="Italiano",Disney Channel
+ http://109.202.195.76:5000
+ #EXTINF:0 group-title="Italiano",Premium Sport
+ http://212.51.146.19:4009
+ #EXTINF:0 group-title="Italiano",Sky Atlantic HD
+ http://212.51.148.162:2000/hdmi
+ #EXTINF:0 group-title="Italiano",Sky Supercalcio HD
+ http://212.51.148.162:2001/hdmi
+ #EXTINF:0 group-title="Italiano",Sky Uno HD
+ http://212.51.148.162:2002/hdmi
+ #EXTINF:0 group-title="Italiano",Sky Sport HD
+ http://212.51.148.162:2003/hdmi
+ #EXTINF:0 group-title="Italiano",Sky Arte HD
+ http://212.51.148.162:2004/hdmi
+ #EXTINF:0 group-title="Italiano",Sky Sport HD
+ http://212.51.148.162:2005/hdmi
+ #EXTINF:0 group-title="Italiano",RSI LA 2
+ http://212.51.148.162:2008/hdmi
+ #EXTINF:0 group-title="Italiano",RSI LA 1
+ http://212.51.148.162:2009/hdmi
+#EXTINF:0 group-title="Italiano",Fox Animation HD
+ http://212.51.156.151:3014
 #EXTINF:-1 tvg-id="0601" group-title="Italiano" tvg-logo="0602.png",[COLOR orangered]RSI LA 1 HD[/COLOR]
 http://pebbles103-lh.akamaihd.net/i/rsila1hd_1@97410/master.m3u8|X-Forwarded-For=81.17.18.53
 #EXTINF:-1 tvg-id="0603" group-title="Italiano" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
