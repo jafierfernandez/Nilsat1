@@ -658,14 +658,12 @@ http://pebbles108-lh.akamaihd.net/i/tele5_1@97465/master.m3u8|X-Forwarded-For=81
 http://pebbles107-lh.akamaihd.net/i/pro7maxx_1@97522/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0070" group-title="Deutsch" tvg-logo="0071.png",[COLOR orangered]ORF eins HD[/COLOR]
 http://pebbles101-lh.akamaihd.net/i/orf1hd_1@97416/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0072" group-title="Deutsch" tvg-logo="0073.png",[COLOR orangered]ORF 2 HD[/COLOR]
 http://pebbles101-lh.akamaihd.net/i/orf2hd_1@97417/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0096" group-title="Deutsch" tvg-logo="0096.png",[COLOR gold]ORF III[/COLOR]
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=84.114.88.26
 #EXTINF:-1 tvg-id="0075" group-title="Deutsch" tvg-logo="0076.png",[COLOR orangered]SRF 1 HD[/COLOR]
 http://pebbles106-lh.akamaihd.net/i/sf1hd_1@97426/master.m3u8|X-Forwarded-For=81.17.18.50
-
 #EXTINF:-1 tvg-id="0077" group-title="Deutsch" tvg-logo="0078.png",[COLOR orangered]SRF zwei HD[/COLOR]
 http://pebbles106-lh.akamaihd.net/i/sf2hd_1@97427/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0079" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
@@ -888,24 +886,16 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
-http://pebbles109-lh.akamaihd.net/i/bbc1_1@97471/master.m3u8|X-Forwarded-For=81.17.18.52
+
 #EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
 http://pebbles103-lh.akamaihd.net/i/bbc1hd_1@97412/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
-http://pebbles124-lh.akamaihd.net/i/bbc2_1@137786/master.m3u8|X-Forwarded-For=81.17.18.52
 #EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
 http://pebbles109-lh.akamaihd.net/i/bbc2hd_1@97435/master.m3u8|X-Forwarded-For=81.17.18.52
 #EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
 http://pebbles113-lh.akamaihd.net/i/bbc3_1@97575/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three HD[/COLOR]
-http://pebbles126-lh.akamaihd.net/i/bbc3_hd_1@180212/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four[/COLOR]
-http://pebbles123-lh.akamaihd.net/i/bbc4_1@137784/master.m3u8|X-Forwarded-For=81.17.18.52
+
 #EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
 http://pebbles126-lh.akamaihd.net/i/bbc4_hd_1@180211/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
-http://pebbles124-lh.akamaihd.net/i/itv1_1@137791/master.m3u8|X-Forwarded-For=81.17.18.52
 #EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
 http://pebbles111-lh.akamaihd.net/i/itvhd_1@97442/master.m3u8|X-Forwarded-For=81.17.18.52
 #EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
@@ -944,10 +934,6 @@ http://pebbles124-lh.akamaihd.net/i/bloomberg_1@137785/master.m3u8|X-Forwarded-F
 http://pebbles124-lh.akamaihd.net/i/cnbc_1@137788/master.m3u8|X-Forwarded-For=81.17.18.52
 #EXTINF:-1 tvg-id="0428" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
 http://pebbles124-lh.akamaihd.net/i/nhkw_1@137796/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0429.png",[COLOR orange]Russia Today [EN][/COLOR]
-http://pebbles125-lh.akamaihd.net/i/russia_1@137797/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0429" group-title="English" tvg-logo="0431.png",[COLOR orangered]Russia Today HD [EN][/COLOR]
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="0430" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
 http://pebbles106-lh.akamaihd.net/i/skynews_1@97511/master.m3u8|X-Forwarded-For=81.17.18.52
 
@@ -955,12 +941,9 @@ http://pebbles106-lh.akamaihd.net/i/skynews_1@97511/master.m3u8|X-Forwarded-For=
 
 
 
-#EXTINF:-1 tvg-id="0601" group-title="Italiano" tvg-logo="0601.png",[COLOR orange]RSI LA 1[/COLOR]
-http://pebbles110-lh.akamaihd.net/i/rsila1_1@97472/master.m3u8|X-Forwarded-For=81.17.18.53
+
 #EXTINF:-1 tvg-id="0601" group-title="Italiano" tvg-logo="0602.png",[COLOR orangered]RSI LA 1 HD[/COLOR]
 http://pebbles103-lh.akamaihd.net/i/rsila1hd_1@97410/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0603" group-title="Italiano" tvg-logo="0603.png",[COLOR orange]RSI LA 2[/COLOR]
-http://pebbles110-lh.akamaihd.net/i/rsila2_1@97473/master.m3u8|X-Forwarded-For=81.17.18.53
 #EXTINF:-1 tvg-id="0603" group-title="Italiano" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
 http://pebbles103-lh.akamaihd.net/i/rsila2hd_1@97411/master.m3u8|X-Forwarded-For=81.17.18.53
 #EXTINF:-1 tvg-id="0605" group-title="Italiano" tvg-logo="0605.png",[COLOR orange]Rai Uno[/COLOR]
@@ -1025,7 +1008,6 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5411.m3u8
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5414.m3u8
 #EXTINF:0 group-title="Español",Telecinco
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5415.m3u8
-
 #EXTINF:0 group-title="Español",Real Madrid Channel
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5420.m3u8
 #EXTINF:0 group-title="Español",NAT GEO WILD
@@ -1038,7 +1020,6 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5436.m3u8
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5437.m3u8
 #EXTINF:0 group-title="Español",Canal DEPORTES
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5465.m3u8
-
 #EXTINF:0 group-title="Español",Eurosport 2
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5445.m3u8
 #EXTINF:0 group-title="Español",Disney Channel
@@ -1059,7 +1040,6 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5458.m3u8
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5459.m3u8
 #EXTINF:0 group-title="Español",Canal Decasa
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5460.m3u8
-
 #EXTINF:0 group-title="Español",Canal Deportes
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5468.m3u8
 #EXTINF:0 group-title="Español",Calle 13
@@ -1068,20 +1048,13 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5469.m3u8
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5466.m3u8
 
 
-#EXTINF:-1 tvg-id="9001" group-title="Music" tvg-logo="9001.png",[COLOR gold]VEVO US/CA 1[/COLOR]
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/05/prog_index.m3u8|X-Forwarded-For=78.43.32.8
+
 #EXTINF:-1 tvg-id="9002" group-title="Music" tvg-logo="9002.png",[COLOR orangered]VEVO US/CA 1 HD[/COLOR]
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9003" group-title="Music" tvg-logo="9003.png",[COLOR gold]VEVO US/CA 2[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="9004" group-title="Music" tvg-logo="9004.png",[COLOR orangered]VEVO US/CA 2 HD[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9005" group-title="Music" tvg-logo="9005.png",[COLOR gold]VEVO US/CA 3[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="9006" group-title="Music" tvg-logo="9006.png",[COLOR orangered]VEVO US/CA 3 HD[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8|X-Forwarded-For=78.43.32.8
-#EXTINF:-1 tvg-id="9007" group-title="Music" tvg-logo="9007.png",[COLOR gold]VEVO DE[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8|X-Forwarded-For=78.43.32.8
 #EXTINF:-1 tvg-id="9008" group-title="Music" tvg-logo="9008.png",[COLOR orangered]VEVO DE HD[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8|X-Forwarded-For=78.43.32.8
 
