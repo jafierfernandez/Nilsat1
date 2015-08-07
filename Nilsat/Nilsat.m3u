@@ -625,17 +625,18 @@ http://portal.rapidiptv.com:8080/live/jojo/jojo/5439.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0045" group-title="Deutsch",[COLOR orange]Super RTL[/COLOR]
+#EXTINF:-1 tvg-id="0045" group-title="Deutsch" tvg-logo="0045.png",[COLOR orange]Super RTL[/COLOR]
 http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0046" group-title="Deutsch",[COLOR orangered]KiKA HD[/COLOR]
+#EXTINF:-1 tvg-id="0046" group-title="Deutsch" tvg-logo="0046.png",[COLOR orangered]KiKA HD[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/kikahd_1@97423/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0043" group-title="Deutsch",[COLOR orange]Nickelodeon[/COLOR]
+#EXTINF:-1 tvg-id="0043" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nickelodeon[/COLOR]
 http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0048" group-title="Deutsch",[COLOR orange]RIC[/COLOR]
+#EXTINF:-1 tvg-id="0048" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
 
 
-
+#EXTINF:0 group-title="Deutsch",Cinema HD
+ http://212.51.148.162:2011/hdmi
 #EXTINF:-1 tvg-id="0007" group-title="Deutsch" tvg-logo="0007.png",[COLOR orangered]ProSieben HD[/COLOR]
 http://pebbles119-lh.akamaihd.net/i/pro7chhd_1@135262/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0009" group-title="Deutsch" tvg-logo="0009.png",[COLOR orange]RTL II[/COLOR]
@@ -942,8 +943,7 @@ http://pebbles106-lh.akamaihd.net/i/skynews_1@97511/master.m3u8|X-Forwarded-For=
  http://109.202.195.76:5014
  #EXTINF:0 group-title="Italiano",Cinema HD
  http://212.51.148.162:2010/hdmi
- #EXTINF:0 group-title="Italiano",Cinema HD
- http://212.51.148.162:2011/hdmi
+ 
  #EXTINF:0 group-title="Italiano",Cinema Comedy HD
 http://212.51.148.162:2012/hdmi
 #EXTINF:0 group-title="Italiano",SKY Cinema Max
