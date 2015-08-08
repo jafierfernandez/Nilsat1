@@ -884,7 +884,7 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:0,CBS Action
+#EXTINF:0 group-title="English",CBS Action
 http://81.92.105.134:5555/pl.m3u8?channel=303
 #EXTINF:0 group-title="English",C MORE- First
  http://188.138.9.228:8024
@@ -892,16 +892,7 @@ http://81.92.105.134:5555/pl.m3u8?channel=303
  http://188.138.9.228:8025
  #EXTINF:0 group-title="English",C MORE- Action
  http://188.138.9.228:8035
-#EXTINF:0 group-title="English",ITV
- http://81.92.105.134:5555/pl.m3u8?channel=89
- #EXTINF:0 group-title="English",ITV2
- http://81.92.105.134:5555/pl.m3u8?channel=90
- #EXTINF:0 group-title="English",ITV3
- http://81.92.105.134:5555/pl.m3u8?channel=91
- #EXTINF:0 group-title="English",ITV4
- http://81.92.105.134:5555/pl.m3u8?channel=92
- #EXTINF:0 group-title="English",E4
- http://81.92.105.134:5555/pl.m3u8?channel=93
+
 #EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
 http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=81.17.18.52
 #EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
