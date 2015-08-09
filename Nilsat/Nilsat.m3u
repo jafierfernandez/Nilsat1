@@ -1041,6 +1041,25 @@ http://pebbles122-lh.akamaihd.net/i/la7_1@137762/master.m3u8|X-Forwarded-For=81.
 http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For=81.17.18.53
 
 
+
+
+
+#EXTINF:-1 group-title="Español",[000] Movistar+
+rtp://@239.0.0.77:8208
+#EXTINF:-1 group-title="Español",[001] La 1
+rtp://@239.0.0.76:8208
+#EXTINF:-1 group-title="Español",[002] La 2
+rtp://@239.0.0.2:8208
+#EXTINF:-1 group-title="Español",[003] Antena 3
+rtp://@239.0.0.3:8208
+#EXTINF:-1 group-title="Español",[004] Cuatro
+rtp://@239.0.0.4:8208
+#EXTINF:-1 group-title="Español",[005] Tele 5
+rtp://@239.0.0.5:8208
+#EXTINF:-1 group-title="Español",[006] LaSexta
+rtp://@239.0.0.58:8208
+#EXTINF:-1 group-title="Español",[007] Canal+
+rtp://@239.0.0.108:8208
 #EXTINF:0 group-title="Español",Canal DCine
 http://portal.rapidiptv.com:8080/live/jojo/jojo/5461.m3u8
 #EXTINF:0 group-title="Español",Canal Comedia
