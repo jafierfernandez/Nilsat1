@@ -634,10 +634,10 @@ http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=8
 #EXTINF:-1 tvg-id="0048" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
 
-EXTINF:-1 group-title="Deutsch",SkyDE Sport HD 2
+#EXTINF:-1 group-title="Deutsch",SkyDE Sport HD 2
 
 http://xtv.satarabia.com:80/live/testy1345/testy1345/497.ts
-#EXTINF:0 group-title="Deutsch",Cinema HD
+#EXTINF:-1 group-title="Deutsch",Cinema HD
  http://212.51.148.162:2011/hdmi
 #EXTINF:-1 tvg-id="0007" group-title="Deutsch" tvg-logo="0007.png",[COLOR orangered]ProSieben HD[/COLOR]
 http://pebbles119-lh.akamaihd.net/i/pro7chhd_1@135262/master.m3u8|X-Forwarded-For=81.17.18.50
@@ -887,88 +887,88 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:-1 group-title="English",IPTVSAGA: Crime Investigation +1 UK
+#EXTINF:-1 group-title="English",Crime Investigation +1 UK
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/141.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Premiere
+#EXTINF:-1 group-title="English",Sky Movies Premiere
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/56.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Premiere +1
+#EXTINF:-1 group-title="English",Sky Movies Premiere +1
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/57.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Select
+#EXTINF:-1 group-title="English",Sky Movies Select
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/53.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Comedy
+#EXTINF:-1 group-title="English",Sky Movies Comedy
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/51.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Greats
+#EXTINF:-1 group-title="English",Sky Movies Greats
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/60.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Action
+#EXTINF:-1 group-title="English",Sky Movies Action
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/185.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Family
+#EXTINF:-1 group-title="English",Sky Movies Family
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/55.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Thriller
+#EXTINF:-1 group-title="English",Sky Movies Thriller
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/58.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Dramarom
+#EXTINF:-1 group-title="English",Sky Movies Dramarom
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/59.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Scifi Horror
+#EXTINF:-1 group-title="English",Sky Movies Scifi Horror
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/52.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Movies 4 Men
+#EXTINF:-1 group-title="English",Movies 4 Men
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/72.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: RTE ONE
+#EXTINF:-1 group-title="English",RTE ONE
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/100.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: RTE TWO
+#EXTINF:-1 group-title="English",RTE TWO
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/104.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: sky1
+#EXTINF:-1 group-title="English",Sky1
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/136.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: sky2
+#EXTINF:-1 group-title="English",Sky2
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/137.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sky Atlantic HD
+#EXTINF:-1 group-title="English",Sky Atlantic HD
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/132.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Comedy Xtra
+#EXTINF:-1 group-title="English",Comedy Xtra
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/135.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: TG4
+#EXTINF:-1 group-title="English",TG4
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/101.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: TCM +1 UK
+#EXTINF:-1 group-title="English",TCM +1 UK
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/142.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: CBS Reality
+#EXTINF:-1 group-title="English",CBS Reality
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/143.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Horror Channel
+#EXTINF:-1 group-title="English",Horror Channel
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/143.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Sony Entertainment
+#EXTINF:-1 group-title="English",Sony Entertainment
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/113.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Cartoon Network +1 UK
+#EXTINF:-1 group-title="English",Cartoon Network +1 UK
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/192.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Disney Channel +1 UK
+#EXTINF:-1 group-title="English",Disney Channel +1 UK
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/107.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: RTEjr
+#EXTINF:-1 group-title="English",RTEjr
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/103.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
 
 
-#EXTINF:-1 group-title="English",IPTVSAGA: Discovery Channel
+#EXTINF:-1 group-title="English",Discovery Channel
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/63.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Discovery +1
+#EXTINF:-1 group-title="English",Discovery +1
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/65.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Discovery History
+#EXTINF:-1 group-title="English",Discovery History
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/67.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Discovery Turbo
+#EXTINF:-1 group-title="English",Discovery Turbo
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/68.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Discovery Science
+#EXTINF:-1 group-title="English",Discovery Science
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/66.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: ID
+#EXTINF:-1 group-title="English",ID
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/69.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Animal Planet
+#EXTINF:-1 group-title="English",Animal Planet
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/64.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: Travel Channel
+#EXTINF:-1 group-title="English",Travel Channel
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/140.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
 
-#EXTINF:-1 group-title="English",IPTVSAGA: MTV Dance
+#EXTINF:-1 group-title="English",MTV Dance
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/79.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: MTV Hits
+#EXTINF:-1 group-title="English",MTV Hits
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/75.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: MTV Base
+#EXTINF:-1 group-title="English",MTV Base
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/76.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: MTV Rocks
+#EXTINF:-1 group-title="English",MTV Rocks
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/74.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: VIVA
+#EXTINF:-1 group-title="English",VIVA
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/77.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",IPTVSAGA: VH1
+#EXTINF:-1 group-title="English",VH1
 http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/149.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
 #EXTINF:0 group-title="English",CBS Action
 http://81.92.105.134:5555/pl.m3u8?channel=303
