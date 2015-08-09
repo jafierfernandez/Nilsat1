@@ -634,7 +634,9 @@ http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=8
 #EXTINF:-1 tvg-id="0048" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
 
+EXTINF:-1 group-title="Deutsch",SkyDE Sport HD 2
 
+http://xtv.satarabia.com:80/live/testy1345/testy1345/497.ts
 #EXTINF:0 group-title="Deutsch",Cinema HD
  http://212.51.148.162:2011/hdmi
 #EXTINF:-1 tvg-id="0007" group-title="Deutsch" tvg-logo="0007.png",[COLOR orangered]ProSieben HD[/COLOR]
@@ -884,6 +886,90 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
+
+#EXTINF:-1 group-title="English",IPTVSAGA: Crime Investigation +1 UK
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/141.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Premiere
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/56.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Premiere +1
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/57.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Select
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/53.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Comedy
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/51.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Greats
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/60.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Action
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/185.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Family
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/55.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Thriller
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/58.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Dramarom
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/59.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Movies Scifi Horror
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/52.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Movies 4 Men
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/72.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: RTE ONE
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/100.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: RTE TWO
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/104.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: sky1
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/136.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: sky2
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/137.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sky Atlantic HD
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/132.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Comedy Xtra
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/135.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: TG4
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/101.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: TCM +1 UK
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/142.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: CBS Reality
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/143.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Horror Channel
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/143.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Sony Entertainment
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/113.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Cartoon Network +1 UK
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/192.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Disney Channel +1 UK
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/107.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: RTEjr
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/103.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+
+
+#EXTINF:-1 group-title="English",IPTVSAGA: Discovery Channel
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/63.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Discovery +1
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/65.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Discovery History
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/67.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Discovery Turbo
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/68.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Discovery Science
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/66.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: ID
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/69.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Animal Planet
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/64.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: Travel Channel
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/140.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+
+#EXTINF:-1 group-title="English",IPTVSAGA: MTV Dance
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/79.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: MTV Hits
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/75.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: MTV Base
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/76.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: MTV Rocks
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/74.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: VIVA
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/77.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 group-title="English",IPTVSAGA: VH1
+http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/149.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
 #EXTINF:0 group-title="English",CBS Action
 http://81.92.105.134:5555/pl.m3u8?channel=303
 #EXTINF:0 group-title="English",C MORE- First
@@ -1044,92 +1130,16 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
-#EXTINF:-1 group-title="Español",[000] Movistar+
-rtp://@239.0.0.77:8208
-#EXTINF:-1 group-title="Español",[001] La 1
-rtp://@239.0.0.76:8208
-#EXTINF:-1 group-title="Español",[002] La 2
-rtp://@239.0.0.2:8208
-#EXTINF:-1 group-title="Español",[003] Antena 3
-rtp://@239.0.0.3:8208
-#EXTINF:-1 group-title="Español",[004] Cuatro
-rtp://@239.0.0.4:8208
-#EXTINF:-1 group-title="Español",[005] Tele 5
-rtp://@239.0.0.5:8208
-#EXTINF:-1 group-title="Español",[006] LaSexta
-rtp://@239.0.0.58:8208
-#EXTINF:-1 group-title="Español",[007] Canal+
-rtp://@239.0.0.108:8208
-#EXTINF:0 group-title="Español",Canal DCine
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5461.m3u8
-#EXTINF:0 group-title="Español",Canal Comedia
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5462.m3u8
-#EXTINF:0 group-title="Español",Canal Accion
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5463.m3u8
-#EXTINF:0 group-title="Español",Canal 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5467.m3u8
-#EXTINF:0 group-title="Español",Canal 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5464.m3u8
-#EXTINF:0 group-title="Español",FOX
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5442.m3u8
-#EXTINF:0 group-title="Español",Syfy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5417.m3u8
-#EXTINF:0 group-title="Español",AXN White
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5470.m3u8
-#EXTINF:0 group-title="Español",AXN
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5471.m3u8
-#EXTINF:0 group-title="Español",TVE 24
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5410.m3u8
-#EXTINF:0 group-title="Español",Antenna 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5472.m3u8
-#EXTINF:0 group-title="Español",Andalucia
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5473.m3u8
-#EXTINF:0 group-title="Español",A & E
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5474.m3u8
-#EXTINF:0 group-title="Español",TVE 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5411.m3u8
-#EXTINF:0 group-title="Español",Teledeporte
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5414.m3u8
-#EXTINF:0 group-title="Español",Telecinco
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5415.m3u8
-#EXTINF:0 group-title="Español",Real Madrid Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5420.m3u8
-#EXTINF:0 group-title="Español",NAT GEO WILD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5476.m3u8
-#EXTINF:0 group-title="Español",Latino
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5428.m3u8
-#EXTINF:0 group-title="Español",Fox Sport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5436.m3u8
-#EXTINF:0 group-title="Español",Fox Sport
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5437.m3u8
-#EXTINF:0 group-title="Español",Canal DEPORTES
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5465.m3u8
-#EXTINF:0 group-title="Español",Eurosport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5445.m3u8
-#EXTINF:0 group-title="Español",Disney Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5446.m3u8
-#EXTINF:0 group-title="Español",Discovery MAX
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5447.m3u8
-#EXTINF:0 group-title="Español",Discovery
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5448.m3u8
-#EXTINF:0 group-title="Español",Canal Xtra
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5455.m3u8
-#EXTINF:0 group-title="Español",Canal COSINA
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5456.m3u8
-#EXTINF:0 group-title="Español",Canal Liga
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5457.m3u8
-#EXTINF:0 group-title="Español",Canal Golf
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5458.m3u8
-#EXTINF:0 group-title="Español",Canal Futbol
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5459.m3u8
-#EXTINF:0 group-title="Español",Canal Decasa
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5460.m3u8
-#EXTINF:0 group-title="Español",Canal Deportes
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5468.m3u8
-#EXTINF:0 group-title="Español",Calle 13
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5469.m3u8
-#EXTINF:0 group-title="Español",Barca TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5466.m3u8
+#EXTINF:-1 group-title="Español",Canal+ Liga
+
+http://xtv.satarabia.com:80/live/testy1345/testy1345/488.ts
+#EXTINF:-1 group-title="Español",ES: AXN White
+ http://portal.rapidiptv.com:8080/live/test1/italie/5470.m3u8
+ #EXTINF:-1 group-title="Español",ES: AXN
+ http://portal.rapidiptv.com:8080/live/test1/italie/5471.m3u8
+ #EXTINF:-1 group-title="Español",ES: Antenna 3
+ http://portal.rapidiptv.com:8080/live/test1/italie/5472.m3u8
+
 
 
 
@@ -1143,50 +1153,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8|X-F
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8|X-Forwarded-For=78.43.32.8
 
 
-#EXTINF:-1 tvg-id="0805" group-title="Türk" tvg-logo="0805.png",[COLOR orangered]TRT HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0801" group-title="Türk" tvg-logo="0801.png",[COLOR orangered]TRT1 HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0803" group-title="Türk" tvg-logo="0803.png",[COLOR orangered]TRT HABER HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0806" group-title="Türk" tvg-logo="0807.png",[COLOR orangered]TRT SPOR HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0808" group-title="Türk" tvg-logo="0809.png",[COLOR orange]TRT MÜZIK[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0810" group-title="Türk" tvg-logo="0811.png",[COLOR orange]TRT Çocuk[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0812" group-title="Türk" tvg-logo="0813.png",[COLOR orangered]TRT TÜRK HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0814" group-title="Türk" tvg-logo="0815.png",[COLOR orangered]Kanal D HD[/COLOR]
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0816" group-title="Türk" tvg-logo="0816.png",[COLOR orange]CNN Türk[/COLOR]
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0817" group-title="Türk" tvg-logo="0817.png",[COLOR orange]TV 2[/COLOR]
-http://bit.do/Tv2tv|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0817" group-title="Türk" tvg-logo="0817.png",[COLOR orange]TV 2 HD[/COLOR]
-http://31.186.24.232:8000/21|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0818" group-title="Türk" tvg-logo="0818.png",[COLOR orange]Dream TV[/COLOR]
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0819" group-title="Türk" tvg-logo="0819.png",[COLOR orange]Dreamtürk TV[/COLOR]
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0820" group-title="Türk" tvg-logo="0820.png",[COLOR orange]Taksim[/COLOR]
-http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0821" group-title="Türk" tvg-logo="0821.png",[COLOR orange]FOX TV[/COLOR]
-rtsp://foxtv-i.mncdn.com/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0822" group-title="Türk" tvg-logo="0822.png",[COLOR orange]STAR TV[/COLOR]
-http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0823" group-title="Türk" tvg-logo="0823.png",[COLOR orange]ATV[/COLOR]
-http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w2124135919_b256000.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0824" group-title="Türk" tvg-logo="0824.png",[COLOR orange]SHOW TV[/COLOR]
-http://bit.do/Showtv|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0825" group-title="Türk" tvg-logo="0825.png",[COLOR orangered]KANAL 7 HD[/COLOR]
-http://bit.do/kanal7hd|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0826" group-title="Türk" tvg-logo="0826.png",[COLOR orange]TV 8[/COLOR]
-http://yayin6.canlitv.com:1935/live/tv8/chunklist_w1348996191.m3u8|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0827" group-title="Türk" tvg-logo="0827.png",[COLOR orange]NTV[/COLOR]
-http://31.186.24.232:8000/2|X-Forwarded-For=82.222.61.111
-#EXTINF:-1 tvg-id="0828" group-title="Türk" tvg-logo="0828.png",[COLOR orange]NTV SPOR[/COLOR]
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8|X-Forwarded-For=82.222.61.111
+
 
 
 
