@@ -20,6 +20,9 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
 
 
+
+
+
 #EXTINF:0,MBC 1
 http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
 #EXTINF:0,MBC 2
@@ -124,6 +127,9 @@ http://89.248.171.141/ts60/ch1185/index.m3u8?v=1548652116
 http://89.248.171.141/ts60/ch1288/index.m3u8?v=1548652116
 #EXTINF:0,Abu Dhabi Drama
 http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116
+
+
+
 
 
 
@@ -723,15 +729,58 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
+#EXTINF:-1 group-title="Español",Tve 24h HD
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="Español",Canal+ Liga
 
 http://xtv.satarabia.com:80/live/testy1345/testy1345/488.ts
-#EXTINF:-1 group-title="Español",ES: AXN White
- http://portal.rapidiptv.com:8080/live/test1/italie/5470.m3u8
- #EXTINF:-1 group-title="Español",ES: AXN
- http://portal.rapidiptv.com:8080/live/test1/italie/5471.m3u8
- #EXTINF:-1 group-title="Español",ES: Antenna 3
- http://portal.rapidiptv.com:8080/live/test1/italie/5472.m3u8
+#EXTINF:-1 group-title="Español",Canal 12 Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Español",Ultra Cine HD
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:-1 group-title="Español",SYFY
+http://31.220.41.111/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",ISAT
+http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",MUNDO FOX
+http://31.220.41.111/LiveEdgeTesting/_definst_/MundoFoxSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",FOX LIFE
+http://31.220.41.111/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",TNT SERIES
+http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/chunklist_w1777499773_b1000000.m3u8?token=
+#EXTINF:-1 group-title="Español",CINELATINO
+http://31.220.41.111/LiveEdgeTesting/CineLatinoSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",SPACE
+http://31.220.41.111/LiveEdgeTesting/SpaceLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",CINECANAL
+http://31.220.41.111/LiveEdgeTesting/CineCanalLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",CINEMAX
+http://31.220.41.111/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",MAX
+http://31.220.41.111/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",MAX PRIME ESTE
+http://31.220.41.111/LiveEdgeTesting/MaxPrimeLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",MAX PRIME OESTE
+http://31.220.40.108/LiveEdgeTesting/MaxPrime2LASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",FOX 1
+http://31.220.41.111/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",FOX ACTION
+http://31.220.41.111/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",FOX MOVIES
+http://31.220.41.111/LiveEdgeTesting/FOXMoviesLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",FOX FAMILY
+http://31.220.41.111/LiveEdgeTesting/FOXFamilyLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",FOX CLASSICS
+http://31.220.41.102/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",FOX CINEMA
+http://31.220.40.108/LiveEdgeTesting/FoxCinemaSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",FOX COMEDY
+http://31.220.41.111/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",GOLDEN PREMIER 1
+http://31.220.40.108/LiveEdgeTesting/GoldenPremier1LA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Español",GOLDEN PREMIER 2
+http://31.220.41.103/LiveEdgeTesting/GoldenPremiere2LA/playlist.m3u8?token=
+
 
 
 
