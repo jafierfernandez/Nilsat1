@@ -25,107 +25,107 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_1_plus2.png"group-title="Arabic",MBC 1
 http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_2.png",MBC 2
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_2.png"group-title="Arabic",MBC 2
 http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_3_hd_plus3.png",MBC 3
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_3_hd_plus3.png"group-title="Arabic",MBC 3
 http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_4.png",MBC 4
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_4.png"group-title="Arabic",MBC 4
 http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_action.png",MBC Action
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_action.png"group-title="Arabic",MBC Action
 http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_bollywood.png" group-title="cable",MBC Bollywood
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_bollywood.png"group-title="cable",MBC Bollywood
 http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_drama.png",MBC Drama
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_drama.png"group-title="Arabic",MBC Drama
 http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_misr.png",MBC Masr
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_misr.png"group-title="Arabic",MBC Masr
 http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_max.png",MBC Max
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_max.png"group-title="Arabic",MBC Max
 http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
-#EXTINF:0,Cairo Drama
+#EXTINF:0 group-title="Arabic",Cairo Drama
 http://89.248.171.141/ts60/ch1022/index.m3u8?v=1548652116
-#EXTINF:0,CBC
+#EXTINF:0 group-title="Arabic",CBC
 http://89.248.171.141/ts60/ch1173/index.m3u8?v=1548652116
-#EXTINF:0,CBC Drama
+#EXTINF:0 group-title="Arabic",CBC Drama
 http://89.248.171.141/ts60/ch1172/index.m3u8?v=1548652116
-#EXTINF:0,Dream 1
+#EXTINF:0 group-title="Arabic",Dream 1
 http://89.248.171.141/ts60/ch1232/index.m3u8?v=1548652116
-#EXTINF:0,Dream 2
+#EXTINF:0 group-title="Arabic",Dream 2
 http://89.248.171.141/ts60/ch1230/index.m3u8?v=1548652116
-#EXTINF:0,El Hayah 1
+#EXTINF:0 group-title="Arabic",El Hayah 1
 http://89.248.171.141/ts60/ch1300/index.m3u8?v=1548652116
-#EXTINF:0,El Hayah 2
+#EXTINF:0 group-title="Arabic",El Hayah 2
 http://89.248.171.141/ts60/ch1270/index.m3u8?v=1548652116
-#EXTINF:0,El Masriah TV
+#EXTINF:0 group-title="Arabic",El Masriah TV
 http://89.248.171.141/ts60/ch1199/index.m3u8?v=1548652116
-#EXTINF:0,El Mehwar 1
+#EXTINF:0 group-title="Arabic",El Mehwar 1
 http://89.248.171.141/ts60/ch1215/index.m3u8?v=1548652116
-#EXTINF:0,El Nahar 1
+#EXTINF:0 group-title="Arabic",El Nahar 1
 http://89.248.171.141/ts60/ch1170/index.m3u8?v=1548652116
-#EXTINF:0,El Nahar 2
+#EXTINF:0 group-title="Arabic",El Nahar 2
 http://89.248.171.141/ts60/ch1162/index.m3u8?v=1548652116
-#EXTINF:0,El Nahar Drama +2
+#EXTINF:0 group-title="Arabic",El Nahar Drama +2
 http://89.248.171.141/ts60/ch1161/index.m3u8?v=1548652116
-#EXTINF:0,El Nahar Drama 1
+#EXTINF:0 group-title="Arabic",El Nahar Drama 1
 http://89.248.171.141/ts60/ch1171/index.m3u8?v=1548652116
-#EXTINF:0,El Qahera we El Nas
+#EXTINF:0 group-title="Arabic",El Qahera we El Nas
 http://89.248.171.141/ts60/ch1196/index.m3u8?v=1548652116
-#EXTINF:0,Abu Dhabi Drama
+#EXTINF:0 group-title="Arabic",Abu Dhabi Drama
 http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116
-#EXTINF:-1, Dubai TV
+#EXTINF:-1 group-title="Arabic", Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1, Dubai ONE
+#EXTINF:-1 group-title="Arabic", Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1, Noor DubaiTV
+#EXTINF:-1 group-title="Arabic", Noor DubaiTV
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1, Sama Dubai
+#EXTINF:-1 group-title="Arabic", Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:0,OTV Lebanon
+#EXTINF:0 group-title="Arabic",OTV Lebanon
 http://89.248.171.141/ts60/ch1048/index.m3u8?v=1548652116
-#EXTINF:0,Al Jadeed
+#EXTINF:0 group-title="Arabic",Al Jadeed
 http://89.248.171.141/ts60/ch1285/index.m3u8?v=1548652116
-#EXTINF:0,Future TV
+#EXTINF:0 group-title="Arabic",Future TV
 http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116
-#EXTINF:0,LBC
+#EXTINF:0 group-title="Arabic",LBC
 http://89.248.171.141/ts60/ch1020/index.m3u8?v=1548652116
-#EXTINF:0,LDC Lebanon
+#EXTINF:0 group-title="Arabic",LDC Lebanon
 http://89.248.171.141/ts60/ch1205/index.m3u8?v=1548652116
-#EXTINF:0,MTV Lebanon
+#EXTINF:0 group-title="Arabic",MTV Lebanon
 http://89.248.171.141/ts60/ch1266/index.m3u8?v=1548652116
-#EXTINF:0,Nessma TV
+#EXTINF:0 group-title="Arabic",Nessma TV
 http://89.248.171.141/ts60/ch1306/index.m3u8?v=1548652116
-#EXTINF:0,Nile Drama
+#EXTINF:0 group-title="Arabic",Nile Drama
 http://89.248.171.141/ts60/ch1224/index.m3u8?v=1548652116
-#EXTINF:0,Nile Family
+#EXTINF:0 group-title="Arabic",Nile Family
 http://89.248.171.141/ts60/ch1220/index.m3u8?v=1548652116
-#EXTINF:0,Oscar Drama
+#EXTINF:0 group-title="Arabic",Oscar Drama
 http://89.248.171.141/ts60/ch1103/index.m3u8?v=1548652116
-#EXTINF:0,Panorama Drama
+#EXTINF:0 group-title="Arabic",Panorama Drama
 http://89.248.171.141/ts60/ch1035/index.m3u8?v=1548652116
-#EXTINF:0,Panorama Drama 2
+#EXTINF:0 group-title="Arabic",Panorama Drama 2
 http://89.248.171.141/ts60/ch1319/index.m3u8?v=1548652116
-#EXTINF:0,Rotana Khalijiah
+#EXTINF:0 group-title="Arabic",Rotana Khalijiah
 http://89.248.171.141/ts60/ch1140/index.m3u8?v=1548652116
-#EXTINF:0,Rotana Masriah
+#EXTINF:0 group-title="Arabic",Rotana Masriah
 http://89.248.171.141/ts60/ch1142/index.m3u8?v=1548652116
-#EXTINF:0,Sada Elbalad Drama
+#EXTINF:0 group-title="Arabic",Sada Elbalad Drama
 http://89.248.171.141/ts60/ch1166/index.m3u8?v=1548652116
-#EXTINF:0,Sada Elbalad HD
+#EXTINF:0 group-title="Arabic",Sada Elbalad HD
 http://89.248.171.141/ts60/ch1217/index.m3u8?v=1548652116
-#EXTINF:0,TV Tunisia 1
+#EXTINF:0 group-title="Arabic",TV Tunisia 1
 http://89.248.171.141/ts60/ch1025/index.m3u8?v=1548652116
-#EXTINF:0,TV Tunisia 2
+#EXTINF:0 group-title="Arabic",TV Tunisia 2
 http://89.248.171.141/ts60/ch1024/index.m3u8?v=1548652116
-#EXTINF:0,Al Baghdadia 1
+#EXTINF:0 group-title="Arabic",Al Baghdadia 1
 http://89.248.171.141/ts60/ch1243/index.m3u8?v=1548652116
-#EXTINF:0,Al Iraqiah
+#EXTINF:0 group-title="Arabic",Al Iraqiah
 http://89.248.171.141/ts60/ch1340/index.m3u8?v=1548652116
-#EXTINF:0,Al Rasheed TV
+#EXTINF:0 group-title="Arabic",Al Rasheed TV
 http://89.248.171.141/ts60/ch1046/index.m3u8?v=1548652116
-#EXTINF:0,Al Sharqiya TV
+#EXTINF:0 group-title="Arabic",Al Sharqiya TV
 http://89.248.171.141/ts60/ch1185/index.m3u8?v=1548652116
-#EXTINF:0,Al Sumariah
+#EXTINF:0 group-title="Arabic",Al Sumariah
 http://89.248.171.141/ts60/ch1288/index.m3u8?v=1548652116
-#EXTINF:0,Abu Dhabi Drama
+#EXTINF:0 group-title="Arabic",Abu Dhabi Drama
 http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116
 
 
@@ -137,62 +137,62 @@ http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sharjah_tv.png",Sharjah
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sharjah_tv.png"group-title="Arabic",Sharjah
  rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png",Aljazeera Arabic
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png"group-title="Arabic",Aljazeera Arabic
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_aan_tv.png",ALAAN TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_aan_tv.png"group-title="Arabic",ALAAN TV
 http://195.244.40.204:8001/1:0:1:9:1FF:2BE:1040000:0:0:0:
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_hadath_ae.png",Al Hadath
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_hadath_ae.png"group-title="Arabic",Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_rayyan_tv.png",Arrayan
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_rayyan_tv.png"group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_arabiya_plus3.png",Al Arabia
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_arabiya_plus3.png"group-title="Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/halab_today_tv_sy.png",Halab Today TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/halab_today_tv_sy.png"group-title="Arabic",Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mekameleen_tv_eg.png",Mekammelin
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mekameleen_tv_eg.png"group-title="Arabic",Mekammelin
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/misr_alaan_eg.png",Misr Alaan
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/misr_alaan_eg.png"group-title="Arabic",Misr Alaan
 http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1344100_slen.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/dubai_tv.png",DUBAI TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/dubai_tv.png"group-title="Arabic",DUBAI TV
  http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/noor_dubai_tv.png",Noor Dubai
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/noor_dubai_tv.png"group-title="Arabic",Noor Dubai
  http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv1.png",Assaodia 1
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv1.png"group-title="Arabic",Assaodia 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv2.png", Assaodia 2
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv2.png"group-title="Arabic", Assaodia 2
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8?v=1342104684
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/funoon_tv_kw.png",Funoon TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/funoon_tv_kw.png"group-title="Arabic",Funoon TV
  http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/oman_tv.png",Saltanat Oman
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/oman_tv.png"group-title="Arabic",Saltanat Oman
 http://38.96.148.30:1935/live/omantv3/chunklist.m3u8?wowzasessionid=1751231831&v=1342104563
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_quds.png",Al Quds
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_quds.png"group-title="Arabic",Al Quds
 http://144.76.98.131:1935/aqsatv/live/tv/chunklist_w1351771762.m3u8?v=1342104563
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_sharqiya_tv_iq.png",AL SHARQIYA
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_sharqiya_tv_iq.png"group-title="Arabic",AL SHARQIYA
 http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
-#EXTINF:-1 zvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/ktv_1.png",Kuwait
+#EXTINF:-1 zvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/ktv_1.png"group-title="Arabic",Kuwait
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/ktv_2.png",KTV 2
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/ktv_2.png"group-title="Arabic",KTV 2
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_documentary.png",Aljazeera Doc
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_documentary.png"group-title="Arabic",Aljazeera Doc
  http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/ann.png",ANN News
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/ann.png"group-title="Arabic",ANN News
  rtmp://ns8.indexforce.com/ann/ann
- #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_arabic.png",BBC Arabia
+ #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_arabic.png"group-title="Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/roya_tv_jo.png",Roya TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/roya_tv_jo.png"group-title="Arabic",Roya TV
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
-#EXTINF:0,Jordan
+#EXTINF:0 group-title="Arabic",Jordan
  rtmp://64.251.14.168/jorlive/jrtv
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/talaqie_tv_sy.png",Talaqie
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/talaqie_tv_sy.png"group-title="Arabic",Talaqie
  rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/qq/qatar_tv.png",Qatar
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/qq/qatar_tv.png"group-title="Arabic",Qatar
  rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv 
  #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/palestine_satellite_channel.png"group-title="Arabic",Palestine
  rtmp://vstream2.hadara.ps:1935/pbc/mp4:pbc_1
@@ -201,23 +201,23 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/iqraa_africa_europe.png"group-title="Arabic",Iqraa TV
 http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/makkah_tv.png",Mekke
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/makkah_tv.png"group-title="Arabic",Mekke
 
 http://46.245.160.224/mekke/mekke/playlist.m3u8
 
-#EXTINF:-1,Medine
+#EXTINF:-1 group-title="Arabic",Medine
 
 http://46.245.160.224/medine/medine/gmswf.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_danah_tv.png",Aldanah
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_danah_tv.png"group-title="Arabic",Aldanah
 http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_quran_al_kareem_tv.png",Quran TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_quran_al_kareem_tv.png"group-title="Arabic",Quran TV
  rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_sunnah_al_nabawiyah_tv.png",Sunnah TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_sunnah_al_nabawiyah_tv.png"group-title="Arabic",Sunnah TV
 
 rtmp://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream
  
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wesal_tv_sa.png",Wissal TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wesal_tv_sa.png"group-title="Arabic",Wissal TV
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
  
 
