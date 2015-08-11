@@ -343,6 +343,23 @@ http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=8
 #EXTINF:-1 tvg-id="0048" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
 http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
 
+
+#EXTINF:-1 tvg-name="Sky Bundesliga-1-DE" tvg-logo="" group-title="Deutsch",Sky Bundesliga-1-DE
+http://panelpro.viplive2.org:8000/live/278/102050/113.ts
+#EXTINF:-1 tvg-name="SKY Sport 2 HD" tvg-logo="" group-title="Deutsch",SKY Sport 2 HD
+http://panelpro.viplive2.org:8000/live/278/102050/102.ts
+#EXTINF:-1 tvg-name="Sky Sport1 HD" tvg-logo="" group-title="Deutsch",Sky Sport1 HD
+http://panelpro.viplive2.org:8000/live/278/102050/101.ts
+#EXTINF:-1 tvg-name="Sky-Cinema-DE" tvg-logo="" group-title="Deutsch",Sky-Cinema-DE
+http://panelpro.viplive2.org:8000/live/278/102050/150.ts
+#EXTINF:-1 tvg-name="Sky-Action-DE" tvg-logo="" group-title="Deutsch",Sky-Action-DE
+http://panelpro.viplive2.org:8000/live/278/102050/151.ts
+#EXTINF:-1 tvg-name="SKY SELECT HD" tvg-logo="" group-title="Deutsch",SKY SELECT HD
+http://panelpro.viplive2.org:8000/live/278/102050/205.ts
+#EXTINF:-1 tvg-name="SKY SELECT 1 HD" tvg-logo="" group-title="Deutsch",SKY SELECT 1 HD
+http://panelpro.viplive2.org:8000/live/278/102050/204.ts
+#EXTINF:-1 tvg-name="SKY SELECT 2 HD" tvg-logo="" group-title="Deutsch",SKY SELECT 2 HD
+http://panelpro.viplive2.org:8000/live/278/102050/203.ts
 #EXTINF:-1 group-title="Deutsch",SkyDE Sport HD 2
 
 http://xtv.satarabia.com:80/live/testy1345/testy1345/497.ts
@@ -507,8 +524,10 @@ http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81
 
 
 
-
-
+#EXTINF:-1 group-title="Français", LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1 group-title="Français", Animaux HD 
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
 #EXTINF:-1 group-title="Français",FR ?
 http://178.33.88.129:888/udp/239.102.0.105:1234
 #EXTINF:-1 group-title="Français",FR ?
@@ -543,6 +562,26 @@ http://178.33.88.129:888/udp/239.102.0.90:1234
 http://178.33.88.129:888/udp/239.102.0.91:1234
 #EXTINF:-1 group-title="Français",Planete+ Thalassa HD FR
 http://178.33.88.129:888/udp/239.102.0.92:1234
+
+
+
+#EXTINF:-1 group-title="Français", Minimax
+http://tv.ut.cx/minimax.mp4
+#EXTINF:-1 group-title="Français", Club 1 
+http://teleclub.fr/club1.mp4
+#EXTINF:-1 group-title="Français", Cine Fil
+http://teleclub.fr/cinefil.mp4
+#EXTINF:-1 group-title="Français", Cinetoile
+http://teleclub.fr/cinetoile.mp4
+#EXTINF:0 group-title="Français", Enorme TV
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
+ 
+#EXTINF:0 group-title="Français", Gloubi
+http://teleclub.fr/gloubi.mp4 
+#EXTINF:0 group-title="Français", GONG
+rtsp://ec.playmedia.fr:1935/gong-base/live 
+#EXTINF:-1 group-title="Français", Cinq+ 
+http://teleclub.fr/cinqplus.mp4
 #EXTINF:-1 tvg-id="0208" group-title="Français" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
 http://pebbles100-lh.akamaihd.net/i/m6hd_1@97421/master.m3u8|X-Forwarded-For=81.17.18.51
 #EXTINF:-1 tvg-id="0233" group-title="Français" tvg-logo="0233.png",[COLOR orangered]RTL 9 HD[/COLOR]
@@ -631,89 +670,18 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:-1 group-title="English",Crime Investigation +1 UK
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/141.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Premiere
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/56.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Premiere +1
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/57.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Select
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/53.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Comedy
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/51.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Greats
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/60.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Action
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/185.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Family
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/55.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Thriller
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/58.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Dramarom
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/59.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Movies Scifi Horror
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/52.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Movies 4 Men
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/72.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",RTE ONE
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/100.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",RTE TWO
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/104.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky1
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/136.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky2
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/137.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sky Atlantic HD
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/132.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Comedy Xtra
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/135.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",TG4
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/101.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",TCM +1 UK
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/142.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",CBS Reality
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/143.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Horror Channel
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/143.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Sony Entertainment
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/113.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Cartoon Network +1 UK
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/192.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Disney Channel +1 UK
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/107.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",RTEjr
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/103.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-
-
-#EXTINF:-1 group-title="English",Discovery Channel
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/63.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Discovery +1
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/65.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Discovery History
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/67.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Discovery Turbo
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/68.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Discovery Science
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/66.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",ID
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/69.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Animal Planet
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/64.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",Travel Channel
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/140.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-
-#EXTINF:-1 group-title="English",MTV Dance
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/79.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",MTV Hits
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/75.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",MTV Base
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/76.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",MTV Rocks
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/74.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",VIVA
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/77.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
-#EXTINF:-1 group-title="English",VH1
-http://37.187.149.103:8000/live/671cccfbee4b3ca4/42bb548d0f559886/149.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33007&channel=
+#EXTINF:-1 tvg-name="PIRIMA FILA 1 HD" tvg-logo="" group-title="English",PIRIMA FILA 1 HD
+http://panelpro.viplive2.org:8000/live/278/102050/127.ts
+#EXTINF:-1 tvg-name="PIRIMA FILA 2 HD" tvg-logo="" group-title="English",PIRIMA FILA 2 HD
+http://panelpro.viplive2.org:8000/live/278/102050/128.ts
+#EXTINF:-1 tvg-name="PIRIMA FILA 3 HD" tvg-logo="" group-title="English",PIRIMA FILA 3 HD
+http://panelpro.viplive2.org:8000/live/278/102050/129.ts
+#EXTINF:-1 tvg-name="PIRIMA FILA 4 HD" tvg-logo="" group-title="English",PIRIMA FILA 4 HD
+http://panelpro.viplive2.org:8000/live/278/102050/55.ts
+#EXTINF:-1 tvg-name="PIRIMA FILA 5 HD" tvg-logo="" group-title="English",PIRIMA FILA 5 HD
+http://panelpro.viplive2.org:8000/live/278/102050/143.ts
+#EXTINF:-1 tvg-name="PIRIMA FILA 6 HD" tvg-logo="" group-title="English",PIRIMA FILA 6 HD
+http://panelpro.viplive2.org:8000/live/278/102050/92.ts
 #EXTINF:0 group-title="English",CBS Action
 http://81.92.105.134:5555/pl.m3u8?channel=303
 #EXTINF:0 group-title="English",C MORE- First
