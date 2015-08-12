@@ -9,9 +9,9 @@
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Medi 1
 http://178.33.88.129:888/udp/239.102.0.252:1234
-#EXTINF:-1 group-title="Arabic",Al Aoula Maroc
+#EXTINF:-1 group-title="Arabic",Al Aoula 
 http://178.33.88.129:888/udp/239.102.0.137:1234
-#EXTINF:-1 group-title="Arabic",Arryadia Maroc
+#EXTINF:-1 group-title="Arabic",Arryadia 
 http://178.33.88.129:888/udp/239.102.0.141:1234
 #EXTINF:-1 group-title="Arabic",Almaghribia
 http://178.33.88.129:888/udp/239.102.0.198:1234
@@ -384,8 +384,6 @@ http://tvservice.broke-it.net:8000/live/nico/nico/1892.ts
 http://tvservice.broke-it.net:8000/live/nico/nico/2121.ts
 #EXTINF:-1 group-title="Deutsch",Sky Bundesliga 1 HD
 http://tvservice.broke-it.net:8000/live/nico/nico/1610.ts
-#EXTINF:-1 group-title="Deutsch",Sky De Sport 1 HD
-http://tvservice.broke-it.net:8000/live/nico/nico/1609.ts
 #EXTINF:-1 group-title="Deutsch",Teleclub Cinema
 http://tvservice.broke-it.net:8000/live/nico/nico/2515.ts
 #EXTINF:-1 group-title="Deutsch",Teleclub Star
@@ -412,7 +410,8 @@ http://tvservice.broke-it.net:8000/live/nico/nico/2389.ts
 http://tvservice.broke-it.net:8000/live/nico/nico/2393.ts
 #EXTINF:-1 group-title="Deutsch",Axn HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2394.ts
-
+#EXTINF:-1 group-title="Deutsch",Sky Sport 1 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1609.ts
 
 
 
@@ -429,27 +428,6 @@ http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=8
 http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
 
 
-#EXTINF:-1 tvg-name="Sky Bundesliga-1-DE" tvg-logo="" group-title="Deutsch",Sky Bundesliga
-http://panelpro.viplive2.org:8000/live/278/102050/113.ts
-#EXTINF:-1 tvg-name="SKY Sport 2 HD" tvg-logo="" group-title="Deutsch",SKY Sport 2 HD
-http://panelpro.viplive2.org:8000/live/278/102050/102.ts
-#EXTINF:-1 tvg-name="Sky Sport1 HD" tvg-logo="" group-title="Deutsch",Sky Sport1 HD
-http://panelpro.viplive2.org:8000/live/278/102050/101.ts
-#EXTINF:-1 tvg-name="Sky-Cinema-DE" tvg-logo="" group-title="Deutsch",Sky Cinema
-http://panelpro.viplive2.org:8000/live/278/102050/150.ts
-#EXTINF:-1 tvg-name="Sky-Action-DE" tvg-logo="" group-title="Deutsch",Sky Action
-http://panelpro.viplive2.org:8000/live/278/102050/151.ts
-#EXTINF:-1 tvg-name="SKY SELECT HD" tvg-logo="" group-title="Deutsch",SKY SELECT HD
-http://panelpro.viplive2.org:8000/live/278/102050/205.ts
-#EXTINF:-1 tvg-name="SKY SELECT 1 HD" tvg-logo="" group-title="Deutsch",SKY SELECT 1 HD
-http://panelpro.viplive2.org:8000/live/278/102050/204.ts
-#EXTINF:-1 tvg-name="SKY SELECT 2 HD" tvg-logo="" group-title="Deutsch",SKY SELECT 2 HD
-http://panelpro.viplive2.org:8000/live/278/102050/203.ts
-#EXTINF:-1 group-title="Deutsch",SkyDE Sport HD 2
-
-http://xtv.satarabia.com:80/live/testy1345/testy1345/497.ts
-#EXTINF:-1 group-title="Deutsch",Cinema HD
- http://212.51.148.162:2011/hdmi
 #EXTINF:-1 tvg-id="0007" group-title="Deutsch" tvg-logo="0007.png",[COLOR orangered]ProSieben HD[/COLOR]
 http://pebbles119-lh.akamaihd.net/i/pro7chhd_1@135262/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0009" group-title="Deutsch" tvg-logo="0009.png",[COLOR orange]RTL II[/COLOR]
