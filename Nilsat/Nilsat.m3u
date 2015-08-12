@@ -334,6 +334,91 @@ http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 
 
 
+#EXTINF:-1 group-title="Deutsch",Sky Cinema De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2383.ts
+#EXTINF:-1 group-title="Deutsch",Sky Cinema +1 De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2384.ts
+#EXTINF:-1 group-title="Deutsch",Sky De Cinema +24 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1608.ts
+#EXTINF:-1 group-title="Deutsch",Sky de Cinema Hits HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2362.ts
+#EXTINF:-1 group-title="Deutsch",Sky de Cinema Action HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2363.ts
+#EXTINF:-1 group-title="Deutsch",Sky Emotion De
+http://tvservice.broke-it.net:8000/live/nico/nico/2381.ts
+#EXTINF:-1 group-title="Deutsch",Sky Comedy De
+http://tvservice.broke-it.net:8000/live/nico/nico/2382.ts
+#EXTINF:-1 group-title="Deutsch",Sky Action De Hd
+http://tvservice.broke-it.net:8000/live/nico/nico/2386.ts
+#EXTINF:-1 group-title="Deutsch",Sky select 1
+http://tvservice.broke-it.net:8000/movie/nico/nico/2436.mkv
+#EXTINF:-1 group-title="Deutsch",Sky select 2
+http://tvservice.broke-it.net:8000/movie/nico/nico/2437.mkv
+#EXTINF:-1 group-title="Deutsch",Sky select 3
+http://tvservice.broke-it.net:8000/movie/nico/nico/2438.mkv
+#EXTINF:-1 group-title="Deutsch",Sky select 4
+http://tvservice.broke-it.net:8000/movie/nico/nico/2439.mkv
+#EXTINF:-1 group-title="Deutsch",Sky select 5
+http://tvservice.broke-it.net:8000/movie/nico/nico/2440.mkv
+#EXTINF:-1 group-title="Deutsch",Sky Select 6
+http://tvservice.broke-it.net:8000/live/nico/nico/1507.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 7
+http://tvservice.broke-it.net:8000/live/nico/nico/1508.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 8
+http://tvservice.broke-it.net:8000/live/nico/nico/1509.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 9
+http://tvservice.broke-it.net:8000/live/nico/nico/1595.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 10
+http://tvservice.broke-it.net:8000/live/nico/nico/1887.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 11
+http://tvservice.broke-it.net:8000/live/nico/nico/1888.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 12
+http://tvservice.broke-it.net:8000/live/nico/nico/1889.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 13
+http://tvservice.broke-it.net:8000/live/nico/nico/1890.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 14
+http://tvservice.broke-it.net:8000/live/nico/nico/1891.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 15
+http://tvservice.broke-it.net:8000/live/nico/nico/1892.ts
+#EXTINF:-1 group-title="Deutsch",Sky Select 16
+http://tvservice.broke-it.net:8000/live/nico/nico/2121.ts
+#EXTINF:-1 group-title="Deutsch",Sky Bundesliga 1 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1610.ts
+#EXTINF:-1 group-title="Deutsch",Sky De Sport 1 HD
+http://tvservice.broke-it.net:8000/live/nico/nico/1609.ts
+#EXTINF:-1 group-title="Deutsch",Teleclub Cinema
+http://tvservice.broke-it.net:8000/live/nico/nico/2515.ts
+#EXTINF:-1 group-title="Deutsch",Teleclub Star
+http://tvservice.broke-it.net:8000/live/nico/nico/2516.ts
+#EXTINF:-1 group-title="Deutsch",Teleclub Crime
+http://tvservice.broke-it.net:8000/live/nico/nico/2514.ts
+#EXTINF:-1 group-title="Deutsch",TNT Film De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2375.ts
+#EXTINF:-1 group-title="Deutsch",TNT Serie De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2374.ts
+#EXTINF:-1 group-title="Deutsch",Fox De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2390.ts
+#EXTINF:-1 group-title="Deutsch",Sky Atlantic De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2385.ts
+#EXTINF:-1 group-title="Deutsch",SYFY De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2376.ts
+#EXTINF:-1 group-title="Deutsch",Sky KRIMI De
+http://tvservice.broke-it.net:8000/live/nico/nico/2379.ts
+#EXTINF:-1 group-title="Deutsch",Romance De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2387.ts
+#EXTINF:-1 group-title="Deutsch",MGM De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2389.ts
+#EXTINF:-1 group-title="Deutsch",Channel 21 De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2393.ts
+#EXTINF:-1 group-title="Deutsch",Axn De HD
+http://tvservice.broke-it.net:8000/live/nico/nico/2394.ts
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="0045" group-title="Deutsch" tvg-logo="0045.png",[COLOR orange]Super RTL[/COLOR]
 http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0046" group-title="Deutsch" tvg-logo="0046.png",[COLOR orangered]KiKA HD[/COLOR]
@@ -524,44 +609,46 @@ http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:-1 group-title="Français", LA CHAINE NORMANDIE
-rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-#EXTINF:-1 group-title="Français", Animaux HD 
-http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+
 #EXTINF:-1 group-title="Français",Canal+ Emotion
 http://178.33.88.129:888/udp/239.102.0.105:1234
-#EXTINF:-1 group-title="Français",FR ?
+#EXTINF:-1 group-title="Français",Canal+ Décalé
 http://178.33.88.129:888/udp/239.102.0.56:1234
-#EXTINF:-1 group-title="Français",FR ?
+#EXTINF:-1 group-title="Français",Canal+
 http://178.33.88.129:888/udp/239.102.0.57:1234
-#EXTINF:-1 group-title="Français",MTV FR
-http://178.33.88.129:888/udp/239.102.0.74:1234
 #EXTINF:-1 group-title="Français",OCS Choc
 http://178.33.88.129:888/udp/239.102.0.75:1234
-#EXTINF:-1 group-title="Français",FR ?
+#EXTINF:-1 group-title="Français",Canal+ Series
 http://178.33.88.129:888/udp/239.102.0.78:1234
-#EXTINF:-1 group-title="Français",Téva FR
+#EXTINF:-1 group-title="Français",SyFy 
+http://178.33.88.129:888/udp/239.102.0.86:1234
+#EXTINF:-1 group-title="Français",Téva 
 http://178.33.88.129:888/udp/239.102.0.80:1234
-#EXTINF:-1 group-title="Français",SC FR 
+#EXTINF:-1 group-title="Français",SC  
 http://178.33.88.129:888/udp/239.102.0.79:1234
 #EXTINF:-1 group-title="Français",Planete+ HD
 http://178.33.88.129:888/udp/239.102.0.83:1234
-#EXTINF:-1 group-title="Français",National Geographic FR
+#EXTINF:-1 group-title="Français",National Geographic 
 http://178.33.88.129:888/udp/239.102.0.84:1234
 #EXTINF:-1 group-title="Français",Voyage
 http://178.33.88.129:888/udp/239.102.0.85:1234
-#EXTINF:-1 group-title="Français",SyFy FR
-http://178.33.88.129:888/udp/239.102.0.86:1234
-#EXTINF:-1 group-title="Français",Disney FR
+
+#EXTINF:-1 group-title="Français",Disney 
 http://178.33.88.129:888/udp/239.102.0.88:1234
-#EXTINF:-1 group-title="Français",Cartoon Network FR
+#EXTINF:-1 group-title="Français", La chaine Normandie
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1 group-title="Français", Animaux HD 
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#EXTINF:-1 group-title="Français",Cartoon Network 
 http://178.33.88.129:888/udp/239.102.0.89:1234
 #EXTINF:-1 group-title="Français",FR ?
 http://178.33.88.129:888/udp/239.102.0.90:1234
-#EXTINF:-1 group-title="Français",Ushuaia FR
+#EXTINF:-1 group-title="Français",Ushuaia 
 http://178.33.88.129:888/udp/239.102.0.91:1234
-#EXTINF:-1 group-title="Français",Planete+ Thalassa HD FR
+#EXTINF:-1 group-title="Français",Planete+ Thalassa HD 
 http://178.33.88.129:888/udp/239.102.0.92:1234
+#EXTINF:-1 group-title="Français",MTV 
+http://178.33.88.129:888/udp/239.102.0.74:1234
 
 
 
