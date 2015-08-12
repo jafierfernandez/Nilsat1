@@ -922,17 +922,17 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
-#EXTINF:0 group-title="Español",Canal+ de cine
+#EXTINF:0 group-title="Español",Canal+ Cine
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/810.ts
 #EXTINF:0 group-title="Español",Canal+ Estrenos
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/809.ts
 #EXTINF:0 group-title="Español",Canal+
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/808.ts
-#EXTINF:0 group-title="Español",HOLLYWOOD
+#EXTINF:0 group-title="Español",Hollywood
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/812.ts
 #EXTINF:0 group-title="Español",Canal+ Comedia
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/813.ts
-#EXTINF:0 group-title="Español",Canal+ Accion
+#EXTINF:0 group-title="Español",Canal+ Acción
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/814.ts
 
 #EXTINF:0 group-title="Español",24 Horas
@@ -940,11 +940,11 @@ http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/868.ts
 
 #EXTINF:0 group-title="Español",First Music HD
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/867.ts
-#EXTINF:0 group-title="Español",CANAL GOLF HD
+#EXTINF:0 group-title="Español",Canal Golf HD
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/811.ts
 
 
-#EXTINF:0 group-title="Español",Canal+ LIGA
+#EXTINF:0 group-title="Español",Canal+ Liga
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/828.ts
 #EXTINF:0 group-title="Español",Canal+ Fútbol
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/829.ts
