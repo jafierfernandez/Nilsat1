@@ -334,9 +334,9 @@ http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 
 
 
-#EXTINF:-1 group-title="Deutsch",Sky Cinema De HD
+#EXTINF:-1 group-title="Deutsch",Sky Cinema HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2383.ts
-#EXTINF:-1 group-title="Deutsch",Sky Cinema +1 De HD
+#EXTINF:-1 group-title="Deutsch",Sky Cinema +1 HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2384.ts
 #EXTINF:-1 group-title="Deutsch",Sky De Cinema +24 HD
 http://tvservice.broke-it.net:8000/live/nico/nico/1608.ts
@@ -344,11 +344,11 @@ http://tvservice.broke-it.net:8000/live/nico/nico/1608.ts
 http://tvservice.broke-it.net:8000/live/nico/nico/2362.ts
 #EXTINF:-1 group-title="Deutsch",Sky de Cinema Action HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2363.ts
-#EXTINF:-1 group-title="Deutsch",Sky Emotion De
+#EXTINF:-1 group-title="Deutsch",Sky Emotion 
 http://tvservice.broke-it.net:8000/live/nico/nico/2381.ts
-#EXTINF:-1 group-title="Deutsch",Sky Comedy De
+#EXTINF:-1 group-title="Deutsch",Sky Comedy 
 http://tvservice.broke-it.net:8000/live/nico/nico/2382.ts
-#EXTINF:-1 group-title="Deutsch",Sky Action De Hd
+#EXTINF:-1 group-title="Deutsch",Sky Action HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2386.ts
 #EXTINF:-1 group-title="Deutsch",Sky select 1
 http://tvservice.broke-it.net:8000/movie/nico/nico/2436.mkv
@@ -392,25 +392,25 @@ http://tvservice.broke-it.net:8000/live/nico/nico/2515.ts
 http://tvservice.broke-it.net:8000/live/nico/nico/2516.ts
 #EXTINF:-1 group-title="Deutsch",Teleclub Crime
 http://tvservice.broke-it.net:8000/live/nico/nico/2514.ts
-#EXTINF:-1 group-title="Deutsch",TNT Film De HD
+#EXTINF:-1 group-title="Deutsch",TNT Film HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2375.ts
-#EXTINF:-1 group-title="Deutsch",TNT Serie De HD
+#EXTINF:-1 group-title="Deutsch",TNT Serie HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2374.ts
-#EXTINF:-1 group-title="Deutsch",Fox De HD
+#EXTINF:-1 group-title="Deutsch",Fox HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2390.ts
-#EXTINF:-1 group-title="Deutsch",Sky Atlantic De HD
+#EXTINF:-1 group-title="Deutsch",Sky Atlantic HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2385.ts
-#EXTINF:-1 group-title="Deutsch",SYFY De HD
+#EXTINF:-1 group-title="Deutsch",SYFY HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2376.ts
-#EXTINF:-1 group-title="Deutsch",Sky KRIMI De
+#EXTINF:-1 group-title="Deutsch",Sky KRIMI 
 http://tvservice.broke-it.net:8000/live/nico/nico/2379.ts
-#EXTINF:-1 group-title="Deutsch",Romance De HD
+#EXTINF:-1 group-title="Deutsch",Romance HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2387.ts
-#EXTINF:-1 group-title="Deutsch",MGM De HD
+#EXTINF:-1 group-title="Deutsch",MGM HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2389.ts
 #EXTINF:-1 group-title="Deutsch",Channel 21 De HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2393.ts
-#EXTINF:-1 group-title="Deutsch",Axn De HD
+#EXTINF:-1 group-title="Deutsch",Axn HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2394.ts
 
 
