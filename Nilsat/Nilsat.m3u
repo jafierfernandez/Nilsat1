@@ -338,11 +338,11 @@ http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 http://tvservice.broke-it.net:8000/live/nico/nico/2383.ts
 #EXTINF:-1 group-title="Deutsch",Sky Cinema +1 HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2384.ts
-#EXTINF:-1 group-title="Deutsch",Sky De Cinema +24 HD
+#EXTINF:-1 group-title="Deutsch",Sky Cinema +24 HD
 http://tvservice.broke-it.net:8000/live/nico/nico/1608.ts
-#EXTINF:-1 group-title="Deutsch",Sky de Cinema Hits HD
+#EXTINF:-1 group-title="Deutsch",Sky Cinema Hits HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2362.ts
-#EXTINF:-1 group-title="Deutsch",Sky de Cinema Action HD
+#EXTINF:-1 group-title="Deutsch",Sky Cinema Action HD
 http://tvservice.broke-it.net:8000/live/nico/nico/2363.ts
 #EXTINF:-1 group-title="Deutsch",Sky Emotion 
 http://tvservice.broke-it.net:8000/live/nico/nico/2381.ts
