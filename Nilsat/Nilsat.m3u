@@ -852,6 +852,11 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
+
+
+
+
+
 #EXTINF:0 group-title="Español",C-DCINE
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/810.ts
 #EXTINF:0 group-title="Español",Canal+ Estrenos
@@ -865,57 +870,42 @@ http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/813.ts
 #EXTINF:0 group-title="Español",Canal+ Accion
 http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/814.ts
 
-#EXTINF:-1 group-title="Español",Tve 24h HD
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="Español",Canal+ Liga
+#EXTINF:0 group-title="Español",24 Horas
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/868.ts
 
-http://xtv.satarabia.com:80/live/testy1345/testy1345/488.ts
-#EXTINF:-1 group-title="Español",Canal 12 Cordoba
-http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-#EXTINF:-1 group-title="Español",Ultra Cine HD
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1 group-title="Español",SYFY
-http://31.220.41.111/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",ISAT
-http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",MUNDO FOX
-http://31.220.41.111/LiveEdgeTesting/_definst_/MundoFoxSD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",FOX LIFE
-http://31.220.41.111/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",TNT SERIES
-http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/chunklist_w1777499773_b1000000.m3u8?token=
-#EXTINF:-1 group-title="Español",CINELATINO
-http://31.220.41.111/LiveEdgeTesting/CineLatinoSD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",SPACE
-http://31.220.41.111/LiveEdgeTesting/SpaceLA/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",CINECANAL
-http://31.220.41.111/LiveEdgeTesting/CineCanalLA/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",CINEMAX
-http://31.220.41.111/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",MAX
-http://31.220.41.111/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",MAX PRIME ESTE
-http://31.220.41.111/LiveEdgeTesting/MaxPrimeLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",MAX PRIME OESTE
-http://31.220.40.108/LiveEdgeTesting/MaxPrime2LASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",FOX 1
-http://31.220.41.111/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",FOX ACTION
-http://31.220.41.111/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",FOX MOVIES
-http://31.220.41.111/LiveEdgeTesting/FOXMoviesLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",FOX FAMILY
-http://31.220.41.111/LiveEdgeTesting/FOXFamilyLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",FOX CLASSICS
-http://31.220.41.102/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",FOX CINEMA
-http://31.220.40.108/LiveEdgeTesting/FoxCinemaSD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",FOX COMEDY
-http://31.220.41.111/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",GOLDEN PREMIER 1
-http://31.220.40.108/LiveEdgeTesting/GoldenPremier1LA/playlist.m3u8?token=
-#EXTINF:-1 group-title="Español",GOLDEN PREMIER 2
-http://31.220.41.103/LiveEdgeTesting/GoldenPremiere2LA/playlist.m3u8?token=
+#EXTINF:0 group-title="Español",First Music HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/867.ts
+#EXTINF:0 group-title="Español",CANAL GOLF HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/811.ts
+
+
+#EXTINF:0 group-title="Español",Canal+ LIGA
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/828.ts
+#EXTINF:0 group-title="Español",Canal+ Fútbol
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/829.ts
+#EXTINF:0,Canal+ Deportes HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/830.ts
+
+#EXTINF:0,VIT Channe l3
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/865.ts
+#EXTINF:0,Galicia
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/874.ts
+#EXTINF:0,Extremadura
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/862.ts
+#EXTINF:0,Canarias
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/873.ts
+#EXTINF:0,TN
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/866.ts
+#EXTINF:0,RTPA
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/872.ts
+#EXTINF:0,Real Madrid
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/864.ts
+#EXTINF:0,TeleSur
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/871.ts
+#EXTINF:0,Mijas TV Mlaga
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/870.ts
+#EXTINF:0,Guatevision
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/869.ts
 
 
 
