@@ -528,7 +528,7 @@ http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 #EXTINF:-1 group-title="Français", Animaux HD 
 http://87.248.160.8/edge/smil:animaux/playlist.m3u8
-#EXTINF:-1 group-title="Français",FR ?
+#EXTINF:-1 group-title="Français",Canal+ Emotion
 http://178.33.88.129:888/udp/239.102.0.105:1234
 #EXTINF:-1 group-title="Français",FR ?
 http://178.33.88.129:888/udp/239.102.0.56:1234
@@ -536,7 +536,7 @@ http://178.33.88.129:888/udp/239.102.0.56:1234
 http://178.33.88.129:888/udp/239.102.0.57:1234
 #EXTINF:-1 group-title="Français",MTV FR
 http://178.33.88.129:888/udp/239.102.0.74:1234
-#EXTINF:-1 group-title="Français",FR ?
+#EXTINF:-1 group-title="Français",OCS Choc
 http://178.33.88.129:888/udp/239.102.0.75:1234
 #EXTINF:-1 group-title="Français",FR ?
 http://178.33.88.129:888/udp/239.102.0.78:1234
@@ -668,22 +668,32 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
-
-
-#EXTINF:-1 tvg-name="PIRIMA FILA 1 HD" tvg-logo="" group-title="English",PIRIMA FILA 1 HD
-http://panelpro.viplive2.org:8000/live/278/102050/127.ts
-#EXTINF:-1 tvg-name="PIRIMA FILA 2 HD" tvg-logo="" group-title="English",PIRIMA FILA 2 HD
-http://panelpro.viplive2.org:8000/live/278/102050/128.ts
-#EXTINF:-1 tvg-name="PIRIMA FILA 3 HD" tvg-logo="" group-title="English",PIRIMA FILA 3 HD
-http://panelpro.viplive2.org:8000/live/278/102050/129.ts
-#EXTINF:-1 tvg-name="PIRIMA FILA 4 HD" tvg-logo="" group-title="English",PIRIMA FILA 4 HD
-http://panelpro.viplive2.org:8000/live/278/102050/55.ts
-#EXTINF:-1 tvg-name="PIRIMA FILA 5 HD" tvg-logo="" group-title="English",PIRIMA FILA 5 HD
-http://panelpro.viplive2.org:8000/live/278/102050/143.ts
-#EXTINF:-1 tvg-name="PIRIMA FILA 6 HD" tvg-logo="" group-title="English",PIRIMA FILA 6 HD
-http://panelpro.viplive2.org:8000/live/278/102050/92.ts
-#EXTINF:0 group-title="English",CBS Action
-http://81.92.105.134:5555/pl.m3u8?channel=303
+#EXTINF:0 group-title="English",Sky One HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/777.ts
+#EXTINF:0 group-title="English",Sky Movies Thriller HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/776.ts
+#EXTINF:0 group-title="English",Sky Movies Select HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/775.ts
+#EXTINF:0 group-title="English",Sky Movies Premiere HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/774.ts
+#EXTINF:0 group-title="English",Sky Movies Modern Great
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/773.ts
+#EXTINF:0 group-title="English",Sky Movies Family
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/772.ts
+#EXTINF:0 group-title="English",Sky Movies Drama HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/771.ts
+#EXTINF:0 group-title="English",Sky Atlantic HD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/770.ts
+#EXTINF:0 group-title="English",Setanta Ireland
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/769.ts
+#EXTINF:0 group-title="English",Sky Movies Comedy
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/562.ts
+#EXTINF:0 group-title="English",SKY Movies SCI FI
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/561.ts
+#EXTINF:0 group-title="English",Nickelodeon
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/563.ts
+#EXTINF:0 group-title="English",SKY Action
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/564.ts
 #EXTINF:0 group-title="English",C MORE- First
  http://188.138.9.228:8024
  #EXTINF:0 group-title="English",C MORE- Emotion
@@ -841,6 +851,19 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
+
+#EXTINF:0 group-title="Español",C-DCINE
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/810.ts
+#EXTINF:0 group-title="Español",Canal+ Estrenos
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/809.ts
+#EXTINF:0 group-title="Español",Canal+
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/808.ts
+#EXTINF:0 group-title="Español",HOLLYWOOD
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/812.ts
+#EXTINF:0 group-title="Español",Canal+ Comedia
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/813.ts
+#EXTINF:0 group-title="Español",Canal+ Accion
+http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/814.ts
 
 #EXTINF:-1 group-title="Español",Tve 24h HD
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
