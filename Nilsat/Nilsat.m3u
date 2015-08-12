@@ -429,15 +429,15 @@ http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=8
 http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
 
 
-#EXTINF:-1 tvg-name="Sky Bundesliga-1-DE" tvg-logo="" group-title="Deutsch",Sky Bundesliga-1-DE
+#EXTINF:-1 tvg-name="Sky Bundesliga-1-DE" tvg-logo="" group-title="Deutsch",Sky Bundesliga
 http://panelpro.viplive2.org:8000/live/278/102050/113.ts
 #EXTINF:-1 tvg-name="SKY Sport 2 HD" tvg-logo="" group-title="Deutsch",SKY Sport 2 HD
 http://panelpro.viplive2.org:8000/live/278/102050/102.ts
 #EXTINF:-1 tvg-name="Sky Sport1 HD" tvg-logo="" group-title="Deutsch",Sky Sport1 HD
 http://panelpro.viplive2.org:8000/live/278/102050/101.ts
-#EXTINF:-1 tvg-name="Sky-Cinema-DE" tvg-logo="" group-title="Deutsch",Sky-Cinema-DE
+#EXTINF:-1 tvg-name="Sky-Cinema-DE" tvg-logo="" group-title="Deutsch",Sky Cinema
 http://panelpro.viplive2.org:8000/live/278/102050/150.ts
-#EXTINF:-1 tvg-name="Sky-Action-DE" tvg-logo="" group-title="Deutsch",Sky-Action-DE
+#EXTINF:-1 tvg-name="Sky-Action-DE" tvg-logo="" group-title="Deutsch",Sky Action
 http://panelpro.viplive2.org:8000/live/278/102050/151.ts
 #EXTINF:-1 tvg-name="SKY SELECT HD" tvg-logo="" group-title="Deutsch",SKY SELECT HD
 http://panelpro.viplive2.org:8000/live/278/102050/205.ts
