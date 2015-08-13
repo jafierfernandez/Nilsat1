@@ -814,6 +814,55 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
+#EXTINF:-1 tvg-name="Canal+" tvg-logo="" group-title="Movistar+",Canal+
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/74.ts
+    #EXTINF:-1 tvg-name="Canal+ Accion" tvg-logo="http://3.bp.blogspot.com/-yxaCmHGFMt4/UoVCw3jsYOI/AAAAAAAAADM/MPC5VEgDwVU/s1600/accion.png" group-title="Movistar+",Canal+ Accion
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/5.ts
+    #EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://4.bp.blogspot.com/-v-y3snlbCb4/UoVKMnx2xuI/AAAAAAAAAEA/yFj4EuAwvd0/s1600/comedia.png" group-title="Movistar+",Canal+ Comedia
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/6.ts
+    #EXTINF:-1 tvg-name="Canal+ DCine" tvg-logo="http://lacajatv.es/logos/logoplusdcine.jpg" group-title="Movistar+",Canal+ DCine
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/4.ts
+    #EXTINF:-1 tvg-name="Canal+ DCine ES" tvg-logo="" group-title="Movistar+",Canal+ DCine ES
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/227.ts
+    #EXTINF:-1 tvg-name="Cine 3D" tvg-logo="" group-title="Movistar+",Cine 3D
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/285.ts
+    #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://www.diesl.com/wp-content/uploads/2012/03/canal-plus-logo-330x200.jpg" group-title="Movistar+",Canal+ Estrenos
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/2.ts
+    #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="" group-title="Movistar+",Canal+ Series
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/37.ts
+    #EXTINF:-1 tvg-name="Canal+ Series Xtra" tvg-logo="http://3.bp.blogspot.com/-jI1p15jFM28/UoVJ7ylsy8I/AAAAAAAAAD0/JH20suiCyRM/s1600/canal2.png" group-title="Movistar+",Canal+ Series Xtra
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/3.ts
+    #EXTINF:-1 tvg-name="Canal+ Xtra" tvg-logo="" group-title="Movistar+",Canal+ Xtra
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/91.ts
+    #EXTINF:-1 tvg-name="AMC" tvg-logo="http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2014/02/amc-logo-325.jpg" group-title="Movistar+",AMC
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/50.ts
+    #EXTINF:-1 tvg-name="TCM" tvg-logo="" group-title="Movistar+",TCM
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/274.ts
+    #EXTINF:-1 tvg-name="AXN" tvg-logo="http://lacajatv.es/logos/logoaxn.jpg" group-title="Movistar+",AXN
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/1.ts
+    #EXTINF:-1 tvg-name="AXN White" tvg-logo="http://4.bp.blogspot.com/-THNydqMtc5k/T4RkVD4oWWI/AAAAAAAACF8/mvWzv3NeBgI/s1600/AXN+White+logo.png" group-title="Movistar+",AXN White
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/35.ts
+    #EXTINF:-1 tvg-name="Calle 13" tvg-logo="http://lacajatv.es/logos/logocalle13.jpg" group-title="Movistar+",Calle 13
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/8.ts
+    #EXTINF:-1 tvg-name="FOX" tvg-logo="http://lacajatv.es/logos/logofox.jpg" group-title="Movistar+",FOX
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/7.ts
+    #EXTINF:-1 tvg-name="FOX Life" tvg-logo="http://satcesc.com/p/fox-life.png" group-title="Movistar+",FOX Life
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/48.ts
+    #EXTINF:-1 tvg-name="TNT" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="Movistar+",TNT
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/9.ts
+    #EXTINF:-1 tvg-name="Hollywood" tvg-logo="http://lacajatv.es/logos/logohollywood.jpg" group-title="Movistar+",Hollywood
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/10.ts
+    #EXTINF:-1 tvg-name="Syfy" tvg-logo="http://www.hdicon.com/wp-content/uploads/2013/06/Syfy_2009.png" group-title="Movistar+",Syfy
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/44.ts
+    #EXTINF:-1 tvg-name="Cosmo" tvg-logo="http://tv.orange.es/UpImages/2222/cosmo_grande_a0df862b7ad647c6b2741a34f.jpg" group-title="Movistar+",Cosmo
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/43.ts
+    #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="http://www.satfreak.net/wp-content/uploads/Comedy-Central-Polska.png" group-title="Movistar+",Comedy Central
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/47.ts
+    #EXTINF:-1 tvg-name="Movistar F1" tvg-logo="" group-title="Movistar+",Movistar F1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/56.ts
+    #EXTINF:-1 tvg-name="Movistar GP" tvg-logo="" group-title="Movistar+",Movistar GP
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/57.ts
+
 
 
 
