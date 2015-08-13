@@ -733,32 +733,7 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:0 group-title="English",Sky One HD
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/777.ts
-#EXTINF:0 group-title="English",Sky Movies Thriller HD
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/776.ts
-#EXTINF:0 group-title="English",Sky Movies Select HD
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/775.ts
-#EXTINF:0 group-title="English",Sky Movies Premiere HD
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/774.ts
-#EXTINF:0 group-title="English",Sky Movies Modern Great
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/773.ts
-#EXTINF:0 group-title="English",Sky Movies Family
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/772.ts
-#EXTINF:0 group-title="English",Sky Movies Drama HD
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/771.ts
-#EXTINF:0 group-title="English",Sky Atlantic HD
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/770.ts
-#EXTINF:0 group-title="English",Setanta Ireland
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/769.ts
-#EXTINF:0 group-title="English",Sky Movies Comedy
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/562.ts
-#EXTINF:0 group-title="English",SKY Movies SCI FI
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/561.ts
-#EXTINF:0 group-title="English",Nickelodeon
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/563.ts
-#EXTINF:0 group-title="English",SKY Action
-http://37.187.142.232:8000/live/nqashalhob/skype-megaservertv/564.ts
+
 #EXTINF:0 group-title="English",C MORE- First
  http://188.138.9.228:8024
  #EXTINF:0 group-title="English",C MORE- Emotion
