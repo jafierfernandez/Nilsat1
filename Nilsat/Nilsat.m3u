@@ -152,27 +152,18 @@ rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/iqraa_africa_europe.png"group-title="Arabic",Iqraa TV
+#EXTINF:-1 group-title="Arabic",Iqraa TV
 http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/makkah_tv.png"group-title="Arabic",Mekke
+#EXTINF:0 group-title="Arabic",Quran TV
 
-http://46.245.160.224/mekke/mekke/playlist.m3u8
+ http://46.245.160.224/mekke/mekke/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Arabic",Medine
-
+#EXTINF:-1 group-title="Arabic",Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_quran_al_kareem_tv.png"group-title="Arabic",Quran TV
- rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_sunnah_al_nabawiyah_tv.png"group-title="Arabic",Sunnah TV
-
-rtmp://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream
  
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wesal_tv_sa.png"group-title="Arabic",Wissal TV
+#EXTINF:-1 group-title="Arabic",Wissal TV
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 
 
