@@ -37,164 +37,6 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 
 
 
-#EXTINF:0 group-title="Arabic",MBC 1
-http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MBC 2
-http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MBC 3
-http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MBC 4
-http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MBC Action
-http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MBC Bollywood
-http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MBC Drama
-http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MBC Masr
-http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MBC Max
-http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Cairo Drama
-http://89.248.171.141/ts60/ch1022/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",CBC
-http://89.248.171.141/ts60/ch1173/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",CBC Drama
-http://89.248.171.141/ts60/ch1172/index.m3u8?v=1548652116
-#EXTINF:-1 group-title="Arabic",ART Aflam 1
-http://178.33.88.129:888/udp/239.102.0.47:1234
-#EXTINF:-1 group-title="Arabic",ART Aflam 2
-http://178.33.88.129:888/udp/239.102.0.48:1234
-#EXTINF:-1 group-title="Arabic",ART Cinema
-http://178.33.88.129:888/udp/239.102.0.49:1234
-#EXTINF:-1 group-title="Arabic",ART Hikayat
-http://178.33.88.129:888/udp/239.102.0.51:1234
-#EXTINF:-1 group-title="Arabic",ART Hikayat 2
-http://178.33.88.129:888/udp/239.102.0.52:1234
-#EXTINF:-1 group-title="Arabic",ART Cinema
-http://178.33.88.129:888/udp/239.102.0.184:1234
-#EXTINF:-1 group-title="Arabic",Moga Comedy
-http://178.33.88.129:888/udp/239.102.0.133:1234
-#EXTINF:0 group-title="Arabic",Dream 1
-http://89.248.171.141/ts60/ch1232/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Dream 2
-http://89.248.171.141/ts60/ch1230/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",El Hayah 1
-http://89.248.171.141/ts60/ch1300/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",El Hayah 2
-http://89.248.171.141/ts60/ch1270/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",El Masriah TV
-http://89.248.171.141/ts60/ch1199/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Oscar Drama
-http://89.248.171.141/ts60/ch1103/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Panorama Drama
-http://89.248.171.141/ts60/ch1035/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Panorama Drama 2
-http://89.248.171.141/ts60/ch1319/index.m3u8?v=1548652116
-#EXTINF:-1 group-title="Arabic",Rotana Cinema
-http://178.33.88.129:888/udp/239.102.0.188:1234
-#EXTINF:-1 group-title="Arabic",Rotana Classic
-http://178.33.88.129:888/udp/239.102.0.187:1234
-#EXTINF:0 group-title="Arabic",Rotana Khalijiah
-http://89.248.171.141/ts60/ch1140/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Rotana Masriah
-http://89.248.171.141/ts60/ch1142/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Sada Elbalad Drama
-http://89.248.171.141/ts60/ch1166/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Sada Elbalad HD
-http://89.248.171.141/ts60/ch1217/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",El Nahar 1
-http://89.248.171.141/ts60/ch1170/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",El Nahar 2
-http://89.248.171.141/ts60/ch1162/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",El Nahar Drama 1
-http://89.248.171.141/ts60/ch1171/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",El Nahar Drama +2
-http://89.248.171.141/ts60/ch1161/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",El Qahera we El Nas
-http://89.248.171.141/ts60/ch1196/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Nile Drama
-http://89.248.171.141/ts60/ch1224/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Nile Family
-http://89.248.171.141/ts60/ch1220/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Abu Dhabi Drama
-http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",OTV Lebanon
-http://89.248.171.141/ts60/ch1048/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Al Jadeed
-http://89.248.171.141/ts60/ch1285/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Future TV
-http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",LBC
-http://89.248.171.141/ts60/ch1020/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",LDC Lebanon
-http://89.248.171.141/ts60/ch1205/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",MTV Lebanon
-http://89.248.171.141/ts60/ch1266/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Arabic",Nessma TV
-http://89.248.171.141/ts60/ch1306/index.m3u8?v=1548652116
-
-#EXTINF:0 group-title="Arabic",El Mehwar 1
-http://89.248.171.141/ts60/ch1215/index.m3u8?v=1548652116
-
-#EXTINF:-1 group-title="Arabic",MH
-http://178.33.88.129:888/udp/239.102.0.219:1234
-#EXTINF:-1 group-title="Arabic",Aliskandarya
-http://178.33.88.129:888/udp/239.102.0.220:1234
-#EXTINF:-1 group-title="Arabic",Manassem Music AR
-http://178.33.88.129:888/udp/239.102.0.130:1234
-#EXTINF:-1 group-title="Arabic",Aghanina
-http://178.33.88.129:888/udp/239.102.0.217:1234
-#EXTINF:-1 group-title="Arabic",Arabica
-http://178.33.88.129:888/udp/239.102.0.204:1234
-#EXTINF:-1 group-title="Arabic",Mazika
-http://178.33.88.129:888/udp/239.102.0.183:1234
-#EXTINF:-1 group-title="Arabic",Musicplus AR
-http://178.33.88.129:888/udp/239.102.0.113:1234
-#EXTINF:-1 group-title="Arabic",Melody AR
-http://178.33.88.129:888/udp/239.102.0.110:1234
-
-
-
-
-#EXTINF:-1 group-title="Arabic",MTV Libanon
-http://178.33.88.129:888/udp/239.102.0.103:1234
-#EXTINF:-1 group-title="Arabic",Alwatanya 2
-http://178.33.88.129:888/udp/239.102.0.164:1234
-#EXTINF:-1 group-title="Arabic",Alhiwar Tunesie
-http://178.33.88.129:888/udp/239.102.0.165:1234
-#EXTINF:-1 group-title="Arabic",Hanibal
-http://178.33.88.129:888/udp/239.102.0.166:1234
-#EXTINF:-1 group-title="Arabic",Nesma
-http://178.33.88.129:888/udp/239.102.0.167:1234
-#EXTINF:-1 group-title="Arabic",Aljanoubia
-http://178.33.88.129:888/udp/239.102.0.168:1234
-#EXTINF:-1 group-title="Arabic",Almoustqilla
-http://178.33.88.129:888/udp/239.102.0.169:1234
-#EXTINF:-1 group-title="Arabic",TNN
-http://178.33.88.129:888/udp/239.102.0.171:1234
-#EXTINF:-1 group-title="Arabic",Azzaytouna
-http://178.33.88.129:888/udp/239.102.0.170:1234
-#EXTINF:-1 group-title="Arabic",Tounesna
-http://178.33.88.129:888/udp/239.102.0.172:1234
-#EXTINF:-1 group-title="Arabic",M Tunisia
-http://178.33.88.129:888/udp/239.102.0.174:1234
-#EXTINF:-1 group-title="Arabic",Talfaza
-http://178.33.88.129:888/udp/239.102.0.173:1234
-
-
-
-#EXTINF:-1 group-title="Arabic",Aghanina
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png"group-title="Arabic",Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
-#EXTINF:-1 group-title="Arabic",Aljazeera Mubasher
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_arabiya_plus3.png"group-title="Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_hadath_ae.png"group-title="Arabic",Al Hadath
@@ -238,7 +80,7 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Arabic", Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",Ajmaan tv
+#EXTINF:-1 group-title="Arabic",Ajman TV
 http://77.67.34.22/AJMAN_TV?gmswf=702871368
 #EXTINF:-1 group-title="Arabic",Albadawiyah
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=albadawiyah
@@ -332,6 +174,141 @@ rtmp://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream
  
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wesal_tv_sa.png"group-title="Arabic",Wissal TV
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="Aflam & Drama",MBC 1
+http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MBC 2
+http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MBC 3
+http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MBC 4
+http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MBC Action
+http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MBC Bollywood
+http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MBC Drama
+http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MBC Masr
+http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MBC Max
+http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Cairo Drama
+http://89.248.171.141/ts60/ch1022/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",CBC
+http://89.248.171.141/ts60/ch1173/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",CBC Drama
+http://89.248.171.141/ts60/ch1172/index.m3u8?v=1548652116
+#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
+http://178.33.88.129:888/udp/239.102.0.47:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2
+http://178.33.88.129:888/udp/239.102.0.48:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
+http://178.33.88.129:888/udp/239.102.0.49:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Hikayat
+http://178.33.88.129:888/udp/239.102.0.51:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Hikayat 2
+http://178.33.88.129:888/udp/239.102.0.52:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
+http://178.33.88.129:888/udp/239.102.0.184:1234
+#EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
+http://178.33.88.129:888/udp/239.102.0.133:1234
+#EXTINF:0 group-title="Aflam & Drama",Dream 1
+http://89.248.171.141/ts60/ch1232/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Dream 2
+http://89.248.171.141/ts60/ch1230/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Hayah 1
+http://89.248.171.141/ts60/ch1300/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Hayah 2
+http://89.248.171.141/ts60/ch1270/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Masriah TV
+http://89.248.171.141/ts60/ch1199/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Oscar Drama
+http://89.248.171.141/ts60/ch1103/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Panorama Drama
+http://89.248.171.141/ts60/ch1035/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Panorama Drama 2
+http://89.248.171.141/ts60/ch1319/index.m3u8?v=1548652116
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
+http://178.33.88.129:888/udp/239.102.0.188:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
+http://178.33.88.129:888/udp/239.102.0.187:1234
+#EXTINF:0 group-title="Aflam & Drama",Rotana Khalijiah
+http://89.248.171.141/ts60/ch1140/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Rotana Masriah
+http://89.248.171.141/ts60/ch1142/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Sada Elbalad Drama
+http://89.248.171.141/ts60/ch1166/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Sada Elbalad HD
+http://89.248.171.141/ts60/ch1217/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Nahar 1
+http://89.248.171.141/ts60/ch1170/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Nahar 2
+http://89.248.171.141/ts60/ch1162/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Nahar Drama 1
+http://89.248.171.141/ts60/ch1171/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Nahar Drama +2
+http://89.248.171.141/ts60/ch1161/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Qahera we El Nas
+http://89.248.171.141/ts60/ch1196/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Nile Drama
+http://89.248.171.141/ts60/ch1224/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Nile Family
+http://89.248.171.141/ts60/ch1220/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Abu Dhabi Drama
+http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",OTV Lebanon
+http://89.248.171.141/ts60/ch1048/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Al Jadeed
+http://89.248.171.141/ts60/ch1285/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",Future TV
+http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",LBC
+http://89.248.171.141/ts60/ch1020/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",LDC Lebanon
+http://89.248.171.141/ts60/ch1205/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",MTV Lebanon
+http://89.248.171.141/ts60/ch1266/index.m3u8?v=1548652116
+#EXTINF:0 group-title="Aflam & Drama",El Mehwar 1
+http://89.248.171.141/ts60/ch1215/index.m3u8?v=1548652116
+#EXTINF:-1 group-title="Aflam & Drama",Aliskandarya
+http://178.33.88.129:888/udp/239.102.0.220:1234
+#EXTINF:-1 group-title="Arabic Music",MH
+http://178.33.88.129:888/udp/239.102.0.219:1234
+
+#EXTINF:-1 group-title="Arabic Music",Manassem Music AR
+http://178.33.88.129:888/udp/239.102.0.130:1234
+#EXTINF:-1 group-title="Arabic Music",Aghanina
+http://178.33.88.129:888/udp/239.102.0.217:1234
+#EXTINF:-1 group-title="Arabic Music",Arabica
+http://178.33.88.129:888/udp/239.102.0.204:1234
+#EXTINF:-1 group-title="Arabic Music",Mazika
+http://178.33.88.129:888/udp/239.102.0.183:1234
+#EXTINF:-1 group-title="Arabic Music",Musicplus AR
+http://178.33.88.129:888/udp/239.102.0.113:1234
+#EXTINF:-1 group-title="Arabic Music",Melody AR
+http://178.33.88.129:888/udp/239.102.0.110:1234
+#EXTINF:-1 group-title="Arabic Music",Aghanina
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png"group-title="Arabic",Aljazeera
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
+#EXTINF:-1 group-title="Arabic",Aljazeera Mubasher
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
  
 
 
