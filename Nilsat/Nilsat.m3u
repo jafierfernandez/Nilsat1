@@ -6,17 +6,23 @@
 
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/num/2m_monde.png" group-title="Arabic",2M
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+http://37.187.254.104/origin02/amlst:2m-maroc/chunklist_w202705287_b800000.m3u8
 #EXTINF:-1 group-title="Arabic",Medi 1
 http://178.33.88.129:888/udp/239.102.0.252:1234
 #EXTINF:-1 group-title="Arabic",Al Aoula 
-http://178.33.88.129:888/udp/239.102.0.137:1234
+http://bit.ly/1TJhpGh
 #EXTINF:-1 group-title="Arabic",Arryadia 
-http://178.33.88.129:888/udp/239.102.0.141:1234
+http://bit.ly/1UMlvQq
 #EXTINF:-1 group-title="Arabic",Almaghribia
-http://178.33.88.129:888/udp/239.102.0.198:1234
-#EXTINF:-1 group-title="Arabic",Assadisa
-http://178.33.88.129:888/udp/239.102.0.243:1234
+http://bit.ly/1hG9u0v
+#EXTINF:-1 group-title="Arabic",Tamazight
+http://bit.ly/1UMljAp
+#EXTINF:-1 group-title="Arabic",Athaqafia
+http://bit.ly/1K0aFTz
+#EXTINF:-1 group-title="Arabic",Assadissa
+http://bit.ly/1TJihL3
+#EXTINF:-1 group-title="Arabic",Almagharibia
+http://bit.ly/1NlhiB4
 
 #EXTINF:-1 group-title="Arabic", Jeem Kids
 
@@ -234,6 +240,8 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Ajmaan tv
 http://77.67.34.22/AJMAN_TV?gmswf=702871368
+#EXTINF:-1 group-title="Arabic",Albadawiyah
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=albadawiyah
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv1.png"group-title="Arabic",Assaodia 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv2.png"group-title="Arabic", Assaodia 2
