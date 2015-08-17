@@ -30,25 +30,23 @@ https://api.new.livestream.com/accounts/7861901/events/3698527/videos/79175700.s
 
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
  
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/ajyal_tv_sa.png"group-title="Arabic",Agyal
+#EXTINF:-1 group-title="Arabic",Agyal
 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
- #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jeem_tv_qa_europe.png"group-title="Arabic",AlJazeera Children
+ #EXTINF:-1 group-title="Arabic",AlJazeera Children
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png"group-title="Arabic",Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-#EXTINF:-1 group-title="Arabic",Aljazeera Mubasher
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_arabiya_plus3.png"group-title="Arabic",Al Arabia
+#EXTINF:-1 group-title="Arabic",Aljazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
+#EXTINF:-1 group-title="Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_hadath_ae.png"group-title="Arabic",Al Hadath
+#EXTINF:-1 group-title="Arabic",Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mekameleen_tv_eg.png"group-title="Arabic",Mekammelin
+#EXTINF:-1 group-title="Arabic",Mekammelin
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/misr_alaan_eg.png"group-title="Arabic",Misr Alaan
+#EXTINF:-1 group-title="Arabic",Misr Alaan
 http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1344100_slen.m3u8
 
 #EXTINF:-1 group-title="Arabic",TAGHIER
