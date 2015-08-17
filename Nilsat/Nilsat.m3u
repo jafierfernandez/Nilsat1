@@ -52,23 +52,22 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
 #EXTINF:-1 group-title="Arabic",TAGHIER
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_aan_tv.png"group-title="Arabic",ALAAN TV
+#EXTINF:-1 group-title="Arabic",ALAAN TV
 http://195.244.40.204:8001/1:0:1:9:1FF:2BE:1040000:0:0:0:
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_rayyan_tv.png"group-title="Arabic",Arrayan
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/halab_today_tv_sy.png"group-title="Arabic",Halab Today TV
+#EXTINF:-1 group-title="Arabic",Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_documentary.png"group-title="Arabic",Aljazeera Doc
+#EXTINF:-1 group-title="Arabic",Aljazeera Doc
  http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/ann.png"group-title="Arabic",ANN 
+#EXTINF:-1 group-title="Arabic",ANN 
  rtmp://ns8.indexforce.com/ann/ann
- #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bbc_arabic.png"group-title="Arabic",BBC Arabia
+ #EXTINF:-1 group-title="Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sharjah_tv.png"group-title="Arabic",Sharjah
+#EXTINF:-1 group-title="Arabic",Arrayan
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
+#EXTINF:-1 group-title="Arabic",Sharjah
  rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
 #EXTINF:-1 group-title="Arabic",Sharjah karbalah
@@ -80,9 +79,9 @@ http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b12
 #EXTINF:-1 group-title="Arabic", Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/dubai_tv.png"group-title="Arabic",Dubai TV
+#EXTINF:-1 group-title="Arabic",Dubai TV
  http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/noor_dubai_tv.png"group-title="Arabic",Noor Dubai
+#EXTINF:-1 group-title="Arabic",Noor Dubai
  http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
 
 #EXTINF:-1 group-title="Arabic", Dubai ONE
@@ -102,9 +101,9 @@ http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/chu
 #EXTINF:-1 group-title="Arabic",LBC
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1439853820&habazlamwowzastarttime=0&habazlamwowzastcustom=1439810624&habazlamhash=nf_fp_HbMdhYaR-e5664cyAcoDTWl4XcTjKykCDLsXY=
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv1.png"group-title="Arabic",Assaodia 1
+#EXTINF:-1 group-title="Arabic",Assaodia 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv2.png"group-title="Arabic", Assaodia 2
+#EXTINF:-1 group-title="Arabic", Assaodia 2
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Alekhbariya 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel01/_definst_/live.m3u8
@@ -116,19 +115,19 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live.m3
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_danah_tv.png"group-title="Arabic",Aldanah
 http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/funoon_tv_kw.png"group-title="Arabic",Funoon TV
+#EXTINF:-1 group-title="Arabic",Funoon TV
  http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/oman_tv.png"group-title="Arabic",Saltanat Oman
+#EXTINF:-1 group-title="Arabic",Saltanat Oman
 http://38.96.148.30:1935/live/omantv3/chunklist.m3u8?wowzasessionid=1751231831&v=1342104563
 
 #EXTINF:-1 group-title="Arabic",Bahrain
 rtmp://alayam.netromedia.net/btv2/btv2
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/qq/qatar_tv.png"group-title="Arabic",Qatar
+#EXTINF:-1 group-title="Arabic",Qatar
  rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
-#EXTINF:-1 zvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/ktv_1.png"group-title="Arabic",Kuwait 1
+#EXTINF:-1 group-title="Arabic",Kuwait 1
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv1_720/chunklist_w888294134.m3u8 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/ktv_2.png"group-title="Arabic",Kuwait 2
+#EXTINF:-1 group-title="Arabic",Kuwait 2
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv2_720/chunklist_w237563478.m3u8
 #EXTINF:-1 group-title="Arabic",Ethraa TV
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv5_480/chunklist_w1382948548.m3u8
@@ -140,7 +139,7 @@ http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv8_480/chu
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv7_480/chunklist_w1544894510.m3u8
 #EXTINF:-1 group-title="Arabic",Alwatan
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/roya_tv_jo.png"group-title="Arabic",Roya TV
+#EXTINF:-1 group-title="Arabic",Roya TV
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
