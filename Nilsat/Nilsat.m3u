@@ -124,7 +124,7 @@ http://38.96.148.30:1935/live/omantv3/chunklist.m3u8?wowzasessionid=1751231831&v
 rtmp://alayam.netromedia.net/btv2/btv2
 
 #EXTINF:-1 group-title="Arabic",Qatar
- rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
+ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_169s30.m3u8
 #EXTINF:-1 group-title="Arabic",Kuwait 1
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv1_720/chunklist_w888294134.m3u8 
 #EXTINF:-1 group-title="Arabic",Kuwait 2
