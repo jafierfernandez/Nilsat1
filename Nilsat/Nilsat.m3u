@@ -108,13 +108,13 @@ https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlam
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/saudi_tv2.png"group-title="Arabic", Assaodia 2
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8?v=1342104684
-#EXTINF:-1 group-title="Arabic",Alekhbariya TV
+#EXTINF:-1 group-title="Arabic",Alekhbariya 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel01/_definst_/live.m3u8
-#EXTINF:-1 group-title="Arabic",Athaqafiya TV
+#EXTINF:-1 group-title="Arabic",Athaqafiya 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live.m3u8
-#EXTINF:-1 group-title="Arabic",Aleqtisadiya TV
+#EXTINF:-1 group-title="Arabic",Aleqtisadiya 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live.m3u8
-#EXTINF:-1 group-title="Arabic",Alriyadiya TV
+#EXTINF:-1 group-title="Arabic",Alriyadiya 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_danah_tv.png"group-title="Arabic",Aldanah
 http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
