@@ -99,7 +99,7 @@ http://50.7.120.138:2095/royal/royaledhak.stream/chunklist.m3u8
 http://50.7.120.138:2095/royal/royalsecrets.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Aldafrah TV
 http://live.aldafrah.tv:1935/live/aldafrah3/playlist_b419993_w1375558218.m3u8
-group-title="Arabic",Alrai TV
+#EXTINF:-1 group-title="Arabic",Alrai TV
 http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/chunklist_w1306710278.m3u8
 #EXTINF:-1 group-title="Arabic",LBC
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1439853820&habazlamwowzastarttime=0&habazlamwowzastcustom=1439810624&habazlamhash=nf_fp_HbMdhYaR-e5664cyAcoDTWl4XcTjKykCDLsXY=
@@ -195,8 +195,7 @@ rtmp://66.23.237.233:1935/alkout/alkout
 rtmp://46.43.64.166:1935/flv/mp4:flv
 #EXTINF:-1 group-title="Arabic",Libya TV
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1 group-title="Arabic",Alhurra TV
-rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
+
 
 
 
