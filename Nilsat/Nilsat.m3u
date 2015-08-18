@@ -60,8 +60,12 @@ rtmp://streaming.tootvs.com/8010/8010
  #EXTINF:-1 group-title="Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-
-
+#EXTINF:-1 group-title="Arabic",Alnahar
+http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alnahar Alyoum
+http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alnahar Drama
+http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Sharjah
@@ -140,6 +144,8 @@ http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv8_480/chu
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv7_480/chunklist_w1544894510.m3u8
 #EXTINF:-1 group-title="Arabic",Alwatan
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
+#EXTINF:-1 group-title="Arabic",Al Kout TV
+rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1 group-title="Arabic",Roya TV
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 #EXTINF:-1 group-title="Arabic",Almehwar
@@ -182,8 +188,7 @@ http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
 
 #EXTINF:0 group-title="Arabic",Jordan
  rtmp://64.251.14.168/jorlive/jrtv
-#EXTINF:-1 group-title="Arabic",Al Kout TV
-rtmp://66.23.237.233:1935/alkout/alkout
+
 
 #EXTINF:-1 group-title="Arabic",Talaqie
  rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
