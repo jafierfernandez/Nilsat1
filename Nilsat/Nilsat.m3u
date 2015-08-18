@@ -21,10 +21,7 @@ http://bit.ly/1UMljAp
 http://bit.ly/1K0aFTz
 #EXTINF:-1 group-title="Arabic",Assadissa
 http://bit.ly/1TJihL3
-#EXTINF:-1 group-title="Arabic",Almagharibia 1
-https://api.new.livestream.com/accounts/9841337/events/3348791/videos/72909927.secure.m3u8
-#EXTINF:-1 group-title="Arabic",Almagharibia 2
-https://api.new.livestream.com/accounts/7861901/events/3698527/videos/79175700.secure.m3u8
+
 
 #EXTINF:-1 group-title="Arabic", Jeem Kids
 
@@ -101,6 +98,8 @@ http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/chu
 #EXTINF:-1 group-title="Arabic",LBC
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1439853820&habazlamwowzastarttime=0&habazlamwowzastcustom=1439810624&habazlamhash=nf_fp_HbMdhYaR-e5664cyAcoDTWl4XcTjKykCDLsXY=
 
+
+
 #EXTINF:-1 group-title="Arabic",Assaodia 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic", Assaodia 2
@@ -147,7 +146,8 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanf
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 
 
-
+#EXTINF:0 group-title="Arabic",Future TV
+http://89.248.171.141/ts60/ch1014/index.m3u8
 #EXTINF:-1 group-title="Arabic",Aljadeed
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",MTV Liban
@@ -170,11 +170,11 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_quds.png"group-title="Arabic",Alaqsa
+#EXTINF:-1 group-title="Arabic",Alquds
+http://qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Arabic",Alaqsa
 http://144.76.98.131:1935/aqsatv/live/tv/chunklist_w1351771762.m3u8?v=1342104563
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_sharqiya_tv_iq.png"group-title="Arabic",Al Sharqiya
+#EXTINF:-1 group-title="Arabic",Al Sharqiya
 http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
 
 
@@ -185,9 +185,9 @@ http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
 #EXTINF:-1 group-title="Arabic",Al Kout TV
 rtmp://66.23.237.233:1935/alkout/alkout
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/talaqie_tv_sy.png"group-title="Arabic",Talaqie
+#EXTINF:-1 group-title="Arabic",Talaqie
  rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
- #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/palestine_satellite_channel.png"group-title="Arabic",Palestine
+ #EXTINF:-1 group-title="Arabic",Palestine
  rtmp://vstream2.hadara.ps:1935/pbc/mp4:pbc_1
 
 #EXTINF:-1 group-title="Arabic",Palestine Today
