@@ -3,8 +3,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Arabic",Test Smil
-http://www.smc.ae/smcplayer/smcplayer/smc1cdn.smil
+
 #EXTINF:-1 group-title="Arabic",2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Medi 1
@@ -72,7 +71,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v
  rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
 #EXTINF:-1 group-title="Arabic",Sharjah karbalah
-rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p
+rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv
 #EXTINF:-1 group-title="Arabic",Dubai Drama
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Arabic",Dubai Zaman
