@@ -152,7 +152,7 @@ http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 
 
 #EXTINF:0 group-title="Arabic",Future TV
-http://89.248.171.141/ts60/ch1014/index.m3u8
+rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1 group-title="Arabic",Aljadeed
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",MTV Liban
@@ -313,7 +313,7 @@ http://89.248.171.141/ts60/ch1048/index.m3u8?v=1548652116
 #EXTINF:0 group-title="Aflam & Drama",Al Jadeed
 http://89.248.171.141/ts60/ch1285/index.m3u8?v=1548652116
 #EXTINF:0 group-title="Aflam & Drama",Future TV
-http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116
+rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:0 group-title="Aflam & Drama",LBC
 http://89.248.171.141/ts60/ch1020/index.m3u8?v=1548652116
 #EXTINF:0 group-title="Aflam & Drama",LDC Lebanon
