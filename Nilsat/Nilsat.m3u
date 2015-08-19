@@ -73,19 +73,29 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v
 #EXTINF:-1 group-title="Arabic",Sharjah karbalah
 rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv
 #EXTINF:-1 group-title="Arabic",Dubai Drama
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Dubai Zaman
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic",Dubai TV
+#EXTINF:-1 group-title="Arabic",Dubai 
  http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Noor Dubai
- http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
+ http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Arabic", Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic", Dubai Racing
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic", Dubai Racing 2
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic", Dubai Sport
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic", Dubai Sport Premium
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Arabic",Ajman TV
 http://77.67.34.22/AJMAN_TV?gmswf=702871368
 #EXTINF:-1 group-title="Arabic",Albadawiyah
