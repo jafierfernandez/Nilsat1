@@ -148,7 +148,7 @@ http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 group-title="Arabic",LBC
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1440056118&habazlamwowzastarttime=0&habazlamwowzastcustom=1440012922&habazlamhash=Cuy9aTj-n_gRkCZ8n9Oev-X0Bo4HfvY52NjUKHk-pfA=
-#EXTINF:0 group-title="Arabic",Future TV
+#EXTINF:-1 group-title="Arabic",Future TV
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1 group-title="Arabic",Aljadeed
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
