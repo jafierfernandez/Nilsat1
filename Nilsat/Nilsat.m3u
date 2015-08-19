@@ -3,8 +3,8 @@
 #EXTM3U
 
 
-
-
+#EXTINF:-1 group-title="Arabic",Test Smil
+http://www.smc.ae/smcplayer/smcplayer/smc1cdn.smil
 #EXTINF:-1 group-title="Arabic",2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Medi 1
@@ -99,9 +99,6 @@ http://50.7.120.138:2095/royal/royalsecrets.stream/chunklist.m3u8
 http://live.aldafrah.tv:1935/live/aldafrah3/playlist_b419993_w1375558218.m3u8
 #EXTINF:-1 group-title="Arabic",Alrai TV
 http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/chunklist_w1306710278.m3u8
-#EXTINF:-1 group-title="Arabic",LBC
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/chunklist_w1675477213_b625000_tkaGFiYXpsYW1lbmR0aW1lPTE0Mzk5NjIzOTkmaGFiYXpsYW13b3d6YXN0YXJ0dGltZT0wJmhhYmF6bGFtd293emFzdGN1c3RvbT0xNDM5OTE5MjAzJmhhYmF6bGFtaGFzaD1tWnpBSFh1YVBmbm1KbzNIY3l1UEVzUmpLYUJiTUxQWl9mSDVZN185Q0NBPQ==.m3u8
-
 
 #EXTINF:-1 group-title="Arabic",Assaodia 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
@@ -150,7 +147,8 @@ rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 
-
+#EXTINF:-1 group-title="Arabic",LBC
+https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1440056118&habazlamwowzastarttime=0&habazlamwowzastcustom=1440012922&habazlamhash=Cuy9aTj-n_gRkCZ8n9Oev-X0Bo4HfvY52NjUKHk-pfA=
 #EXTINF:0 group-title="Arabic",Future TV
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1 group-title="Arabic",Aljadeed
