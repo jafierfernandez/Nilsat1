@@ -24,7 +24,7 @@ http://bit.ly/1TJihL3
 
 #EXTINF:-1 group-title="Arabic", Jeem Kids
 
-http://brightcove03-f.akamaihd.net/jeem_mena_400@95898?gmswf=1342105853
+http://brightcove03-f.akamaihd.net/jeem_europelive_400@95898?__nn__=4345801235001&hdnea=1440081900_906b871c709d7c5bc379fba76629ab7e&videoId=4118613044001&lineUpId=&pubId=2014288370001&playerId=2632434441001&affiliateId=&v=3.4.0&fp=WIN%2018,0,0,232&r=ODFRW&g=XUJCGVOMRLFF
 #EXTINF:-1 group-title="Arabic",Agyal
 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
@@ -171,16 +171,22 @@ rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 #EXTINF:-1 group-title="Arabic",OTV 
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Syria
- http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+ rtsp://82.137.248.16:1935/Sat/SatLive3
 
 #EXTINF:-1 group-title="Arabic", Sama Syria
  rtmp://sama-tv.net/live/samatv
 
 #EXTINF:-1 group-title="Arabic", Syria Aloula
- http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+ rtsp://82.137.248.21:1935/Aloula/AloulaLive3
 
 #EXTINF:-1 group-title="Arabic", Syria Drama
- http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+ http://82.137.248.21:1935/Drama/smil:Drama_Auto.smil/playlist.m3u8?HQ=1
+#EXTINF:-1 group-title="Arabic",Nour Echamm
+rtsp://82.137.248.21:1935/Nour/NourLive3
+#EXTINF:-1 group-title="Arabic",Syria Educ
+rtsp://82.137.248.20:1935/SEdu/SEduLive3
+#EXTINF:-1 group-title="Arabic",Ogarit TV
+rtsp://82.137.248.21:1935/Ugarit/UgaritLive
 
 
 
