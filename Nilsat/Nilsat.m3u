@@ -241,19 +241,19 @@ http://tayba.live.net.sa:1935/live/taybatv/chunklist_w164378222.m3u8
 
 
 
-#EXTINF:-1 group-title="Arabic Music",Manassem Music AR
+#EXTINF:-1 group-title="Arabic Music",Wanasah
 http://178.33.88.129:888/udp/239.102.0.130:1234
 #EXTINF:-1 group-title="Arabic Music",Aghanina
 http://178.33.88.129:888/udp/239.102.0.217:1234
 #EXTINF:-1 group-title="Arabic Music",Arabica
 http://178.33.88.129:888/udp/239.102.0.204:1234
-#EXTINF:-1 group-title="Arabic Music",Mazika
+#EXTINF:-1 group-title="Arabic Music",Mazzika
 http://178.33.88.129:888/udp/239.102.0.183:1234
 #EXTINF:-1 group-title="Arabic Music",Musicplus AR
 http://178.33.88.129:888/udp/239.102.0.113:1234
-#EXTINF:-1 group-title="Arabic Music",Melody AR
+#EXTINF:-1 group-title="Arabic Music",Melody 
 http://178.33.88.129:888/udp/239.102.0.110:1234
-#EXTINF:-1 group-title="Arabic Music",Aghanina
+#EXTINF:-1 group-title="Arabic Music",Aghani
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 
@@ -594,12 +594,7 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:0 group-title="English",C MORE- First
- http://188.138.9.228:8024
- #EXTINF:0 group-title="English",C MORE- Emotion
- http://188.138.9.228:8025
- #EXTINF:0 group-title="English",C MORE- Action
- http://188.138.9.228:8035
+
 
 #EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
 http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=81.17.18.52
@@ -654,67 +649,7 @@ http://pebbles106-lh.akamaihd.net/i/skynews_1@97511/master.m3u8|X-Forwarded-For=
 
 
 
-#EXTINF:0 group-title="Italiano",Premium Cinema
- http://109.202.195.76:5013
- #EXTINF:0 group-title="Italiano",Premium Cinema 2
- http://109.202.195.76:5014
- #EXTINF:0 group-title="Italiano",Cinema HD
- http://212.51.148.162:2010/hdmi
- 
- #EXTINF:0 group-title="Italiano",Cinema Comedy HD
-http://212.51.148.162:2012/hdmi
-#EXTINF:0 group-title="Italiano",SKY Cinema Max
- http://212.51.146.19:4003
-#EXTINF:0 group-title="Italiano",SKY Cinema 1
- http://212.51.156.151:3012
- #EXTINF:0 group-title="Italiano",SKY Cinema Family
- http://109.202.195.76:5005
-#EXTINF:0 group-title="Italiano",Cinema Passion HD
- http://212.51.148.162:2007/hdmi
- #EXTINF:0 group-title="Italiano",Cinema Classics
- http://212.51.156.151:3007
- #EXTINF:0 group-title="Italiano",SKY Cinema Hits
- http://212.51.146.19:4002
- #EXTINF:0 group-title="Italiano",FOX
- http://212.51.146.19:4008
- #EXTINF:0 group-title="Italiano",Fox Crime
- http://212.51.156.151:3008
- #EXTINF:0 group-title="Italiano",Cult
- http://109.202.195.76:5006
- #EXTINF:0 group-title="Italiano",AXN
- http://212.51.156.151:3009
- #EXTINF:0 group-title="Italiano",Sky TG 24 Meteo
- http://212.51.146.19:4006
- #EXTINF:0 group-title="Italiano",Nat Geographic
- http://212.51.146.19:4001
- #EXTINF:0 group-title="Italiano",Gambero-rosso
- http://212.51.146.19:4005
- #EXTINF:0 group-title="Italiano",Nat Geo Wild
- http://109.202.195.76:5004
- #EXTINF:0 group-title="Italiano",Discovery Channel
- http://109.202.195.76:5002
- #EXTINF:0 group-title="Italiano",Disney Channel
- http://109.202.195.76:5000
- #EXTINF:0 group-title="Italiano",Premium Sport
- http://212.51.146.19:4009
- #EXTINF:0 group-title="Italiano",Sky Atlantic HD
- http://212.51.148.162:2000/hdmi
- #EXTINF:0 group-title="Italiano",Sky Supercalcio HD
- http://212.51.148.162:2001/hdmi
- #EXTINF:0 group-title="Italiano",Sky Uno HD
- http://212.51.148.162:2002/hdmi
- #EXTINF:0 group-title="Italiano",Sky Sport HD
- http://212.51.148.162:2003/hdmi
- #EXTINF:0 group-title="Italiano",Sky Arte HD
- http://212.51.148.162:2004/hdmi
- #EXTINF:0 group-title="Italiano",Sky Sport HD
- http://212.51.148.162:2005/hdmi
- #EXTINF:0 group-title="Italiano",RSI LA 2
- http://212.51.148.162:2008/hdmi
- #EXTINF:0 group-title="Italiano",RSI LA 1
- http://212.51.148.162:2009/hdmi
-#EXTINF:0 group-title="Italiano",Fox Animation HD
- http://212.51.156.151:3014
+
 #EXTINF:-1 tvg-id="0601" group-title="Italiano" tvg-logo="0602.png",[COLOR orangered]RSI LA 1 HD[/COLOR]
 http://pebbles103-lh.akamaihd.net/i/rsila1hd_1@97410/master.m3u8|X-Forwarded-For=81.17.18.53
 #EXTINF:-1 tvg-id="0603" group-title="Italiano" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
@@ -753,145 +688,7 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
-#EXTINF:-1 tvg-name="Canal+" tvg-logo="" group-title="Movistar+",Canal+
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/74.ts
-    #EXTINF:-1 tvg-name="Canal+ Accion" tvg-logo="http://3.bp.blogspot.com/-yxaCmHGFMt4/UoVCw3jsYOI/AAAAAAAAADM/MPC5VEgDwVU/s1600/accion.png" group-title="Movistar+",Canal+ Accion
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/5.ts
-    #EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://4.bp.blogspot.com/-v-y3snlbCb4/UoVKMnx2xuI/AAAAAAAAAEA/yFj4EuAwvd0/s1600/comedia.png" group-title="Movistar+",Canal+ Comedia
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/6.ts
-    #EXTINF:-1 tvg-name="Canal+ DCine" tvg-logo="http://lacajatv.es/logos/logoplusdcine.jpg" group-title="Movistar+",Canal+ DCine
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/4.ts
-    #EXTINF:-1 tvg-name="Canal+ DCine ES" tvg-logo="" group-title="Movistar+",Canal+ DCine ES
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/227.ts
-    #EXTINF:-1 tvg-name="Cine 3D" tvg-logo="" group-title="Movistar+",Cine 3D
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/285.ts
-    #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://www.diesl.com/wp-content/uploads/2012/03/canal-plus-logo-330x200.jpg" group-title="Movistar+",Canal+ Estrenos
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/2.ts
-    #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="" group-title="Movistar+",Canal+ Series
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/37.ts
-    #EXTINF:-1 tvg-name="Canal+ Series Xtra" tvg-logo="http://3.bp.blogspot.com/-jI1p15jFM28/UoVJ7ylsy8I/AAAAAAAAAD0/JH20suiCyRM/s1600/canal2.png" group-title="Movistar+",Canal+ Series Xtra
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/3.ts
-    #EXTINF:-1 tvg-name="Canal+ Xtra" tvg-logo="" group-title="Movistar+",Canal+ Xtra
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/91.ts
-    #EXTINF:-1 tvg-name="AMC" tvg-logo="http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2014/02/amc-logo-325.jpg" group-title="Movistar+",AMC
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/50.ts
-    #EXTINF:-1 tvg-name="TCM" tvg-logo="" group-title="Movistar+",TCM
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/274.ts
-    #EXTINF:-1 tvg-name="AXN" tvg-logo="http://lacajatv.es/logos/logoaxn.jpg" group-title="Movistar+",AXN
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/1.ts
-    #EXTINF:-1 tvg-name="AXN White" tvg-logo="http://4.bp.blogspot.com/-THNydqMtc5k/T4RkVD4oWWI/AAAAAAAACF8/mvWzv3NeBgI/s1600/AXN+White+logo.png" group-title="Movistar+",AXN White
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/35.ts
-    #EXTINF:-1 tvg-name="Calle 13" tvg-logo="http://lacajatv.es/logos/logocalle13.jpg" group-title="Movistar+",Calle 13
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/8.ts
-    #EXTINF:-1 tvg-name="FOX" tvg-logo="http://lacajatv.es/logos/logofox.jpg" group-title="Movistar+",FOX
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/7.ts
-    #EXTINF:-1 tvg-name="FOX Life" tvg-logo="http://satcesc.com/p/fox-life.png" group-title="Movistar+",FOX Life
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/48.ts
-    #EXTINF:-1 tvg-name="TNT" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="Movistar+",TNT
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/9.ts
-    #EXTINF:-1 tvg-name="Hollywood" tvg-logo="http://lacajatv.es/logos/logohollywood.jpg" group-title="Movistar+",Hollywood
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/10.ts
-    #EXTINF:-1 tvg-name="Syfy" tvg-logo="http://www.hdicon.com/wp-content/uploads/2013/06/Syfy_2009.png" group-title="Movistar+",Syfy
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/44.ts
-    #EXTINF:-1 tvg-name="Cosmo" tvg-logo="http://tv.orange.es/UpImages/2222/cosmo_grande_a0df862b7ad647c6b2741a34f.jpg" group-title="Movistar+",Cosmo
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/43.ts
-    #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="http://www.satfreak.net/wp-content/uploads/Comedy-Central-Polska.png" group-title="Movistar+",Comedy Central
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/47.ts
-    #EXTINF:-1 tvg-name="Movistar F1" tvg-logo="" group-title="Movistar+",Movistar F1
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/56.ts
-    #EXTINF:-1 tvg-name="Movistar GP" tvg-logo="" group-title="Movistar+",Movistar GP
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/57.ts
 
-
-
-
-
-    #EXTINF:-1 tvg-name="Calle 13" tvg-logo="http://lacajatv.es/logos/logocalle13.jpg" group-title="Español",Calle 13
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/8.ts
-#EXTINF:-1 tvg-name="Teledeporte" tvg-logo="" group-title="Español",Teledeporte
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/97.ts
-#EXTINF:-1 tvg-name="Boing" tvg-logo="" group-title="Español",Boing
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/243.ts
-#EXTINF:-1 tvg-name="Discovery MAX" tvg-logo="" group-title="Español",Discovery MAX
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/251.ts
-    #EXTINF:-1 tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TVE_La1_logo_since_2008.png/150px-TVE_La1_logo_since_2008.png" group-title="Español",La 1
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/21.ts
-    #EXTINF:-1 tvg-name="La 2" tvg-logo="http://new.adicae.org/img/news/logo-la2.png" group-title="Español",La 2
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/27.ts
-    #EXTINF:-1 tvg-name="Antena 3" tvg-logo="http://www.televivienda.es/Portals/0/mis%20imagenes/antena3-Logo.jpg" group-title="Español",Antena 3
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/19.ts
-    #EXTINF:-1 tvg-name="Cuatro" tvg-logo="http://3.bp.blogspot.com/_-uEx1VwEKXs/ScbjS5NLzjI/AAAAAAAAAFg/Zn4QoOF0aSs/s200/200px-Cuatro_logo.svg.png" group-title="Español",Cuatro
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/22.ts
-    #EXTINF:-1 tvg-name="Telecinco" tvg-logo="http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png" group-title="Español",Telecinco
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/23.ts
-    #EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://nociones.files.wordpress.com/2010/06/la-sexta.jpg" group-title="Español",La Sexta
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/20.ts
-    #EXTINF:-1 tvg-name="NEOX" tvg-logo="" group-title="Español",NEOX
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/95.ts
-    #EXTINF:-1 tvg-name="NOVA" tvg-logo="" group-title="Español",NOVA
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/96.ts
-    #EXTINF:-1 tvg-name="MEGA" tvg-logo="http://lacajatv.es/logos/logomega.jpg" group-title="Español",MEGA
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/26.ts
-    #EXTINF:-1 tvg-name="TV Canaria" tvg-logo="" group-title="Español",TV Canaria
-    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/264.ts
-    
-    #EXTINF:-1,ISAT 
-http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
-#EXTINF:-1,AMC 
-http://31.220.40.115/LiveEdgeTesting/AMCLASD/playlist.m3u8?token=
-#EXTINF:-1,SYFY 
-http://31.220.41.111/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
-#EXTINF:-1,MUNDO FOX 
-http://31.220.41.111/LiveEdgeTesting/_definst_/MundoFoxSD/playlist.m3u8?token=
-#EXTINF:-1,FOX LIFE 
-http://31.220.41.111/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
-#EXTINF:-1,TNT SERIES 
-http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/chunklist_w1777499773_b1000000.m3u8?token=
-#EXTINF:-1,Ultra Cine HD  
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1, MAX UP 
-http://31.220.40.118/LiveEdgeTesting/MaxUPSD/playlist.m3u8?token=
-#EXTINF:-1,MAX 
-http://31.220.41.111/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
-#EXTINF:-1,MAX PRIME ESTE 
-http://31.220.41.111/LiveEdgeTesting/MaxPrimeLASD/playlist.m3u8?token=
-#EXTINF:-1,MAX PRIME OESTE 
-http://31.220.40.108/LiveEdgeTesting/MaxPrime2LASD/playlist.m3u8?token=
-#EXTINF:-1,FOX 1 ESTE 
-http://31.220.41.111/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
-#EXTINF:-1,FOX 1 OESTE 
-http://31.220.40.117/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
- 
-#EXTINF:-1,FOX ACTION 
-http://31.220.41.111/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
-#EXTINF:-1,FOX ACTION OESTE 
-http://31.220.41.103/LiveEdgeTesting/FOXActionOesteLASD/playlist.m3u8?token=
-#EXTINF:-1,FOX MOVIES 
-http://31.220.41.111/LiveEdgeTesting/FOXMoviesLASD/playlist.m3u8?token=
-#EXTINF:-1,FOX FAMILY 
-http://31.220.41.111/LiveEdgeTesting/FOXFamilyLASD/playlist.m3u8?token=
-#EXTINF:-1,FOX CLASSICS 
-http://31.220.41.102/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
-#EXTINF:-1,FOX CINEMA 
-http://31.220.40.108/LiveEdgeTesting/FoxCinemaSD/playlist.m3u8?token=
-#EXTINF:-1,FOX COMEDY 
-http://31.220.41.111/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?token=
-    
-   
-    #EXTINF:-1 tvg-name="Digitele Taquilla 1" tvg-logo="http://pics.filmaffinity.com/Terminator_G_nesis-844929699-main.jpg" group-title="Taquillas",Digitele Taquilla 1
-    http://digiteletv.iptvpremium.eu:8000/movie/rojadirecta/iptvpremium.eu<---registaraqui/78.mp4
-    #EXTINF:-1 tvg-name="Digitele Taquilla 2" tvg-logo="http://pics.filmaffinity.com/San_Andr_s-397400007-main.jpg" group-title="Taquillas",Digitele Taquilla 2
-    http://digiteletv.iptvpremium.eu:8000/movie/rojadirecta/iptvpremium.eu<---registaraqui/79.mp4
-    #EXTINF:-1 tvg-name="Digitele Taquilla 3" tvg-logo="http://pics.filmaffinity.com/Horns-164499464-main.jpg" group-title="Taquillas",Digitele Taquilla 3
-    http://digiteletv.iptvpremium.eu:8000/movie/rojadirecta/iptvpremium.eu<---registaraqui/80.mp4
-    #EXTINF:-1 tvg-name="Digitele Taquilla 4" tvg-logo="http://pics.filmaffinity.com/Los_Minions-199956794-main.jpg" group-title="Taquillas",Digitele Taquilla 4
-    http://digiteletv.iptvpremium.eu:8000/movie/rojadirecta/iptvpremium.eu<---registaraqui/81.mp4
-    #EXTINF:-1 tvg-name="Digitele Taquilla 5" tvg-logo="http://pics.filmaffinity.com/La_serie_Divergente_Insurgente-483872859-main.jpg" group-title="Taquillas",Digitele Taquilla 5
-    http://digiteletv.iptvpremium.eu:8000/movie/rojadirecta/iptvpremium.eu<---registaraqui/82.mp4
-    #EXTINF:-1 tvg-name="Digitele Taquilla 6" tvg-logo="http://pics.filmaffinity.com/El_ni_o_44-181709090-main.jpg" group-title="Taquillas",Digitele Taquilla 6
-    http://digiteletv.iptvpremium.eu:8000/movie/rojadirecta/iptvpremium.eu<---registaraqui/83.mp4
-    #EXTINF:-1 tvg-name="Digitele Taquilla 7" tvg-logo="http://selesnafes.com/wp-content/uploads/2015/06/jurassic.jpg" group-title="Taquillas",Digitele Taquilla 7
-    http://digiteletv.iptvpremium.eu:8000/movie/rojadirecta/iptvpremium.eu<---registaraqui/84.mp4
 
 
 
