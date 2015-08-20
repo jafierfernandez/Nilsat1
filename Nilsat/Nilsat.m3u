@@ -157,6 +157,8 @@ rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 
+#EXTINF:-1 group-title="Arabic",Alnahar Algerie
+http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",LBC
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1440056118&habazlamwowzastarttime=0&habazlamwowzastcustom=1440012922&habazlamhash=Cuy9aTj-n_gRkCZ8n9Oev-X0Bo4HfvY52NjUKHk-pfA=
 #EXTINF:-1 group-title="Arabic",Future TV
@@ -209,8 +211,8 @@ http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,82
 
 
 
-
-
+#EXTINF:-1 group-title="Arabic",Alresalah
+http://74.50.103.199:1935/live/salare/chunklist.m3u8?wowzasessionid=1859714868
 #EXTINF:-1 group-title="Arabic",Iqraa TV
 http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
 
@@ -234,106 +236,7 @@ http://tayba.live.net.sa:1935/live/taybatv/chunklist_w164378222.m3u8
 
 
 
-#EXTINF:0 group-title="Aflam & Drama",MBC 1
-http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MBC 2
-http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MBC 3
-http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MBC 4
-http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MBC Action
-http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MBC Bollywood
-http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MBC Drama
-http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MBC Masr
-http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MBC Max
-http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Cairo Drama
-http://89.248.171.141/ts60/ch1022/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",CBC
-http://89.248.171.141/ts60/ch1173/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",CBC Drama
-http://89.248.171.141/ts60/ch1172/index.m3u8?v=1548652116
-#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
-http://178.33.88.129:888/udp/239.102.0.47:1234
-#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2
-http://178.33.88.129:888/udp/239.102.0.48:1234
-#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
-http://178.33.88.129:888/udp/239.102.0.49:1234
-#EXTINF:-1 group-title="Aflam & Drama",ART Hikayat
-http://178.33.88.129:888/udp/239.102.0.51:1234
-#EXTINF:-1 group-title="Aflam & Drama",ART Hikayat 2
-http://178.33.88.129:888/udp/239.102.0.52:1234
-#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
-http://178.33.88.129:888/udp/239.102.0.184:1234
-#EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
-http://178.33.88.129:888/udp/239.102.0.133:1234
-#EXTINF:0 group-title="Aflam & Drama",Dream 1
-http://89.248.171.141/ts60/ch1232/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Dream 2
-http://89.248.171.141/ts60/ch1230/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Hayah 1
-http://89.248.171.141/ts60/ch1300/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Hayah 2
-http://89.248.171.141/ts60/ch1270/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Masriah TV
-http://89.248.171.141/ts60/ch1199/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Oscar Drama
-http://89.248.171.141/ts60/ch1103/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Panorama Drama
-http://89.248.171.141/ts60/ch1035/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Panorama Drama 2
-http://89.248.171.141/ts60/ch1319/index.m3u8?v=1548652116
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
-http://178.33.88.129:888/udp/239.102.0.188:1234
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
-http://178.33.88.129:888/udp/239.102.0.187:1234
-#EXTINF:0 group-title="Aflam & Drama",Rotana Khalijiah
-http://89.248.171.141/ts60/ch1140/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Rotana Masriah
-http://89.248.171.141/ts60/ch1142/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Sada Elbalad Drama
-http://89.248.171.141/ts60/ch1166/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Sada Elbalad HD
-http://89.248.171.141/ts60/ch1217/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Nahar 1
-http://89.248.171.141/ts60/ch1170/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Nahar 2
-http://89.248.171.141/ts60/ch1162/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Nahar Drama 1
-http://89.248.171.141/ts60/ch1171/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Nahar Drama +2
-http://89.248.171.141/ts60/ch1161/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Qahera we El Nas
-http://89.248.171.141/ts60/ch1196/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Nile Drama
-http://89.248.171.141/ts60/ch1224/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Nile Family
-http://89.248.171.141/ts60/ch1220/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Abu Dhabi Drama
-http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",OTV Lebanon
-http://89.248.171.141/ts60/ch1048/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Al Jadeed
-http://89.248.171.141/ts60/ch1285/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",Future TV
-rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
-#EXTINF:0 group-title="Aflam & Drama",LBC
-http://89.248.171.141/ts60/ch1020/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",LDC Lebanon
-http://89.248.171.141/ts60/ch1205/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",MTV Lebanon
-http://89.248.171.141/ts60/ch1266/index.m3u8?v=1548652116
-#EXTINF:0 group-title="Aflam & Drama",El Mehwar 1
-http://89.248.171.141/ts60/ch1215/index.m3u8?v=1548652116
-#EXTINF:-1 group-title="Aflam & Drama",Aliskandarya
-http://178.33.88.129:888/udp/239.102.0.220:1234
-#EXTINF:-1 group-title="Arabic Music",MH
-http://178.33.88.129:888/udp/239.102.0.219:1234
+
 
 #EXTINF:-1 group-title="Arabic Music",Manassem Music AR
 http://178.33.88.129:888/udp/239.102.0.130:1234
