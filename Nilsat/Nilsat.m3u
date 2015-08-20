@@ -22,40 +22,39 @@ http://bit.ly/1K0aFTz
 http://bit.ly/1TJihL3
 
 
-#EXTINF:-1 group-title="Arabic", Jeem Kids
+#EXTINF:-1 group-title="Kids Arabic", Jeem Kids
 
 http://brightcove03-f.akamaihd.net/jeem_europelive_400@95898?__nn__=4345801235001&hdnea=1440081900_906b871c709d7c5bc379fba76629ab7e&videoId=4118613044001&lineUpId=&pubId=2014288370001&playerId=2632434441001&affiliateId=&v=3.4.0&fp=WIN%2018,0,0,232&r=ODFRW&g=XUJCGVOMRLFF
-#EXTINF:-1 group-title="Arabic",Agyal
+#EXTINF:-1 group-title="Kids Arabic",Agyal
 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
- #EXTINF:-1 group-title="Arabic",AlJazeera Children
+ #EXTINF:-1 group-title="Kids Arabic",AlJazeera Children
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
 
 
 
-#EXTINF:-1 group-title="Arabic",Aljazeera
+#EXTINF:-1 group-title="News Arabic",Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-#EXTINF:-1 group-title="Arabic",Al Arabia
+#EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 group-title="Arabic",Al Hadath
+#EXTINF:-1 group-title="News Arabic",Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 group-title="Arabic",Mekammelin
+#EXTINF:-1 group-title="News Arabic",Mekammelin
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
-#EXTINF:-1 group-title="Arabic",Misr Alaan
+#EXTINF:-1 group-title="News Arabic",Misr Alaan
 http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1344100_slen.m3u8
 
-#EXTINF:-1 group-title="Arabic",TAGHIER
+#EXTINF:-1 group-title="News Arabic",TAGHIER
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
-#EXTINF:-1 group-title="Arabic",ALAAN TV
+#EXTINF:-1 group-title="News Arabic",ALAAN TV
 http://195.244.40.204:8001/1:0:1:9:1FF:2BE:1040000:0:0:0:
-#EXTINF:-1 group-title="Arabic",Halab Today TV
+#EXTINF:-1 group-title="News Arabic",Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
-#EXTINF:-1 group-title="Arabic",Aljazeera Doc
- http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 group-title="Arabic",ANN 
+
+#EXTINF:-1 group-title="News Arabic",ANN 
  rtmp://ns8.indexforce.com/ann/ann
- #EXTINF:-1 group-title="Arabic",BBC Arabia
+ #EXTINF:-1 group-title="News Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1 group-title="Arabic",Alnahar
@@ -95,7 +94,8 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Dubai Sport Premium
 http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Arabic",Aljazeera Doc
+ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 group-title="Arabic",Ajman TV
 http://77.67.34.22/AJMAN_TV?gmswf=702871368
 #EXTINF:-1 group-title="Arabic",Albadawiyah
@@ -214,25 +214,25 @@ http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,82
 
 
 
-#EXTINF:-1 group-title="Arabic",Alresalah
+#EXTINF:-1 group-title="Relegion Arabic",Alresalah
 http://74.50.103.199:1935/live/salare/chunklist.m3u8?wowzasessionid=1859714868
-#EXTINF:-1 group-title="Arabic",Iqraa TV
+#EXTINF:-1 group-title="Relegion Arabic",Iqraa TV
 http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
 
-#EXTINF:0 group-title="Arabic",Quran TV
+#EXTINF:0 group-title="Relegion Arabic",Quran TV
 
  http://46.245.160.224/mekke/mekke/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Arabic",Sunnah TV
+#EXTINF:-1 group-title="Relegion Arabic",Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
  
-#EXTINF:-1 group-title="Arabic",Wissal TV
+#EXTINF:-1 group-title="Relegion Arabic",Wissal TV
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 
-#EXTINF:-1 group-title="Arabic",Sila TV
+#EXTINF:-1 group-title="Relegion Arabic",Sila TV
 http://streamer11.elementssys.com:8080/selah/index.m3u8?v=1342111207
-#EXTINF:-1 group-title="Arabic",Tayba TV
+#EXTINF:-1 group-title="Relegion Arabic",Tayba TV
 http://tayba.live.net.sa:1935/live/taybatv/chunklist_w164378222.m3u8
 
 
