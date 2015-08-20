@@ -64,6 +64,8 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/play
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Drama
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Almehwar
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Sharjah
@@ -88,8 +90,6 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Dubai Racing
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arabic", Dubai Racing 2
-http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Dubai Sport
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Dubai Sport Premium
@@ -121,10 +121,10 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live.m3
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live.m3u8
 #EXTINF:-1 group-title="Arabic",Alriyadiya 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_danah_tv.png"group-title="Arabic",Aldanah
+#EXTINF:-1 group-title="Arabic",Aldanah
 http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Funoon TV
- http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+ http://watan.tv/playlist_f.m3u8
 #EXTINF:-1 group-title="Arabic",Saltanat Oman
 http://38.96.148.30:1935/live/omantv3/chunklist.m3u8?wowzasessionid=1751231831&v=1342104563
 
@@ -147,14 +147,12 @@ http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv6_480/chu
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv8_480/chunklist_w1745116227.m3u8
 #EXTINF:-1 group-title="Arabic",Kuwait Xtra
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv7_480/chunklist_w1544894510.m3u8
-#EXTINF:-1 group-title="Arabic",Alwatan
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
+
 #EXTINF:-1 group-title="Arabic",Al Kout TV
 rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1 group-title="Arabic",Roya TV
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
-#EXTINF:-1 group-title="Arabic",Almehwar
-http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+
 
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
