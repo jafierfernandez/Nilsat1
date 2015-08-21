@@ -23,8 +23,8 @@ http://bit.ly/1TJihL3
 
 
 #EXTINF:-1 group-title="Kids Arabic", Jeem Kids
-
-http://brightcove03-f.akamaihd.net/jeem_europelive_400@95898?__nn__=4345801235001&hdnea=1440081900_906b871c709d7c5bc379fba76629ab7e&videoId=4118613044001&lineUpId=&pubId=2014288370001&playerId=2632434441001&affiliateId=&v=3.4.0&fp=WIN%2018,0,0,232&r=ODFRW&g=XUJCGVOMRLFF
+rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
+ 
 #EXTINF:-1 group-title="Kids Arabic",Agyal
 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
@@ -63,6 +63,8 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/play
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Drama
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic"ONTV Live
+http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
@@ -154,10 +156,6 @@ rtmp://66.23.237.233:1935/alkout/alkout
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 
 
-#EXTINF:-1 group-title="Arabic",Alnahar Algerie
-http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
-#EXTINF:-1 group-title="Arabic",LBC
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1440056118&habazlamwowzastarttime=0&habazlamwowzastcustom=1440012922&habazlamhash=Cuy9aTj-n_gRkCZ8n9Oev-X0Bo4HfvY52NjUKHk-pfA=
 #EXTINF:-1 group-title="Arabic",Future TV
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1 group-title="Arabic",Aljadeed
@@ -211,6 +209,8 @@ http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
 rtmp://46.43.64.166:1935/flv/mp4:flv
 #EXTINF:-1 group-title="Arabic",Libya TV
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1 group-title="Arabic",Alnabaa TV
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?
 
 
 
