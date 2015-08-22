@@ -63,6 +63,8 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/play
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Drama
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alnahar 2+
+http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic"ONTV Live
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
@@ -129,14 +131,32 @@ http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
  http://watan.tv/playlist_f.m3u8
 #EXTINF:-1 group-title="Arabic",Saltanat Oman
 http://38.96.148.30:1935/live/omantv3/chunklist.m3u8?wowzasessionid=1751231831&v=1342104563
+#EXTINF:-1 group-title="Arabic",El Wataniya 1
+https://cdn.streaminghd.tn/live/jzcV8jfBv8GxEmgzoF3x2Q/1440209739/nat1/index.m3u8
+#EXTINF:-1 group-title="Arabic",El Wataniya 2
+https://cdn.streaminghd.tn/live/V8pn5eOMGmVMoabL6aOR0Q/1440210035/nat2/index.m3u8
+#EXTINF:-1 group-title="Arabic",Hannibal TV
+https://cdn.streaminghd.tn/live/LxpOj1YA0TAv9BNaunmr4A/1440210432/hannibal/index.m3u8
+#EXTINF:-1 group-title="Arabic",Nessma TV
+https://cdn.streaminghd.tn/live/iMbeAQy7q3KOsRPChNSh_w/1440211062/nessma/index.m3u8
+#EXTINF:-1 group-title="Arabic",First TV 
+https://cdn.streaminghd.tn/live/F5kJEYnNTBpPEz55SWFa_g/1440211383/first/index.m3u8
+#EXTINF:-1 group-title="Arabic",Telvza TV
+https://cdn.streaminghd.tn/live/WuECLbVNQU8Nh2rAFKPl0Q/1440211757/telvza/index.m3u8
+#EXTINF:-1 group-title="Arabic",Tunisna TV
+https://cdn.streaminghd.tn/live/p6zyMTVizL518naqPZHzsQ/1440211874/tounesna/index.m3u8
 
+
+
+#EXTINF:-1 group-title="Arabic",Alnahar Algerie
+http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Bahrain
 http://iaa.flashmediacast.com:2387/live/Channel-55/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Bahrain 
 http://iaa.flashmediacast.com:2387/live/International/playlist.m3u8
 
 #EXTINF:-1 group-title="Arabic",Qatar
- http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_169s30.m3u8
+ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_170s.m3u8
 #EXTINF:-1 group-title="Arabic",Kuwait 1
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv1_720/chunklist_w888294134.m3u8 
 #EXTINF:-1 group-title="Arabic",Kuwait 2
@@ -166,6 +186,7 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 #EXTINF:-1 group-title="Arabic",OTV 
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
+
 #EXTINF:-1 group-title="Arabic", Syria
  rtsp://82.137.248.16:1935/Sat/SatLive3
 
@@ -591,8 +612,10 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 
 
-
-
+#EXTINF:-1 tvg-id="0247" group-title="Español",La Sexta
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/index.m3u8
+#EXTINF:-1 tvg-id="0247" group-title="Español",Galicia
+http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
 
 
 
