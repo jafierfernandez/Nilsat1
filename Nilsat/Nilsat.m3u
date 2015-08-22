@@ -81,7 +81,7 @@ https://cdn.streaminghd.tn/live/XXaJJ0IYGIfC9O_ETe3tbQ/1440259645/nessma/index.m
 #EXTINF:-1 group-title="Arabic",First TV 
 https://cdn.streaminghd.tn/live/GK8hakG3dZUJo5K70SIm_w/1440260230/telvza/index.m3u8
 #EXTINF:-1 group-title="Arabic",Telvza TV
-https://cdn.streaminghd.tn/live/WuECLbVNQU8Nh2rAFKPl0Q/1440211757/telvza/index.m3u8
+https://cdn.streaminghd.tn/live/6fb8DRXf85VrTnE2Uyo-TA/1440262685/telvza/index.m3u8
 
 #EXTINF:-1 group-title="Arabic",Algerie 4
 http://37.187.254.104/origin01/amlst:tv-tamazight/chunklist_w1043482669_b800000.m3u8?
@@ -90,8 +90,20 @@ http://37.187.174.6/origin01/amlst:tv-coran/chunklist_w1790252446_b300000.m3u8?
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
 
+#EXTINF:-1 group-title="Arabic",Future TV
+rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
+#EXTINF:-1 group-title="Arabic",Aljadeed
+http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",MTV Liban
+rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+#EXTINF:-1 group-title="Arabic",NBN
+rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
+#EXTINF:-1 group-title="Arabic",OTV 
+http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Arabic",Qatar
+ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_170s.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Sharjah
@@ -161,8 +173,7 @@ http://iaa.flashmediacast.com:2387/live/Channel-55/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Bahrain 
 http://iaa.flashmediacast.com:2387/live/International/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic",Qatar
- http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_170s.m3u8
+
 #EXTINF:-1 group-title="Arabic",Kuwait 1
 http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv1_720/chunklist_w888294134.m3u8 
 #EXTINF:-1 group-title="Arabic",Kuwait 2
@@ -182,16 +193,7 @@ rtmp://66.23.237.233:1935/alkout/alkout
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 
 
-#EXTINF:-1 group-title="Arabic",Future TV
-rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
-#EXTINF:-1 group-title="Arabic",Aljadeed
-http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",MTV Liban
-rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
-#EXTINF:-1 group-title="Arabic",NBN
-rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
-#EXTINF:-1 group-title="Arabic",OTV 
-http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Arabic", Syria
  rtsp://82.137.248.16:1935/Sat/SatLive3
