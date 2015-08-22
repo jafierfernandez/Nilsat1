@@ -79,14 +79,11 @@ https://cdn.streaminghd.tn/live/oKKn5Dgse8IjJG_dvUG94A/1440260100/hannibal/index
 #EXTINF:-1 group-title="Arabic",Nessma TV
 https://cdn.streaminghd.tn/live/XXaJJ0IYGIfC9O_ETe3tbQ/1440259645/nessma/index.m3u8
 #EXTINF:-1 group-title="Arabic",First TV 
-https://cdn.streaminghd.tn/live/GK8hakG3dZUJo5K70SIm_w/1440260230/telvza/index.m3u8
+https://cdn.streaminghd.tn/live/Eo0OLXtTM_CyndXP9mZrOA/1440264662/first/index.m3u8
 #EXTINF:-1 group-title="Arabic",Telvza TV
 https://cdn.streaminghd.tn/live/6fb8DRXf85VrTnE2Uyo-TA/1440262685/telvza/index.m3u8
 
-#EXTINF:-1 group-title="Arabic",Algerie 4
-http://37.187.254.104/origin01/amlst:tv-tamazight/chunklist_w1043482669_b800000.m3u8?
-#EXTINF:-1 group-title="Arabic",Algerie 5
-http://37.187.174.6/origin01/amlst:tv-coran/chunklist_w1790252446_b300000.m3u8?
+
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
 
