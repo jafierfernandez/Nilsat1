@@ -4,10 +4,10 @@
 
 
 
-#EXTINF:-1 group-title="Arabic",2M
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Medi 1
 http://178.33.88.129:888/udp/239.102.0.252:1234
+#EXTINF:-1 group-title="Arabic",2M
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
 http://bit.ly/1TJhpGh
 #EXTINF:-1 group-title="Arabic",Arryadia 
@@ -69,6 +69,29 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/pl
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="Arabic",El Wataniya 1
+https://cdn.streaminghd.tn/live/svyIHPwigAJb7-VNd42W5A/1440259821/nat1/index.m3u8
+#EXTINF:-1 group-title="Arabic",El Wataniya 2
+https://cdn.streaminghd.tn/live/YheTm0DWrdICNeRcj-kiwA/1440259969/nat2/index.m3u8
+#EXTINF:-1 group-title="Arabic",Hannibal TV
+https://cdn.streaminghd.tn/live/oKKn5Dgse8IjJG_dvUG94A/1440260100/hannibal/index.m3u8
+#EXTINF:-1 group-title="Arabic",Nessma TV
+https://cdn.streaminghd.tn/live/XXaJJ0IYGIfC9O_ETe3tbQ/1440259645/nessma/index.m3u8
+#EXTINF:-1 group-title="Arabic",First TV 
+https://cdn.streaminghd.tn/live/GK8hakG3dZUJo5K70SIm_w/1440260230/telvza/index.m3u8
+#EXTINF:-1 group-title="Arabic",Telvza TV
+https://cdn.streaminghd.tn/live/WuECLbVNQU8Nh2rAFKPl0Q/1440211757/telvza/index.m3u8
+
+#EXTINF:-1 group-title="Arabic",Algerie 4
+http://37.187.254.104/origin01/amlst:tv-tamazight/chunklist_w1043482669_b800000.m3u8?
+#EXTINF:-1 group-title="Arabic",Algerie 5
+http://37.187.174.6/origin01/amlst:tv-coran/chunklist_w1790252446_b300000.m3u8?
+#EXTINF:-1 group-title="Arabic",Alnahar Algerie
+http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Sharjah
@@ -131,25 +154,8 @@ http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
  http://watan.tv/playlist_f.m3u8
 #EXTINF:-1 group-title="Arabic",Saltanat Oman
 http://38.96.148.30:1935/live/omantv3/chunklist.m3u8?wowzasessionid=1751231831&v=1342104563
-#EXTINF:-1 group-title="Arabic",El Wataniya 1
-https://cdn.streaminghd.tn/live/jzcV8jfBv8GxEmgzoF3x2Q/1440209739/nat1/index.m3u8
-#EXTINF:-1 group-title="Arabic",El Wataniya 2
-https://cdn.streaminghd.tn/live/V8pn5eOMGmVMoabL6aOR0Q/1440210035/nat2/index.m3u8
-#EXTINF:-1 group-title="Arabic",Hannibal TV
-https://cdn.streaminghd.tn/live/LxpOj1YA0TAv9BNaunmr4A/1440210432/hannibal/index.m3u8
-#EXTINF:-1 group-title="Arabic",Nessma TV
-https://cdn.streaminghd.tn/live/iMbeAQy7q3KOsRPChNSh_w/1440211062/nessma/index.m3u8
-#EXTINF:-1 group-title="Arabic",First TV 
-https://cdn.streaminghd.tn/live/F5kJEYnNTBpPEz55SWFa_g/1440211383/first/index.m3u8
-#EXTINF:-1 group-title="Arabic",Telvza TV
-https://cdn.streaminghd.tn/live/WuECLbVNQU8Nh2rAFKPl0Q/1440211757/telvza/index.m3u8
-#EXTINF:-1 group-title="Arabic",Tunisna TV
-https://cdn.streaminghd.tn/live/p6zyMTVizL518naqPZHzsQ/1440211874/tounesna/index.m3u8
 
 
-
-#EXTINF:-1 group-title="Arabic",Alnahar Algerie
-http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Bahrain
 http://iaa.flashmediacast.com:2387/live/Channel-55/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Bahrain 
