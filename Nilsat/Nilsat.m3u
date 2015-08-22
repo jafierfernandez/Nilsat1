@@ -65,7 +65,7 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/pl
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar 2+
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Arabic"ONTV Live
+#EXTINF:-1 group-title="Arabic",ONTV Live
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
@@ -225,8 +225,9 @@ http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
  rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
  #EXTINF:-1 group-title="Arabic",Palestine
  rtmp://vstream2.hadara.ps:1935/pbc/mp4:pbc_1
-
 #EXTINF:-1 group-title="Arabic",Palestine Today
+http://live.paltoday.tv:1935/paltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alfalastiniah
 rtmp://46.43.64.166:1935/flv/mp4:flv
 #EXTINF:-1 group-title="Arabic",Libya TV
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
