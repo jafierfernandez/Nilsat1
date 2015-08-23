@@ -30,11 +30,12 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
  #EXTINF:-1 group-title="Kids Arabic",AlJazeera Children
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
-
+#EXTINF:-1 group-title="Kids Arabic",Baraem
+rtmp://78.100.40.195:1935/brm/?gmswf=1511549743/brm
 
 
 #EXTINF:-1 group-title="News Arabic",Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 #EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
@@ -63,13 +64,11 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/play
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Drama
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",Alnahar 2+
-http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",ONTV Live
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
-
+ 
 #EXTINF:-1 group-title="Arabic",El Wataniya 1
 https://cdn.streaminghd.tn/live/3S44ReJ3cmwDLLmLLvC2qA/1440281168/nat1/index.m3u8
 #EXTINF:-1 group-title="Arabic",El Wataniya 2
@@ -97,6 +96,11 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 #EXTINF:-1 group-title="Arabic",OTV 
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Arabic",Abu Dhabi 
+rtmp://162.212.176.120/abudhabitv?v=1470523602/abudhabitv
 
 
 #EXTINF:-1 group-title="Arabic",Qatar
