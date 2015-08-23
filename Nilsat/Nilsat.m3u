@@ -58,6 +58,21 @@ rtmp://streaming.tootvs.com/8010/8010
  #EXTINF:-1 group-title="News Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
+
+#EXTINF:-1 group-title="Arabic Drama",CBC Drama
+http://185.5.222.231:4242/bysid/5107
+#EXTINF:-1 group-title="Arabic Drama",CBC
+http://185.5.222.231:4242/bysid/5108
+#EXTINF:-1 group-title="Arabic Drama",CBC Extra
+http://185.5.222.231:4242/bysid/5109
+#EXTINF:-1 group-title="Arabic Drama",CBC Sofra
+http://185.5.222.231:4242/bysid/5110
+#EXTINF:-1 group-title="Arabic Drama",CBC+2
+http://185.5.222.231:4242/bysid/5104
+#EXTINF:-1 group-title="Arabic Drama",Melody Aflam
+http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
+
+
 #EXTINF:-1 group-title="Arabic",Alnahar
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Alyoum
@@ -69,18 +84,7 @@ http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playli
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
  
-#EXTINF:-1 group-title="Arabic",El Wataniya 1
-https://cdn.streaminghd.tn/live/3S44ReJ3cmwDLLmLLvC2qA/1440281168/nat1/index.m3u8
-#EXTINF:-1 group-title="Arabic",El Wataniya 2
-https://cdn.streaminghd.tn/live/tQ1Q1MDtqY_PTKs-SI9cwQ/1440276238/nat2/index.m3u8
-#EXTINF:-1 group-title="Arabic",Hannibal TV
-https://cdn.streaminghd.tn/live/tD_SsZlno-dA74Vb4mj3-w/1440281258/hannibal/index.m3u8
-#EXTINF:-1 group-title="Arabic",Nessma TV
-https://cdn.streaminghd.tn/live/99kJU_9xiloFP81EBu0Z4Q/1440276608/nessma/index.m3u8
-#EXTINF:-1 group-title="Arabic",First TV 
-https://cdn.streaminghd.tn/live/2iPBTcJhZHw2wIR9PTDjJA/1440276690/first/index.m3u8
-#EXTINF:-1 group-title="Arabic",Telvza TV
-https://cdn.streaminghd.tn/live/dKv1DkEvQk1LOoDd4ZYMew/1440276785/telvza/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
