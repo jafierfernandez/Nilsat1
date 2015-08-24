@@ -34,6 +34,8 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
 rtmp://78.100.40.195:1935/brm/?gmswf=1511549743/brm
+#EXTINF:-1 group-title="Kids Arabic",MBC 3
+http://50.7.69.138:9080/hls/mbc3.m3u8
 
 
 #EXTINF:-1 group-title="News Arabic",Aljazeera
@@ -61,6 +63,12 @@ rtmp://streaming.tootvs.com/8010/8010
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
+
+
+#EXTINF:-1 group-title="Arabic Drama",MBC 1
+http://50.7.69.138:9080/hls/mbc1.m3u8
+#EXTINF:-1 group-title="Arabic Drama",MBC Drama
+http://50.7.69.138:9080/hls/mbc-drama.m3u8
 #EXTINF:-1 group-title="Arabic Drama",CBC Drama
 http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic Drama",CBC
@@ -73,6 +81,10 @@ http://185.5.222.231:4242/bysid/5110
 http://185.5.222.231:4242/bysid/5104
 #EXTINF:-1 group-title="Arabic Drama",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
+#EXTINF:-1 group-title="Arabic Drama",Rotana Masriya
+http://204.107.27.248/live/_definst_/2612.low.stream/chunklist_w1407493844.m3u8
+#EXTINF:-1 group-title="Arabic Drama",Rotana Aflam
+http://204.107.27.248/live/_definst_/2618.low.stream/chunklist_w2114491782.m3u8
 
 
 #EXTINF:-1 group-title="Arabic",Alnahar
@@ -221,6 +233,8 @@ rtsp://82.137.248.20:1935/SEdu/SEduLive3
 rtsp://82.137.248.21:1935/Ugarit/UgaritLive
 
 
+#EXTINF:-1 group-title="Arabic",Albaghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
 #EXTINF:-1 group-title="Arabic",Alquds
 http://qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -292,6 +306,12 @@ http://178.33.88.129:888/udp/239.102.0.113:1234
 http://178.33.88.129:888/udp/239.102.0.110:1234
 #EXTINF:-1 group-title="Arabic Music",Aghani
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+#EXTINF:-1 group-title="Arabic Music",Hawacom
+rtsp://mobilestreaming.itworkscdn.com/hawacom/hawacomlive
+#EXTINF:-1 group-title="Arabic Music",Rotana Music
+http://204.107.27.248/live/_definst_/2600.low.stream/chunklist_w2019315096.m3u8
+#EXTINF:-1 group-title="Arabic Music",Rotana Clip
+http://204.107.27.248/live/_definst_/2603.low.stream/chunklist_w1027512837.m3u8
 
 
 
