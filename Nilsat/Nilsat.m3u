@@ -32,7 +32,7 @@ http://brightcove03-f.akamaihd.net/jeem_europelive_400@95898
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
  #EXTINF:-1 group-title="Kids Arabic",AlJazeera Children
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
-#EXTINF:-1 group-title="Kids Arabic",Baraem
+#EXTINF:-1 group-title="Kids Arabic",Baraem TV
 rtmp://78.100.40.195:1935/brm/?gmswf=1511549743/brm
 
 
@@ -110,7 +110,7 @@ rtmp://162.212.176.120/abudhabitv?v=1470523602/abudhabitv
 
 
 #EXTINF:-1 group-title="Arabic",Qatar
- http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_170s.m3u8
+ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_171s.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Sharjah
