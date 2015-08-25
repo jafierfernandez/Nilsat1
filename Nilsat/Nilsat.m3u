@@ -34,12 +34,11 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
 rtmp://78.100.40.195:1935/brm/?gmswf=1511549743/brm
-#EXTINF:-1 group-title="Kids Arabic",MBC 3
-http://50.7.69.138:9080/hls/mbc3.m3u8
+
 
 
 #EXTINF:-1 group-title="News Arabic",Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 #EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
@@ -65,10 +64,7 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 
-#EXTINF:-1 group-title="Arabic Drama",MBC 1
-http://50.7.69.138:9080/hls/mbc1.m3u8
-#EXTINF:-1 group-title="Arabic Drama",MBC Drama
-http://50.7.69.138:9080/hls/mbc-drama.m3u8
+
 #EXTINF:-1 group-title="Arabic Drama",CBC Drama
 http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic Drama",CBC
@@ -97,10 +93,13 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/p
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
- 
 
 
 
+#EXTINF:-1 group-title="Arabic",Elbilad Algerie 
+rtmp://strfla13.streamakaci.com:80/elbilad/elbilad.stream
+#EXTINF:-1 group-title="Arabic",Alasr Algerie
+http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
 
@@ -248,16 +247,24 @@ http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
 
 #EXTINF:0 group-title="Arabic",Jordan
  rtmp://64.251.14.168/jorlive/jrtv
+#EXTINF:0 group-title="Arabic",7Stars TV
+rtmp://stream.7stars.tv/live/myStream
+
 
 
 #EXTINF:-1 group-title="Arabic",Talaqie
  rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
+#EXTINF:-1 group-title="Arabic",Alfajr TV
+rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1
  #EXTINF:-1 group-title="Arabic",Palestine
  rtmp://vstream2.hadara.ps:1935/pbc/mp4:pbc_1
 #EXTINF:-1 group-title="Arabic",Palestine Today
 http://live.paltoday.tv:1935/paltv/live/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alfalastiniah
 rtmp://46.43.64.166:1935/flv/mp4:flv
+#EXTINF:-1 group-title="Arabic",Hona Al Quds
+rtmp://185.33.168.110/live/livestream
+
 #EXTINF:-1 group-title="Arabic",Libya TV
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1 group-title="Arabic",Alnabaa TV
@@ -285,8 +292,8 @@ http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 http://streamer11.elementssys.com:8080/selah/index.m3u8?v=1342111207
 #EXTINF:-1 group-title="Relegion Arabic",Tayba TV
 http://tayba.live.net.sa:1935/live/taybatv/chunklist_w164378222.m3u8
-
-
+#EXTINF:-1 group-title="Relegion Arabic",Assalamu Alayka
+rtmp://stream11.tv2webstream.com/live/salam
 
 
 
