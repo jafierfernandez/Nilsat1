@@ -63,8 +63,8 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 
-
-
+#EXTINF:-1 group-title="Arabic Drama",MBC
+http://50.7.69.138:9080/hls/mbc1.m3u8
 #EXTINF:-1 group-title="Arabic Drama",CBC Drama
 http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic Drama",CBC
@@ -77,6 +77,8 @@ http://185.5.222.231:4242/bysid/5110
 http://185.5.222.231:4242/bysid/5104
 #EXTINF:-1 group-title="Arabic Drama",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
+#EXTINF:-1 group-title="Arabic Drama",Rotana Cinema
+http://198.179.30.110/live/2615.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe0c5fdad4363a23fa858edfb49c0df462a4fb2b28157810edd424821bee8af2b785ae5d98ad2aaeacfa1e1085a3f108a479cf3b856a20a53a1f5639abdfc961366c8370fcc850166edbe1597a369d3ab6180a3935800e3b7d263d657531df837a776e4ad2f28d74bb72e66d4bbc42a8dcd630889fe550ecd14772a7d1a5273e4d79d37463ec9aed7741e26ab00a895df4
 
 
 
@@ -278,7 +280,8 @@ http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
 
  http://46.245.160.224/mekke/mekke/playlist.m3u8
 
-
+#EXTINF:0 group-title="Relegion Arabic",Makkah TV
+rtmp://streamer11.elementssys.com:1935/mecca
 #EXTINF:-1 group-title="Relegion Arabic",Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
  
