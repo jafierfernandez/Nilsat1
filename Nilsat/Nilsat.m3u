@@ -63,8 +63,7 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 
-#EXTINF:-1 group-title="Arabic Drama",MBC
-http://50.7.69.138:9080/hls/mbc1.m3u8
+
 #EXTINF:-1 group-title="Arabic Drama",CBC Drama
 http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic Drama",CBC
