@@ -25,8 +25,6 @@ http://bit.ly/1TJihL3
 #EXTINF:-1 group-title="Kids Arabic", Jeem Kids
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
  
-#EXTINF:-1 group-title="Kids Arabic", Jeem HD
-http://brightcove03-f.akamaihd.net/jeem_europelive_400@95898
 #EXTINF:-1 group-title="Kids Arabic",Agyal
 
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
@@ -100,6 +98,8 @@ rtmp://strfla13.streamakaci.com:80/elbilad/elbilad.stream
 http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
+#EXTINF:-1 group-title="Arabic",MAURITANIA
+http://162.212.176.83:8080/map-mauritania.m3u8
 
 #EXTINF:-1 group-title="Arabic",Future TV
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
