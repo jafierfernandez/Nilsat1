@@ -46,10 +46,10 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 #EXTINF:-1 group-title="News Arabic",Misr Alaan
 http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1344100_slen.m3u8
 
-#EXTINF:-1 group-title="News Arabic",TAGHIER
+#EXTINF:-1 group-title="News Arabic",Taghier TV
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
-#EXTINF:-1 group-title="News Arabic",ALAAN TV
+#EXTINF:-1 group-title="News Arabic",Alann TV
 http://195.244.40.204:8001/1:0:1:9:1FF:2BE:1040000:0:0:0:
 #EXTINF:-1 group-title="News Arabic",Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
@@ -62,20 +62,7 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 
-#EXTINF:-1 group-title="Arabic Drama",CBC Drama
-http://185.5.222.231:4242/bysid/5107
-#EXTINF:-1 group-title="Arabic Drama",CBC
-http://185.5.222.231:4242/bysid/5108
-#EXTINF:-1 group-title="Arabic Drama",CBC Extra
-http://185.5.222.231:4242/bysid/5109
-#EXTINF:-1 group-title="Arabic Drama",CBC Sofra
-http://185.5.222.231:4242/bysid/5110
-#EXTINF:-1 group-title="Arabic Drama",CBC+2
-http://185.5.222.231:4242/bysid/5104
-#EXTINF:-1 group-title="Arabic Drama",Melody Aflam
-http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
-#EXTINF:-1 group-title="Arabic Drama",Rotana Cinema
-http://198.179.30.110/live/2615.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe0c5fdad4363a23fa858edfb49c0df462a4fb2b28157810edd424821bee8af2b785ae5d98ad2aaeacfa1e1085a3f108a479cf3b856a20a53a1f5639abdfc961366c8370fcc850166edbe1597a369d3ab6180a3935800e3b7d263d657531df837a776e4ad2f28d74bb72e66d4bbc42a8dcd630889fe550ecd14772a7d1a5273e4d79d37463ec9aed7741e26ab00a895df4
+
 
 
 
@@ -89,17 +76,29 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/p
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Arabic",CBC Drama
+http://185.5.222.231:4242/bysid/5107
+#EXTINF:-1 group-title="Arabic",CBC
+http://185.5.222.231:4242/bysid/5108
+#EXTINF:-1 group-title="Arabic",CBC Extra
+http://185.5.222.231:4242/bysid/5109
+#EXTINF:-1 group-title="Arabic",CBC Sofra
+http://185.5.222.231:4242/bysid/5110
+#EXTINF:-1 group-title="Arabic",CBC+2
+http://185.5.222.231:4242/bysid/5104
+#EXTINF:-1 group-title="Arabic",Melody Aflam
+http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 
 
-
+#EXTINF:-1 group-title="Arabic",Alfajr TV
+rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1
 #EXTINF:-1 group-title="Arabic",Elbilad Algerie 
 rtmp://strfla13.streamakaci.com:80/elbilad/elbilad.stream
 #EXTINF:-1 group-title="Arabic",Alasr Algerie
 http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
-#EXTINF:-1 group-title="Arabic",MAURITANIA
-http://162.212.176.83:8080/map-mauritania.m3u8
+
 
 #EXTINF:-1 group-title="Arabic",Future TV
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
@@ -250,8 +249,6 @@ rtmp://stream.7stars.tv/live/myStream
 
 #EXTINF:-1 group-title="Arabic",Talaqie
  rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
-#EXTINF:-1 group-title="Arabic",Alfajr TV
-rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1
  #EXTINF:-1 group-title="Arabic",Palestine
  rtmp://vstream2.hadara.ps:1935/pbc/mp4:pbc_1
 #EXTINF:-1 group-title="Arabic",Palestine Today
