@@ -291,6 +291,8 @@ http://streamer11.elementssys.com:8080/selah/index.m3u8?v=1342111207
 http://tayba.live.net.sa:1935/live/taybatv/chunklist_w164378222.m3u8
 #EXTINF:-1 group-title="Relegion Arabic",Assalamu Alayka
 rtmp://stream11.tv2webstream.com/live/salam
+#EXTINF:-1 group-title="Relegion Arabic",Alfath TV
+rtmp://livestreaming.itworkscdn.net/alfatehlive/fatehtv
 
 
 
@@ -304,7 +306,7 @@ http://178.33.88.129:888/udp/239.102.0.217:1234
 http://178.33.88.129:888/udp/239.102.0.204:1234
 #EXTINF:-1 group-title="Arabic Music",Mazzika
 http://178.33.88.129:888/udp/239.102.0.183:1234
-#EXTINF:-1 group-title="Arabic Music",Musicplus AR
+#EXTINF:-1 group-title="Arabic Music",Musicplus 
 http://178.33.88.129:888/udp/239.102.0.113:1234
 #EXTINF:-1 group-title="Arabic Music",Melody 
 http://178.33.88.129:888/udp/239.102.0.110:1234
@@ -312,10 +314,7 @@ http://178.33.88.129:888/udp/239.102.0.110:1234
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 #EXTINF:-1 group-title="Arabic Music",Hawacom
 rtsp://mobilestreaming.itworkscdn.com/hawacom/hawacomlive
-#EXTINF:-1 group-title="Arabic Music",Rotana Music
-http://204.107.27.248/live/_definst_/2600.low.stream/chunklist_w2019315096.m3u8
-#EXTINF:-1 group-title="Arabic Music",Rotana Clip
-http://204.107.27.248/live/_definst_/2603.low.stream/chunklist_w1027512837.m3u8
+
 
 
 
