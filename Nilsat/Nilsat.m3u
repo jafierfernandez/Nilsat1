@@ -656,8 +656,7 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/index.m3u8
 #EXTINF:-1 tvg-id="0247" group-title="Español",Galicia
 http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1 tvg-id="0247" group-title="Español",TVE
-http://213.95.47.104:8080/btv_00190/
+
 
 
 
