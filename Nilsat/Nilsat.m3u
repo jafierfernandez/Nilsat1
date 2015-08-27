@@ -111,8 +111,6 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 #EXTINF:-1 group-title="Arabic",OTV 
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",LBC
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/chunklist_w465322657_b625000_tkaGFiYXpsYW1lbmR0aW1lPTE0NDA1NTYzNjQmaGFiYXpsYW13b3d6YXN0YXJ0dGltZT0wJmhhYmF6bGFtd293emFzdGN1c3RvbT0xNDQwNTEzMTY4JmhhYmF6bGFtaGFzaD1KakUtR0tWSmRjNnc1dDgwaUtsbENOVWZKM09DMFZ0eHdNOHBoMEJjX0E4PQ==.m3u8
 
 #EXTINF:-1 group-title="Arabic",Abu Dhabi 
 rtmp://162.212.176.120/abudhabitv?v=1470523602/abudhabitv
@@ -125,7 +123,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v
 #EXTINF:-1 group-title="Arabic",Sharjah
  rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
-#EXTINF:-1 group-title="Arabic",Sharjah karbalah
+#EXTINF:-1 group-title="Arabic",Sharjah kalbaa
 rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv
 #EXTINF:-1 group-title="Arabic",Dubai 
  http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
@@ -244,7 +242,7 @@ http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
 
 
 #EXTINF:0 group-title="Arabic",Jordan
- rtmp://64.251.14.168/jorlive/jrtv
+ rtmp://stream2.joinvisions.net:1935/jorlive?gmswf=146983/jrtv
 #EXTINF:0 group-title="Arabic",7Stars TV
 rtmp://stream.7stars.tv/live/myStream
 
@@ -658,6 +656,8 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/index.m3u8
 #EXTINF:-1 tvg-id="0247" group-title="Español",Galicia
 http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
+#EXTINF:-1 tvg-id="0247" group-title="Español",TVE
+http://213.95.47.104:8080/btv_00190/
 
 
 
