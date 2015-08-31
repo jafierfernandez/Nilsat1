@@ -68,6 +68,8 @@ rtmp://streaming.tootvs.com/8010/8010
  rtmp://ns8.indexforce.com/ann/ann
  #EXTINF:-1 group-title="News Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 group-title="News Arabic",Dzair News
+ http://178.33.88.129:888/udp/239.102.0.247:1234
 
 
 
@@ -135,6 +137,8 @@ http://178.33.88.129:888/udp/239.102.0.48:1234
  http://178.33.88.129:888/udp/239.102.0.190:1234
 #EXTINF:-1 group-title="Aflam & Drama",Melody
  http://178.33.88.129:888/udp/239.102.0.110:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alassema
+http://178.33.88.129:888/udp/239.102.0.238:1234
 
 #EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
  http://178.33.88.129:888/udp/239.102.0.120:1234
@@ -198,14 +202,20 @@ http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
  http://178.33.88.129:888/udp/239.102.0.129:1234
 #EXTINF:-1 group-title="Arabic",beur 
  http://178.33.88.129:888/udp/239.102.0.101:1234
+#EXTINF:-1 group-title="Arabic",L'Index Algerie
+http://178.33.88.129:888/udp/239.102.0.242:1234
 #EXTINF:-1 group-title="Arabic",Aschorouq HD
  http://178.33.88.129:888/udp/239.102.0.127:1234
+#EXTINF:-1 group-title="Arabic",Dzair
+ http://178.33.88.129:888/udp/239.102.0.248:1234
 #EXTINF:-1 group-title="Arabic",Algerie
  http://178.33.88.129:888/udp/239.102.0.203:1234
 #EXTINF:-1 group-title="Arabic",Algerie 3
  http://178.33.88.129:888/udp/239.102.0.225:1234
 #EXTINF:-1 group-title="Arabic",Algerie 4
  http://178.33.88.129:888/udp/239.102.0.142:1234
+#EXTINF:-1 group-title="Arabic",Algerie 5
+ http://178.33.88.129:888/udp/239.102.0.246:1234
 #EXTINF:-1 group-title="Arabic",Alchorouk Algerie
  http://178.33.88.129:888/udp/239.102.0.157:1234
 #EXTINF:-1 group-title="Arabic",Maan TV
@@ -306,7 +316,7 @@ http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Funoon TV
  http://watan.tv/playlist_f.m3u8
 #EXTINF:-1 group-title="Arabic",Saltanat Oman
-http://38.96.148.30:1935/live/omantv3/chunklist.m3u8?wowzasessionid=1751231831&v=1342104563
+http://178.33.88.129:888/udp/239.102.0.241:1234
 
 
 #EXTINF:-1 group-title="Arabic",Bahrain
@@ -359,7 +369,7 @@ rtsp://82.137.248.21:1935/Ugarit/UgaritLive
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
 #EXTINF:-1 group-title="Arabic",Alquds
-http://qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+http://178.33.88.129:888/udp/239.102.0.240:1234
 #EXTINF:-1 group-title="Arabic",Alaqsa
 http://144.76.98.131:1935/aqsatv/live/tv/chunklist_w1351771762.m3u8?v=1342104563
 #EXTINF:-1 group-title="Arabic",Al Sharqiya
