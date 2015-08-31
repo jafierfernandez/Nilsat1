@@ -38,6 +38,10 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
  http://178.33.88.129:888/udp/239.102.0.193:1234
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
  http://178.33.88.129:888/udp/239.102.0.194:1234
+#EXTINF:-1 group-title="Kids Arabic",Toyour Aljannah
+ http://178.33.88.129:888/udp/239.102.0.215:1234
+#EXTINF:-1 group-title="Kids Arabic",Cartonn Network
+ http://178.33.88.129:888/udp/239.102.0.207:1234
 
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
@@ -119,7 +123,7 @@ http://178.33.88.129:888/udp/239.102.0.48:1234
  http://178.33.88.129:888/udp/239.102.0.95:1234
 #EXTINF:-1 group-title="Aflam & Drama",Star 2
  http://178.33.88.129:888/udp/239.102.0.100:1234
-#EXTINF:-1 group-title="Aflam & Drama",Mafia Cinema AR
+#EXTINF:-1 group-title="Aflam & Drama",Mafia Cinema 
  http://178.33.88.129:888/udp/239.102.0.102:1234
 #EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
  http://178.33.88.129:888/udp/239.102.0.108:1234
@@ -134,7 +138,7 @@ http://178.33.88.129:888/udp/239.102.0.48:1234
 
 #EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
  http://178.33.88.129:888/udp/239.102.0.120:1234
-#EXTINF:-1 group-title="Aflam & Drama",Dream 1
+#EXTINF:-1 group-title="Aflam & Drama",Dream 
  http://178.33.88.129:888/udp/239.102.0.122:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Cinema
  http://178.33.88.129:888/udp/239.102.0.184:1234
@@ -184,6 +188,8 @@ http://178.33.88.129:888/udp/239.102.0.48:1234
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1
 #EXTINF:-1 group-title="Arabic",Elbilad Algerie 
 rtmp://strfla13.streamakaci.com:80/elbilad/elbilad.stream
+#EXTINF:-1 group-title="Arabic",Alwatan
+ http://178.33.88.129:888/udp/239.102.0.134:1234
 #EXTINF:-1 group-title="Arabic",Alasr Algerie
 http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
@@ -233,8 +239,7 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Arabic",Alwatan
- http://178.33.88.129:888/udp/239.102.0.134:1234
+
 #EXTINF:-1 group-title="Arabic",Addar
  http://178.33.88.129:888/udp/239.102.0.149:1234
 #EXTINF:-1 group-title="Arabic",Qatar
@@ -330,7 +335,8 @@ rtmp://66.23.237.233:1935/alkout/alkout
 
 
 
-
+#EXTINF:-1 group-title="Arabic", Syria Drama
+ http://178.33.88.129:888/udp/239.102.0.213:1234
 #EXTINF:-1 group-title="Arabic", Syria
  rtsp://82.137.248.16:1935/Sat/SatLive3
 
@@ -340,8 +346,7 @@ rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1 group-title="Arabic", Syria Aloula
  rtsp://82.137.248.21:1935/Aloula/AloulaLive3
 
-#EXTINF:-1 group-title="Arabic", Syria Drama
- http://82.137.248.21:1935/Drama/smil:Drama_Auto.smil/playlist.m3u8?HQ=1
+
 #EXTINF:-1 group-title="Arabic",Nour Echamm
 rtsp://82.137.248.21:1935/Nour/NourLive3
 #EXTINF:-1 group-title="Arabic",Syria Educ
