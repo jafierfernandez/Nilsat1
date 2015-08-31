@@ -466,9 +466,32 @@ rtsp://mobilestreaming.itworkscdn.com/hawacom/hawacomlive
 
 
 
-
-
-
+#EXTINF:-1 group-title="Sport",Bein 1 HD FR
+ http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:-1 group-title="Sport",Bein 2 HD FR
+ http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:-1 group-title="Sport",Bein 3 HD FR
+ http://178.33.88.129:888/udp/239.102.0.22:1234
+#EXTINF:-1 group-title="Sport",Bein 4 HD
+ http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:-1 group-title="Sport",Bein 5 HD
+ http://178.33.88.129:888/udp/239.102.0.6:1234
+#EXTINF:-1 group-title="Sport",Bein 7 HD
+ http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:-1 group-title="Sport",Bein 8 HD
+ http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:-1 group-title="Sport",Bein 9 HD
+ http://178.33.88.129:888/udp/239.102.0.10:1234
+#EXTINF:-1 group-title="Sport",Bein 10 HD EN
+ http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:-1 group-title="Sport",Bein 11 HD EN
+ http://178.33.88.129:888/udp/239.102.0.12:1234
+#EXTINF:-1 group-title="Sport",Sky Sport HD2 DE
+ http://178.33.88.129:888/udp/239.102.0.24:1234
+#EXTINF:-1 group-title="Sport",ad sports 1
+ http://178.33.88.129:888/udp/239.102.0.28:1234
+#EXTINF:-1 group-title="Sport",ad sports 2
+ http://178.33.88.129:888/udp/239.102.0.29:1234
 
  
 
