@@ -223,13 +223,11 @@ http://178.33.88.129:888/udp/239.102.0.165:1234
  http://178.33.88.129:888/udp/239.102.0.166:1234
 #EXTINF:-1 group-title="Arabic",Nessma
  http://178.33.88.129:888/udp/239.102.0.167:1234
-#EXTINF:-1 group-title="Arabic",Tounesna 
- http://178.33.88.129:888/udp/239.102.0.172:1234
 #EXTINF:-1 group-title="Arabic",Tunisie
  http://178.33.88.129:888/udp/239.102.0.173:1234
 #EXTINF:-1 group-title="Arabic",Tunisia
  http://178.33.88.129:888/udp/239.102.0.174:1234
-#EXTINF:-1 group-title="Français",Aljanoubiya
+#EXTINF:-1 group-title="Arabic",Aljanoubiya
  http://178.33.88.129:888/udp/239.102.0.168:1234
 
 
