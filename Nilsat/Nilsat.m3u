@@ -131,30 +131,23 @@ http://178.33.88.129:888/udp/239.102.0.48:1234
  http://178.33.88.129:888/udp/239.102.0.108:1234
 #EXTINF:-1 group-title="Aflam & Drama",Alhayat 2
  http://178.33.88.129:888/udp/239.102.0.176:1234
-#EXTINF:-1 group-title="Aflam & Drama",Time Cinema
- http://178.33.88.129:888/udp/239.102.0.109:1234
-#EXTINF:-1 group-title="Aflam & Drama",Time Comedy
- http://178.33.88.129:888/udp/239.102.0.190:1234
 #EXTINF:-1 group-title="Aflam & Drama",Melody
  http://178.33.88.129:888/udp/239.102.0.110:1234
 #EXTINF:-1 group-title="Aflam & Drama",Alassema
 http://178.33.88.129:888/udp/239.102.0.238:1234
-
-#EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
- http://178.33.88.129:888/udp/239.102.0.120:1234
-#EXTINF:-1 group-title="Aflam & Drama",Dream 
- http://178.33.88.129:888/udp/239.102.0.122:1234
-#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
- http://178.33.88.129:888/udp/239.102.0.184:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
  http://178.33.88.129:888/udp/239.102.0.185:1234
-
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
  http://178.33.88.129:888/udp/239.102.0.187:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
  http://178.33.88.129:888/udp/239.102.0.188:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
  http://178.33.88.129:888/udp/239.102.0.189:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
+ http://178.33.88.129:888/udp/239.102.0.120:1234
+#EXTINF:-1 group-title="Aflam & Drama",Dream 
+ http://178.33.88.129:888/udp/239.102.0.122:1234
+
 #EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
  http://178.33.88.129:888/udp/239.102.0.209:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nile Drama
@@ -177,8 +170,10 @@ http://178.33.88.129:888/udp/239.102.0.238:1234
  http://178.33.88.129:888/udp/239.102.0.124:1234
 #EXTINF:-1 group-title="Aflam & Drama",Imagine Movies
  http://178.33.88.129:888/udp/239.102.0.126:1234
-#EXTINF:-1 group-title="Aflam & Drama",RAK TV
- http://178.33.88.129:888/udp/239.102.0.131:1234
+#EXTINF:-1 group-title="Aflam & Drama",Time Cinema
+ http://178.33.88.129:888/udp/239.102.0.109:1234
+#EXTINF:-1 group-title="Aflam & Drama",Time Comedy
+ http://178.33.88.129:888/udp/239.102.0.190:1234
 
 
 
@@ -251,7 +246,8 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Arabic",RAK TV
+ http://178.33.88.129:888/udp/239.102.0.131:1234
 #EXTINF:-1 group-title="Arabic",Addar
  http://178.33.88.129:888/udp/239.102.0.149:1234
 #EXTINF:-1 group-title="Arabic",Qatar
