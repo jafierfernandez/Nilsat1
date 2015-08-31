@@ -40,7 +40,7 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
  http://178.33.88.129:888/udp/239.102.0.194:1234
 #EXTINF:-1 group-title="Kids Arabic",Toyour Aljannah
  http://178.33.88.129:888/udp/239.102.0.215:1234
-#EXTINF:-1 group-title="Kids Arabic",Cartonn Network
+#EXTINF:-1 group-title="Kids Arabic",Cartonn Network AR
  http://178.33.88.129:888/udp/239.102.0.207:1234
 
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
