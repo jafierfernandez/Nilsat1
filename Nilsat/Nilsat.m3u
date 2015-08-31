@@ -30,11 +30,17 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
  #EXTINF:-1 group-title="Kids Arabic",AlJazeera Children
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+#EXTINF:-1 group-title="Kids Arabic",Mody Kids
+ http://178.33.88.129:888/udp/239.102.0.125:1234
+#EXTINF:-1 group-title="Kids Arabic",Koky Kids
+ http://178.33.88.129:888/udp/239.102.0.143:1234
+#EXTINF:-1 group-title="Kids Arabic",Stoon
+ http://178.33.88.129:888/udp/239.102.0.193:1234
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
-rtmp://78.100.40.195:1935/brm/?gmswf=1511549743/brm
+ http://178.33.88.129:888/udp/239.102.0.194:1234
 
-
-
+#EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
+ http://178.33.88.129:888/udp/239.102.0.158:1234
 #EXTINF:-1 group-title="News Arabic",Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 #EXTINF:-1 group-title="News Arabic",Al Arabia
@@ -65,7 +71,10 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 
-
+#EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
+ http://178.33.88.129:888/udp/239.102.0.196:1234
+#EXTINF:-1 group-title="Arabic",Abu Dhabi
+ http://178.33.88.129:888/udp/239.102.0.197:1234
 #EXTINF:-1 group-title="Arabic",Alnahar
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Alyoum
@@ -76,6 +85,8 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/p
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Arabic",Almisriya 2
+ http://178.33.88.129:888/udp/239.102.0.208:1234
 #EXTINF:-1 group-title="Arabic",CBC Drama
 http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic",CBC
@@ -90,6 +101,85 @@ http://185.5.222.231:4242/bysid/5104
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 
 
+
+
+#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
+ http://178.33.88.129:888/udp/239.102.0.47:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2 
+http://178.33.88.129:888/udp/239.102.0.48:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
+ http://178.33.88.129:888/udp/239.102.0.49:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Hikayat
+ http://178.33.88.129:888/udp/239.102.0.51:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Hikayat 2
+ http://178.33.88.129:888/udp/239.102.0.52:1234
+#EXTINF:-1 group-title="Aflam & Drama",MBC Misr
+ http://178.33.88.129:888/udp/239.102.0.45:1234
+#EXTINF:-1 group-title="Aflam & Drama",Almasrawiya
+ http://178.33.88.129:888/udp/239.102.0.95:1234
+#EXTINF:-1 group-title="Aflam & Drama",Star 2
+ http://178.33.88.129:888/udp/239.102.0.100:1234
+#EXTINF:-1 group-title="Aflam & Drama",Mafia Cinema AR
+ http://178.33.88.129:888/udp/239.102.0.102:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
+ http://178.33.88.129:888/udp/239.102.0.108:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alhayat 2
+ http://178.33.88.129:888/udp/239.102.0.176:1234
+#EXTINF:-1 group-title="Aflam & Drama",Time Cinema
+ http://178.33.88.129:888/udp/239.102.0.109:1234
+#EXTINF:-1 group-title="Aflam & Drama",Time Comedy
+ http://178.33.88.129:888/udp/239.102.0.190:1234
+#EXTINF:-1 group-title="Aflam & Drama",Melody
+ http://178.33.88.129:888/udp/239.102.0.110:1234
+
+#EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
+ http://178.33.88.129:888/udp/239.102.0.120:1234
+#EXTINF:-1 group-title="Aflam & Drama",Dream 1
+ http://178.33.88.129:888/udp/239.102.0.122:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
+ http://178.33.88.129:888/udp/239.102.0.184:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
+ http://178.33.88.129:888/udp/239.102.0.185:1234
+
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
+ http://178.33.88.129:888/udp/239.102.0.187:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
+ http://178.33.88.129:888/udp/239.102.0.188:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
+ http://178.33.88.129:888/udp/239.102.0.189:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
+ http://178.33.88.129:888/udp/239.102.0.209:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Drama
+ http://178.33.88.129:888/udp/239.102.0.210:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Family
+ http://178.33.88.129:888/udp/239.102.0.212:1234
+#EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
+ http://178.33.88.129:888/udp/239.102.0.133:1234
+#EXTINF:-1 group-title="Aflam & Drama",Cinema
+ http://178.33.88.129:888/udp/239.102.0.145:1234
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Comedy
+ http://178.33.88.129:888/udp/239.102.0.160:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alkahera Wennas 2
+ http://178.33.88.129:888/udp/239.102.0.161:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile TV
+ http://178.33.88.129:888/udp/239.102.0.211:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alkahera
+ http://178.33.88.129:888/udp/239.102.0.116:1234
+#EXTINF:-1 group-title="Aflam & Drama",COC
+ http://178.33.88.129:888/udp/239.102.0.124:1234
+#EXTINF:-1 group-title="Aflam & Drama",Imagine Movies
+ http://178.33.88.129:888/udp/239.102.0.126:1234
+#EXTINF:-1 group-title="Aflam & Drama",RAK TV
+ http://178.33.88.129:888/udp/239.102.0.131:1234
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Arabic",KBC 
+ http://178.33.88.129:888/udp/239.102.0.94:1234
 #EXTINF:-1 group-title="Arabic",Alfajr TV
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1
 #EXTINF:-1 group-title="Arabic",Elbilad Algerie 
@@ -98,6 +188,36 @@ rtmp://strfla13.streamakaci.com:80/elbilad/elbilad.stream
 http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
+#EXTINF:-1 group-title="Arabic",Alnahar Laki
+ http://178.33.88.129:888/udp/239.102.0.129:1234
+#EXTINF:-1 group-title="Arabic",beur 
+ http://178.33.88.129:888/udp/239.102.0.101:1234
+#EXTINF:-1 group-title="Arabic",Aschorouq HD
+ http://178.33.88.129:888/udp/239.102.0.127:1234
+#EXTINF:-1 group-title="Arabic",Algerie
+ http://178.33.88.129:888/udp/239.102.0.203:1234
+#EXTINF:-1 group-title="Arabic",Algerie 3
+ http://178.33.88.129:888/udp/239.102.0.225:1234
+#EXTINF:-1 group-title="Arabic",Algerie 4
+ http://178.33.88.129:888/udp/239.102.0.142:1234
+#EXTINF:-1 group-title="Arabic",Alchorouk Algerie
+ http://178.33.88.129:888/udp/239.102.0.157:1234
+#EXTINF:-1 group-title="Arabic",Maan TV
+ http://178.33.88.129:888/udp/239.102.0.128:1234
+#EXTINF:-1 group-title="Arabic",Alwataniya 2
+ http://178.33.88.129:888/udp/239.102.0.164:1234
+#EXTINF:-1 group-title="Arabic",Alhiwar Tunisie
+http://178.33.88.129:888/udp/239.102.0.165:1234
+#EXTINF:-1 group-title="Arabic",Hannibal
+ http://178.33.88.129:888/udp/239.102.0.166:1234
+#EXTINF:-1 group-title="Arabic",Nessma
+ http://178.33.88.129:888/udp/239.102.0.167:1234
+#EXTINF:-1 group-title="Arabic",Tounesna 
+ http://178.33.88.129:888/udp/239.102.0.172:1234
+#EXTINF:-1 group-title="Arabic",Tunisie
+ http://178.33.88.129:888/udp/239.102.0.173:1234
+#EXTINF:-1 group-title="Arabic",Tunisia
+ http://178.33.88.129:888/udp/239.102.0.174:1234
 
 
 #EXTINF:-1 group-title="Arabic",Future TV
@@ -111,10 +231,12 @@ rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 #EXTINF:-1 group-title="Arabic",OTV 
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic",Abu Dhabi 
-rtmp://162.212.176.120/abudhabitv?v=1470523602/abudhabitv
 
 
+#EXTINF:-1 group-title="Arabic",Alwatan
+ http://178.33.88.129:888/udp/239.102.0.134:1234
+#EXTINF:-1 group-title="Arabic",Addar
+ http://178.33.88.129:888/udp/239.102.0.149:1234
 #EXTINF:-1 group-title="Arabic",Qatar
  http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_171s.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
@@ -160,7 +282,8 @@ http://50.7.120.138:2095/royal/royalsecrets.stream/chunklist.m3u8
 http://live.aldafrah.tv:1935/live/aldafrah3/playlist_b419993_w1375558218.m3u8
 #EXTINF:-1 group-title="Arabic",Alrai TV
 http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/chunklist_w1306710278.m3u8
-
+#EXTINF:-1 group-title="Arabic",Sudan TV
+ http://178.33.88.129:888/udp/239.102.0.121:1234
 #EXTINF:-1 group-title="Arabic",Assaodia 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic", Assaodia 2
@@ -290,6 +413,14 @@ http://tayba.live.net.sa:1935/live/taybatv/chunklist_w164378222.m3u8
 rtmp://stream11.tv2webstream.com/live/salam
 #EXTINF:-1 group-title="Relegion Arabic",Alfath TV
 rtmp://livestreaming.itworkscdn.net/alfatehlive/fatehtv
+#EXTINF:-1 group-title="Relegion Arabic",Time Quran
+ http://178.33.88.129:888/udp/239.102.0.123:1234
+#EXTINF:-1 group-title="Relegion Arabic",Majd Quran
+ http://178.33.88.129:888/udp/239.102.0.144:1234
+#EXTINF:-1 group-title="Relegion Arabic",Alinsan
+ http://178.33.88.129:888/udp/239.102.0.147:1234
+#EXTINF:-1 group-title="Relegion Arabic",Azhari
+ http://178.33.88.129:888/udp/239.102.0.159:1234
 
 
 
@@ -311,6 +442,8 @@ http://178.33.88.129:888/udp/239.102.0.110:1234
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 #EXTINF:-1 group-title="Arabic Music",Hawacom
 rtsp://mobilestreaming.itworkscdn.com/hawacom/hawacomlive
+#EXTINF:-1 group-title="Arabic Music",Rotana Music
+ http://178.33.88.129:888/udp/239.102.0.186:1234
 
 
 
@@ -501,7 +634,8 @@ http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81
 
 
 
-
+#EXTINF:-1 group-title="Français",FR?
+ http://178.33.88.129:888/udp/239.102.0.168:1234
 #EXTINF:-1 group-title="Français",Canal+ Emotion
 http://178.33.88.129:888/udp/239.102.0.105:1234
 #EXTINF:-1 group-title="Français",Canal+ Décalé
@@ -533,7 +667,7 @@ rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 http://87.248.160.8/edge/smil:animaux/playlist.m3u8
 #EXTINF:-1 group-title="Français",Cartoon Network 
 http://178.33.88.129:888/udp/239.102.0.89:1234
-#EXTINF:-1 group-title="Français",FR ?
+#EXTINF:-1 group-title="Français",Discovry
 http://178.33.88.129:888/udp/239.102.0.90:1234
 #EXTINF:-1 group-title="Français",Ushuaia 
 http://178.33.88.129:888/udp/239.102.0.91:1234
