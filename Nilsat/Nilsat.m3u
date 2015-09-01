@@ -88,8 +88,6 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/p
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Arabic",Almisriya 2
- http://178.33.88.129:888/udp/239.102.0.208:1234
 #EXTINF:-1 group-title="Arabic",CBC Drama
 http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic",CBC
@@ -214,9 +212,14 @@ http://178.33.88.129:888/udp/239.102.0.165:1234
  http://178.33.88.129:888/udp/239.102.0.174:1234
 #EXTINF:-1 group-title="Aflam & Drama",Aljanoubiya
  http://178.33.88.129:888/udp/239.102.0.168:1234
-
-
-
+#EXTINF:-1 group-title="Aflam & Drama",RAK TV
+ http://178.33.88.129:888/udp/239.102.0.131:1234
+#EXTINF:-1 group-title="Aflam & Drama",Addar
+ http://178.33.88.129:888/udp/239.102.0.149:1234
+#EXTINF:-1 group-title="Aflam & Drama",Almisriya 2
+ http://178.33.88.129:888/udp/239.102.0.208:1234
+#EXTINF:-1 group-title="Aflam & Drama",Sudan TV
+ http://178.33.88.129:888/udp/239.102.0.121:1234
 
 
 #EXTINF:-1 group-title="Arabic",Alfajr TV
@@ -244,10 +247,7 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Arabic",RAK TV
- http://178.33.88.129:888/udp/239.102.0.131:1234
-#EXTINF:-1 group-title="Arabic",Addar
- http://178.33.88.129:888/udp/239.102.0.149:1234
+
 #EXTINF:-1 group-title="Arabic",Qatar
  http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_171s.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
@@ -293,8 +293,7 @@ http://50.7.120.138:2095/royal/royalsecrets.stream/chunklist.m3u8
 http://live.aldafrah.tv:1935/live/aldafrah3/playlist_b419993_w1375558218.m3u8
 #EXTINF:-1 group-title="Arabic",Alrai TV
 http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/chunklist_w1306710278.m3u8
-#EXTINF:-1 group-title="Arabic",Sudan TV
- http://178.33.88.129:888/udp/239.102.0.121:1234
+
 #EXTINF:-1 group-title="Arabic",Assaodia 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic", Assaodia 2
