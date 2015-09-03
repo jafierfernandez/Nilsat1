@@ -665,18 +665,31 @@ http://pebbles118-lh.akamaihd.net/i/tm1o_1@135268/master.m3u8|X-Forwarded-For=81
 #EXTINF:-1 tvg-id="0094" group-title="Deutsch" tvg-logo="0095.png",[COLOR orange]Tele M1 West[/COLOR]
 http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81.17.18.50
 
-#EXTINF:-1 group-title="Français",1
-http://88.141.4.217:9007/7
-#EXTINF:-1 group-title="Français",2
-http://88.141.4.217:9008/8
-#EXTINF:-1 group-title="Français",3
-http://88.141.4.217:9009/9
-#EXTINF:-1 group-title="Français",4
-http://88.141.4.217:9010/10
-#EXTINF:-1 group-title="Français", SyFy HD
-http://88.141.4.217:9011/11
-#EXTINF:-1 group-title="Français",Canal+ Cinema
-http://88.141.4.217:9003/3
+
+
+
+
+
+#EXTINF:0 group-title="Français",Canal+ Cinema HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1501.m3u8
+#EXTINF:0 group-title="Français",TMC
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1406.m3u8
+#EXTINF:0 group-title="Français",NT1
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1410.m3u8
+#EXTINF:0 group-title="Français",Cine+ Frisson HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2076.m3u8
+#EXTINF:0 group-title="Français",13Rue HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2079.m3u8
+#EXTINF:0 group-title="Français",Ciné+ premiere
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2071.m3u8
+#EXTINF:0 group-title="Français",OCS Max HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2074.m3u8
+#EXTINF:0 group-title="Français",OCS City HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2073.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Français",Canal+ Emotion
 http://178.33.88.129:888/udp/239.102.0.105:1234
 #EXTINF:-1 group-title="Français",Canal+ Décalé
@@ -707,12 +720,13 @@ http://teleclub.fr/club1.mp4
 http://teleclub.fr/cinefil.mp4
 #EXTINF:-1 group-title="Français", Cinetoile
 http://teleclub.fr/cinetoile.mp4
-
+#EXTINF:-1 group-title="Français", RireTV
+http://teleclub.fr/ch11.ts
 #EXTINF:-1 group-title="Français", Cinq+ 
 http://teleclub.fr/cinqplus.mp4
 #EXTINF:-1 group-title="Français" , Weo HD
 rtmp://str81.creacast.com:80/weo/high
-#EXTINF:-1 group-title="Français",OUI TV
+#EXTINF:-1 group-title="Français", OUI TV
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
 #EXTINF:-1 group-title="Français",SC  
 http://178.33.88.129:888/udp/239.102.0.79:1234
