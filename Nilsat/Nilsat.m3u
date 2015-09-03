@@ -664,9 +664,18 @@ http://pebbles118-lh.akamaihd.net/i/tm1o_1@135268/master.m3u8|X-Forwarded-For=81
 #EXTINF:-1 tvg-id="0094" group-title="Deutsch" tvg-logo="0095.png",[COLOR orange]Tele M1 West[/COLOR]
 http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81.17.18.50
 
-
-
-
+#EXTINF:-1 group-title="Français",1
+http://88.141.4.217:9007/7
+#EXTINF:-1 group-title="Français",2
+http://88.141.4.217:9008/8
+#EXTINF:-1 group-title="Français",3
+http://88.141.4.217:9009/9
+#EXTINF:-1 group-title="Français",4
+http://88.141.4.217:9010/10
+#EXTINF:-1 group-title="Français", SyFy HD
+http://88.141.4.217:9011/11
+#EXTINF:-1 group-title="Français",Canal+ Cinema
+http://88.141.4.217:9003/3
 #EXTINF:-1 group-title="Français",Canal+ Emotion
 http://178.33.88.129:888/udp/239.102.0.105:1234
 #EXTINF:-1 group-title="Français",Canal+ Décalé
@@ -700,24 +709,33 @@ http://teleclub.fr/cinetoile.mp4
 
 #EXTINF:-1 group-title="Français", Cinq+ 
 http://teleclub.fr/cinqplus.mp4
+#EXTINF:-1 group-title="Français" , Weo HD
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1 group-title="Français",OUI TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
 #EXTINF:-1 group-title="Français",SC  
 http://178.33.88.129:888/udp/239.102.0.79:1234
 #EXTINF:-1 group-title="Français", Documania
 http://teleclub.fr/ch04.ts
+#EXTINF:-1 group-title="Français", Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Français", Science & Vie TV
+rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
 #EXTINF:-1 group-title="Français",Planete+ HD
 http://178.33.88.129:888/udp/239.102.0.83:1234
+#EXTINF:-1 group-title="Français",Planete+ Thalassa HD 
+http://178.33.88.129:888/udp/239.102.0.92:1234
 #EXTINF:-1 group-title="Français",National Geographic 
 http://178.33.88.129:888/udp/239.102.0.84:1234
 #EXTINF:-1 group-title="Français",Voyage
 http://178.33.88.129:888/udp/239.102.0.85:1234
 #EXTINF:-1 group-title="Français", Animaux HD 
 http://87.248.160.8/edge/smil:animaux/playlist.m3u8
-#EXTINF:-1 group-title="Français",Discovry
+#EXTINF:-1 group-title="Français",Discovery
 http://178.33.88.129:888/udp/239.102.0.90:1234
 #EXTINF:-1 group-title="Français",Ushuaia 
 http://178.33.88.129:888/udp/239.102.0.91:1234
-#EXTINF:-1 group-title="Français",Planete+ Thalassa HD 
-http://178.33.88.129:888/udp/239.102.0.92:1234
+
 #EXTINF:-1 group-title="Français", La chaine Normandie
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 
@@ -726,11 +744,13 @@ rtmp://live.lachainenormande.fr:80/live/lcn/livestream
 http://178.33.88.129:888/udp/239.102.0.88:1234
 #EXTINF:-1 group-title="Français",Cartoon Network 
 http://178.33.88.129:888/udp/239.102.0.89:1234
+#EXTINF:-1 group-title="Français",Cartoon+
+http://88.141.4.217:9005/5
 #EXTINF:-1 group-title="Français",MTV 
 http://178.33.88.129:888/udp/239.102.0.74:1234
 
 
-#EXTINF:0 group-title="Français", Enorme TV
+#EXTINF:0 group-title="Français", L'enorme 
 http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
  
 #EXTINF:0 group-title="Français", Gloubi
