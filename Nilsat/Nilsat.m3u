@@ -992,7 +992,42 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
-
+#EXTINF:0 group-title="Sky DE",SKY DE 
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1510.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Cinema De HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2383.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Cinema +1 De HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2384.m3u8
+#EXTINF:0 group-title="Sky DE",Sky De Cinema +24 HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1608.m3u8
+#EXTINF:0 group-title="Sky DE",Sky de Cinema Hits HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2362.m3u8
+#EXTINF:0 group-title="Sky DE",Sky de Cinema Action HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2363.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Emotion De
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2381.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Comedy De
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2382.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Action De Hd
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2386.m3u8
+#EXTINF:0 group-title="Sky DE",Sky select 1
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2657.m3u8
+#EXTINF:0 group-title="Sky DE",Sky select 2
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2658.m3u8
+#EXTINF:0 group-title="Sky DE",Sky select 3
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2659.m3u8
+#EXTINF:0 group-title="Sky DE",Sky select 4
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2660.m3u8
+#EXTINF:0 group-title="Sky DE",Sky select 5
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2661.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 6
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1507.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 7
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1508.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 8
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1509.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 9
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1595.m3u8
 
 
 
