@@ -223,7 +223,7 @@ http://178.33.88.129:888/udp/239.102.0.165:1234
 
 
 #EXTINF:-1 group-title="Arabic",Alfallujah TV
-http://livestream-f.akamaihd.net/4671269_4213685_72c2652e_1_446@334673?v=3.6.0&fp=WIN%2018,0,0,232&r=EYSQN&g=CDBUONVTVKCW
+http://livestream-f.akamaihd.net/4671269_4213685_72c2652e_1_446@334673
 #EXTINF:-1 group-title="Arabic",Alfajr TV
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1
 
