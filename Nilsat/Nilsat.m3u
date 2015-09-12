@@ -5,9 +5,9 @@
 
 
 #EXTINF:-1 group-title="Arabic",Medi 1
-http://178.33.88.129:888/udp/239.102.0.252:1234
+http://tvi.ddns.me:8000/live/dhoha/benomrane/174.m3u8;http://178.33.88.129:888/udp/239.102.0.252:1234
 #EXTINF:-1 group-title="Arabic",2M
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+http://tvi.ddns.me:8000/live/dhoha/benomrane/14.m3u8;http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
 http://bit.ly/1TJhpGh
 #EXTINF:-1 group-title="Arabic",Arryadia 
@@ -151,22 +151,22 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/143.m3u8
  http://178.33.88.129:888/udp/239.102.0.110:1234
 
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
- http://178.33.88.129:888/udp/239.102.0.185:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/92.m3u8;http://178.33.88.129:888/udp/239.102.0.185:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
- http://178.33.88.129:888/udp/239.102.0.187:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/89.m3u8;http://178.33.88.129:888/udp/239.102.0.187:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
 http://tvi.ddns.me:8000/live/dhoha/benomrane/88.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
- http://178.33.88.129:888/udp/239.102.0.188:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/15.m3u8;http://178.33.88.129:888/udp/239.102.0.188:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
- http://178.33.88.129:888/udp/239.102.0.189:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/91.m3u8;http://178.33.88.129:888/udp/239.102.0.189:1234
 
-
-
+#EXTINF:-1 group-title="Aflam & Drama",Nile Cinema
+http://tvi.ddns.me:8000/live/dhoha/benomrane/177.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
- http://178.33.88.129:888/udp/239.102.0.209:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/58.m3u8;http://178.33.88.129:888/udp/239.102.0.209:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nile Drama
- http://178.33.88.129:888/udp/239.102.0.210:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/79.m3u8;http://178.33.88.129:888/udp/239.102.0.210:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nile Family
  http://178.33.88.129:888/udp/239.102.0.212:1234
 #EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
@@ -228,20 +228,24 @@ http://178.33.88.129:888/udp/239.102.0.242:1234
  http://178.33.88.129:888/udp/239.102.0.157:1234
 #EXTINF:-1 group-title="Aflam & Drama",Maan TV
  http://178.33.88.129:888/udp/239.102.0.128:1234
-#EXTINF:-1 group-title="Aflam & Drama",Alwataniya 2
+#EXTINF:-1 group-title="Aflam & Drama",Alwataniya 1
 http://tvi.ddns.me:8000/live/dhoha/benomrane/123.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Alwataniya 2
- http://178.33.88.129:888/udp/239.102.0.164:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/2.m3u8;http://178.33.88.129:888/udp/239.102.0.164:1234
 #EXTINF:-1 group-title="Aflam & Drama",Alhiwar Tunisie
-http://178.33.88.129:888/udp/239.102.0.165:1234
+http://tvi.ddns.me:8000/live/dhoha/benomrane/3.m3u8;http://178.33.88.129:888/udp/239.102.0.165:1234
 #EXTINF:-1 group-title="Aflam & Drama",Hannibal
- http://178.33.88.129:888/udp/239.102.0.166:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/12.m3u8;http://178.33.88.129:888/udp/239.102.0.166:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nessma
- http://178.33.88.129:888/udp/239.102.0.167:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/4.m3u8;http://178.33.88.129:888/udp/239.102.0.167:1234
 #EXTINF:-1 group-title="Aflam & Drama",Tunisie
  http://178.33.88.129:888/udp/239.102.0.173:1234
 #EXTINF:-1 group-title="Aflam & Drama",Tunisia
  http://178.33.88.129:888/udp/239.102.0.174:1234
+#EXTINF:-1 group-title="Aflam & Drama",Zaytouna
+http://tvi.ddns.me:8000/live/dhoha/benomrane/9.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Attassia
+http://tvi.ddns.me:8000/live/dhoha/benomrane/99.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Aljanoubiya
  http://178.33.88.129:888/udp/239.102.0.168:1234
 #EXTINF:-1 group-title="Aflam & Drama",RAK TV
@@ -490,7 +494,7 @@ http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 #EXTINF:-1 group-title="Arabic Music",Hawacom
 rtsp://mobilestreaming.itworkscdn.com/hawacom/hawacomlive
 #EXTINF:-1 group-title="Arabic Music",Rotana Music
- http://178.33.88.129:888/udp/239.102.0.186:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/93.m3u8;http://178.33.88.129:888/udp/239.102.0.186:1234
 #EXTINF:-1 group-title="Arabic Music",Rotana Clip
 http://tvi.ddns.me:8000/live/dhoha/benomrane/90.m3u8
 
