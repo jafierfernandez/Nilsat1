@@ -487,6 +487,42 @@ http://178.33.88.129:888/udp/239.102.0.55:1234
  http://178.33.88.129:888/udp/239.102.0.28:1234
 #EXTINF:-1 group-title="Sport",ad sports 2
  http://178.33.88.129:888/udp/239.102.0.29:1234
+#EXTINF:0 group-title="Sport", Eurosport 1 HD 
+http://80.82.78.165:1935/live/weuro1/live.m3u8
+#EXTINF:0 group-title="Sport", Eurosport 2 HD 
+http://80.82.78.165:1935/live/euro2/live.m3u8
+#EXTINF:0 group-title="Sport", SkySport 1 HD
+http://80.82.78.165:1935/live/ss1/live.m3u8
+#EXTINF:0 group-title="Sport", SkySport 2 HD
+http://80.82.78.165:1935/live/ss2/live.m3u8
+#EXTINF:0 group-title="Sport", SkySport 3 HD
+http://80.82.78.165:1935/live/sss3/live.m3u8
+#EXTINF:0 group-title="Sport", SkySport 4 HD
+http://80.82.78.165:1935/live/sss4/live.m3u8
+#EXTINF:0 group-title="Sport", SkySport 5 HD
+http://80.82.78.165:1935/live/sss5/live.m3u8
+#EXTINF:0 group-title="Sport", SkySport f1 HD
+http://80.82.78.165:1935/live/sssf1/live.m3u8
+#EXTINF:0 group-title="Sport", Bt 2
+http://80.82.78.165:1935/live/xbt2/live.m3u8
+#EXTINF:0 group-title="Sport", BOX NATION
+http://80.82.78.165:1935/live/box/live.m3u8
+#EXTINF:0 group-title="Sport", ESPN USA
+http://80.82.78.165:1935/live/espnus/live.m3u8
+#EXTINF:-1 group-title="Sport",MULTISPORTS
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DA:45C:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Sport",MULTISPORTS 1
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DC:45C:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Sport",MULTISPORTS 2
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DD:45C:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Sport",MULTISPORTS 3
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DE:45C:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Sport",MULTISPORTS 4
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DF:45C:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Sport",MULTISPORTS 5
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20E0:45C:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Sport",MULTISPORTS 6
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20E1:45C:1:C00000:0:0:0:
 
  
 
@@ -673,22 +709,34 @@ http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81
 
 
 #EXTINF:0 group-title="Français",Canal+ Cinema HD
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1501.m3u8
-#EXTINF:0 group-title="Français",TMC
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1406.m3u8
-#EXTINF:0 group-title="Français",NT1
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1410.m3u8
-#EXTINF:0 group-title="Français",Cine+ Frisson HD
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2076.m3u8
-#EXTINF:0 group-title="Français",13Rue HD
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2079.m3u8
-#EXTINF:0 group-title="Français",Ciné+ premiere
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2071.m3u8
-#EXTINF:0 group-title="Français",OCS Max HD
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2074.m3u8
-#EXTINF:0 group-title="Français",OCS City HD
-http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2073.m3u8
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:200B:430:1:C00000:0:0:0:
 
+#EXTINF:-1 group-title="Français",OCS MAX HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:196A:44E:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",OCS CHOC HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:24BC:43C:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",OCS CITY HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:1F47:42E:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",OCS GEANTS HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:19CC:444:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",CINE+ EMOTION HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:245B:440:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",CINE+ PREMIER
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:200D:430:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",CINE+ FRISSON HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:2267:438:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",CINE FX HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:428A:446:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",ACTION HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:4286:446:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",TCM CINEMA HD
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:26AE:43E:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",TCM CINEMA
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:23F1:452:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",CINE+ CLUB
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:206E:432:1:C00000:0:0:0:
+#EXTINF:-1 group-title="Français",CINE+ CLASSIC
+http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:1FA5:434:1:C00000:0:0:0:
 
 
 
@@ -863,12 +911,32 @@ http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81
 
 #EXTINF: -1 group-title="Español", ANTENA 3 HD 
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 tvg-id="0247" group-title="Español",La Sexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1 group-title="Español",LA 1
 rtmp://cp358674.live.edgefcs.net/live/TVE-LA1-GL7@300841
 #EXTINF:-1 group-title="Español",LA 2
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
-#EXTINF:-1 tvg-id="0247" group-title="Español",La Sexta HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+
+#EXTINF:-1 group-title="Español", Castilla
+http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744
+#EXTINF:-1 group-title="Español", Tele Bilbao
+rtmp://178.32.53.254/telebilbao/livestream
+#EXTINF:-1 group-title="Español", Sanroque
+http://188.165.135.22/sanroque/mystream/chunklist_w699541235.m3u8
+#EXTINF:-1 group-title="Español", RTVB
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
+#EXTINF:-1 group-title="Español", Ribera
+rtmp://188.165.135.22/ribera/livestream
+#EXTINF:-1 group-title="Español", Remararg
+http://188.165.135.22/remararg/livestream/chunklist_w1689375174.m3u8
+#EXTINF:-1 group-title="Español", Cristiana TV
+rtmp://188.165.135.22/malaga/livestream
+#EXTINF:-1 group-title="Español", Golspel TV
+rtmp://188.165.135.22/gospeltv/livestream
+#EXTINF:-1 group-title="Español", TV4
+http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
 
 #EXTINF:-1 group-title="Español",Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
@@ -877,14 +945,7 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
 #EXTINF:-1 tvg-id="0247" group-title="Español",Galicia
 http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:0 group-title="Español",TVI
-http://satznt.mine.nu:7002/tvi
-#EXTINF:0 group-title="Español",Baby TV
-http://satznt.mine.nu:7001/babytv
-#EXTINF:0 group-title="Español",Sport TV 1
-http://satznt.mine.nu:7002/sptv1
-#EXTINF:0 group-title="Español",HollyWood TV
-http://satznt.mine.nu:7001/hlw
+
 
 #EXTINF:-1 group-title="Español",Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
