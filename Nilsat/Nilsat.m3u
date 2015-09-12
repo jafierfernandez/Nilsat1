@@ -43,7 +43,7 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 #EXTINF:-1 group-title="Kids Arabic",Cartonn Network AR
  http://178.33.88.129:888/udp/239.102.0.207:1234
 #EXTINF:-1 group-title="Kids Arabic",MBC 3
-http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/31.m3u8
+http://tvi.ddns.me:8000/live/dhoha/benomrane/131.m3u8
 
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
@@ -81,13 +81,13 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 #EXTINF:-1 group-title="Arabic",MBC DRAMA
-http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/33.m3u8
+http://tvi.ddns.me:8000/live/dhoha/benomrane/54.m3u8
 #EXTINF:-1 group-title="Arabic",MBC Misr
-http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/37.m3u8
+http://tvi.ddns.me:8000/live/dhoha/benomrane/133.m3u8
 #EXTINF:-1 group-title="Arabic",MBC MASR 2
-http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/38.m3u8
+http://tvi.ddns.me:8000/live/dhoha/benomrane/134.m3u8
 #EXTINF:-1 group-title="Arabic",MBC 1
-http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/29.m3u8
+http://tvi.ddns.me:8000/live/dhoha/benomrane/155.m3u8
 #EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
  http://178.33.88.129:888/udp/239.102.0.196:1234
 #EXTINF:-1 group-title="Arabic",Abu Dhabi
@@ -125,15 +125,15 @@ http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
 
 
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
- http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/39.m3u8
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/37.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2 
-http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/40.m3u8
+http://tvi.ddns.me:8000/live/dhoha/benomrane/38.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ART Cinema
- http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/41.m3u8
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/116.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ART Hikayat
- http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/42.m3u8
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/117.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ART Hikayat 2
- http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/43.m3u8
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/118.m3u8
 
 
 
