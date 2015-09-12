@@ -48,7 +48,7 @@ http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/31.m3u8
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
 #EXTINF:-1 group-title="News Arabic",Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+http://38.99.146.36:7777/AlJazeera_HD.m3u8     ###rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 #EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
@@ -62,7 +62,7 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
 #EXTINF:-1 group-title="News Arabic",Alann TV
-http://195.244.40.204:8001/1:0:1:9:1FF:2BE:1040000:0:0:0:
+http://38.99.146.36:7777/AlAan_HD.m3u8
 #EXTINF:-1 group-title="News Arabic",Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
 
@@ -92,6 +92,8 @@ http://dzcamiptv.ddns.net:1984/live/startimes/dzcam/29.m3u8
  http://178.33.88.129:888/udp/239.102.0.196:1234
 #EXTINF:-1 group-title="Arabic",Abu Dhabi
  http://178.33.88.129:888/udp/239.102.0.197:1234
+#EXTINF:-1 group-title="Arabic",Emirates
+http://38.99.146.36:7777/ADEmirates_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Alyoum
@@ -116,6 +118,10 @@ http://185.5.222.231:4242/bysid/5104
 http://tvi.ddns.me:8000/live/dhoha/benomrane/144.m3u8
 #EXTINF:-1 group-title="Arabic",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
+#EXTINF:-1 group-title="Arabic",Sada Albalad
+http://38.99.146.36:7777/SadaAlBalad_HD.m3u8
+#EXTINF:-1 group-title="Arabic",Sada Albalad Drama
+http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
 
 
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
@@ -142,6 +148,8 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/42.m3u8
 http://tvi.ddns.me:8000/live/dhoha/benomrane/36.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
 http://tvi.ddns.me:8000/live/dhoha/benomrane/143.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Sama Cinema
+http://38.99.146.36:7777/SamaCinema_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
  http://178.33.88.129:888/udp/239.102.0.108:1234
 #EXTINF:-1 group-title="Aflam & Drama",Alhayat 2
@@ -174,6 +182,8 @@ http://178.33.88.129:888/udp/239.102.0.210:1234
  http://178.33.88.129:888/udp/239.102.0.145:1234
 #EXTINF:-1 group-title="Aflam & Drama",Panorama Comedy
  http://178.33.88.129:888/udp/239.102.0.160:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alkahera Wennas 1
+http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Alkahera Wennas 2
  http://178.33.88.129:888/udp/239.102.0.161:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nile TV
@@ -185,11 +195,15 @@ http://178.33.88.129:888/udp/239.102.0.210:1234
 #EXTINF:-1 group-title="Aflam & Drama",Imagine Movies
  http://178.33.88.129:888/udp/239.102.0.126:1234
 #EXTINF:-1 group-title="Aflam & Drama",Time Cinema
- http://178.33.88.129:888/udp/239.102.0.109:1234
+http://38.99.146.36:7777/TimeCinema_HD.m3u8     ### http://178.33.88.129:888/udp/239.102.0.109:1234
+#EXTINF:-1 group-title="Aflam & Drama",Time Drama
+http://38.99.146.36:7777/TimeDrama_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Time Comedy
  http://178.33.88.129:888/udp/239.102.0.190:1234
 #EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
  http://178.33.88.129:888/udp/239.102.0.120:1234
+#EXTINF:-1 group-title="Aflam & Drama",Star 1
+http://38.99.146.36:7777/StarCinema1_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Star 2
  http://178.33.88.129:888/udp/239.102.0.100:1234
 #EXTINF:-1 group-title="Aflam & Drama",Mafia Cinema 
