@@ -79,14 +79,11 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 
-#EXTINF:-1 group-title="Arabic",MBC MASR
-http://tvi.ddns.me:8000/live/dhoha/benomrane/133.m3u8
-#EXTINF:-1 group-title="Arabic",MBC ACTION
-http://tvi.ddns.me:8000/live/dhoha/benomrane/53.m3u8
+
 #EXTINF:-1 group-title="Arabic",MBC DRAMA
 http://tvi.ddns.me:8000/live/dhoha/benomrane/54.m3u8
 #EXTINF:-1 group-title="Arabic",MBC Misr
- http://178.33.88.129:888/udp/239.102.0.45:1234
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/133.m3u8;http://178.33.88.129:888/udp/239.102.0.45:1234
 #EXTINF:-1 group-title="Arabic",MBC MASR 2
 http://tvi.ddns.me:8000/live/dhoha/benomrane/134.m3u8
 #EXTINF:-1 group-title="Arabic",MBC 1
@@ -124,15 +121,15 @@ http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 
 
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
- http://178.33.88.129:888/udp/239.102.0.47:1234;http://tvi.ddns.me:8000/live/dhoha/benomrane/37.m3u8
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/37.m3u8;http://178.33.88.129:888/udp/239.102.0.47:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2 
-http://178.33.88.129:888/udp/239.102.0.48:1234;http://tvi.ddns.me:8000/live/dhoha/benomrane/38.m3u8
+http://tvi.ddns.me:8000/live/dhoha/benomrane/38.m3u8;http://178.33.88.129:888/udp/239.102.0.48:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Cinema
- http://178.33.88.129:888/udp/239.102.0.49:1234;http://tvi.ddns.me:8000/live/dhoha/benomrane/116.m3u8
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/116.m3u8;http://178.33.88.129:888/udp/239.102.0.49:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Hikayat
- http://178.33.88.129:888/udp/239.102.0.51:1234;http://tvi.ddns.me:8000/live/dhoha/benomrane/117.m3u8
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/117.m3u8;http://178.33.88.129:888/udp/239.102.0.51:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Hikayat 2
- http://178.33.88.129:888/udp/239.102.0.52:1234;http://tvi.ddns.me:8000/live/dhoha/benomrane/118.m3u8
+ http://tvi.ddns.me:8000/live/dhoha/benomrane/118.m3u8;http://178.33.88.129:888/udp/239.102.0.52:1234
 
 
 
