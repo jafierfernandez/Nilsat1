@@ -39,11 +39,11 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
  http://178.33.88.129:888/udp/239.102.0.194:1234
 #EXTINF:-1 group-title="Kids Arabic",Toyour Aljannah
- http://178.33.88.129:888/udp/239.102.0.215:1234
+ http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8   ####http://178.33.88.129:888/udp/239.102.0.215:1234
 #EXTINF:-1 group-title="Kids Arabic",Cartonn Network AR
  http://178.33.88.129:888/udp/239.102.0.207:1234
 #EXTINF:-1 group-title="Kids Arabic",MBC 3
-http://tvi.ddns.me:8000/live/dhoha/benomrane/131.m3u8
+http://38.99.146.36:7777/MBC3_HD.m3u8
 
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
@@ -80,14 +80,7 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 
-#EXTINF:-1 group-title="Arabic",MBC DRAMA
-http://tvi.ddns.me:8000/live/dhoha/benomrane/54.m3u8
-#EXTINF:-1 group-title="Arabic",MBC Misr
-http://tvi.ddns.me:8000/live/dhoha/benomrane/133.m3u8
-#EXTINF:-1 group-title="Arabic",MBC MASR 2
-http://tvi.ddns.me:8000/live/dhoha/benomrane/134.m3u8
-#EXTINF:-1 group-title="Arabic",MBC 1
-http://tvi.ddns.me:8000/live/dhoha/benomrane/155.m3u8
+
 #EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
  http://178.33.88.129:888/udp/239.102.0.196:1234
 #EXTINF:-1 group-title="Arabic",Abu Dhabi
@@ -96,12 +89,16 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/155.m3u8
 http://38.99.146.36:7777/ADEmirates_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alnahar 2
+http://38.99.146.36:7777/AlNaharMovies_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Alyoum
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Drama
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",ONTV Live
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",ONTV
+http://38.99.146.36:7777/ONTV_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Arabic",CBC Drama
@@ -122,6 +119,18 @@ http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 http://38.99.146.36:7777/SadaAlBalad_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Sada Albalad Drama
 http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
+#EXTINF:-1 group-title="Arabic",Al Masriyah
+http://38.99.146.36:7777/AlMasriyah_HD.m3u8
+#EXTINF:-1 group-title="Arabic",Al Masriyah 2
+http://38.99.146.36:7777/AlThanya_HD.m3u8
+#EXTINF:-1 group-title="Arabic",MBC 1
+http://38.99.146.36:7777/MBC1_HD.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Drama
+http://38.99.146.36:7777/MBCDrama_HD.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Masr
+http://38.99.146.36:7777/MBCMaser_HD.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Masr+2
+http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
 
 
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
@@ -141,13 +150,17 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/38.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Dream 
  http://178.33.88.129:888/udp/239.102.0.122:1234
 #EXTINF:-1 group-title="Aflam & Drama",Dream 2
-http://tvi.ddns.me:8000/live/dhoha/benomrane/165.m3u8
+http://38.99.146.36:7777/Dream2_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Cima
-http://tvi.ddns.me:8000/live/dhoha/benomrane/42.m3u8
+http://38.99.146.36:7777/Cima_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Cairo Cinema
-http://tvi.ddns.me:8000/live/dhoha/benomrane/36.m3u8
+http://38.99.146.36:7777/CairoCinema_HD.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Cairo Cinema 2
+http://38.99.146.36:7777/Mosar3_HD.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Cairo Comedy
+http://38.99.146.36:7777/CairoComedy_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
-http://tvi.ddns.me:8000/live/dhoha/benomrane/143.m3u8
+http://38.99.146.36:7777/CairoDrama_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Sama Cinema
 http://38.99.146.36:7777/SamaCinema_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
@@ -162,18 +175,21 @@ http://178.33.88.129:888/udp/239.102.0.185:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
 http://178.33.88.129:888/udp/239.102.0.187:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
-http://tvi.ddns.me:8000/live/dhoha/benomrane/88.m3u8
+http://38.99.146.36:7777/RotanaAflam_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
 http://178.33.88.129:888/udp/239.102.0.188:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
 http://178.33.88.129:888/udp/239.102.0.189:1234
 
+
 #EXTINF:-1 group-title="Aflam & Drama",Nile Cinema
-http://tvi.ddns.me:8000/live/dhoha/benomrane/177.m3u8
+http://38.99.146.36:7777/NileCinema_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
 http://178.33.88.129:888/udp/239.102.0.209:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nile Drama
 http://178.33.88.129:888/udp/239.102.0.210:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Drama 2
+http://38.99.146.36:7777/NileDrama2_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Nile Family
  http://178.33.88.129:888/udp/239.102.0.212:1234
 #EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
@@ -182,6 +198,12 @@ http://178.33.88.129:888/udp/239.102.0.210:1234
  http://178.33.88.129:888/udp/239.102.0.145:1234
 #EXTINF:-1 group-title="Aflam & Drama",Panorama Comedy
  http://178.33.88.129:888/udp/239.102.0.160:1234
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Drama
+http://38.99.146.36:7777/PanoramaDrama_HD.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Drama 2
+http://38.99.146.36:7777/PanoramaDrama2_HD.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Panorama film
+http://38.99.146.36:7777/PanoramaFilm_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Alkahera Wennas 1
 http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Alkahera Wennas 2
@@ -508,7 +530,7 @@ rtsp://mobilestreaming.itworkscdn.com/hawacom/hawacomlive
 #EXTINF:-1 group-title="Arabic Music",Rotana Music
 http://178.33.88.129:888/udp/239.102.0.186:1234
 #EXTINF:-1 group-title="Arabic Music",Rotana Clip
-http://tvi.ddns.me:8000/live/dhoha/benomrane/90.m3u8
+http://38.99.146.36:7777/RotanaClip_HD.m3u8
 
 
 
@@ -545,60 +567,7 @@ http://178.33.88.129:888/udp/239.102.0.55:1234
 http://80.82.78.165:1935/live/weuro1/live.m3u8
 #EXTINF:0 group-title="Sport", Eurosport 2 HD 
 http://80.82.78.165:1935/live/euro2/live.m3u8
-#EXTINF:0 group-title="Sport", SkySport 1 HD
-http://80.82.78.165:1935/live/ss1/live.m3u8
-#EXTINF:0 group-title="Sport", SkySport 2 HD
-http://80.82.78.165:1935/live/ss2/live.m3u8
-#EXTINF:0 group-title="Sport", SkySport 3 HD
-http://80.82.78.165:1935/live/sss3/live.m3u8
-#EXTINF:0 group-title="Sport", SkySport 4 HD
-http://80.82.78.165:1935/live/sss4/live.m3u8
-#EXTINF:0 group-title="Sport", SkySport 5 HD
-http://80.82.78.165:1935/live/sss5/live.m3u8
-#EXTINF:0 group-title="Sport", SkySport f1 HD
-http://80.82.78.165:1935/live/sssf1/live.m3u8
-#EXTINF:0 group-title="Sport", Bt 2
-http://80.82.78.165:1935/live/xbt2/live.m3u8
-#EXTINF:0 group-title="Sport", BOX NATION
-http://80.82.78.165:1935/live/box/live.m3u8
-#EXTINF:0 group-title="Sport", ESPN USA
-http://80.82.78.165:1935/live/espnus/live.m3u8
-#EXTINF:-1 group-title="Sport",MULTISPORTS
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DA:45C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Sport",MULTISPORTS 1
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DC:45C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Sport",MULTISPORTS 2
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DD:45C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Sport",MULTISPORTS 3
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DE:45C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Sport",MULTISPORTS 4
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20DF:45C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Sport",MULTISPORTS 5
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20E0:45C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Sport",MULTISPORTS 6
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:20E1:45C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 1HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 2HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 3HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 4HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 4HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 5HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 5HD  GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 6HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 6HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 7HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-#EXTINF:-1 group-title="Sport",SPORT TIME TV 7HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+
 
  
 
@@ -784,38 +753,84 @@ http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81
 
 
 
+#EXTINF:0 group-title="Français",CINE.POLAR
+http://iptv.electro-clair.net:8000/live/timo/timo/1563.m3u8
+#EXTINF:0 group-title="Français",CINE.CLASSIC.HD
+http://iptv.electro-clair.net:8000/live/timo/timo/1562.m3u8
+#EXTINF:0 group-title="Français",CINE+FRISSON HD
+http://iptv.electro-clair.net:8000/live/timo/timo/1565.m3u8
+#EXTINF:0 group-title="Français",CINE+EMOTION.HD
+http://iptv.electro-clair.net:8000/live/timo/timo/1564.m3u8
+#EXTINF:0 group-title="Français",CINE+FAMIZHD
+http://iptv.electro-clair.net:8000/live/timo/timo/1566.m3u8
+
+#EXTINF:0 group-title="Français",MCM
+http://iptv.electro-clair.net:8000/live/timo/timo/1347.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-1
+http://iptv.electro-clair.net:8000/live/timo/timo/1371.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-2
+http://iptv.electro-clair.net:8000/live/timo/timo/1372.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-3
+http://iptv.electro-clair.net:8000/live/timo/timo/1373.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-4
+http://iptv.electro-clair.net:8000/live/timo/timo/1374.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-5
+http://iptv.electro-clair.net:8000/live/timo/timo/1375.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-7
+http://iptv.electro-clair.net:8000/live/timo/timo/1377.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-8
+http://iptv.electro-clair.net:8000/live/timo/timo/1378.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-9
+http://iptv.electro-clair.net:8000/live/timo/timo/1379.m3u8
+#EXTINF:0 group-title="Français",CANALPLAY-10
+http://iptv.electro-clair.net:8000/live/timo/timo/1380.m3u8
+
+#EXTINF:0 group-title="Français",CANAL.J.HD
+http://iptv.electro-clair.net:8000/live/timo/timo/1559.m3u8
+#EXTINF:0 group-title="Français",ACTION
+http://iptv.electro-clair.net:8000/live/timo/timo/1558.m3u8
+
+#EXTINF:0 group-title="Français",A.LA.CARTE.1
+http://iptv.electro-clair.net:8000/live/timo/timo/1486.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.2
+http://iptv.electro-clair.net:8000/live/timo/timo/1487.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.3
+http://iptv.electro-clair.net:8000/live/timo/timo/1488.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.4
+http://iptv.electro-clair.net:8000/live/timo/timo/1489.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.5
+http://iptv.electro-clair.net:8000/live/timo/timo/1490.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.6
+http://iptv.electro-clair.net:8000/live/timo/timo/1491.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.7
+http://iptv.electro-clair.net:8000/live/timo/timo/1492.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.8
+http://iptv.electro-clair.net:8000/live/timo/timo/1493.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.9
+http://iptv.electro-clair.net:8000/live/timo/timo/1494.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.10
+http://iptv.electro-clair.net:8000/live/timo/timo/1495.m3u8
+#EXTINF:0 group-title="Français",A.LA.CARTE.11
+http://iptv.electro-clair.net:8000/live/timo/timo/1496.m3u8
+
+
+#EXTINF:0 group-title="Français",OSC CITY HD
+http://iptv.electro-clair.net:8000/live/timo/timo/443.m3u8
+#EXTINF:0 group-title="Français",OCS Geants HD
+http://iptv.electro-clair.net:8000/live/timo/timo/442.m3u8
+#EXTINF:0 group-title="Français",OCS Max HD
+http://iptv.electro-clair.net:8000/live/timo/timo/441.m3u8
+
+
+
+#EXTINF:0 group-title="Français",CINE FAMIZ
+http://iptv.electro-clair.net:8000/live/timo/timo/192.m3u8
+#EXTINF:0 group-title="Français",Disney Cinema
+http://iptv.electro-clair.net:8000/live/timo/timo/1659.m3u8
+#EXTINF:0 group-title="Français",13eme Rue
+http://iptv.electro-clair.net:8000/live/timo/timo/1532.m3u8
 #EXTINF:0 group-title="Français",Canal+ Cinema HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:200B:430:1:C00000:0:0:0:;http://tvi.ddns.me:8000/live/rich/rich/202.m3u8
-
-#EXTINF:-1 group-title="Français",OCS MAX HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:196A:44E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",OCS CHOC HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:24BC:43C:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",OCS CITY HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:1F47:42E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",OCS GEANTS HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:19CC:444:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",CINE+ EMOTION HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:245B:440:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",CINE+ PREMIER
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:200D:430:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",CINE+ FRISSON HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:2267:438:1:C00000:0:0:0:;http://tvi.ddns.me:8000/live/rich/rich/877.m3u8
-#EXTINF:-1 group-title="Français",CINE FX HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:428A:446:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",ACTION HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:4286:446:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",TCM CINEMA HD
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:19:26AE:43E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",TCM CINEMA
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:23F1:452:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",CINE+ CLUB
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:206E:432:1:C00000:0:0:0:
-#EXTINF:-1 group-title="Français",CINE+ CLASSIC
-http://84.122.61.233.dyn.user.ono.com:8001/1:0:1:1FA5:434:1:C00000:0:0:0:
-
-
-
+http://iptv.electro-clair.net:8000/live/timo/timo/536.m3u8
 #EXTINF:-1 group-title="Français",Canal+ Emotion
 http://178.33.88.129:888/udp/239.102.0.105:1234
 #EXTINF:-1 group-title="Français",Canal+ Décalé
