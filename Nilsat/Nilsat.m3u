@@ -39,7 +39,7 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
  http://178.33.88.129:888/udp/239.102.0.194:1234
 #EXTINF:-1 group-title="Kids Arabic",Toyour Aljannah
- http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8   ####http://178.33.88.129:888/udp/239.102.0.215:1234
+ http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8   
 #EXTINF:-1 group-title="Kids Arabic",Cartonn Network AR
  http://178.33.88.129:888/udp/239.102.0.207:1234
 #EXTINF:-1 group-title="Kids Arabic",MBC 3
@@ -48,7 +48,7 @@ http://38.99.146.36:7777/MBC3_HD.m3u8
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
 #EXTINF:-1 group-title="News Arabic",Aljazeera
-http://38.99.146.36:7777/AlJazeera_HD.m3u8     ###rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+http://38.99.146.36:7777/AlJazeera_HD.m3u8    
 #EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
@@ -753,78 +753,74 @@ http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:0 group-title="Français",CINE.POLAR
+#EXTINF:0 group-title="Français",Cine Polar
 http://iptv.electro-clair.net:8000/live/timo/timo/1563.m3u8
-#EXTINF:0 group-title="Français",CINE.CLASSIC.HD
+#EXTINF:0 group-title="Français",Cine Classic HD
 http://iptv.electro-clair.net:8000/live/timo/timo/1562.m3u8
-#EXTINF:0 group-title="Français",CINE+FRISSON HD
+#EXTINF:0 group-title="Français",Cine+ Frisson HD
 http://iptv.electro-clair.net:8000/live/timo/timo/1565.m3u8
-#EXTINF:0 group-title="Français",CINE+EMOTION.HD
+#EXTINF:0 group-title="Français",Cine+ Emotin HD
 http://iptv.electro-clair.net:8000/live/timo/timo/1564.m3u8
-#EXTINF:0 group-title="Français",CINE+FAMIZHD
+#EXTINF:0 group-title="Français",Cine+ Famiz HD
 http://iptv.electro-clair.net:8000/live/timo/timo/1566.m3u8
 
 #EXTINF:0 group-title="Français",MCM
 http://iptv.electro-clair.net:8000/live/timo/timo/1347.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-1
+#EXTINF:0 group-title="Français",CANALPLAY 1
 http://iptv.electro-clair.net:8000/live/timo/timo/1371.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-2
+#EXTINF:0 group-title="Français",CANALPLAY 2
 http://iptv.electro-clair.net:8000/live/timo/timo/1372.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-3
+#EXTINF:0 group-title="Français",CANALPLAY 3
 http://iptv.electro-clair.net:8000/live/timo/timo/1373.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-4
+#EXTINF:0 group-title="Français",CANALPLAY 4
 http://iptv.electro-clair.net:8000/live/timo/timo/1374.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-5
+#EXTINF:0 group-title="Français",CANALPLAY 5
 http://iptv.electro-clair.net:8000/live/timo/timo/1375.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-7
+#EXTINF:0 group-title="Français",CANALPLAY 7
 http://iptv.electro-clair.net:8000/live/timo/timo/1377.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-8
+#EXTINF:0 group-title="Français",CANALPLAY 8
 http://iptv.electro-clair.net:8000/live/timo/timo/1378.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-9
+#EXTINF:0 group-title="Français",CANALPLAY 9
 http://iptv.electro-clair.net:8000/live/timo/timo/1379.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY-10
+#EXTINF:0 group-title="Français",CANALPLAY 10
 http://iptv.electro-clair.net:8000/live/timo/timo/1380.m3u8
 
-#EXTINF:0 group-title="Français",CANAL.J.HD
+#EXTINF:0 group-title="Français",Canal J HD
 http://iptv.electro-clair.net:8000/live/timo/timo/1559.m3u8
-#EXTINF:0 group-title="Français",ACTION
+#EXTINF:0 group-title="Français",Action
 http://iptv.electro-clair.net:8000/live/timo/timo/1558.m3u8
 
-#EXTINF:0 group-title="Français",A.LA.CARTE.1
+#EXTINF:0 group-title="Français",A LA CARTE 1
 http://iptv.electro-clair.net:8000/live/timo/timo/1486.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.2
+#EXTINF:0 group-title="Français",A LA CARTE 2
 http://iptv.electro-clair.net:8000/live/timo/timo/1487.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.3
+#EXTINF:0 group-title="Français",A LA CARTE 3
 http://iptv.electro-clair.net:8000/live/timo/timo/1488.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.4
+#EXTINF:0 group-title="Français",A LA CARTE 4
 http://iptv.electro-clair.net:8000/live/timo/timo/1489.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.5
+#EXTINF:0 group-title="Français",A LA CARTE 5
 http://iptv.electro-clair.net:8000/live/timo/timo/1490.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.6
+#EXTINF:0 group-title="Français",A LA CARTE 6
 http://iptv.electro-clair.net:8000/live/timo/timo/1491.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.7
+#EXTINF:0 group-title="Français",A LA CARTE 7
 http://iptv.electro-clair.net:8000/live/timo/timo/1492.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.8
+#EXTINF:0 group-title="Français",A LA CARTE 8
 http://iptv.electro-clair.net:8000/live/timo/timo/1493.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.9
+#EXTINF:0 group-title="Français",A LA CARTE 9
 http://iptv.electro-clair.net:8000/live/timo/timo/1494.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.10
+#EXTINF:0 group-title="Français",A LA CARTE 10
 http://iptv.electro-clair.net:8000/live/timo/timo/1495.m3u8
-#EXTINF:0 group-title="Français",A.LA.CARTE.11
+#EXTINF:0 group-title="Français",A LA CARTE 11
 http://iptv.electro-clair.net:8000/live/timo/timo/1496.m3u8
 
 
-#EXTINF:0 group-title="Français",OSC CITY HD
+#EXTINF:0 group-title="Français",OSC City HD
 http://iptv.electro-clair.net:8000/live/timo/timo/443.m3u8
 #EXTINF:0 group-title="Français",OCS Geants HD
 http://iptv.electro-clair.net:8000/live/timo/timo/442.m3u8
 #EXTINF:0 group-title="Français",OCS Max HD
 http://iptv.electro-clair.net:8000/live/timo/timo/441.m3u8
 
-
-
-#EXTINF:0 group-title="Français",CINE FAMIZ
-http://iptv.electro-clair.net:8000/live/timo/timo/192.m3u8
 #EXTINF:0 group-title="Français",Disney Cinema
 http://iptv.electro-clair.net:8000/live/timo/timo/1659.m3u8
 #EXTINF:0 group-title="Français",13eme Rue
