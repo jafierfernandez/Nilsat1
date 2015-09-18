@@ -44,6 +44,8 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
  http://178.33.88.129:888/udp/239.102.0.207:1234
 #EXTINF:-1 group-title="Kids Arabic",MBC 3
 http://38.99.146.36:7777/MBC3_HD.m3u8
+#EXTINF:-1 group-title="Kids Arabic",Semsem
+http://streaming.i-sat.tv:1935/live/semsem/chunklist_w2044362970.m3u8
 
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
@@ -101,6 +103,8 @@ http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playli
 http://38.99.146.36:7777/ONTV_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Arabic",Ten TV
+http://38.99.146.36:7777/Tahrir_HD.m3u8
 #EXTINF:-1 group-title="Arabic",CBC Drama
 http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic",CBC
@@ -163,6 +167,8 @@ http://38.99.146.36:7777/CairoComedy_HD.m3u8
 http://38.99.146.36:7777/CairoDrama_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Sama Cinema
 http://38.99.146.36:7777/SamaCinema_HD.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Albait Baitak Cinema
+http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
  http://178.33.88.129:888/udp/239.102.0.108:1234
 #EXTINF:-1 group-title="Aflam & Drama",Alhayat 2
@@ -508,9 +514,10 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/28.m3u8
 http://tvi.ddns.me:8000/live/dhoha/benomrane/69.m3u8
 
 
-
-
-
+#EXTINF:-1 group-title="Arabic Music",Nourmina
+http://38.99.146.36:7777/Nourmina_HD.m3u8
+#EXTINF:-1 group-title="Arabic Music",Massaya
+http://38.99.146.36:7777/Massaya_HD.m3u8
 #EXTINF:-1 group-title="Arabic Music",Wanasah
 http://178.33.88.129:888/udp/239.102.0.130:1234
 #EXTINF:-1 group-title="Arabic Music",Aghanina
@@ -551,8 +558,12 @@ http://178.33.88.129:888/udp/239.102.0.55:1234
  http://178.33.88.129:888/udp/239.102.0.8:1234
 #EXTINF:-1 group-title="Sport",Bein 8 HD
  http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:-1 group-title="Sport",Bein 8 HD AR
+http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/2454.ts
 #EXTINF:-1 group-title="Sport",Bein 9 HD
  http://178.33.88.129:888/udp/239.102.0.10:1234
+#EXTINF:-1 group-title="Sport",Bein 9 HD AR
+http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/2455.m3u8
 #EXTINF:-1 group-title="Sport",Bein 10 HD EN
  http://178.33.88.129:888/udp/239.102.0.11:1234
 #EXTINF:-1 group-title="Sport",Bein 11 HD EN
@@ -995,6 +1006,22 @@ http://pebbles117-lh.akamaihd.net/i/caju_1@135253/master.m3u8|X-Forwarded-For=81
 http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81.17.18.51
 
 
+#EXTINF: -1 group-title="Español",DHE Movies
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF: -1 group-title="Español",Sony
+http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF: -1 group-title="Español",E Studio Universal
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
+#EXTINF: -1 group-title="Español",Space HD
+http://201.161.59.7/space.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF: -1 group-title="Español",Fox HD
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF: -1 group-title="Español",Cinemax HD
+http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF: -1 group-title="Español",SyFy
+http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
+
+
 
 
 #EXTINF: -1 group-title="Español", ANTENA 3 HD 
@@ -1184,12 +1211,6 @@ http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1509.m3u8
 #EXTINF:0 group-title="Sky DE",Sky Select 9
 http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1595.m3u8
 
-#EXTINF:0 group-title="Sky DE",10
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 
-#EXTINF:0 group-title="Sky DE",11
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
-#EXTINF:0 group-title="Sky DE",12
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 
 
