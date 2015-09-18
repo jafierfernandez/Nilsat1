@@ -763,7 +763,6 @@ http://iptv.electro-clair.net:8000/live/timo/timo/1565.m3u8
 http://iptv.electro-clair.net:8000/live/timo/timo/1564.m3u8
 #EXTINF:0 group-title="Français",Cine+ Famiz HD
 http://iptv.electro-clair.net:8000/live/timo/timo/1566.m3u8
-
 #EXTINF:0 group-title="Français",MCM
 http://iptv.electro-clair.net:8000/live/timo/timo/1347.m3u8
 #EXTINF:0 group-title="Français",CANALPLAY 1
@@ -867,6 +866,8 @@ rtmp://str81.creacast.com:80/weo/high
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
 #EXTINF:-1 group-title="Français",SC  
 http://178.33.88.129:888/udp/239.102.0.79:1234
+#EXTINF:-1 group-title="Français",Chasse & Peche
+http://iptv.electro-clair.net:8000/live/timo/timo/1531.m3u8
 #EXTINF:-1 group-title="Français", Documania
 http://teleclub.fr/ch04.ts
 #EXTINF:-1 group-title="Français", Mirabelle TV
@@ -1004,8 +1005,8 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 rtmp://cp358674.live.edgefcs.net/live/TVE-LA1-GL7@300841
 #EXTINF:-1 group-title="Español",LA 2
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
-
-
+#EXTINF:-1 group-title="Español",13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 #EXTINF:-1 group-title="Español", Castilla
 http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744
 #EXTINF:-1 group-title="Español", Tele Bilbao
@@ -1024,7 +1025,11 @@ rtmp://188.165.135.22/malaga/livestream
 rtmp://188.165.135.22/gospeltv/livestream
 #EXTINF:-1 group-title="Español", TV4
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8
+#EXTINF:-1 group-title="Español",Extremadura TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 
+#EXTINF:-1 group-title="Español",Andorra TV
+http://194.158.80.31:443/live/rtva/playlist.m3u8
 #EXTINF:-1 group-title="Español",Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 
@@ -1179,11 +1184,12 @@ http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1509.m3u8
 #EXTINF:0 group-title="Sky DE",Sky Select 9
 http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1595.m3u8
 
+#EXTINF:0 group-title="Sky DE",10
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 
-
-
-
-
-
+#EXTINF:0 group-title="Sky DE",11
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:0 group-title="Sky DE",12
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 
 
