@@ -73,6 +73,8 @@ rtmp://streaming.tootvs.com/8010/8010
  rtmp://ns8.indexforce.com/ann/ann
  #EXTINF:-1 group-title="News Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 group-title="News Arabic",Sky News Arabic
+rtmp://skynews.fc.llnwd.net/skynews/_defi.nst_?gmswf=1470523995/skynewsarabia
 #EXTINF:-1 group-title="News Arabic",Dzair News
  http://178.33.88.129:888/udp/239.102.0.247:1234
 
@@ -83,13 +85,22 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
 
-
+#EXTINF:-1 group-title="Arabic",MBC 1
+http://38.99.146.36:7777/MBC1_HD.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Drama
+http://38.99.146.36:7777/MBCDrama_HD.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Masr
+http://38.99.146.36:7777/MBCMaser_HD.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Masr+2
+http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
  http://178.33.88.129:888/udp/239.102.0.196:1234
 #EXTINF:-1 group-title="Arabic",Abu Dhabi
  http://178.33.88.129:888/udp/239.102.0.197:1234
 #EXTINF:-1 group-title="Arabic",Emirates
 http://38.99.146.36:7777/ADEmirates_HD.m3u8
+#EXTINF:-1 group-title="Arabic",Funoon TV
+ http://watan.tv/playlist_f.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar 2
@@ -128,14 +139,7 @@ http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
 http://38.99.146.36:7777/AlMasriyah_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Al Masriyah 2
 http://38.99.146.36:7777/AlThanya_HD.m3u8
-#EXTINF:-1 group-title="Arabic",MBC 1
-http://38.99.146.36:7777/MBC1_HD.m3u8
-#EXTINF:-1 group-title="Arabic",MBC Drama
-http://38.99.146.36:7777/MBCDrama_HD.m3u8
-#EXTINF:-1 group-title="Arabic",MBC Masr
-http://38.99.146.36:7777/MBCMaser_HD.m3u8
-#EXTINF:-1 group-title="Arabic",MBC Masr+2
-http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
+
 
 
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
@@ -150,7 +154,28 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/38.m3u8
  http://tvi.ddns.me:8000/live/dhoha/benomrane/118.m3u8
 
 
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
+http://178.33.88.129:888/udp/239.102.0.185:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
+http://178.33.88.129:888/udp/239.102.0.187:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
+http://38.99.146.36:7777/RotanaAflam_HD.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
+http://178.33.88.129:888/udp/239.102.0.188:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
+http://178.33.88.129:888/udp/239.102.0.189:1234
 
+
+#EXTINF:-1 group-title="Aflam & Drama",Nile Cinema
+http://38.99.146.36:7777/NileCinema_HD.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
+http://178.33.88.129:888/udp/239.102.0.209:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Drama
+http://178.33.88.129:888/udp/239.102.0.210:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Drama 2
+http://38.99.146.36:7777/NileDrama2_HD.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Nile Family
+ http://178.33.88.129:888/udp/239.102.0.212:1234
 
 #EXTINF:-1 group-title="Aflam & Drama",Dream 
  http://178.33.88.129:888/udp/239.102.0.122:1234
@@ -177,28 +202,7 @@ http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Melody
  http://178.33.88.129:888/udp/239.102.0.110:1234
 
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
-http://178.33.88.129:888/udp/239.102.0.185:1234
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
-http://178.33.88.129:888/udp/239.102.0.187:1234
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
-http://38.99.146.36:7777/RotanaAflam_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
-http://178.33.88.129:888/udp/239.102.0.188:1234
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
-http://178.33.88.129:888/udp/239.102.0.189:1234
 
-
-#EXTINF:-1 group-title="Aflam & Drama",Nile Cinema
-http://38.99.146.36:7777/NileCinema_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
-http://178.33.88.129:888/udp/239.102.0.209:1234
-#EXTINF:-1 group-title="Aflam & Drama",Nile Drama
-http://178.33.88.129:888/udp/239.102.0.210:1234
-#EXTINF:-1 group-title="Aflam & Drama",Nile Drama 2
-http://38.99.146.36:7777/NileDrama2_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Nile Family
- http://178.33.88.129:888/udp/239.102.0.212:1234
 #EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
  http://178.33.88.129:888/udp/239.102.0.133:1234
 #EXTINF:-1 group-title="Aflam & Drama",Cinema
@@ -386,8 +390,7 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live.m3
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live.m3u8
 #EXTINF:-1 group-title="Arabic",Aldanah
 http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
-#EXTINF:-1 group-title="Arabic",Funoon TV
- http://watan.tv/playlist_f.m3u8
+
 #EXTINF:-1 group-title="Arabic",Saltanat Oman
 rtsp://38.96.148.30:1935/live/omantv1
 
