@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 group-title="Arabic",Medi 1
-http://178.33.88.129:888/udp/239.102.0.252:1234
+http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamMedi1TV/livestreamMedi1TV.m3u8    #####http://178.33.88.129:888/udp/239.102.0.252:1234
 #EXTINF:-1 group-title="Arabic",2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
@@ -768,83 +768,7 @@ http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81
 
 
 
-#EXTINF:0 group-title="Français",Cine Polar
-http://iptv.electro-clair.net:8000/live/timo/timo/1563.m3u8
-#EXTINF:0 group-title="Français",Cine Classic HD
-http://iptv.electro-clair.net:8000/live/timo/timo/1562.m3u8
-#EXTINF:0 group-title="Français",Cine+ Frisson HD
-http://iptv.electro-clair.net:8000/live/timo/timo/1565.m3u8
-#EXTINF:0 group-title="Français",Cine+ Emotin HD
-http://iptv.electro-clair.net:8000/live/timo/timo/1564.m3u8
-#EXTINF:0 group-title="Français",Cine+ Famiz HD
-http://iptv.electro-clair.net:8000/live/timo/timo/1566.m3u8
-#EXTINF:0 group-title="Français",MCM
-http://iptv.electro-clair.net:8000/live/timo/timo/1347.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 1
-http://iptv.electro-clair.net:8000/live/timo/timo/1371.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 2
-http://iptv.electro-clair.net:8000/live/timo/timo/1372.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 3
-http://iptv.electro-clair.net:8000/live/timo/timo/1373.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 4
-http://iptv.electro-clair.net:8000/live/timo/timo/1374.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 5
-http://iptv.electro-clair.net:8000/live/timo/timo/1375.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 7
-http://iptv.electro-clair.net:8000/live/timo/timo/1377.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 8
-http://iptv.electro-clair.net:8000/live/timo/timo/1378.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 9
-http://iptv.electro-clair.net:8000/live/timo/timo/1379.m3u8
-#EXTINF:0 group-title="Français",CANALPLAY 10
-http://iptv.electro-clair.net:8000/live/timo/timo/1380.m3u8
 
-#EXTINF:0 group-title="Français",Canal J HD
-http://iptv.electro-clair.net:8000/live/timo/timo/1559.m3u8
-#EXTINF:0 group-title="Français",Action
-http://iptv.electro-clair.net:8000/live/timo/timo/1558.m3u8
-
-#EXTINF:0 group-title="Français",A LA CARTE 1
-http://iptv.electro-clair.net:8000/live/timo/timo/1486.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 2
-http://iptv.electro-clair.net:8000/live/timo/timo/1487.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 3
-http://iptv.electro-clair.net:8000/live/timo/timo/1488.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 3 ts
-http://iptv.electro-clair.net:8000/live/timo/timo/1488.ts
-#EXTINF:0 group-title="Français",A LA CARTE 4
-http://iptv.electro-clair.net:8000/live/timo/timo/1489.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 4 ts
-http://iptv.electro-clair.net:8000/live/timo/timo/1489.ts
-#EXTINF:0 group-title="Français",A LA CARTE 5
-http://iptv.electro-clair.net:8000/live/timo/timo/1490.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 6
-http://iptv.electro-clair.net:8000/live/timo/timo/1491.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 7
-http://iptv.electro-clair.net:8000/live/timo/timo/1492.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 8
-http://iptv.electro-clair.net:8000/live/timo/timo/1493.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 9
-http://iptv.electro-clair.net:8000/live/timo/timo/1494.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 10
-http://iptv.electro-clair.net:8000/live/timo/timo/1495.m3u8
-#EXTINF:0 group-title="Français",A LA CARTE 11
-http://iptv.electro-clair.net:8000/live/timo/timo/1496.m3u8
-
-
-#EXTINF:0 group-title="Français",OSC City HD
-http://iptv.electro-clair.net:8000/live/timo/timo/443.m3u8
-#EXTINF:0 group-title="Français",OCS Geants HD
-http://iptv.electro-clair.net:8000/live/timo/timo/442.m3u8
-#EXTINF:0 group-title="Français",OCS Max HD
-http://iptv.electro-clair.net:8000/live/timo/timo/441.m3u8
-
-#EXTINF:0 group-title="Français",Disney Cinema
-http://iptv.electro-clair.net:8000/live/timo/timo/1659.m3u8
-#EXTINF:0 group-title="Français",13eme Rue
-http://iptv.electro-clair.net:8000/live/timo/timo/1532.m3u8
-#EXTINF:0 group-title="Français",Canal+ Cinema HD
-http://iptv.electro-clair.net:8000/live/timo/timo/536.m3u8
 #EXTINF:-1 group-title="Français",Canal+ Emotion
 http://178.33.88.129:888/udp/239.102.0.105:1234
 #EXTINF:-1 group-title="Français",Canal+ Décalé
@@ -1183,43 +1107,24 @@ http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For
 
 
 
-#EXTINF:0 group-title="Sky DE",Sky
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1510.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Cinema HD
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2383.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Cinema +1 HD
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2384.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Cinema +24 HD
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1608.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Cinema Hits HD
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2362.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Cinema Action HD
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2363.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Emotion 
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2381.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Comedy 
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2382.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Action HD
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2386.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 1
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2657.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 2
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2658.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 3
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2659.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 4
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2660.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 5
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2661.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 6
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1507.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 7
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1508.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 8
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1509.m3u8
-#EXTINF:0 group-title="Sky DE",Sky Select 9
-http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1595.m3u8
-
+#EXTINF:-1 group-title="USA",Pink Action
+http://178.253.194.68:1935/liveloworigin/pinkaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",Pink Horror
+http://178.253.194.68:1935/liveloworigin/pinkhorror.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",Pink Premium
+http://178.253.194.68:1935/liveloworigin/pinkpremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",Pink Reality
+http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",Pink Film
+http://178.253.194.68:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",Pink Classic
+http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",Pink Movies
+http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",Pink 2
+http://178.253.194.68:1935/liveloworigin/pink2.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",TNT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/84.m3u8
 
 
 
