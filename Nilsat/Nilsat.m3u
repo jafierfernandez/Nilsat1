@@ -50,9 +50,9 @@ http://streaming.i-sat.tv:1935/live/semsem/chunklist_w2044362970.m3u8
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
 #EXTINF:-1 group-title="News Arabic",Aljazeera
-http://38.99.146.36:7777/AlJazeera_HD.m3u8 
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high 
 #EXTINF:-1 group-title="News Arabic",Alhiwar
-rtmp://46.28.55.151/livepkgr/livestream   
+http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8   
 #EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
@@ -85,38 +85,23 @@ rtmp://skynews.fc.llnwd.net/skynews/_defi.nst_?gmswf=1470523995/skynewsarabia
 
 
 
-#EXTINF:-1 group-title="Arabic",MBC 1
-http://38.99.146.36:7777/MBC1_HD.m3u8
-#EXTINF:-1 group-title="Arabic",MBC Drama
-http://38.99.146.36:7777/MBCDrama_HD.m3u8
-#EXTINF:-1 group-title="Arabic",MBC Masr
-http://38.99.146.36:7777/MBCMaser_HD.m3u8
-#EXTINF:-1 group-title="Arabic",MBC Masr+2
-http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
+
 #EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
  http://178.33.88.129:888/udp/239.102.0.196:1234
 #EXTINF:-1 group-title="Arabic",Abu Dhabi
  http://178.33.88.129:888/udp/239.102.0.197:1234
-#EXTINF:-1 group-title="Arabic",Emirates
-http://38.99.146.36:7777/ADEmirates_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Funoon TV
  http://watan.tv/playlist_f.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",Alnahar 2
-http://38.99.146.36:7777/AlNaharMovies_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Alyoum
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Drama
 http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",ONTV Live
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",ONTV
-http://38.99.146.36:7777/ONTV_HD.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Arabic",Ten TV
-http://38.99.146.36:7777/Tahrir_HD.m3u8
 #EXTINF:-1 group-title="Arabic",CBC Drama
 http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic",CBC
@@ -131,121 +116,100 @@ http://185.5.222.231:4242/bysid/5104
 http://tvi.ddns.me:8000/live/dhoha/benomrane/144.m3u8
 #EXTINF:-1 group-title="Arabic",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
-#EXTINF:-1 group-title="Arabic",Sada Albalad
-http://38.99.146.36:7777/SadaAlBalad_HD.m3u8
-#EXTINF:-1 group-title="Arabic",Sada Albalad Drama
-http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
-#EXTINF:-1 group-title="Arabic",Al Masriyah
-http://38.99.146.36:7777/AlMasriyah_HD.m3u8
-#EXTINF:-1 group-title="Arabic",Al Masriyah 2
-http://38.99.146.36:7777/AlThanya_HD.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Aflam & Drama",MBC Misr
+http://178.33.88.129:888/udp/239.102.0.45:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
- http://tvi.ddns.me:8000/live/dhoha/benomrane/37.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2 
-http://tvi.ddns.me:8000/live/dhoha/benomrane/38.m3u8
+http://178.33.88.129:888/udp/239.102.0.47:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2
+http://178.33.88.129:888/udp/239.102.0.48:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Cinema
- http://tvi.ddns.me:8000/live/dhoha/benomrane/116.m3u8
+http://178.33.88.129:888/udp/239.102.0.49:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
+http://178.33.88.129:888/udp/239.102.0.184:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Hikayat
- http://tvi.ddns.me:8000/live/dhoha/benomrane/117.m3u8
+http://178.33.88.129:888/udp/239.102.0.51:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Hikayat 2
- http://tvi.ddns.me:8000/live/dhoha/benomrane/118.m3u8
-
-
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
+http://178.33.88.129:888/udp/239.102.0.52:1234
+#EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
+http://178.33.88.129:888/udp/239.102.0.133:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Masrya
 http://178.33.88.129:888/udp/239.102.0.185:1234
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
-http://178.33.88.129:888/udp/239.102.0.187:1234
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
-http://38.99.146.36:7777/RotanaAflam_HD.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
 http://178.33.88.129:888/udp/239.102.0.188:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
+http://178.33.88.129:888/udp/239.102.0.187:1234
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
 http://178.33.88.129:888/udp/239.102.0.189:1234
-
-
-#EXTINF:-1 group-title="Aflam & Drama",Nile Cinema
-http://38.99.146.36:7777/NileCinema_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
-http://178.33.88.129:888/udp/239.102.0.209:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nile Drama
 http://178.33.88.129:888/udp/239.102.0.210:1234
-#EXTINF:-1 group-title="Aflam & Drama",Nile Drama 2
-http://38.99.146.36:7777/NileDrama2_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Nile Family
- http://178.33.88.129:888/udp/239.102.0.212:1234
-
-#EXTINF:-1 group-title="Aflam & Drama",Dream 
- http://178.33.88.129:888/udp/239.102.0.122:1234
-#EXTINF:-1 group-title="Aflam & Drama",Dream 2
-http://38.99.146.36:7777/Dream2_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Cima
-http://38.99.146.36:7777/Cima_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Cairo Cinema
-http://38.99.146.36:7777/CairoCinema_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Cairo Cinema 2
-http://38.99.146.36:7777/Mosar3_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Cairo Comedy
-http://38.99.146.36:7777/CairoComedy_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
-http://38.99.146.36:7777/CairoDrama_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Sama Cinema
-http://38.99.146.36:7777/SamaCinema_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Albait Baitak Cinema
-http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
- http://178.33.88.129:888/udp/239.102.0.108:1234
-#EXTINF:-1 group-title="Aflam & Drama",Alhayat 2
- http://178.33.88.129:888/udp/239.102.0.176:1234
-#EXTINF:-1 group-title="Aflam & Drama",Melody
- http://178.33.88.129:888/udp/239.102.0.110:1234
-
-
-#EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
- http://178.33.88.129:888/udp/239.102.0.133:1234
-#EXTINF:-1 group-title="Aflam & Drama",Cinema
- http://178.33.88.129:888/udp/239.102.0.145:1234
-#EXTINF:-1 group-title="Aflam & Drama",Panorama Comedy
- http://178.33.88.129:888/udp/239.102.0.160:1234
-#EXTINF:-1 group-title="Aflam & Drama",Panorama Drama
-http://38.99.146.36:7777/PanoramaDrama_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Panorama Drama 2
-http://38.99.146.36:7777/PanoramaDrama2_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Panorama film
-http://38.99.146.36:7777/PanoramaFilm_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Alkahera Wennas 1
-http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Alkahera Wennas 2
- http://178.33.88.129:888/udp/239.102.0.161:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
+http://178.33.88.129:888/udp/239.102.0.209:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nile TV
- http://178.33.88.129:888/udp/239.102.0.211:1234
-#EXTINF:-1 group-title="Aflam & Drama",Alkahera
- http://178.33.88.129:888/udp/239.102.0.116:1234
-#EXTINF:-1 group-title="Aflam & Drama",COC
- http://178.33.88.129:888/udp/239.102.0.124:1234
-#EXTINF:-1 group-title="Aflam & Drama",Imagine Movies
- http://178.33.88.129:888/udp/239.102.0.126:1234
+http://178.33.88.129:888/udp/239.102.0.211:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Family
+http://178.33.88.129:888/udp/239.102.0.212:1234
+#EXTINF:-1 group-title="Aflam & Drama",Dream 2
+http://178.33.88.129:888/udp/239.102.0.122:1234
+
+#EXTINF:-1 group-title="Aflam & Drama",Almisrawiya
+http://178.33.88.129:888/udp/239.102.0.95:1234
+#EXTINF:-1 group-title="Aflam & Drama",Star 2 
+http://178.33.88.129:888/udp/239.102.0.100:1234
+#EXTINF:-1 group-title="Aflam & Drama",Cinema Mafia 
+http://178.33.88.129:888/udp/239.102.0.102:1234
+
 #EXTINF:-1 group-title="Aflam & Drama",Time Cinema
-http://38.99.146.36:7777/TimeCinema_HD.m3u8     ### http://178.33.88.129:888/udp/239.102.0.109:1234
-#EXTINF:-1 group-title="Aflam & Drama",Time Drama
-http://38.99.146.36:7777/TimeDrama_HD.m3u8
+http://178.33.88.129:888/udp/239.102.0.109:1234
 #EXTINF:-1 group-title="Aflam & Drama",Time Comedy
- http://178.33.88.129:888/udp/239.102.0.190:1234
-#EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
- http://178.33.88.129:888/udp/239.102.0.120:1234
-#EXTINF:-1 group-title="Aflam & Drama",Star 1
-http://38.99.146.36:7777/StarCinema1_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Star 2
- http://178.33.88.129:888/udp/239.102.0.100:1234
-#EXTINF:-1 group-title="Aflam & Drama",Mafia Cinema 
- http://178.33.88.129:888/udp/239.102.0.102:1234
+http://178.33.88.129:888/udp/239.102.0.190:1234
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Comedy
+http://178.33.88.129:888/udp/239.102.0.160:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alqahera Wanas 2
+http://178.33.88.129:888/udp/239.102.0.161:1234
+
+
+#EXTINF:-1 group-title="Aflam & Drama",Free TV
+http://178.33.88.129:888/udp/239.102.0.179:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alhayat
+http://178.33.88.129:888/udp/239.102.0.226:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
+http://178.33.88.129:888/udp/239.102.0.108:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alhayat 2
+http://178.33.88.129:888/udp/239.102.0.176:1234
 #EXTINF:-1 group-title="Aflam & Drama",Alassema
 http://178.33.88.129:888/udp/239.102.0.238:1234
-#EXTINF:-1 group-title="Aflam & Drama",Almasrawiya
- http://178.33.88.129:888/udp/239.102.0.95:1234
 
+
+#EXTINF:-1 group-title="Aflam & Drama",Alqahera
+http://178.33.88.129:888/udp/239.102.0.116:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
+http://178.33.88.129:888/udp/239.102.0.120:1234
+#EXTINF:-1 group-title="Aflam & Drama",COC
+http://178.33.88.129:888/udp/239.102.0.124:1234
+#EXTINF:-1 group-title="Aflam & Drama",Imagine Movies 
+http://178.33.88.129:888/udp/239.102.0.126:1234
+#EXTINF:-1 group-title="Aflam & Drama",Cinema Azzaman Aljamil
+http://178.33.88.129:888/udp/239.102.0.145:1234
+#EXTINF:-1 group-title="Aflam & Drama",FOX Movies 
+http://178.33.88.129:888/udp/239.102.0.181:1234
+
+
+
+
+#EXTINF:-1 group-title="Aflam & Drama",Almisrya 2
+http://178.33.88.129:888/udp/239.102.0.208:1234
+#EXTINF:-1 group-title="Aflam & Drama",Aliskandarya
+http://178.33.88.129:888/udp/239.102.0.220:1234
+#EXTINF:-1 group-title="Aflam & Drama",Cairo Cinema
+http://178.33.88.129:888/udp/239.102.0.205:1234
+#EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
+http://178.33.88.129:888/udp/239.102.0.206:1234
+#EXTINF:-1 group-title="Aflam & Drama",CN 
+http://178.33.88.129:888/udp/239.102.0.207:1234
 
 
 #EXTINF:-1 group-title="Aflam & Drama",KBC 
