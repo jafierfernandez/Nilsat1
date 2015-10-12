@@ -39,11 +39,9 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
  http://178.33.88.129:888/udp/239.102.0.194:1234
 #EXTINF:-1 group-title="Kids Arabic",Toyour Aljannah
- http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8   
+ http://178.33.88.129:888/udp/239.102.0.215:1234   
 #EXTINF:-1 group-title="Kids Arabic",Cartonn Network AR
  http://178.33.88.129:888/udp/239.102.0.207:1234
-#EXTINF:-1 group-title="Kids Arabic",MBC 3
-http://38.99.146.36:7777/MBC3_HD.m3u8
 #EXTINF:-1 group-title="Kids Arabic",Semsem
 http://streaming.i-sat.tv:1935/live/semsem/chunklist_w2044362970.m3u8
 
