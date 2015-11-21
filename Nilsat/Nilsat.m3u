@@ -116,16 +116,16 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/144.m3u8
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 
 
-
-
+#EXTINF:-1 group-title="Aflam & Drama",MBC
+http://iptv.taqmaq.com:8080/live/test/test/70.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",MBC Misr
-http://178.33.88.129:888/udp/239.102.0.45:1234
+http://iptv.taqmaq.com:8080/live/test/test/75.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
-http://178.33.88.129:888/udp/239.102.0.47:1234
+http://iptv.star7arab.com:80/live/star7arab4ever/djwjqqq20/650.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2
-http://178.33.88.129:888/udp/239.102.0.48:1234
+http://iptv.star7arab.com:80/live/star7arab4ever/djwjqqq20/651.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ART Cinema
-http://178.33.88.129:888/udp/239.102.0.49:1234
+http://iptv.star7arab.com:80/live/star7arab4ever/djwjqqq20/652.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ART Cinema
 http://178.33.88.129:888/udp/239.102.0.184:1234
 #EXTINF:-1 group-title="Aflam & Drama",ART Hikayat
@@ -134,18 +134,22 @@ http://178.33.88.129:888/udp/239.102.0.51:1234
 http://178.33.88.129:888/udp/239.102.0.52:1234
 #EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
 http://178.33.88.129:888/udp/239.102.0.133:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
+http://iptv.taqmaq.com:8080/live/test/test/453.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Masrya
-http://178.33.88.129:888/udp/239.102.0.185:1234
+http://iptv.taqmaq.com:8080/live/test/test/448.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
-http://178.33.88.129:888/udp/239.102.0.188:1234
+http://iptv.taqmaq.com:8080/live/test/test/452.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
-http://178.33.88.129:888/udp/239.102.0.187:1234
+http://iptv.taqmaq.com:8080/live/test/test/451.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
-http://178.33.88.129:888/udp/239.102.0.189:1234
+http://iptv.taqmaq.com:8080/live/test/test/449.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Nile Cinema
+http://iptv.taqmaq.com:8080/live/test/test/458.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Nile Drama
-http://178.33.88.129:888/udp/239.102.0.210:1234
+http://iptv.taqmaq.com:8080/live/test/test/456.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
-http://178.33.88.129:888/udp/239.102.0.209:1234
+http://iptv.taqmaq.com:8080/live/test/test/457.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Nile TV
 http://178.33.88.129:888/udp/239.102.0.211:1234
 #EXTINF:-1 group-title="Aflam & Drama",Nile Family
