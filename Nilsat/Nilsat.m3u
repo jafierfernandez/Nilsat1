@@ -63,7 +63,7 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
 #EXTINF:-1 group-title="News Arabic",Alann TV
-http://38.99.146.36:7777/AlAan_HD.m3u8
+rtmp://trans04.itworkscdn.com:1935/alaanpublish/_definst_/alaantv_360p
 #EXTINF:-1 group-title="News Arabic",Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
 
@@ -91,11 +91,11 @@ rtmp://skynews.fc.llnwd.net/skynews/_defi.nst_?gmswf=1470523995/skynewsarabia
 #EXTINF:-1 group-title="Arabic",Funoon TV
  http://watan.tv/playlist_f.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar
-http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
+http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/chunklist_w1785074051.m3u8?
 #EXTINF:-1 group-title="Arabic",Alnahar Alyoum
-http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
+http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/chunklist_w381423371.m3u8?
 #EXTINF:-1 group-title="Arabic",Alnahar Drama
-http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
+http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist_w940595011.m3u8?
 #EXTINF:-1 group-title="Arabic",ONTV Live
 http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
@@ -268,7 +268,7 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/99.m3u8
 
 
 #EXTINF:-1 group-title="Arabic",Alfajr TV
-rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1
+http://vstreamgz.hadara.ps:1935/alfajertvhd/smil:alfajertvhdSmil.smil/chunklist_w591350615_b1628000_sleng.m3u8
 
 
 #EXTINF:-1 group-title="Arabic",Alasr Algerie
@@ -293,7 +293,7 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Arabic",Qatar
- http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_171s.m3u8
+ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_176s30.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Sharjah
