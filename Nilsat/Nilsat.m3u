@@ -48,7 +48,7 @@ http://streaming.i-sat.tv:1935/live/semsem/chunklist_w2044362970.m3u8
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
 #EXTINF:-1 group-title="News Arabic",Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high 
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high 
 #EXTINF:-1 group-title="News Arabic",Alhiwar
 http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8   
 #EXTINF:-1 group-title="News Arabic",Al Arabia
@@ -83,39 +83,25 @@ rtmp://skynews.fc.llnwd.net/skynews/_defi.nst_?gmswf=1470523995/skynewsarabia
 
 
 
-
-#EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
- http://178.33.88.129:888/udp/239.102.0.196:1234
-#EXTINF:-1 group-title="Arabic",Abu Dhabi
- http://178.33.88.129:888/udp/239.102.0.197:1234
-#EXTINF:-1 group-title="Arabic",Funoon TV
- http://watan.tv/playlist_f.m3u8
-#EXTINF:-1 group-title="Arabic",Alnahar
-http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/chunklist_w1785074051.m3u8?
-#EXTINF:-1 group-title="Arabic",Alnahar Alyoum
-http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/chunklist_w381423371.m3u8?
-#EXTINF:-1 group-title="Arabic",Alnahar Drama
-http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist_w940595011.m3u8?
-#EXTINF:-1 group-title="Arabic",ONTV Live
-http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",Almehwar
-http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Arabic",CBC Drama
-http://185.5.222.231:4242/bysid/5107
-#EXTINF:-1 group-title="Arabic",CBC
-http://185.5.222.231:4242/bysid/5108
-#EXTINF:-1 group-title="Arabic",CBC Extra
-http://185.5.222.231:4242/bysid/5109
-#EXTINF:-1 group-title="Arabic",CBC Sofra
-http://185.5.222.231:4242/bysid/5110
-#EXTINF:-1 group-title="Arabic",CBC+2
-http://185.5.222.231:4242/bysid/5104
-#EXTINF:-1 group-title="Arabic",Fatafeat
-http://tvi.ddns.me:8000/live/dhoha/benomrane/144.m3u8
 #EXTINF:-1 group-title="Arabic",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 
+#EXTINF:-1 group-title="Arabic",Funoon TV
+ http://watan.tv/playlist_f.m3u8
+#EXTINF:-1 group-title="Arabic",Almehwar
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 
+#EXTINF:-1 group-title="Arabic",Fatafeat
+http://tvi.ddns.me:8000/live/dhoha/benomrane/144.m3u8
+
+#EXTINF:-1 group-title="Arabic",Masriya 2
+http://185.5.222.231:4242/bysid/5101
+
+
+#EXTINF:-1 group-title="Aflam & Drama",Abu Dhabi Drama
+ http://178.33.88.129:888/udp/239.102.0.196:1234
+#EXTINF:-1 group-title="Aflam & Drama",Abu Dhabi
+ http://178.33.88.129:888/udp/239.102.0.197:1234
 #EXTINF:-1 group-title="Aflam & Drama",MBC
 http://iptv.taqmaq.com:8080/live/test/test/70.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",MBC Misr
@@ -156,6 +142,16 @@ http://178.33.88.129:888/udp/239.102.0.211:1234
 http://178.33.88.129:888/udp/239.102.0.212:1234
 #EXTINF:-1 group-title="Aflam & Drama",Dream 2
 http://178.33.88.129:888/udp/239.102.0.122:1234
+#EXTINF:-1 group-title="Aflam & Drama",CBC Drama
+http://185.5.222.231:4242/bysid/5107
+#EXTINF:-1 group-title="Aflam & Drama",CBC
+http://185.5.222.231:4242/bysid/5108
+#EXTINF:-1 group-title="Aflam & Drama",CBC Extra
+http://185.5.222.231:4242/bysid/5109
+#EXTINF:-1 group-title="Aflam & Drama",CBC Sofra
+http://185.5.222.231:4242/bysid/5110
+#EXTINF:-1 group-title="Aflam & Drama""Arabic",CBC+2
+http://185.5.222.231:4242/bysid/5104
 
 #EXTINF:-1 group-title="Aflam & Drama",Almisrawiya
 http://178.33.88.129:888/udp/239.102.0.95:1234
@@ -272,18 +268,19 @@ http://tvi.ddns.me:8000/live/dhoha/benomrane/99.m3u8
 
 
 #EXTINF:-1 group-title="Arabic",Alfajr TV
+
+
 http://vstreamgz.hadara.ps:1935/alfajertvhd/smil:alfajertvhdSmil.smil/chunklist_w591350615_b1628000_sleng.m3u8
-
-
-#EXTINF:-1 group-title="Arabic",Alasr Algerie
-http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Albilad Algerie
+http://elbilad.streamakaci.com/elbilad/smil:elbilad.smil/chunklist_w807226082_b1128000_slfr.m3u8
+#EXTINF:-1 group-title="Arabic",Echorouk TV
+http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arabic",LBC
-http://tvi.ddns.me:8000/live/dhoha/benomrane/104.m3u8
+#EXTINF:-1 group-title="Arabic",Watania 1
+https://cdn.streaminghd.tn/live/W0_sUBR9L2XyOEilgWaniA/1448159358/nat1/index.m3u8
 #EXTINF:-1 group-title="Arabic",Future TV
-rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Aljadeed
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",MTV Liban
@@ -300,6 +297,10 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
  http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_176s30.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
+#EXTINF:-1 group-title="Arabic",Aldafrah TV
+rtmp://live.aldafrah.tv:1935/live/myStream3
+#EXTINF:-1 group-title="Arabic",Alrai TV
+rtmp://stream02.fasttelco.net:1935/live/_definst_/alrai.stream
 #EXTINF:-1 group-title="Arabic",Sharjah
  rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
@@ -331,16 +332,8 @@ http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
  http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 group-title="Arabic",Ajman TV
 http://77.67.34.22/AJMAN_TV?gmswf=702871368
-#EXTINF:-1 group-title="Arabic",Albadawiyah
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=albadawiyah
-#EXTINF:-1 group-title="Arabic",Royal Edhak
-http://50.7.120.138:2095/royal/royaledhak.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Arabic",Royal Secret
-http://50.7.120.138:2095/royal/royalsecrets.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Arabic",Aldafrah TV
-http://live.aldafrah.tv:1935/live/aldafrah3/playlist_b419993_w1375558218.m3u8
-#EXTINF:-1 group-title="Arabic",Alrai TV
-http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/chunklist_w1306710278.m3u8
+
+
 
 #EXTINF:-1 group-title="Arabic",Assaodia 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
