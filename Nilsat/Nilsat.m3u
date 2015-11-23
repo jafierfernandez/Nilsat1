@@ -545,67 +545,56 @@ http://80.82.78.165:1935/live/euro2/live.m3u8
 
  
 
-#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]3+ HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1013/index.m3u8?p=127&c=t1&token=d8d0992f45cbbc2575aeac994f5feead&expires=1448074068
-#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0101.png",[COLOR orange]4+ HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1031/index.m3u8?p=127&c=t1&token=55bbaa06ab53dbd5f8e95c9f69584bc8&expires=1448074069
-#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0102.png",[COLOR orangered]5+[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1047/index.m3u8?p=127&c=t1&token=bc5e0a5229748b2efee095fd0701028c&expires=1448074070
-#EXTINF:-1 tvg-id="orfeins.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR orange]ORF1 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1010/index.m3u8?p=127&c=t1&token=3f9579ddfd7a7e883e2e04ab710f844e&expires=1448074094
-#EXTINF:-1 tvg-id="orf2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR orange]ORF2 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1011/index.m3u8?p=127&c=t1&token=3620df4e53fbae487cafe2524cd66e27&expires=1448074094
-#EXTINF:-1 tvg-id="kabeleins.ch" group-title="Deutsch" tvg-logo="0008.png",[COLOR orange]Kabel 1 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1039/index.m3u8?p=127&c=t1&token=948b01490d4257441e640a761521acfd&expires=1448074087
-#EXTINF:-1 tvg-id="prosieben.ch" group-title="Deutsch" tvg-logo="0007.png",[COLOR orange]Pro7 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1037/index.m3u8?p=127&c=t1&token=2e8416dabe69ede9a50b1cdbe8002347&expires=1448074095
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]Pro7Maxx[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1041/index.m3u8?p=127&c=t1&token=4aa5684d1f8d456b30b438aac2f6fc36&expires=1448074095
-#EXTINF:-1 tvg-id="puls8.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Puls 8 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/1053/index.m3u8?p=127&c=t1&token=b8268a854d11addd2e3fca44805cec8c&expires=1448074096
-#EXTINF:-1 tvg-id="sat1.ch" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1038/index.m3u8?p=127&c=t1&token=729b84e8f1da1e7f8c8c1f4e59b3e8e3&expires=1448074108
-#EXTINF:-1 tvg-id="rtl2.ch" group-title="Deutsch" tvg-logo="0009.png",[COLOR orange]RTL 2 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1024/index.m3u8?p=127&c=t1&token=400af0007d134048f167bd63dbaa7375&expires=1448074101
-#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orangered]RTL 102.5[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/3010/index.m3u8?p=127&c=t1&token=915b992ee9348f1d05516f768e6239f7&expires=1448074104
-#EXTINF:-1 tvg-id="rtl.ch" group-title="Deutsch" tvg-logo="0005.png",[COLOR orange]RTL HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1020/index.m3u8?p=127&c=t1&token=f2d424344cfa8c05b3b214fb553d1f9d&expires=1448074105
-#EXTINF:-1 tvg-id="rtlnitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL Nitro HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1027/index.m3u8?p=127&c=t1&token=c2a7194e63447b8ea53faa20de3cf154&expires=1448074105
-#EXTINF:-1 tvg-id="vox.ch" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1021/index.m3u8?p=127&c=t1&token=2c2ae6f3bf91f617a43fc05466c5adc8&expires=1448074120
-#EXTINF:-1 tvg-id="srf1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR orange]SRF 1 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1008/index.m3u8?p=127&c=t1&token=200c9c2906379675ebd105bec861ce97&expires=1448074112
-#EXTINF:-1 tvg-id="srfzwei.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR orange]SRF zwei HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1009/index.m3u8?p=127&c=t1&token=5a2044d3852a0da6cdf96d9d34949277&expires=1448074113
-#EXTINF:-1 tvg-id="zdf.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/1166/index.m3u8?p=127&c=t1&token=ed5b561b026daf1f78e80fdc18f602b0&expires=1448074122
-#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1117/index.m3u8?p=127&c=t1&token=cc11ef87d6a7c0cb8dc65f27f17ed694&expires=1448074069
-#EXTINF:-1 tvg-id="anixe.de" group-title="Deutsch" tvg-logo="0066.png",[COLOR orange]Anixe HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1134/index.m3u8?p=127&c=t1&token=f1a7f7fd875fcf88f2f24df1dcad1513&expires=1448074071
-#EXTINF:-1 tvg-id="daserste.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orange]ARD HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/1165/index.m3u8?p=127&c=t1&token=e5219e154dd015e192a37c62983fe3b8&expires=1448074071
-#EXTINF:-1 tvg-id="joiz.de" group-title="Deutsch" tvg-logo="0042.png",[COLOR orange]Joiz[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/1172/index.m3u8?p=127&c=t1&token=27a5daedd6f6412188756a6e15599c31&expires=1448074086
-
-#EXTINF:-1 tvg-id="kika.de" group-title="Deutsch" tvg-logo="0046.png",[COLOR orangered]KiKa HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1116/index.m3u8?p=127&c=t1&token=c0c71559d452dc75c064d5d4f8ff40f4&expires=1448074088
-#EXTINF:-1 tvg-id="arte.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orange]Arte HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1150/index.m3u8?p=127&c=t1&token=354f90053efc245ec18866d564239132&expires=1448074072
-#EXTINF:-1 tvg-id="br.de" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1112/index.m3u8?p=127&c=t1&token=efab5fc68633f56e6b15286bcc0fcdb3&expires=1448074073
-#EXTINF:-1 tvg-id="chtv.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR gold]CH TV HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1032/index.m3u8?p=127&c=t1&token=be283c6fb6b464ba8fadb263763bd5c4&expires=1448074075
-#EXTINF:-1 tvg-id="deluxe.de" group-title="Deutsch" tvg-logo="0065.png",[COLOR orangered]Deluxe Music[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1153/index.m3u8?p=127&c=t1&token=f179d62acb749a932fccfbeef9c31848&expires=1448074077
-#EXTINF:-1 tvg-id="disney.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1124/index.m3u8?p=127&c=t1&token=767ad8177d609a044d8b9ea4570ec78d&expires=1448074077
-#EXTINF:-1 tvg-id="dmax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orangered]DMAX[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1018/index.m3u8?p=127&c=t1&token=dc551a83cc1b9da1761e69b0b0c84543&expires=1448074078
-#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR orange]PHOENIX HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1122/index.m3u8?p=127&c=t1&token=f9d57dfd017ded900860da71e20875cd&expires=1448074095
+#EXTINF:-1 group-title="Sky",Sky 3D
+http://mainstream.dyndns.tv:8000/live/conny/conny/828.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany National Geographic HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/323.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany TNT Serie HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/216.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany TNT Film HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/217.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany MGM HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/201.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany History Channel
+http://mainstream.dyndns.tv:8000/live/conny/conny/202.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Fox HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/204.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Discovery Channel HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/203.m3u8
+#EXTINF:-1 group-title="Sky",SyFy HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/964.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany AXN HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/205.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany 13 Street HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/206.m3u8
+#EXTINF:-1 group-title="Sky",Sky Gemany Cinema HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/218.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Him3u8 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/2.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Action HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/76.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Cinema +1 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Cinema +24 HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/160.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Comedy
+http://mainstream.dyndns.tv:8000/live/conny/conny/161.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Emotion
+http://mainstream.dyndns.tv:8000/live/conny/conny/241.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Atlantic HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/159.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Krimi
+http://mainstream.dyndns.tv:8000/live/conny/conny/162.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany NatGeo Wild HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/6.m3u8
+#EXTINF:-1 group-title="Sky",Sky Kino Welt TV
+http://mainstream.dyndns.tv:8000/live/conny/conny/981.m3u8
+#EXTINF:-1 group-title="Sky",Sky Universal HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1165.m3u8
+#EXTINF:-1 group-title="Sky",Sky Germany Disney Channel HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1164.m3u8
+#EXTINF:-1 group-title="Sky",Sky Disney Cinemagic HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/1166.m3u8
 
 
 
@@ -745,20 +734,28 @@ http://teleboy.customers.cdn.iptv.ch/2/2027/index.m3u8?p=127&c=t1&token=3f0141b9
 
 
 
-#EXTINF: -1 group-title="Español",DHE Movies
-http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF: -1 group-title="Español",Sony
-http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF: -1 group-title="Español",E Studio Universal
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
-#EXTINF: -1 group-title="Español",Space HD
-http://201.161.59.7/space.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF: -1 group-title="Español",Fox HD
-http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF: -1 group-title="Español",Cinemax HD
-http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF: -1 group-title="Español",SyFy
-http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Español",AMC
+http://latinochannels.2fh.co/canales/hls/amc.m3u8
+#EXTINF:-1 group-title="Español",Cinemax
+http://latinochannels.2fh.co/canales/hls/cinemax.m3u8
+#EXTINF:-1 group-title="Español",Cinecanal
+http://latinochannels.2fh.co/canales/hls/cinecanal.m3u8
+#EXTINF:-1 group-title="Español",Cinecanal HD
+http://latinochannels.2fh.co/canales/hls/cinecanal-hd.m3u8
+#EXTINF:-1 group-title="Español",Fox 1
+http://latinochannels.2fh.co/canales/hls/fox-1.m3u8
+#EXTINF:-1 group-title="Español",Fox Action
+http://latinochannels.2fh.co/canales/hls/fox-action.m3u8
+#EXTINF:-1 group-title="Español",Fox Comedy
+http://latinochannels.2fh.co/canales/hls/fox-comedy.m3u8
+#EXTINF:-1 group-title="Español",Fox Cinema
+http://latinochannels.2fh.co/canales/hls/fox-cinema.m3u8
+#EXTINF:-1 group-title="Español",Fox Classics
+http://latinochannels.2fh.co/canales/hls/fox-classics.m3u8
+#EXTINF:-1 group-title="Español",Fox Movies
+http://latinochannels.2fh.co/canales/hls/fox-movies.m3u8
+#EXTINF:-1 group-title="Español",Fox Family
+http://latinochannels.2fh.co/canales/hls/fox-family.m3u8
 
 
 
@@ -841,115 +838,9 @@ http://satznt.mine.nu:7003/sptv2
 
 
 
-#EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
-http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
-http://pebbles103-lh.akamaihd.net/i/bbc1hd_1@97412/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
-http://pebbles109-lh.akamaihd.net/i/bbc2hd_1@97435/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
-http://pebbles113-lh.akamaihd.net/i/bbc3_1@97575/master.m3u8|X-Forwarded-For=81.17.18.52
-
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
-http://pebbles126-lh.akamaihd.net/i/bbc4_hd_1@180211/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
-http://pebbles111-lh.akamaihd.net/i/itvhd_1@97442/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
-http://pebbles124-lh.akamaihd.net/i/itv2_1@137792/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0412" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
-http://pebbles105-lh.akamaihd.net/i/itv3_1@97494/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0413" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
-http://pebbles106-lh.akamaihd.net/i/itv4_1@97503/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0414" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
-http://pebbles111-lh.akamaihd.net/i/channel4hd_1@97441/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0416" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
-http://pebbles124-lh.akamaihd.net/i/channel5_1@137787/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0417" group-title="English" tvg-logo="0417.png",[COLOR orange]More4[/COLOR]
-http://pebbles124-lh.akamaihd.net/i/more4_1@137795/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0418" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
-http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0419" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
-http://pebbles106-lh.akamaihd.net/i/fashiontv_1@97512/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0420" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
-http://pebbles113-lh.akamaihd.net/i/travelchannel_1@97576/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0421" group-title="English" tvg-logo="0421.png",[COLOR orangered]BBC News HD[/COLOR]
-http://pebbles127-lh.akamaihd.net/i/bbcnewshd_1@180318/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0422" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
-http://pebbles105-lh.akamaihd.net/i/bbcworld_1@97498/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0423" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN[/COLOR]
-http://pebbles105-lh.akamaihd.net/i/cnn_1@97501/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0424" group-title="English" tvg-logo="0424.png",[COLOR orange]CCTV News[/COLOR]
-http://pebbles101-lh.akamaihd.net/i/cctvnews_1@97342/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0425" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
-http://pebbles123-lh.akamaihd.net/i/aljazeera_1@137783/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0426" group-title="English" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
-http://pebbles124-lh.akamaihd.net/i/bloomberg_1@137785/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0427" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
-http://pebbles124-lh.akamaihd.net/i/cnbc_1@137788/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0428" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
-http://pebbles124-lh.akamaihd.net/i/nhkw_1@137796/master.m3u8|X-Forwarded-For=81.17.18.52
-#EXTINF:-1 tvg-id="0430" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
-http://pebbles106-lh.akamaihd.net/i/skynews_1@97511/master.m3u8|X-Forwarded-For=81.17.18.52
 
 
 
-
-
-#EXTINF:-1 tvg-id="0601" group-title="Italiano" tvg-logo="0602.png",[COLOR orangered]RSI LA 1 HD[/COLOR]
-http://pebbles103-lh.akamaihd.net/i/rsila1hd_1@97410/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0603" group-title="Italiano" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
-http://pebbles103-lh.akamaihd.net/i/rsila2hd_1@97411/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0605" group-title="Italiano" tvg-logo="0605.png",[COLOR orange]Rai Uno[/COLOR]
-http://pebbles103-lh.akamaihd.net/i/rai1_1@97382/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0606" group-title="Italiano" tvg-logo="0606.png",[COLOR orange]Rai Due[/COLOR]
-http://pebbles122-lh.akamaihd.net/i/rai2_1@137763/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0607" group-title="Italiano" tvg-logo="0607.png",[COLOR orange]Rai Tre[/COLOR]
-http://pebbles122-lh.akamaihd.net/i/rai3_1@137764/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0608" group-title="Italiano" tvg-logo="0608.png",[COLOR orange]Rai Gulp[/COLOR] 
-http://pebbles122-lh.akamaihd.net/i/raigulp_1@137765/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0609" group-title="Italiano" tvg-logo="0609.png",[COLOR orange]Rai Scoula[/COLOR] 
-http://pebbles122-lh.akamaihd.net/i/raiscuola_1@137768/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0610" group-title="Italiano" tvg-logo="0610.png",[COLOR orange]Rai Storia[/COLOR]
-http://pebbles103-lh.akamaihd.net/i/raistoria_1@97389/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0611" group-title="Italiano" tvg-logo="0611.png",[COLOR orange]Rai Sport 1[/COLOR]
-http://pebbles103-lh.akamaihd.net/i/raisport1_1@97387/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0612" group-title="Italiano" tvg-logo="0612.png",[COLOR orange]Rai Sport 2[/COLOR]
-http://pebbles122-lh.akamaihd.net/i/raisport2_1@137769/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0613" group-title="Italiano" tvg-logo="0613.png",[COLOR orange]Rai News[/COLOR]
-http://pebbles122-lh.akamaihd.net/i/rainews_1@137767/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0614" group-title="Italiano" tvg-logo="0614.png",[COLOR orange]Canale 5[/COLOR]
-http://pebbles121-lh.akamaihd.net/i/canale5_1@137760/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0615" group-title="Italiano" tvg-logo="0615.png",[COLOR orange]Italia 1[/COLOR]
-http://pebbles103-lh.akamaihd.net/i/italia1_1@97381/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0616" group-title="Italiano" tvg-logo="0616.png",[COLOR orange]TV Moda[/COLOR]
-http://pebbles103-lh.akamaihd.net/i/tvmoda_1@97383/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0617" group-title="Italiano" tvg-logo="0617.png",[COLOR orange]LA7[/COLOR]
-http://pebbles122-lh.akamaihd.net/i/la7_1@137762/master.m3u8|X-Forwarded-For=81.17.18.53
-#EXTINF:-1 tvg-id="0618" group-title="Italiano" tvg-logo="0618.png",[COLOR orange]Tele Ticino[/COLOR]
-http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For=81.17.18.53
-
-
-
-
-
-#EXTINF:-1 group-title="USA",Pink Action
-http://178.253.194.68:1935/liveloworigin/pinkaction.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",Pink Horror
-http://178.253.194.68:1935/liveloworigin/pinkhorror.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",Pink Premium
-http://178.253.194.68:1935/liveloworigin/pinkpremium.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",Pink Reality
-http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",Pink Film
-http://178.253.194.68:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",Pink Classic
-http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",Pink Movies
-http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",Pink 2
-http://178.253.194.68:1935/liveloworigin/pink2.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA",TNT
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/84.m3u8
 
 
 
