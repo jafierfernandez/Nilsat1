@@ -547,8 +547,7 @@ http://80.82.78.165:1935/live/euro2/live.m3u8
 
 #EXTINF:-1 group-title="Sky",Sky 3D
 http://mainstream.dyndns.tv:8000/live/conny/conny/828.m3u8
-#EXTINF:-1 group-title="Sky",Sky National Geographic HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/323.m3u8
+
 #EXTINF:-1 group-title="Sky",Sky TNT Serie HD
 http://mainstream.dyndns.tv:8000/live/conny/conny/216.m3u8
 #EXTINF:-1 group-title="Sky",Sky TNT Film HD
@@ -559,8 +558,7 @@ http://mainstream.dyndns.tv:8000/live/conny/conny/201.m3u8
 http://mainstream.dyndns.tv:8000/live/conny/conny/202.m3u8
 #EXTINF:-1 group-title="Sky",Sky Fox HD
 http://mainstream.dyndns.tv:8000/live/conny/conny/204.m3u8
-#EXTINF:-1 group-title="Sky",Sky Discovery Channel HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/203.m3u8
+
 #EXTINF:-1 group-title="Sky",SyFy HD
 http://mainstream.dyndns.tv:8000/live/conny/conny/964.m3u8
 #EXTINF:-1 group-title="Sky",Sky AXN HD
@@ -569,7 +567,7 @@ http://mainstream.dyndns.tv:8000/live/conny/conny/205.m3u8
 http://mainstream.dyndns.tv:8000/live/conny/conny/206.m3u8
 #EXTINF:-1 group-title="Sky",Sky Cinema HD
 http://mainstream.dyndns.tv:8000/live/conny/conny/218.m3u8
-#EXTINF:-1 group-title="Sky",Sky Him HD
+#EXTINF:-1 group-title="Sky",Sky 007 HD
 http://mainstream.dyndns.tv:8000/live/conny/conny/2.m3u8
 #EXTINF:-1 group-title="Sky",Sky Action HD
 http://mainstream.dyndns.tv:8000/live/conny/conny/76.m3u8
@@ -581,12 +579,9 @@ http://mainstream.dyndns.tv:8000/live/conny/conny/160.m3u8
 http://mainstream.dyndns.tv:8000/live/conny/conny/161.m3u8
 #EXTINF:-1 group-title="Sky",Sky Emotion
 http://mainstream.dyndns.tv:8000/live/conny/conny/241.m3u8
-#EXTINF:-1 group-title="Sky",Sky Atlantic HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/159.m3u8
 #EXTINF:-1 group-title="Sky",Sky Krimi
 http://mainstream.dyndns.tv:8000/live/conny/conny/162.m3u8
-#EXTINF:-1 group-title="Sky",Sky NatGeo Wild HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/6.m3u8
+
 #EXTINF:-1 group-title="Sky",Sky Kino Welt 
 http://mainstream.dyndns.tv:8000/live/conny/conny/981.m3u8
 #EXTINF:-1 group-title="Sky",Sky Universal HD
@@ -595,12 +590,25 @@ http://mainstream.dyndns.tv:8000/live/conny/conny/1165.m3u8
 http://mainstream.dyndns.tv:8000/live/conny/conny/1164.m3u8
 #EXTINF:-1 group-title="Sky",Sky Disney Cinemagic HD
 http://mainstream.dyndns.tv:8000/live/conny/conny/1166.m3u8
+#EXTINF:-1,DE: Teleclub Star
+http://mainstream.dyndns.tv:8000/live/conny/conny/1194.m3u8
+#EXTINF:-1 group-title="Sky",Teleclub Prime
+http://mainstream.dyndns.tv:8000/live/conny/conny/1193.m3u8
+#EXTINF:-1 group-title="Sky",Teleclub Cinema
+http://mainstream.dyndns.tv:8000/live/conny/conny1192.m3u8
 
-
-
-
-
-
+#EXTINF:-1 group-title="Sky",Sky National Geographic HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/323.m3u8
+#EXTINF:-1 group-title="Sky",Sky NatGeo Wild HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/6.m3u8
+#EXTINF:-1 group-title="Sky",Sky Discovery Channel HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/203.m3u8
+#EXTINF:-1 group-title="Sky",Sky Atlantic HD
+http://mainstream.dyndns.tv:8000/live/conny/conny/159.m3u8
+#EXTINF:-1 group-title="Sky",Sky Bundesliga HD1
+http://mainstream.dyndns.tv:8000/live/conny/conny/5.m3u8
+#EXTINF:-1 group-title="Sky",Sky Sport HD1
+http://mainstream.dyndns.tv:8000/live/conny/conny/7.m3u8
 
 
 
