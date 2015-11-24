@@ -57,8 +57,8 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Mekammelin
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
-
-
+#EXTINF:-1 group-title="News Arabic",Elsharq TV
+http://origin2.live.web.tv.streamprovider.net/streams/0cd611bdd4acb06634442abd5f861d65/index.m3u8
 #EXTINF:-1 group-title="News Arabic",Taghier TV
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
@@ -277,8 +277,7 @@ http://elbilad.streamakaci.com/elbilad/smil:elbilad.smil/chunklist_w807226082_b1
 http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
-#EXTINF:-1 group-title="Arabic",Watania 1
-https://cdn.streaminghd.tn/live/W0_sUBR9L2XyOEilgWaniA/1448159358/nat1/index.m3u8
+
 #EXTINF:-1 group-title="Arabic",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Aljadeed
