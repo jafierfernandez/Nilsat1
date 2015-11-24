@@ -45,10 +45,11 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 #EXTINF:-1 group-title="Kids Arabic",Semsem
 http://streaming.i-sat.tv:1935/live/semsem/chunklist_w2044362970.m3u8
 
-#EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
- http://178.33.88.129:888/udp/239.102.0.158:1234
-#EXTINF:-1 group-title="News Arabic",Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high 
+
+#EXTINF:-1 group-title="News Arabic",Sky News 
+http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+#EXTINF:-1 group-title="News Arabic",BBC Arabia
+ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 group-title="News Arabic",Alhiwar
 http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8   
 #EXTINF:-1 group-title="News Arabic",Al Arabia
@@ -59,20 +60,19 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 #EXTINF:-1 group-title="News Arabic",Elsharq TV
 http://origin2.live.web.tv.streamprovider.net/streams/0cd611bdd4acb06634442abd5f861d65/index.m3u8
+#EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
+ http://178.33.88.129:888/udp/239.102.0.158:1234
+#EXTINF:-1 group-title="News Arabic",Aljazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8 
 #EXTINF:-1 group-title="News Arabic",Taghier TV
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-
-#EXTINF:-1 group-title="News Arabic",Alann TV
-rtmp://trans04.itworkscdn.com:1935/alaanpublish/_definst_/alaantv_360p
 #EXTINF:-1 group-title="News Arabic",Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
-
 #EXTINF:-1 group-title="News Arabic",ANN 
  rtmp://ns8.indexforce.com/ann/ann
- #EXTINF:-1 group-title="News Arabic",BBC Arabia
- http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 group-title="News Arabic",Sky News Arabic
-rtmp://skynews.fc.llnwd.net/skynews/_defi.nst_?gmswf=1470523995/skynewsarabia
+
+
+ 
 #EXTINF:-1 group-title="News Arabic",Dzair News
  http://178.33.88.129:888/udp/239.102.0.247:1234
 
