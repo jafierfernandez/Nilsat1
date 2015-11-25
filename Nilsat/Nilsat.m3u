@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 group-title="Arabic",Medi 1
-http://178.33.88.129:888/udp/239.102.0.252:1234
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/6080.m3u8
 #EXTINF:-1 group-title="Arabic",2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
@@ -145,7 +145,16 @@ http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5784.m3u8
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5787.m3u8
 
 
-
+#EXTINF:-1 group-title="Aflam & Drama",NILE DRAMA
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5768.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",NILE COMEDY
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5767.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",NILE CINEMA
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5764.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",MOGA COMEDY
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5772.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",DREAM 2
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5755.m3u8
 
 
 
@@ -484,7 +493,24 @@ http://mainstream.dyndns.tv:8000/live/conny/conny/5.m3u8
 http://mainstream.dyndns.tv:8000/live/conny/conny/7.m3u8
 
 
-
+#EXTINF:-1 group-title="Sky",Sky Select 9 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7625.m3u8
+#EXTINF:-1 group-title="Sky",Sky Select 8 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7626.m3u8
+#EXTINF:-1 group-title="Sky",Sky Select 7 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7627.m3u8
+#EXTINF:-1 group-title="Sky",Sky Select 6 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7628.m3u8
+#EXTINF:-1 group-title="Sky",Sky select 5 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7629.m3u8
+#EXTINF:-1 group-title="Sky",Sky select 4 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7630.m3u8
+#EXTINF:-1 group-title="Sky",Sky select 3 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7631.m3u8
+#EXTINF:-1 group-title="Sky",Sky select 2 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7632.m3u8
+#EXTINF:-1 group-title="Sky",Sky select 1 HD
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7633.m3u8
 
 
 
