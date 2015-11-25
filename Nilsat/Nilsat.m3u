@@ -85,6 +85,10 @@ rtmp://streaming.tootvs.com/8010/8010
 
 #EXTINF:-1 group-title="Arabic",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
+#EXTINF:-1 group-title="Arabic",Melody Classic
+http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
+#EXTINF:-1 group-title="Arabic",Melody Drama
+http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 
 #EXTINF:-1 group-title="Arabic",Funoon TV
  http://watan.tv/playlist_f.m3u8
@@ -462,24 +466,14 @@ http://tayba.live.net.sa:1935/live/taybatv/chunklist_w164378222.m3u8
 rtmp://stream11.tv2webstream.com/live/salam
 #EXTINF:-1 group-title="Relegion Arabic",Alfath TV
 rtmp://livestreaming.itworkscdn.net/alfatehlive/fatehtv
-#EXTINF:-1 group-title="Relegion Arabic",Time Quran
- http://178.33.88.129:888/udp/239.102.0.123:1234
-#EXTINF:-1 group-title="Relegion Arabic",Majd Quran
- http://178.33.88.129:888/udp/239.102.0.144:1234
-#EXTINF:-1 group-title="Relegion Arabic",Al Majd 1
-http://178.33.88.130:888/udp/239.102.0.200:1234
 #EXTINF:-1 group-title="Relegion Arabic",Alinsan
- http://178.33.88.129:888/udp/239.102.0.147:1234
-#EXTINF:-1 group-title="Relegion Arabic",Azhari
- http://178.33.88.129:888/udp/239.102.0.159:1234
-#EXTINF:-1 group-title="Relegion Arabic",Zitouna Hedaya
-http://tvi.ddns.me:8000/live/dhoha/benomrane/69.m3u8
+ https://cdn.streaminghd.tn/live/YGExFT6ZOSc9c9X0C-aoNw/1448474829/insen/index.m3u8
 
 
-#EXTINF:-1 group-title="Arabic Music",Nourmina
-http://38.99.146.36:7777/Nourmina_HD.m3u8
-#EXTINF:-1 group-title="Arabic Music",Massaya
-http://38.99.146.36:7777/Massaya_HD.m3u8
+
+
+#EXTINF:-1 group-title="Arabic Music",Melody Hits
+http://38.96.148.118/MelodyHits/smil:hits.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic Music",Wanasah
 http://178.33.88.129:888/udp/239.102.0.130:1234
 #EXTINF:-1 group-title="Arabic Music",Aghanina
