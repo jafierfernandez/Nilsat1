@@ -367,9 +367,9 @@ http://63.237.48.3/ios/AAA_MUSIC/AAA_MUSIC.m3u8
 http://185.5.222.227:4242/bysid/5601
 #EXTINF:-1 group-title="Arabic Music"Rotana Clip
 http://185.5.222.227:4242/bysid/5602
-#EXTINF:-1 group-title="Arabic Music"Rotana ,ROTANA MUSIC
+#EXTINF:-1 group-title="Arabic Music"Rotana,ROTANA MUSIC
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5794.m3u8
-#EXTINF:-1 group-title="Arabic Music"Rotana ,ROTANA CLIP
+#EXTINF:-1 group-title="Arabic Music"Rotana,ROTANA CLIP
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5791.m3u8
 #EXTINF:-1 group-title="Arabic Music",Wanasah
 http://178.33.88.129:888/udp/239.102.0.130:1234
