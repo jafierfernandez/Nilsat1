@@ -68,7 +68,9 @@ http://origin2.live.web.tv.streamprovider.net/streams/0cd611bdd4acb06634442abd5f
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
  http://178.33.88.129:888/udp/239.102.0.158:1234
 #EXTINF:-1 group-title="News Arabic",Aljazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8 
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1 group-title="News Arabic",Aljazeera Doc
+ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8 
 #EXTINF:-1 group-title="News Arabic",Taghier TV
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 #EXTINF:-1 group-title="News Arabic",Halab Today TV
@@ -78,8 +80,7 @@ rtmp://streaming.tootvs.com/8010/8010
 
 
  
-#EXTINF:-1 group-title="News Arabic",Dzair News
- http://178.33.88.129:888/udp/239.102.0.247:1234
+
 
 
 
@@ -99,18 +100,16 @@ http://live1.tvarab.org:8081/live/mbc-1/playlist.m3u8?
 
 #EXTINF:-1 group-title="Arabic",CBC Drama
 http://185.5.222.231:4242/bysid/5107
-
+#EXTINF:-1 group-title="Arabic",Alfajr TV
+rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
 
 #EXTINF:-1 group-title="Arabic",Funoon TV
  http://watan.tv/playlist_f.m3u8
 #EXTINF:-1 group-title="Arabic",Almehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 group-title="Arabic",Fatafeat
-http://tvi.ddns.me:8000/live/dhoha/benomrane/144.m3u8
 
-#EXTINF:-1 group-title="Arabic",Masriya 2
-http://185.5.222.231:4242/bysid/5101
+
 
 
 #EXTINF:-1 group-title="Aflam & Drama",Abu Dhabi Drama
@@ -158,10 +157,7 @@ http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5755.m3u8
 
 
 
-#EXTINF:-1 group-title="Arabic",Alfajr TV
 
-
-http://vstreamgz.hadara.ps:1935/alfajertvhd/smil:alfajertvhdSmil.smil/chunklist_w591350615_b1628000_sleng.m3u8
 #EXTINF:-1 group-title="Arabic",Albilad Algerie
 http://elbilad.streamakaci.com/elbilad/smil:elbilad.smil/chunklist_w807226082_b1128000_slfr.m3u8
 #EXTINF:-1 group-title="Arabic",Echorouk TV
@@ -196,6 +192,8 @@ rtmp://stream02.fasttelco.net:1935/live/_definst_/alrai.stream
 
 #EXTINF:-1 group-title="Arabic",Sharjah kalbaa
 rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv
+#EXTINF:-1 group-title="Arabic",Ajman TV
+http://77.67.34.22/AJMAN_TV?gmswf=702871368
 #EXTINF:-1 group-title="Arabic",Dubai 
  http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Dubai Drama
@@ -218,10 +216,8 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Dubai Sport Premium
 http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic",Aljazeera Doc
- http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 group-title="Arabic",Ajman TV
-http://77.67.34.22/AJMAN_TV?gmswf=702871368
+
+
 
 
 
