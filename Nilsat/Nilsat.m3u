@@ -53,6 +53,8 @@ http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
 #EXTINF:-1 group-title="News Arabic",Sky News 
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+#EXTINF:-1 group-title="News Arabic",i24 News 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1 group-title="News Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 group-title="News Arabic",Alhiwar
@@ -61,6 +63,10 @@ http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="News Arabic",Maan News
+http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
+#EXTINF:-1 group-title="News Arabic",TRT A
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1 group-title="News Arabic",Mekammelin
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 #EXTINF:-1 group-title="News Arabic",Elsharq TV
@@ -292,7 +298,7 @@ rtsp://82.137.248.21:1935/Ugarit/UgaritLive
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
 #EXTINF:-1 group-title="Arabic",Alquds
-http://178.33.88.129:888/udp/239.102.0.240:1234
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Arabic",Alaqsa
 http://144.76.98.131:1935/aqsatv/live/tv/chunklist_w1351771762.m3u8?v=1342104563
 #EXTINF:-1 group-title="Arabic",Al Sharqiya
