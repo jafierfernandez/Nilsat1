@@ -118,6 +118,10 @@ http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5712.m3u8
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5715.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",MBC DRAMA
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5714.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",ROTANA CINEMA
+http://198.179.30.110/live/2615.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeba256074b2a6f0a5654411aa4b555f9d837ac98b0056790048afb502fb0fa5c4f9cec9fd0886f7b4c65becb38accc3b63b10b6c4852bcabadc0b92a106c1abcf2ee04356c003329db48a7f3f172c4c5bd5ed38bc39ad8b6a3628f8306d16a53eb6d9477476fd5ced313a81384fc7bdcc5fb75472de09ece5908df01ab4391113e7be3dbd0ea2b6ba5630dd3ade83e442&1557237336
+#EXTINF:-1 group-title="Aflam & Drama",ROTANA MASRIYA
+http://198.179.30.110/live/2612.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe60e18ee5d099fa5ab9f7778e77c05e1ccc478f7f396d6a0c3f945c43623fae05d5e46c60b8709e7ed6f28c583d88b30aa34b74940d54bc9a78e90d23ae3b091733ed0a39a29fcae788e389db59e9e47d903918578c79119192abdeaee7efb6eaa8bdf382047a97057d53cdee29333cd2bf0c750394b9a1f480b2df45db50d8ee0efa7230e76d11c564802a6b8b5d68b6&1557237336
 #EXTINF:-1 group-title="Aflam & Drama",ROTANA MASRIYA
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5793.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",ROTANA CINEMA
@@ -261,8 +265,8 @@ http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv7_480/chu
 rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1 group-title="Arabic",Roya TV
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
-
-
+#EXTINF:-1 group-title="Arabic",Kifa TV
+http://82.212.95.122:1935/live/kifa.stream_360p/gmswf.m3u8?v=1557237336
 
 #EXTINF:-1 group-title="Arabic", Syria Drama
  rtmp://82.137.248.21:1935/Drama/DramaLive3
@@ -349,8 +353,8 @@ rtmp://stream11.tv2webstream.com/live/salam
 rtmp://livestreaming.itworkscdn.net/alfatehlive/fatehtv
 #EXTINF:-1 group-title="Relegion Arabic",Alinsan
  https://cdn.streaminghd.tn/live/YGExFT6ZOSc9c9X0C-aoNw/1448474829/insen/index.m3u8
-
-
+#EXTINF:-1 group-title="Relegion Arabic",Al Maali TV
+rtmp://free.flashwebtown.com:1935/bashaclick/myStream.sdp
 
 
 #EXTINF:-1 group-title="Arabic Music",Melody Hits
