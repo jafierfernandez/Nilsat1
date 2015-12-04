@@ -53,6 +53,8 @@ http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
 #EXTINF:-1 group-title="News Arabic",Sky News 
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+#EXTINF:-1 group-title="News Arabic",Al Ghad TV
+http://41.128.181.132:1935/live/Test.stream/playlist.m3u8
 #EXTINF:-1 group-title="News Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 group-title="News Arabic",Alhiwar
@@ -197,6 +199,8 @@ rtmp://stream02.fasttelco.net:1935/live/_definst_/alrai.stream
 rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv
 #EXTINF:-1 group-title="Arabic",Ajman TV
 http://77.67.34.22/AJMAN_TV?gmswf=702871368
+#EXTINF:-1 group-title="Arabic",Al Fujairah
+rtmp://ccfz.dyndns.org:4425/fujtv/livestream
 #EXTINF:-1 group-title="Arabic",Dubai 
  http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Dubai Drama
