@@ -34,6 +34,10 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 http://streaming.i-sat.tv:1935/live/semsem/chunklist_w2044362970.m3u8
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
  rtmpt://78.100.40.195:1935/brm?gmswf=2986351024/brm
+#EXTINF:-1 group-title="Kids Arabic",SpaceToon
+http://2.109.65.138/masa/13768.m3u8
+
+
 
 #EXTINF:-1 group-title="Kids Arabic",MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
@@ -71,10 +75,11 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
 #EXTINF:-1 group-title="News Arabic",Elsharq TV
 http://origin2.live.web.tv.streamprovider.net/streams/0cd611bdd4acb06634442abd5f861d65/index.m3u8
-#EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
- http://178.33.88.129:888/udp/239.102.0.158:1234
+
 #EXTINF:-1 group-title="News Arabic",Aljazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
 #EXTINF:-1 group-title="News Arabic",Aljazeera Doc
  http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8 
 #EXTINF:-1 group-title="News Arabic",Taghier TV
@@ -101,75 +106,108 @@ http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Melody Drama
 http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
+
+
+#EXTINF:-1 group-title="Arabic",MBC 1
+http://2.109.65.141/masan/14112.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Drama
+http://2.109.65.141/masan/14113.m3u8
 #EXTINF:-1 group-title="Arabic",MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
-
 #EXTINF:-1 group-title="Arabic",Alfajr TV
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
-#EXTINF:-1 group-title="Arabic",Almehwar
-http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="Arabic",CBC Drama
+http://2.109.65.141/masan/14107.m3u8
+#EXTINF:-1 group-title="Arabic",CBC
+http://2.109.65.146/masa/14610.m3u8
+#EXTINF:-1 group-title="Arabic",CBC Extra
+http://2.109.65.146/masa/14611.m3u8
+#EXTINF:-1 group-title="Arabic",CBC Plus 2
+http://2.109.65.141/masan/14106.m3u8
+#EXTINF:-1 group-title="Arabic",CBC Sofra
+http://2.109.65.141/masan/14120.m3u8
+#EXTINF:-1 group-title="Arabic",Al Nahar Darama
+ http://2.109.65.146/masa/14613.m3u8
+#EXTINF:-1 group-title="Arabic",Al Nahar AlYawm
+http://2.109.65.142/masa/14221.m3u8
+#EXTINF:-1 group-title="Arabic",Al Nahar Tv
+http://2.109.65.249/masa/24903.m3u8
+#EXTINF:-1 group-title="Arabic",Al Nahar 2
+http://2.109.65.249/masa/24903.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Aflam & Drama",Abu Dhabi Drama
+
  
-#EXTINF:-1 group-title="Aflam & Drama",MBC MASR
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5712.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",MBC MASR 2
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5715.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",MBC DRAMA
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5714.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ROTANA CINEMA
-http://198.179.30.110/live/2615.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeba256074b2a6f0a5654411aa4b555f9d837ac98b0056790048afb502fb0fa5c4f9cec9fd0886f7b4c65becb38accc3b63b10b6c4852bcabadc0b92a106c1abcf2ee04356c003329db48a7f3f172c4c5bd5ed38bc39ad8b6a3628f8306d16a53eb6d9477476fd5ced313a81384fc7bdcc5fb75472de09ece5908df01ab4391113e7be3dbd0ea2b6ba5630dd3ade83e442&1557237336
-#EXTINF:-1 group-title="Aflam & Drama",ROTANA MASRIYA
-http://198.179.30.110/live/2612.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe60e18ee5d099fa5ab9f7778e77c05e1ccc478f7f396d6a0c3f945c43623fae05d5e46c60b8709e7ed6f28c583d88b30aa34b74940d54bc9a78e90d23ae3b091733ed0a39a29fcae788e389db59e9e47d903918578c79119192abdeaee7efb6eaa8bdf382047a97057d53cdee29333cd2bf0c750394b9a1f480b2df45db50d8ee0efa7230e76d11c564802a6b8b5d68b6&1557237336
-#EXTINF:-1 group-title="Aflam & Drama",ROTANA MASRIYA
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5793.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ROTANA CINEMA
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5789.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ROTANA AFLAM
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5788.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ROTANA CLASSIC
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5790.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ROTANA KHALIJI
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5792.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ART CINEMA
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5782.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ART AFLAM 2
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5786.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ART AFLAM 1
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5785.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ART HEKAYAT
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5783.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ART HEKAYAT 2
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5784.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",NAT GEO AD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5787.m3u8
 
+#EXTINF:-1 group-title="Aflam & Drama",Moga comedy
+http://2.109.65.141/masa/14119.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Cinema Pro
+ http://2.109.65.142/masa/14208.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
+http://2.109.65.146/masa/14603.m3u8 
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Masria
+http://2.109.65.143/masa/14323.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
+http://2.109.65.143/masa/14322.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Khaligi
+http://2.109.65.143/masa/14321.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Darbaka Aflam
+http://2.109.65.249/masa/24908.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Almasrawiya aflam
+http://2.109.65.249/masa/24913.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Film
+http://2.109.65.141/masan/14108.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Drama 2
+http://2.109.65.246/masa/24617.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Panorama food
+http://2.109.65.246/masa/24616.m3u8
 
-#EXTINF:-1 group-title="Aflam & Drama",NILE DRAMA
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5768.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",NILE COMEDY
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5767.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",NILE CINEMA
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5764.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",MOGA COMEDY
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5772.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",DREAM 2
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5755.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Al beit baytak cinema
+http://2.109.65.142/masa/14202.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Time Comedy
+http://2.109.65.142/masa/14201.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Time Cinema
+http://2.109.65.142/masa/14223.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Toktok Aflam
+http://2.109.65.142/masa/14205.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Toktok Cima
+http://2.109.65.142/masa/14206.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Al Kanal
+http://2.109.65.143/masa/14318.m3u8
+
+#EXTINF:-1 group-title="Aflam & Drama",Dream 1
+http://2.109.65.138/masan/13777.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Dream 2
+http://2.109.65.138/masan/13776.m3u8
 
 
 
 
+
+
+#EXTINF:-1 group-title="Arabic",Tunesia Wataniya 1
+http://2.109.65.143/masa/14309.m3u8
+ 
+#EXTINF:-1 group-title="Arabic",Tunesia Wataniya 2
+http://2.109.65.141/masan/14109.m3u8
+ 
+#EXTINF:-1 group-title="Arabic",TNN Tunesia
+http://2.109.65.143/masa/14308.m3u8
+#EXTINF:-1 group-title="Arabic",Al Hiwar Tunesia
+http://2.109.65.231/masa/23126.m3u8
+#EXTINF:-1 group-title="Arabic",Hanibal Tunesia
+http://2.109.65.248/masa/24820.m3u8
 #EXTINF:-1 group-title="Arabic",Albilad Algerie
 http://elbilad.streamakaci.com/elbilad/smil:elbilad.smil/chunklist_w807226082_b1128000_slfr.m3u8
 #EXTINF:-1 group-title="Arabic",Echorouk TV
 http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
-
+#EXTINF:-1 group-title="Arabic",Sudan
+http://2.109.65.231/masa/23110.m3u8
 #EXTINF:-1 group-title="Arabic",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Aljadeed
@@ -361,6 +399,12 @@ rtmp://livestreaming.itworkscdn.net/alfatehlive/fatehtv
 rtmp://free.flashwebtown.com:1935/bashaclick/myStream.sdp
 
 
+
+#EXTINF:-1 group-title="Arabic Music",Haseen Music
+http://2.109.65.138/masa/13770.m3u8
+#EXTINF:-1 group-title="Arabic Music",Mazzika
+http://2.109.65.138/masa/13772.m3u8
+
 #EXTINF:-1 group-title="Arabic Music",Melody Hits
 http://38.96.148.118/MelodyHits/smil:hits.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic Music",Rotana Music
@@ -386,7 +430,7 @@ http://178.33.88.129:888/udp/239.102.0.110:1234
 #EXTINF:-1 group-title="Arabic Music",Aghani
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 #EXTINF:-1 group-title="Arabic Music",Hawacom
-rtsp://mobilestreaming.itworkscdn.com/hawacom/hawacomlive
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
 
 
