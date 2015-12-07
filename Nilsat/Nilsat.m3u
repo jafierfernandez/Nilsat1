@@ -23,7 +23,7 @@ http://bit.ly/1TJihL3
 
 
 #EXTINF:-1 group-title="Kids Arabic", Jeem Kids
-rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
+http://2.109.65.141/masan/14103.m3u8
  
 #EXTINF:-1 group-title="Kids Arabic",Agyal
 
@@ -33,25 +33,28 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 #EXTINF:-1 group-title="Kids Arabic",Semsem
 http://streaming.i-sat.tv:1935/live/semsem/chunklist_w2044362970.m3u8
 #EXTINF:-1 group-title="Kids Arabic",Baraem TV
- rtmpt://78.100.40.195:1935/brm?gmswf=2986351024/brm
+ http://2.109.65.141/masan/14104.m3u8
 #EXTINF:-1 group-title="Kids Arabic",SpaceToon
 http://2.109.65.138/masa/13768.m3u8
-
-
-
-#EXTINF:-1 group-title="Kids Arabic",MBC 2
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 group-title="Kids Arabic",Noon
+http://2.109.65.142/masa/14225.m3u8
+#EXTINF:-1 group-title="Kids Arabic",Kanari
+http://2.109.65.142/masa/14224.m3u8
+#EXTINF:-1 group-title="Kids Arabic",MBC 3
+http://2.109.65.146/masa/14617.m3u8
 #EXTINF:-1 group-title="Kids Arabic",Mody Kids
- http://178.33.88.129:888/udp/239.102.0.125:1234
-#EXTINF:-1 group-title="Kids Arabic",Koky Kids
- http://178.33.88.129:888/udp/239.102.0.143:1234
+ http://2.109.65.146/masa/14625.m3u8
+#EXTINF:-1 group-title="Kids Arabic",Toyor Aljannah
+ http://2.109.65.143/masa/14320.m3u8
 #EXTINF:-1 group-title="Kids Arabic",Stoon
  http://178.33.88.129:888/udp/239.102.0.193:1234
 
-#EXTINF:-1 group-title="Kids Arabic",Toyour Aljannah
- http://178.33.88.129:888/udp/239.102.0.215:1234   
-#EXTINF:-1 group-title="Kids Arabic",Cartonn Network AR
- http://178.33.88.129:888/udp/239.102.0.207:1234
+#EXTINF:-1 group-title="Kids Arabic",Atfal
+ http://2.109.65.146/masa/14625.m3u8   
+#EXTINF:-1 group-title="Kids Arabic",Karamisch
+http://2.109.65.146/masa/14637.m3u8
+ #EXTINF:-1 group-title="Kids Arabic",Taha
+http://2.109.65.146/masa/14638.m3u8
 
 
 
@@ -61,25 +64,43 @@ http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m
 http://41.128.181.132:1935/live/Test.stream/playlist.m3u8
 #EXTINF:-1 group-title="News Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 group-title="News Arabic",Al Magharebiya
+http://2.109.65.143/masa/14313.m3u8
+#EXTINF:-1 group-title="News Arabic",Al Magharebiya Tamazighth
+http://2.109.65.143/masa/14314.m3u8
+#EXTINF:-1 group-title="News Arabic",DW Arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1 group-title="News Arabic",Alhiwar
 http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8   
 #EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="News Arabic",24 KSA
+http://2.109.65.249/masa/24914.m3u8
+#EXTINF:-1 group-title="News Arabic",Orient
+http://2.109.65.146/masa/14634.m3u8
 #EXTINF:-1 group-title="News Arabic",Maan News
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 #EXTINF:-1 group-title="News Arabic",TRT A
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1 group-title="News Arabic",Mekammelin
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
+#EXTINF:-1 group-title="News Arabic",Alaan
+http://2.109.65.141/masan/14115.m3u8
+
+#EXTINF:-1 group-title="Arabic",ANB
+http://2.109.65.143/masa/14719.m3u8
 #EXTINF:-1 group-title="News Arabic",Elsharq TV
 http://origin2.live.web.tv.streamprovider.net/streams/0cd611bdd4acb06634442abd5f861d65/index.m3u8
-
+#EXTINF:-1 group-title="News Arabic",TV5
+#EXTINF:-1 group-title="Arabic",
 #EXTINF:-1 group-title="News Arabic",Aljazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
+#EXTINF:-1 group-title="News Arabic",Aljazeera Englisch
+http://2.109.65.142/masa/14227.m3u8
 #EXTINF:-1 group-title="News Arabic",Aljazeera Doc
  http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8 
 #EXTINF:-1 group-title="News Arabic",Taghier TV
@@ -113,10 +134,12 @@ http://2.109.65.141/masan/14112.m3u8
 #EXTINF:-1 group-title="Arabic",MBC Drama
 http://2.109.65.141/masan/14113.m3u8
 #EXTINF:-1 group-title="Arabic",MBC 4
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+http://2.109.65.146/masa/14618.m3u8
+
 #EXTINF:-1 group-title="Arabic",Alfajr TV
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
-
+#EXTINF:-1 group-title="Arabic",Houna Alquds
+http://2.109.65.141/masan/14126.m3u8
 #EXTINF:-1 group-title="Arabic",CBC Drama
 http://2.109.65.141/masan/14107.m3u8
 #EXTINF:-1 group-title="Arabic",CBC
@@ -127,6 +150,8 @@ http://2.109.65.146/masa/14611.m3u8
 http://2.109.65.141/masan/14106.m3u8
 #EXTINF:-1 group-title="Arabic",CBC Sofra
 http://2.109.65.141/masan/14120.m3u8
+#EXTINF:-1 group-title="Arabic",Fatafeat
+http://2.109.65.231/masa/23137.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar Darama
  http://2.109.65.146/masa/14613.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar AlYawm
@@ -135,15 +160,13 @@ http://2.109.65.142/masa/14221.m3u8
 http://2.109.65.249/masa/24903.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar 2
 http://2.109.65.249/masa/24903.m3u8
-
-
+#EXTINF:-1 group-title="Arabic",Sada Drama
+http://2.109.65.142/masa/14222.m3u8
 
 
 
  
 
-#EXTINF:-1 group-title="Aflam & Drama",Moga comedy
-http://2.109.65.141/masa/14119.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Cinema Pro
  http://2.109.65.142/masa/14208.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
@@ -154,17 +177,22 @@ http://2.109.65.143/masa/14323.m3u8
 http://2.109.65.143/masa/14322.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Khaligi
 http://2.109.65.143/masa/14321.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
+http://2.109.65.142/masa/14207.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Darbaka Aflam
 http://2.109.65.249/masa/24908.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Almasrawiya aflam
+#EXTINF:-1 group-title="Aflam & Drama",Almasrawiya Aflam
 http://2.109.65.249/masa/24913.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Panorama Film
 http://2.109.65.141/masan/14108.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Comedy
+http://2.109.65.146/masa/14615.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Panorama Drama 2
 http://2.109.65.246/masa/24617.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Panorama food
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Food
 http://2.109.65.246/masa/24616.m3u8
-
+#EXTINF:-1 group-title="Aflam & Drama",Star 1
+http://2.109.65.249/masa/24915.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Al beit baytak cinema
 http://2.109.65.142/masa/14202.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Time Comedy
@@ -175,19 +203,35 @@ http://2.109.65.142/masa/14223.m3u8
 http://2.109.65.142/masa/14205.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Toktok Cima
 http://2.109.65.142/masa/14206.m3u8
+
+
+
+#EXTINF:-1 group-title="Aflam & Drama",Misr
+http://2.109.65.143/masa/14623.m3u8
+
+#EXTINF:-1 group-title="Aflam & Drama",Alkahera
+http://2.109.65.143/masa/14317.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Aliskandariya
+http://2.109.65.143/masa/14319.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Tiba
+http://2.109.65.143/masa/14622.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Assaid
+http://2.109.65.143/masa/14621.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Delta
+http://2.109.65.143/masa/14620.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Al Kanal
 http://2.109.65.143/masa/14318.m3u8
-
 #EXTINF:-1 group-title="Aflam & Drama",Dream 1
 http://2.109.65.138/masan/13777.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Dream 2
 http://2.109.65.138/masan/13776.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Zee Aflam
+http://2.109.65.142/masa/14210.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Zee Alwan
+http://2.109.65.142/masa/14209.m3u8
 
-
-
-
-
-
+#EXTINF:-1 group-title="Arabic",Ten TV
+http://2.109.65.249/masa/24905.m3u8
 #EXTINF:-1 group-title="Arabic",Tunesia Wataniya 1
 http://2.109.65.143/masa/14309.m3u8
  
@@ -200,16 +244,20 @@ http://2.109.65.143/masa/14308.m3u8
 http://2.109.65.231/masa/23126.m3u8
 #EXTINF:-1 group-title="Arabic",Hanibal Tunesia
 http://2.109.65.248/masa/24820.m3u8
-#EXTINF:-1 group-title="Arabic",Albilad Algerie
-http://elbilad.streamakaci.com/elbilad/smil:elbilad.smil/chunklist_w807226082_b1128000_slfr.m3u8
+#EXTINF:-1 group-title="Arabic",Algerie
+http://2.109.65.249/masa/24901.m3u8
 #EXTINF:-1 group-title="Arabic",Echorouk TV
 http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
+#EXTINF:-1 group-title="Arabic",Sanaa
+http://2.109.65.231/masa/23116.m3u8
 #EXTINF:-1 group-title="Arabic",Sudan
 http://2.109.65.231/masa/23110.m3u8
+#EXTINF:-1 group-title="Arabic",Mauritanie
+http://2.109.65.231/masa/23123.m3u8
 #EXTINF:-1 group-title="Arabic",Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
+http://2.109.65.146/masa/14607.m3u8
 #EXTINF:-1 group-title="Arabic",Aljadeed
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",MTV Liban
@@ -218,12 +266,23 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 #EXTINF:-1 group-title="Arabic",OTV 
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",LBC
+http://2.109.65.143/masa/14327.m3u8
+#EXTINF:-1 group-title="Arabic",TL Libano
+http://2.109.65.142/masa/14215.m3u8
+#EXTINF:-1 group-title="Arabic",Ouda
+http://2.109.65.249/masa/24902.m3u8
 
-
-
-
+#EXTINF:-1 group-title="Arabic",Alkhalij
+http://2.109.65.231/masa/23120.m3u8
 #EXTINF:-1 group-title="Arabic",Qatar
  http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_181s30.m3u8
+#EXTINF:-1 group-title="Arabic",Qatar Alyoum
+http://2.109.65.231/masa/23104.m3u8
+#EXTINF:-1 group-title="Arabic",D1 TV
+http://2.109.65.231/masa/23127.m3u8
+#EXTINF:-1 group-title="Arabic",Nilat TV
+http://2.109.65.143/masa/14718.m3u8
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
 #EXTINF:-1 group-title="Arabic",Aldafrah TV
@@ -282,11 +341,11 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live.m3
 http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
 
 #EXTINF:-1 group-title="Arabic",Saltanat Oman
-rtsp://38.96.148.30:1935/live/omantv1
+http://2.109.65.249/masa/24919.m3u8
 
 
 #EXTINF:-1 group-title="Arabic",Bahrain
-http://iaa.flashmediacast.com:2387/live/Channel-55/playlist.m3u8
+http://2.109.65.249/masa/24925.m3u8
 #EXTINF:-1 group-title="Arabic",Bahrain 
 http://iaa.flashmediacast.com:2387/live/International/playlist.m3u8
 
@@ -345,7 +404,7 @@ http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
 
 
 #EXTINF:0 group-title="Arabic",Jordan
- rtmp://stream2.joinvisions.net:1935/jorlive?gmswf=146983/jrtv
+ http://2.109.65.249/masa/24921.m3u8
 #EXTINF:0 group-title="Arabic",7Stars TV
 rtmp://stream.7stars.tv/live/myStream
 
@@ -372,8 +431,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?
 #EXTINF:-1 group-title="Relegion Arabic",Alresalah
 rtmp://74.50.103.199:1935/live?v=1381163539/sp15_13.stream
 #EXTINF:-1 group-title="Relegion Arabic",Iqraa TV
-http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
-
+http://2.109.65.249/masa/24918.m3u8
 #EXTINF:0 group-title="Relegion Arabic",Quran TV
 
  http://46.245.160.224/mekke/mekke/playlist.m3u8
@@ -383,6 +441,13 @@ rtmp://streamer11.elementssys.com:1935/mecca
 #EXTINF:-1 group-title="Relegion Arabic",Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
  
+
+#EXTINF:-1 group-title="Relegion Arabic",Azhari
+http://2.109.65.249/masa/24904.m3u8
+#EXTINF:-1 group-title="Relegion Arabic",Alkitam
+http://2.109.65.231/masa/23101.m3u8
+#EXTINF:-1 group-title="Relegion Arabic",Rissalat Alislam
+http://2.109.65.231/masa/23135.m3u8
 #EXTINF:-1 group-title="Relegion Arabic",Wissal TV
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 
@@ -396,14 +461,14 @@ rtmp://stream11.tv2webstream.com/live/salam
 rtmp://livestreaming.itworkscdn.net/alfatehlive/fatehtv
 
 #EXTINF:-1 group-title="Relegion Arabic",Al Maali TV
-rtmp://free.flashwebtown.com:1935/bashaclick/myStream.sdp
+http://2.109.65.231/masa/23140.m3u8
 
-
-
+#EXTINF:-1 group-title="Arabic Music",Hissa
+http://2.109.65.231/masa/23130.m3u8
 #EXTINF:-1 group-title="Arabic Music",Haseen Music
 http://2.109.65.138/masa/13770.m3u8
 #EXTINF:-1 group-title="Arabic Music",Mazzika
-http://2.109.65.138/masa/13772.m3u8
+http://2.109.65.249/masa/24915.m3u8
 
 #EXTINF:-1 group-title="Arabic Music",Melody Hits
 http://38.96.148.118/MelodyHits/smil:hits.smil/gmswf.m3u8?v=1096642816
@@ -411,8 +476,8 @@ http://38.96.148.118/MelodyHits/smil:hits.smil/gmswf.m3u8?v=1096642816
 http://185.5.222.227:4242/bysid/5601
 #EXTINF:-1 group-title="Arabic Music",Rotana Clip
 http://185.5.222.227:4242/bysid/5602
-#EXTINF:-1 group-title="Arabic Music",ROTANA MUSIC
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5794.m3u8
+#EXTINF:-1 group-title="Arabic Music",Rotana Music
+http://2.109.65.146/masa/14601.m3u8
 #EXTINF:-1 group-title="Arabic Music",ROTANA CLIP
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5791.m3u8
 #EXTINF:-1 group-title="Arabic Music",Wanasah
@@ -428,7 +493,7 @@ http://178.33.88.129:888/udp/239.102.0.113:1234
 #EXTINF:-1 group-title="Arabic Music",Melody 
 http://178.33.88.129:888/udp/239.102.0.110:1234
 #EXTINF:-1 group-title="Arabic Music",Aghani
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+http://2.109.65.231/masa/23131.m3u8
 #EXTINF:-1 group-title="Arabic Music",Hawacom
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
