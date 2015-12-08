@@ -501,59 +501,7 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
 
 
-#EXTINF:0 group-title="Sport",CANAL+ SPORT
-http://178.33.88.129:888/udp/239.102.0.55:1234
-#EXTINF:-1 group-title="Sport",Bein 1 HD FR
- http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:-1 group-title="Sport",Bein 2 HD FR
- http://178.33.88.129:888/udp/239.102.0.21:1234
-#EXTINF:-1 group-title="Sport",Bein 3 HD FR
- http://178.33.88.129:888/udp/239.102.0.22:1234
-#EXTINF:-1 group-title="Sport",Bein 4 HD
- http://178.33.88.129:888/udp/239.102.0.5:1234
-#EXTINF:-1 group-title="Sport",Bein 5 HD
- http://178.33.88.129:888/udp/239.102.0.6:1234
-#EXTINF:-1 group-title="Sport",Bein 7 HD
- http://178.33.88.129:888/udp/239.102.0.8:1234
-#EXTINF:-1 group-title="Sport",Bein 8 HD
- http://178.33.88.129:888/udp/239.102.0.9:1234
-#EXTINF:-1 group-title="Sport",Bein 8 HD AR
-http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/2454.ts
-#EXTINF:-1 group-title="Sport",Bein 9 HD
- http://178.33.88.129:888/udp/239.102.0.10:1234
-#EXTINF:-1 group-title="Sport",Bein 9 HD AR
-http://portal.rapidiptv.com:8080/live/belkhirabdou1/belkhirabdou1/2455.m3u8
-#EXTINF:-1 group-title="Sport",Bein 10 HD EN
- http://178.33.88.129:888/udp/239.102.0.11:1234
-#EXTINF:-1 group-title="Sport",Bein 11 HD EN
- http://178.33.88.129:888/udp/239.102.0.12:1234
-#EXTINF:-1 group-title="Sport",Sky Sport HD2 DE
- http://178.33.88.129:888/udp/239.102.0.24:1234
-#EXTINF:-1 group-title="Sport",ad sports 1
- http://178.33.88.129:888/udp/239.102.0.28:1234
-#EXTINF:-1 group-title="Sport",ad sports 2
- http://178.33.88.129:888/udp/239.102.0.29:1234
-#EXTINF:0 group-title="Sport", Eurosport 1 HD 
-http://80.82.78.165:1935/live/weuro1/live.m3u8
-#EXTINF:0 group-title="Sport", Eurosport 2 HD 
-http://80.82.78.165:1935/live/euro2/live.m3u8
 
-
-
-#EXTINF:0 group-title="Sport",1
-http://46.182.25.34:1935/tv/1420/playlist.m3u8
- #EXTINF:0 group-title="Sport",2
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:0 group-title="Sport",3
-http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
-#EXTINF:0 group-title="Sport",4
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:0 group-title="Sport",5
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:0 group-title="Sport",6
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:0 group-title="Sport",7
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 
 
 #EXTINF:-1 group-title="Sky",Sky 3D
