@@ -83,7 +83,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/0cd611bdd4acb06634442abd5f
 #EXTINF:-1 group-title="News Arabic",TV5
 #EXTINF:-1 group-title="Arabic",
 #EXTINF:-1 group-title="News Arabic",Aljazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 #EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
 
