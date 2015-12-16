@@ -115,6 +115,10 @@ http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
 http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 
 
+
+
+#EXTINF:0 group-title="Arabic", MBC1
+http://148.251.73.76:8000/live/cristo/start1/306.m3u8
 #EXTINF:0 group-title="Arabic", MBC2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:0 group-title="Arabic", MBC Max
@@ -137,7 +141,8 @@ rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
 #EXTINF:-1 group-title="Aflam & Drama",Zee Alwan
 http://2.109.65.142/masa/14209.m3u8
 
-
+#EXTINF:-1 group-title="Arabic",Libya TV
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1 group-title="Arabic",Echorouk TV
 http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
@@ -157,7 +162,7 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Arabic",Qatar
- http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_181s30.m3u8
+ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_182s30.m3u8
 
 #EXTINF:-1 group-title="Arabic",Arrayan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
@@ -297,8 +302,7 @@ rtmp://46.43.64.166:1935/flv/mp4:flv
 #EXTINF:-1 group-title="Arabic",Hona Al Quds
 rtmp://185.33.168.110/live/livestream
 
-#EXTINF:-1 group-title="Arabic",Libya TV
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
+
 #EXTINF:-1 group-title="Arabic",Alnabaa TV
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?
 
