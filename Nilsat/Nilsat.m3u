@@ -52,6 +52,10 @@ http://2.109.65.146/masa/14617.m3u8
 
 #EXTINF:-1 group-title="News Arabic",Sky News 
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+#EXTINF:-1 group-title="News Arabic",Al Arabia
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="News Arabic",Al Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Ghad TV
 http://41.128.181.132:1935/live/Test.stream/playlist.m3u8
 #EXTINF:-1 group-title="News Arabic",BBC Arabia
@@ -60,12 +64,11 @@ http://41.128.181.132:1935/live/Test.stream/playlist.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221196-b/F24_AR_LO_HLS/master_1200.m3u8
 #EXTINF:-1 group-title="News Arabic",DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1 group-title="News Arabic",Euronews
+http://bit.ly/1Pc4j4c
 #EXTINF:-1 group-title="News Arabic",Alhiwar
 http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8   
-#EXTINF:-1 group-title="News Arabic",Al Arabia
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 group-title="News Arabic",Al Hadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+
 
 #EXTINF:-1 group-title="News Arabic",Orient
 http://ls01.orienths.org/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
@@ -131,6 +134,8 @@ http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
 http://bit.ly/1T78i31
 #EXTINF:-1 group-title="Arabic",CBC eXtra
 http://bit.ly/1Odd6jc
+#EXTINF:-1 group-title="Arabic",CBC Sofra
+http://bit.ly/1Ji1nhS
 #EXTINF:-1 group-title="Arabic",Sada Albalad
 http://bit.ly/1Oddpug
 #EXTINF:-1 group-title="Arabic",Sada Albalad 2
@@ -218,6 +223,17 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic", Dubai Sport Premium
 http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Arabic",Balqis TV
+http://bit.ly/1Nuk7Pd
+#EXTINF:-1 group-title="Arabic",Alibel TV
+http://bit.ly/1mdxeuP
+#EXTINF:-1 group-title="Arabic",Alnoukhba TV
+http://bit.ly/1Ruux5k
+#EXTINF:-1 group-title="Arabic",Alsahra TV
+http://bit.ly/1Pc2owE
+#EXTINF:-1 group-title="Arabic",Alrafidain TV
+http://bit.ly/1QvXUnO
 
 
 
@@ -343,6 +359,11 @@ http://46.245.160.224/medine/medine/gmswf.m3u8
 #EXTINF:0 group-title="Relegion Arabic",Alerth Alnabawi
 http://streaming.i-sat.tv:1935/live/alerth/playlist.m3u8
 
+
+#EXTINF:0 group-title="Relegion Arabic",Alnada TV
+http://bit.ly/1NCqQ7N
+#EXTINF:0 group-title="Relegion Arabic",Alistiqama TV
+http://bit.ly/1Ji1Twk
 
 #EXTINF:-1 group-title="Relegion Arabic",Wissal TV
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
