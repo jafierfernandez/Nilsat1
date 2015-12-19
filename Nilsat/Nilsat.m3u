@@ -22,6 +22,8 @@ http://bit.ly/1K0aFTz
 http://bit.ly/1TJihL3
 
 
+#EXTINF:-1 group-title="Kids Arabic", Jeem Europe
+http://bit.ly/1k8gYtS
 #EXTINF:-1 group-title="Kids Arabic", Jeem Kids
 http://2.109.65.141/masan/14103.m3u8
  
@@ -131,23 +133,23 @@ http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u
 #EXTINF:-1 group-title="Arabic",Al Nahar Drama
 http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",CBC
-http://www.youtube.com/embed/1yEMLzYzE1g
+http://bit.ly/1OCfccS
 #EXTINF:-1 group-title="Arabic",CBC eXtra
-http://bit.ly/1Odd6jc
+http://bit.ly/1J0o6nU
 #EXTINF:-1 group-title="Arabic",CBC Sofra
-http://bit.ly/1Ji1nhS
+http://bit.ly/1T83lHm
 #EXTINF:-1 group-title="Arabic",Sada Albalad
-http://bit.ly/1Oddpug
+http://bit.ly/1J0ot1Q
 #EXTINF:-1 group-title="Arabic",Sada Albalad 2
-http://bit.ly/1NCnSA8
+http://bit.ly/1Pg10el
 #EXTINF:-1 group-title="Arabic",Sada Albalad Drama
-http://bit.ly/1ULrlkB
+http://bit.ly/1ND86VG
 #EXTINF:-1 group-title="Arabic",ON TV
-http://bit.ly/1RuqBl3
+http://bit.ly/1mdQSH9
 #EXTINF:-1 group-title="Arabic",Al Kahera Wal Nas
-http://bit.ly/1JhQfla
+http://bit.ly/1NZaA47
 #EXTINF:-1 group-title="Arabic",Ten TV
-http://bit.ly/1Odffew
+http://bit.ly/1mt8bEu
 
 
 
@@ -224,16 +226,7 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Arabic",Balqis TV
-http://bit.ly/1Nuk7Pd
-#EXTINF:-1 group-title="Arabic",Alibel TV
-http://bit.ly/1mdxeuP
-#EXTINF:-1 group-title="Arabic",Alnoukhba TV
-http://bit.ly/1Ruux5k
-#EXTINF:-1 group-title="Arabic",Alsahra TV
-http://bit.ly/1Pc2owE
-#EXTINF:-1 group-title="Arabic",Alrafidain TV
-http://bit.ly/1QvXUnO
+
 
 
 
