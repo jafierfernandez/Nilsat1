@@ -67,7 +67,7 @@ http://f24hls-i.akamaihd.net/hls/live/221196-b/F24_AR_LO_HLS/master_1200.m3u8
 #EXTINF:-1 group-title="News Arabic",DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1 group-title="News Arabic",Euronews
-http://bit.ly/1Pc4j4c
+http://ewns-hls-b-cdn.hexaglobe.net/247a73ae28c3836643131b913b25f037/567570c3/euronews_ara.smil/playlist.m3u8
 #EXTINF:-1 group-title="News Arabic",Alhiwar
 http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8   
 
@@ -354,9 +354,10 @@ http://streaming.i-sat.tv:1935/live/alerth/playlist.m3u8
 
 
 #EXTINF:0 group-title="Relegion Arabic",Alnada TV
-http://bit.ly/1NCqQ7N
+http://bit.ly/1RvyQNP
 #EXTINF:0 group-title="Relegion Arabic",Alistiqama TV
-http://bit.ly/1Ji1Twk
+http://bit.ly/1Jjh9ZT
+
 
 #EXTINF:-1 group-title="Relegion Arabic",Wissal TV
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
