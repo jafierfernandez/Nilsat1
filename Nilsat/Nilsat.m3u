@@ -120,36 +120,13 @@ http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Melody Drama
 http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 
-#EXTINF:-1 group-title="Arabic",MBC
-http://bit.ly/1mtVkCc
+
+
+
+#EXTINF:-1 group-title="Arabic",MBC 1
+http://streamup.global.ssl.fastly.net/app/sami2015s-channel/gmswf.m3u8
 #EXTINF:-1 group-title="Arabic",MBC Drama
-http://bit.ly/1mtVlWx
-#EXTINF:-1 group-title="Arabic",Abu Dhabi
-http://bit.ly/1Ofolrm
-#EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
-http://bit.ly/1T9hQuz
-#EXTINF:-1 group-title="Arabic",Alhayat 1
-http://bit.ly/1S0K4Jp
-#EXTINF:-1 group-title="Arabic",Alhayat 2
-http://bit.ly/1S0KcbX
-#EXTINF:-1 group-title="Arabic",Alkahera Wa Nas 2
-http://bit.ly/1QBkAD7
-#EXTINF:-1 group-title="Arabic",CBC Drama
-http://bit.ly/1NvN9Oo
-#EXTINF:-1 group-title="Arabic",Dream 2
-http://bit.ly/1QBlbV8
-#EXTINF:-1 group-title="Arabic",Funoon
-http://bit.ly/1mtVWYg
-#EXTINF:-1 group-title="Arabic",Moga Comedy
-http://bit.ly/1PdGSr6
-#EXTINF:-1 group-title="Arabic",Nile Cinema
-http://bit.ly/1Yt2Mt5
-#EXTINF:-1 group-title="Arabic",Nile Comedy
-http://bit.ly/1O0ka6W
-
-
-
-
+http://streamup.global.ssl.fastly.net/app/sami2016s-channel/gmswf.m3u8
 
 
 #EXTINF:-1 group-title="Arabic",Alfajr TV
@@ -163,15 +140,28 @@ http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u
 #EXTINF:-1 group-title="Arabic",Al Nahar Drama
 http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Arabic",Telfaza
-https://cdn.streaminghd.tn/live/P7muFV-pFv1xbj2RVz8OYQ/1450584435/telvza/index.m3u8
 
-#EXTINF:-1 group-title="Arabic",Sada Albalad Drama
-http://2.109.65.142/masa/14222.m3u8
-#EXTINF:-1 group-title="Arabic",On TV
-http://2.109.65.142/masa/14214.m3u8
-#EXTINF:-1 group-title="Arabic",TL Libanon
-http://2.109.65.142/masa/14215.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
+http://bit.ly/1mtuCJK
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
+http://bit.ly/1MnGuBT
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
+http://bit.ly/1RZT6X3
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
+http://bit.ly/1lZBVcj
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
+http://bit.ly/1ZiSMVv
+
+
+
 
 
 #EXTINF:-1 group-title="Aflam & Drama",Zee Alwan
@@ -186,19 +176,6 @@ http://2.109.65.142/masa/14230.m3u8
 http://2.109.65.142/masa/14202.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
 http://2.109.65.142/masa/14207.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
-http://bit.ly/1mtuCJK
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
-http://bit.ly/1MnGuBT
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
-http://bit.ly/1RZT6X3
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
-http://bit.ly/1lZBVcj
 
 
 
@@ -426,11 +403,7 @@ http://38.96.148.118/MelodyHits/smil:hits.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic Music",Rotana Music
 http://185.5.222.227:4242/bysid/5601
 #EXTINF:-1 group-title="Arabic Music",Rotana Clip
-http://185.5.222.227:4242/bysid/5602
-#EXTINF:-1 group-title="Arabic Music",Rotana Music
-http://2.109.65.146/masa/14601.m3u8
-#EXTINF:-1 group-title="Arabic Music",ROTANA CLIP
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/5791.m3u8
+http://bit.ly/1JlAcmp
 #EXTINF:-1 group-title="Arabic Music",Wanasah
 http://178.33.88.129:888/udp/239.102.0.130:1234
 #EXTINF:-1 group-title="Arabic Music",Aghanina
