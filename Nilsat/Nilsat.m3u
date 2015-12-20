@@ -5,7 +5,8 @@
 
 
 #EXTINF:-1 group-title="Arabic",Medi 1
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/6080.m3u8
+http://lv002.cdn.arabic.zaaptv.com/live/m3u8/Medi1TV.m3u8?40810e2ac8e14cbe9a370d7dc11a2d7368bd7bdf4d8209f6ed4763888e57b9e5af6c03fb519f96b918d02f81d78085db839c3a43a3d613f12de812
+
 #EXTINF:-1 group-title="Arabic",2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
@@ -119,6 +120,35 @@ http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Melody Drama
 http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 
+#EXTINF:-1 group-title="Arabic",MBC
+http://bit.ly/1mtVkCc
+#EXTINF:-1 group-title="Arabic",MBC Drama
+http://bit.ly/1mtVlWx
+#EXTINF:-1 group-title="Arabic",Abu Dhabi
+http://bit.ly/1Ofolrm
+#EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
+http://bit.ly/1T9hQuz
+#EXTINF:-1 group-title="Arabic",Alhayat 1
+http://bit.ly/1S0K4Jp
+#EXTINF:-1 group-title="Arabic",Alhayat 2
+http://bit.ly/1S0KcbX
+#EXTINF:-1 group-title="Arabic",Alkahera Wa Nas 2
+http://bit.ly/1QBkAD7
+#EXTINF:-1 group-title="Arabic",CBC Drama
+http://bit.ly/1NvN9Oo
+#EXTINF:-1 group-title="Arabic",Dream 2
+http://bit.ly/1QBlbV8
+#EXTINF:-1 group-title="Arabic",Funoon
+http://bit.ly/1mtVWYg
+#EXTINF:-1 group-title="Arabic",Moga Comedy
+http://bit.ly/1PdGSr6
+#EXTINF:-1 group-title="Arabic",Nile Cinema
+http://bit.ly/1Yt2Mt5
+#EXTINF:-1 group-title="Arabic",Nile Comedy
+http://bit.ly/1O0ka6W
+
+
+
 
 
 
@@ -133,6 +163,8 @@ http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u
 #EXTINF:-1 group-title="Arabic",Al Nahar Drama
 http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Arabic",Telfaza
+https://cdn.streaminghd.tn/live/P7muFV-pFv1xbj2RVz8OYQ/1450584435/telvza/index.m3u8
 
 #EXTINF:-1 group-title="Arabic",Sada Albalad Drama
 http://2.109.65.142/masa/14222.m3u8
@@ -148,6 +180,8 @@ http://2.109.65.142/masa/14209.m3u8
 http://2.109.65.142/masa/14201.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Time Cinema
 http://2.109.65.142/masa/14223.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Time Drama
+http://2.109.65.142/masa/14230.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",El Beit Beitak
 http://2.109.65.142/masa/14202.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
