@@ -53,46 +53,36 @@ http://2.109.65.146/masa/14617.m3u8
 
 
 
-#EXTINF:-1 group-title="News Arabic",Sky News 
-http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+#EXTINF:-1 group-title="News Arabic",Sky News Ar
+http://snammdlive.mmdlive.lldns.net/snammdlive/fc3fcdd7b831425c944e17e1c764b31a/manifest.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 group-title="News Arabic",Al Ghad TV
-http://41.128.181.132:1935/live/Test.stream/playlist.m3u8
+#EXTINF:-1 group-title="News Arabic",Aljazeera
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+#EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
 #EXTINF:-1 group-title="News Arabic",BBC Arabia
  http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 group-title="News Arabic",Mekammelin
+http://mn-l.mncdn.com/r_mekameleen/smil:mekameleen_web.smil/jwplayer.m3u8
+#EXTINF:-1 group-title="News Arabic",Elsharq TV
+http://origin2.live.web.tv.streamprovider.net/streams/0cd611bdd4acb06634442abd5f861d65/index.m3u8
 #EXTINF:-1 group-title="News Arabic",France 24
 http://f24hls-i.akamaihd.net/hls/live/221196-b/F24_AR_LO_HLS/master_1200.m3u8
 #EXTINF:-1 group-title="News Arabic",DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1 group-title="News Arabic",Euronews
-http://ewns-hls-b-cdn.hexaglobe.net/247a73ae28c3836643131b913b25f037/567570c3/euronews_ara.smil/playlist.m3u8
+http://ewns-hls-b-cdn.hexaglobe.net/5f8d242b353680069326d836cc8fe5ad/567817d1/euronews_ara.smil/playlist.m3u8
 #EXTINF:-1 group-title="News Arabic",Alhiwar
 http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8   
-
-
 #EXTINF:-1 group-title="News Arabic",Orient
 http://ls01.orienths.org/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
 #EXTINF:-1 group-title="News Arabic",Maan News
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
-#EXTINF:-1 group-title="News Arabic",TRT A
+#EXTINF:-1 group-title="News Arabic",TRT Ar
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 group-title="News Arabic",Mekammelin
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
-
-
-
-#EXTINF:-1 group-title="News Arabic",Elsharq TV
-http://origin2.live.web.tv.streamprovider.net/streams/0cd611bdd4acb06634442abd5f861d65/index.m3u8
-#EXTINF:-1 group-title="News Arabic",TV5
-#EXTINF:-1 group-title="Arabic",
-#EXTINF:-1 group-title="News Arabic",Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-#EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
-
 #EXTINF:-1 group-title="News Arabic",Aljazeera Doc
  http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8 
 #EXTINF:-1 group-title="News Arabic",Taghier TV
