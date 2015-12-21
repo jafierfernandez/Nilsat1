@@ -113,10 +113,7 @@ http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 
 
 
-#EXTINF:-1 group-title="Arabic",MBC 1
-http://streamup.global.ssl.fastly.net/app/sami2015s-channel/gmswf.m3u8
-#EXTINF:-1 group-title="Arabic",MBC Drama
-http://streamup.global.ssl.fastly.net/app/sami2016s-channel/gmswf.m3u8
+
 
 
 #EXTINF:-1 group-title="Arabic",Alfajr TV
@@ -130,6 +127,10 @@ http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u
 #EXTINF:-1 group-title="Arabic",Al Nahar Drama
 http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Arabic", Syria Drama
+ rtmp://82.137.248.21:1935/Drama/DramaLive3
+#EXTINF:-1 group-title="Arabic",Roya TV
+ http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 
 
 
@@ -140,15 +141,13 @@ http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
 
 
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
-http://bit.ly/1mtuCJK
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
-http://bit.ly/1MnGuBT
+http://bit.ly/1OhRuCg
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
-http://bit.ly/1RZT6X3
+http://bit.ly/1Jptuvz
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
-http://bit.ly/1lZBVcj
+http://bit.ly/1OjtmW2
 #EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
-http://bit.ly/1ZiSMVv
+http://bit.ly/1IkQaST
 
 
 
@@ -280,13 +279,10 @@ http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv7_480/chu
 
 #EXTINF:-1 group-title="Arabic",Al Kout TV
 rtmp://66.23.237.233:1935/alkout/alkout
-#EXTINF:-1 group-title="Arabic",Roya TV
- http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 #EXTINF:-1 group-title="Arabic",Kifa TV
 http://82.212.95.122:1935/live/kifa.stream_360p/gmswf.m3u8?v=1557237336
 
-#EXTINF:-1 group-title="Arabic", Syria Drama
- rtmp://82.137.248.21:1935/Drama/DramaLive3
+
 #EXTINF:-1 group-title="Arabic", Syria
  rtsp://82.137.248.16:1935/Sat/SatLive3
 
