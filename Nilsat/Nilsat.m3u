@@ -409,7 +409,20 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
 
 
-
+#EXTINF:0 group-title="Sport",beIN Sport 1
+http://skyiptv.ddns.net:8000/live/edi/edi/491.m3u8
+#EXTINF:0 group-title="Sport",beIN Sport 2
+http://skyiptv.ddns.net:8000/live/edi/edi/492.m3u8
+#EXTINF:0 group-title="Sport",beIN Sport 3
+http://skyiptv.ddns.net:8000/live/edi/edi/493.m3u8
+#EXTINF:0 group-title="Sport",beIN Sport 4
+http://skyiptv.ddns.net:8000/live/edi/edi/494.m3u8
+#EXTINF:0 group-title="Sport",beIN Sport 5
+http://skyiptv.ddns.net:8000/live/edi/edi/495.m3u8
+#EXTINF:0 group-title="Sport",beIN Sport 6
+http://skyiptv.ddns.net:8000/live/edi/edi/496.m3u8
+#EXTINF:0 group-title="Sport",beIN Sport 7
+http://skyiptv.ddns.net:8000/live/edi/edi/497.m3u8
 
 #EXTINF:-1 group-title="Sport",Sky Bundesliga HD 1
 http://mainstream.dyndns.tv:8000/live/conny/conny/5.m3u8
@@ -495,30 +508,52 @@ http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7632.m3u8
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7633.m3u8
 
 
+#EXTINF:-1 group-title="Deutsch",ORF 1
+http://62.65.140.153:80/session/57741bec-a793-11e5-b808-005056bc06d1/nvnv5a/1/1010/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",ORF 2
+http://62.65.140.155:80/session/580f6f84-a793-11e5-9b1d-005056bc06d1/nvnv5a/1/1011/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",3+ HD
+http://62.65.140.215:80/session/396fa06c-a793-11e5-9aac-005056bc49ac/nvnv5a/1/1013/index.m3u8
+#EXTINF:-1 group-title="Deutsch",4+ HD
+http://62.65.140.216:80/session/3a41da64-a793-11e5-a10b-005056bc1a52/nvnv5a/1/1031/index.m3u8
+#EXTINF:-1 group-title="Deutsch",5+ HD
+http://62.65.140.152:80/session/3ac3b3ae-a793-11e5-bd63-005056bc06d1/nvnv5a/1/1047/index.m3u8
+#EXTINF:-1 group-title="Deutsch",Anixe HD
+http://62.65.140.215:80/session/3bd89d90-a793-11e5-97c8-005056bc06d1/nvnv5a/1/1134/index.m3u8
+#EXTINF:-1 group-title="Deutsch",ARD HD
+http://62.65.140.217:80/session/3c3be5ee-a793-11e5-8954-005056bc06d1/nvnv5a/2/1165/index.m3u8
+#EXTINF:-1 group-title="Deutsch",Art HD
+http://62.65.140.151:80/session/3d26a32c-a793-11e5-9900-005056bc49ac/nvnv5a/1/1150/index.m3u8
+#EXTINF:-1 group-title="Deutsch",Kanal 9
+http://62.65.140.152:80/session/4076c854-a793-11e5-8016-005056bc06d1/nvnv5a/2/2041/index.m3u8
+
+
+#EXTINF:-1 group-title="Deutsch",Kabel 1 HD
+http://62.65.140.152:80/session/50ab12ac-a793-11e5-81a1-005056bc1a52/nvnv5a/1/1039/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",Kika HD
+http://62.65.140.153:80/session/5131a466-a793-11e5-b9e8-005056bc06d1/nvnv5a/1/1116/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",
+#EXTINF:-1 group-title="Deutsch",
+#EXTINF:-1 group-title="Deutsch",
+#EXTINF:-1 group-title="Deutsch",
+#EXTINF:-1 group-title="Deutsch",
+#EXTINF:-1 group-title="Deutsch",CH TV HD
+http://62.65.140.217:80/session/43142796-a793-11e5-837b-005056bc06d1/nvnv5a/1/1032/index.m3u8?
 
 
 
 
+#EXTINF:-1 group-title="Englisch",Film 4
+http://62.65.140.148:80/session/4a02e34e-a793-11e5-a5b8-005056bc06d1/nvnv5a/2/4023/index.m3u8?
+#EXTINF:-1 group-title="Englisch",Canal 4 HD
+http://62.65.140.213:80/session/426164da-a793-11e5-a8ab-005056bc49ac/nvnv5a/2/4022/index.m3u8?
 
 
-#EXTINF:-1 group-title="Français",Canal+ Emotion
-http://178.33.88.129:888/udp/239.102.0.105:1234
-#EXTINF:-1 group-title="Français",Canal+ Décalé
-http://178.33.88.129:888/udp/239.102.0.56:1234
-#EXTINF:-1 group-title="Français",Canal+
-http://178.33.88.129:888/udp/239.102.0.57:1234
-#EXTINF:-1 group-title="Français",OCS Choc
-http://178.33.88.129:888/udp/239.102.0.75:1234
-#EXTINF:-1 group-title="Français",Canal+ Series
-http://178.33.88.129:888/udp/239.102.0.78:1234
-#EXTINF:-1 group-title="Français",SyFy 
-http://178.33.88.129:888/udp/239.102.0.86:1234
 #EXTINF:-1 group-title="Français", Premiere
 http://teleclub.fr/ch02.ts
 #EXTINF:-1 group-title="Français", West
 http://teleclub.fr/ch08.ts
-#EXTINF:-1 group-title="Français",Téva 
-http://178.33.88.129:888/udp/239.102.0.80:1234
+
 #EXTINF:-1 group-title="Français", TeLeToOn+ 
 http://supertv.livehost.fr/toonf/4466.m3u8
 #EXTINF:-1 group-title="Français", TVA
@@ -549,80 +584,42 @@ http://teleclub.fr/ch04.ts
 http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Français", Science & Vie TV
 rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
-#EXTINF:-1 group-title="Français",Planete+ HD
-http://178.33.88.129:888/udp/239.102.0.83:1234
-#EXTINF:-1 group-title="Français",Planete+ Thalassa HD 
-http://178.33.88.129:888/udp/239.102.0.92:1234
-#EXTINF:-1 group-title="Français",National Geographic 
-http://178.33.88.129:888/udp/239.102.0.84:1234
-#EXTINF:-1 group-title="Français",Voyage
-http://178.33.88.129:888/udp/239.102.0.85:1234
 #EXTINF:-1 group-title="Français", Animaux HD 
 http://87.248.160.8/edge/smil:animaux/playlist.m3u8
-#EXTINF:-1 group-title="Français",Discovery
-http://178.33.88.129:888/udp/239.102.0.90:1234
-#EXTINF:-1 group-title="Français",Ushuaia 
-http://178.33.88.129:888/udp/239.102.0.91:1234
-
 #EXTINF:-1 group-title="Français", La chaine Normandie
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
-
-
-#EXTINF:-1 group-title="Français",Disney 
-http://178.33.88.129:888/udp/239.102.0.88:1234
-#EXTINF:-1 group-title="Français",Cartoon Network 
-http://178.33.88.129:888/udp/239.102.0.89:1234
 #EXTINF:-1 group-title="Français",Cartoon+
 http://88.141.4.217:9005/5
-#EXTINF:-1 group-title="Français",MTV 
-http://178.33.88.129:888/udp/239.102.0.74:1234
-
-
 #EXTINF:0 group-title="Français", L'enorme 
 http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
- 
 #EXTINF:0 group-title="Français", Gloubi
 http://teleclub.fr/gloubi.mp4 
 #EXTINF:0 group-title="Français", GONG
 rtsp://ec.playmedia.fr:1935/gong-base/live 
 
-#EXTINF:-1 tvg-id="france2.fr" group-title="Français" tvg-logo="0204.png",[COLOR orange]France 2 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2028/index.m3u8?p=127&c=t1&token=c4aa1c38fdae956545b6fade07bbd3af&expires=1448074081
-#EXTINF:-1 tvg-id="france3.fr" group-title="Français" tvg-logo="0205.png",[COLOR orangered]France 3[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2008/index.m3u8?p=127&c=t1&token=a215dc701036a73efaa2225d9ec44a38&expires=1448074081
-#EXTINF:-1 tvg-id="france4.fr" group-title="Français" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2009/index.m3u8?p=127&c=t1&token=6a2fb67b9a9fb786c9769aaebd1f2d37&expires=1448074082
-#EXTINF:-1 tvg-id="france5.fr" group-title="Français" tvg-logo="0237.png",[COLOR orange]France 5[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2010/index.m3u8?p=127&c=t1&token=c42fb162e1d110227ae72d47d8b66121&expires=1448074082
-#EXTINF:-1 tvg-id="france24.fr" group-title="Français" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2007/index.m3u8?p=127&c=t1&token=42598de3198f89972c12405c5890326a&expires=1448074083
-#EXTINF:-1 tvg-id="franceo.fr" group-title="Français" tvg-logo="0226.png",[COLOR orange]France Ô[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2015/index.m3u8?p=127&c=t1&token=0351a6ccc3a52a62a676f006eae5fe63&expires=1448074083
-#EXTINF:-1 tvg-id="gulli.fr" group-title="Français" tvg-logo="0225.png",[COLOR gold]Gulli[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2011/index.m3u8?p=127&c=t1&token=9c5fb9954d7bcb4486daff64cbfdffd7&expires=1448074084
-#EXTINF:-1 tvg-id="arte.fr" group-title="Français" tvg-logo="0215.png",[COLOR orange]Arte HD FR[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2029/index.m3u8?p=127&c=t1&token=6af3db5e5e055b8583735c4028f3d6b1&expires=1448074071
-#EXTINF:-1 tvg-id="canal9.fr" group-title="Français" tvg-logo="0242.png",[COLOR gold]Canal 9[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2041/index.m3u8?p=127&c=t1&token=25cedf48ebf5ac1f6cf1a18842be888c&expires=1448074074
-#EXTINF:-1 tvg-id="canalalpha.fr" group-title="Français" tvg-logo="0246.png",[COLOR orangered]Canal Alpha[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2045/index.m3u8?p=127&c=t1&token=385fd6afe384df2b154e34f84a50f983&expires=1448074074
-#EXTINF:-1 tvg-id="d8.fr" group-title="Français" tvg-logo="0023.png",[COLOR orange]D8[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2018/index.m3u8?p=127&c=t1&token=94a26d5e9201aae3eb1a21ef67b1a222&expires=1448074077
-#EXTINF:-1 tvg-id="latele.fr" group-title="Français" tvg-logo="0244.png",[COLOR orange]la télé[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2043/index.m3u8?p=127&c=t1&token=eb8347a7d8722b7af321eb1fe1768ef8&expires=1448074089
-#EXTINF:-1 tvg-id="lemanbleu.fr" group-title="Français" tvg-logo="0245.png",[COLOR orange]léman bleu[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2044/index.m3u8?p=127&c=t1&token=5f94888215e5835037830e6389beea3f&expires=1448074090
-#EXTINF:-1 tvg-id=""m6.fr" group-title="Français" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2026/index.m3u8?p=127&c=t1&token=166e6197b291a4921f36e5ba66557cab&expires=1448074090
-#EXTINF:-1 tvg-id="rts1.fr" group-title="Français" tvg-logo="0211.png",[COLOR orangered]RTS 1 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2034/index.m3u8?p=127&c=t1&token=892d8fdc8a4ad1ac24128a0ca1475246&expires=1448074106
-#EXTINF:-1 tvg-id="rts2.fr" group-title="Français" tvg-logo="0213.png",[COLOR orange]RTS 2 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2035/index.m3u8?p=127&c=t1&token=dbe765574a5a1f56aa9b6539e32dfbc8&expires=1448074107
-#EXTINF:-1 tvg-id="tf1.fr" group-title="Français" tvg-logo="0202.png",[COLOR orange]TF1 HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/2/2027/index.m3u8?p=127&c=t1&token=3f0141b9eaba9ac3965911a5ae26c765&expires=1448074117
 
 
-
+#EXTINF:0 group-title="Français",D8
+http://62.65.140.151:80/session/454fcc04-a793-11e5-8bfa-005056bc49ac/nvnv5a/2/2018/index.m3u8?
+#EXTINF:0 group-title="Français",France 2 HD
+http://62.65.140.148:80/session/4a8ef8e8-a793-11e5-94d4-005056bc1a52/nvnv5a/2/2028/index.m3u8?
+#EXTINF:0 group-title="Français",France 3
+http://62.65.140.214:80/session/4b00ec6e-a793-11e5-9555-005056bc49ac/nvnv5a/2/2008/index.m3u8?
+#EXTINF:0 group-title="Français",France 4
+http://62.65.140.216:80/session/4b9435dc-a793-11e5-b27e-005056bc49ac/nvnv5a/2/2009/index.m3u8?
+#EXTINF:0 group-title="Français",France 5
+http://62.65.140.152:80/session/4c1f5824-a793-11e5-974e-005056bc1a52/nvnv5a/2/2010/index.m3u8?
+#EXTINF:0 group-title="Français",France Ô
+http://62.65.140.213:80/session/4d3be948-a793-11e5-81d0-005056bc1a52/nvnv5a/2/2015/index.m3u8?
+#EXTINF:0 group-title="Français",La télé
+http://62.65.140.219:80/session/524289a6-a793-11e5-a5ec-005056bc06d1/nvnv5a/2/2043/index.m3u8?
+#EXTINF:0 group-title="Français",
+#EXTINF:0 group-title="Français",
+#EXTINF:0 group-title="Français",
+#EXTINF:0 group-title="Français",
+#EXTINF:0 group-title="Français",
+#EXTINF:0 group-title="Français",
+#EXTINF:0 group-title="Français",
 #EXTINF:-1 group-title="Español",AMC
 http://latinochannels.2fh.co/canales/hls/amc.m3u8
 #EXTINF:-1 group-title="Español",Cinemax
