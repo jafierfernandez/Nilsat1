@@ -567,7 +567,7 @@ http://62.65.140.148:80/session/864e2534-a793-11e5-992f-005056bc49ac/nvnv5a/1/11
 http://62.65.140.152:80/session/86da3a38-a793-11e5-a9b6-005056bc06d1/nvnv5a/1/1118/index.m3u8?
 #EXTINF:-1 group-title="Deutsch",ARD HD
 http://62.65.140.217:80/session/3c3be5ee-a793-11e5-8954-005056bc06d1/nvnv5a/2/1165/index.m3u8
-#EXTINF:-1 group-title="Deutsch",Art HD
+#EXTINF:-1 group-title="Deutsch",Arte HD
 http://62.65.140.151:80/session/3d26a32c-a793-11e5-9900-005056bc49ac/nvnv5a/1/1150/index.m3u8
 
 
