@@ -524,7 +524,7 @@ http://62.65.140.215:80/session/396fa06c-a793-11e5-9aac-005056bc49ac/nvnv5a/1/10
 http://62.65.140.216:80/session/3a41da64-a793-11e5-a10b-005056bc1a52/nvnv5a/1/1031/index.m3u8
 #EXTINF:-1 group-title="Deutsch",5+ HD
 http://62.65.140.152:80/session/3ac3b3ae-a793-11e5-bd63-005056bc06d1/nvnv5a/1/1047/index.m3u8
-#EXTINF:-1 group-title="Deutsch",Plus 8 HD
+#EXTINF:-1 group-title="Deutsch",Puls 8 HD
 http://62.65.140.215:80/session/59e8d5e8-a793-11e5-9b1c-005056bc49ac/nvnv5a/2/1053/index.m3u8?
 #EXTINF:-1 group-title="Deutsch",Anixe HD
 http://62.65.140.215:80/session/3bd89d90-a793-11e5-97c8-005056bc06d1/nvnv5a/1/1134/index.m3u8
