@@ -508,22 +508,27 @@ http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7632.m3u8
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7633.m3u8
 
 
-#EXTINF:-1 group-title="Deutsch",ORF 1
+#EXTINF:-1 group-title="Deutsch",ORF 1 HD
 http://62.65.140.153:80/session/57741bec-a793-11e5-b808-005056bc06d1/nvnv5a/1/1010/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",ORF 2
+#EXTINF:-1 group-title="Deutsch",ORF 2 HD
 http://62.65.140.155:80/session/580f6f84-a793-11e5-9b1d-005056bc06d1/nvnv5a/1/1011/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",SRF 1 HD
+http://62.65.140.214:80/session/65443d42-a793-11e5-a16f-005056bc06d1/nvnv5a/1/1008/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",SRF 2 HD
+http://62.65.140.215:80/session/65aa33cc-a793-11e5-abd7-005056bc1a52/nvnv5a/1/1009/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",SRF Info
+http://62.65.140.149:80/session/6615e9fa-a793-11e5-9321-005056bc1a52/nvnv5a/1/1003/index.m3u8?
 #EXTINF:-1 group-title="Deutsch",3+ HD
 http://62.65.140.215:80/session/396fa06c-a793-11e5-9aac-005056bc49ac/nvnv5a/1/1013/index.m3u8
 #EXTINF:-1 group-title="Deutsch",4+ HD
 http://62.65.140.216:80/session/3a41da64-a793-11e5-a10b-005056bc1a52/nvnv5a/1/1031/index.m3u8
 #EXTINF:-1 group-title="Deutsch",5+ HD
 http://62.65.140.152:80/session/3ac3b3ae-a793-11e5-bd63-005056bc06d1/nvnv5a/1/1047/index.m3u8
+#EXTINF:-1 group-title="Deutsch",Plus 8 HD
+http://62.65.140.215:80/session/59e8d5e8-a793-11e5-9b1c-005056bc49ac/nvnv5a/2/1053/index.m3u8?
 #EXTINF:-1 group-title="Deutsch",Anixe HD
 http://62.65.140.215:80/session/3bd89d90-a793-11e5-97c8-005056bc06d1/nvnv5a/1/1134/index.m3u8
-#EXTINF:-1 group-title="Deutsch",ARD HD
-http://62.65.140.217:80/session/3c3be5ee-a793-11e5-8954-005056bc06d1/nvnv5a/2/1165/index.m3u8
-#EXTINF:-1 group-title="Deutsch",Art HD
-http://62.65.140.151:80/session/3d26a32c-a793-11e5-9900-005056bc49ac/nvnv5a/1/1150/index.m3u8
+
 #EXTINF:-1 group-title="Deutsch",Kanal 9
 http://62.65.140.152:80/session/4076c854-a793-11e5-8016-005056bc06d1/nvnv5a/2/2041/index.m3u8
 
@@ -532,13 +537,41 @@ http://62.65.140.152:80/session/4076c854-a793-11e5-8016-005056bc06d1/nvnv5a/2/20
 http://62.65.140.152:80/session/50ab12ac-a793-11e5-81a1-005056bc1a52/nvnv5a/1/1039/index.m3u8?
 #EXTINF:-1 group-title="Deutsch",Kika HD
 http://62.65.140.153:80/session/5131a466-a793-11e5-b9e8-005056bc06d1/nvnv5a/1/1116/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",
-#EXTINF:-1 group-title="Deutsch",
-#EXTINF:-1 group-title="Deutsch",
-#EXTINF:-1 group-title="Deutsch",
-#EXTINF:-1 group-title="Deutsch",
+#EXTINF:-1 group-title="Deutsch",Prosieben HD
+http://62.65.140.216:80/session/590108bc-a793-11e5-9ca1-005056bc06d1/nvnv5a/1/1037/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",RTL 2 HD
+http://62.65.140.150:80/session/5eddb80c-a793-11e5-9dcb-005056bc1a52/nvnv5a/1/1024/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",RTL HD
+http://62.65.140.151:80/session/5fc5cf48-a793-11e5-b25b-005056bc06d1/nvnv5a/1/1020/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",VOX HD
+http://62.65.140.213:80/session/885de530-a793-11e5-988f-005056bc06d1/nvnv5a/1/1021/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",Sat 1 HD
+http://62.65.140.148:80/session/63476b40-a793-11e5-b7f7-005056bc06d1/nvnv5a/1/1038/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",Tele 5
+http://62.65.140.151:80/session/695f183e-a793-11e5-abca-005056bc49ac/nvnv5a/1/1090/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",RTL Nitro HD
+http://62.65.140.215:80/session/60387444-a793-11e5-a114-005056bc49ac/nvnv5a/1/1027/index.m3u8?
 #EXTINF:-1 group-title="Deutsch",CH TV HD
 http://62.65.140.217:80/session/43142796-a793-11e5-837b-005056bc06d1/nvnv5a/1/1032/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",S1 HD
+http://62.65.140.148:80/session/62dc60d4-a793-11e5-896c-005056bc49ac/nvnv5a/1/1035/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",Tele 1 HD
+http://62.65.140.214:80/session/68ded07a-a793-11e5-85df-005056bc49ac/nvnv5a/1/1128/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",ZDF Neo HD
+http://62.65.140.152:80/session/8552f902-a793-11e5-9c78-005056bc49ac/nvnv5a/1/1121/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",ZDF HD
+http://62.65.140.148:80/session/85bda964-a793-11e5-bfc1-005056bc1a52/nvnv5a/2/1166/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",ZDF Kultur HD
+http://62.65.140.148:80/session/864e2534-a793-11e5-992f-005056bc49ac/nvnv5a/1/1119/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",ZDF Info HD
+http://62.65.140.152:80/session/86da3a38-a793-11e5-a9b6-005056bc06d1/nvnv5a/1/1118/index.m3u8?
+#EXTINF:-1 group-title="Deutsch",ARD HD
+http://62.65.140.217:80/session/3c3be5ee-a793-11e5-8954-005056bc06d1/nvnv5a/2/1165/index.m3u8
+#EXTINF:-1 group-title="Deutsch",Art HD
+http://62.65.140.151:80/session/3d26a32c-a793-11e5-9900-005056bc49ac/nvnv5a/1/1150/index.m3u8
+
+
+
 
 
 
@@ -613,13 +646,21 @@ http://62.65.140.152:80/session/4c1f5824-a793-11e5-974e-005056bc1a52/nvnv5a/2/20
 http://62.65.140.213:80/session/4d3be948-a793-11e5-81d0-005056bc1a52/nvnv5a/2/2015/index.m3u8?
 #EXTINF:0 group-title="Français",La télé
 http://62.65.140.219:80/session/524289a6-a793-11e5-a5ec-005056bc06d1/nvnv5a/2/2043/index.m3u8?
-#EXTINF:0 group-title="Français",
-#EXTINF:0 group-title="Français",
-#EXTINF:0 group-title="Français",
-#EXTINF:0 group-title="Français",
-#EXTINF:0 group-title="Français",
-#EXTINF:0 group-title="Français",
-#EXTINF:0 group-title="Français",
+#EXTINF:0 group-title="Français",Léman bleu
+http://62.65.140.151:80/session/52cda70c-a793-11e5-ae4c-005056bc1a52/nvnv5a/2/2044/index.m3u8?
+#EXTINF:0 group-title="Français",M6 HD
+http://62.65.140.151:80/session/5355e8b0-a793-11e5-a525-005056bc49ac/nvnv5a/2/2026/index.m3u8?
+#EXTINF:0 group-title="Français",TF1 HD
+http://62.65.140.148:80/session/6befc634-a793-11e5-8622-005056bc1a52/nvnv5a/2/2027/index.m3u8?
+#EXTINF:0 group-title="Français",W9
+http://62.65.140.151:80/session/87e29df8-a793-11e5-95ff-005056bc06d1/nvnv5a/2/2022/index.m3u8?
+#EXTINF:0 group-title="Français",TV5 Monde
+http://62.65.140.148:80/session/1e21e000-a1fc-11e5-aa54-005056bc49ac/nvnv5a/2/2006/index.m3u8?
+
+
+
+
+
 #EXTINF:-1 group-title="Español",AMC
 http://latinochannels.2fh.co/canales/hls/amc.m3u8
 #EXTINF:-1 group-title="Español",Cinemax
