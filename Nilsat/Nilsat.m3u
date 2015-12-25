@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 group-title="Arabic",Medi 1
-http://38.99.146.36:7777/Medi1_HD.m3u8
+http://maxspeed.from-me.org:8000/live/edgar/edgar1/1059.m3u8
 #EXTINF:-1 group-title="Arabic",2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
@@ -95,18 +95,44 @@ rtmp://streaming.tootvs.com/8010/8010
  
 
 
-#EXTINF:-1,MBC 1
- http://38.99.146.36:7777/MBC1_HD.m3u8
-#EXTINF:-1,MBC Drama
- http://38.99.146.36:7777/MBCDrama_HD.m3u8
- #EXTINF:-1,MBC Masr
- http://38.99.146.36:7777/MBCMaser_HD.m3u8
- #EXTINF:-1,MBC Masr Plus2
- http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
+#EXTINF:-1 group-title="Arabic",MBC 1
+ http://40.113.21.146:8000/Daziptv/Streamall/151.ch
+#EXTINF:-1 group-title="Arabic",MBC 2
+http://40.113.21.146:8000/Daziptv/Streamall/145.ch
+#EXTINF:-1 group-title="Arabic",MBC 4
+http://40.113.21.146:8000/Daziptv/Streamall/144.ch
+#EXTINF:-1 group-title="Arabic",MBC Drama
+ http://40.113.21.146:8000/Daziptv/Streamall/152.ch
+ #EXTINF:-1 group-title="Arabic",MBC Masr
+ http://40.113.21.146:8000/Daziptv/Streamall/153.ch
+ #EXTINF:-1 group-title="Arabic",MBC Action
+ http://40.113.21.146:8000/Daziptv/Streamall/153.ch
+
+EXTINF:-1 group-title="Arabic",OSN-CINEMA1
+http://40.113.21.146:8000/Daziptv/Streamall/90.ch
+#EXTINF:-1 group-title="Arabic",OSN-CINEMA2
+http://40.113.21.146:8000/Daziptv/Streamall/91.ch
+#EXTINF:-1 group-title="Arabic",OSN YaHala Drama
+http://40.113.21.146:8000/Daziptv/Streamall/107.ch
+#EXTINF:-1 group-title="Arabic",OSN-MBC DRAMA
+http://40.113.21.146:8000/Daziptv/Streamall/93.ch
+#EXTINF:-1 group-title="Arabic",OSN-YaHala-HD
+http://40.113.21.146:8000/Daziptv/Streamall/92.ch
+#EXTINF:-1 group-title="Arabic",OSN-Movies HD
+http://40.113.21.146:8000/Daziptv/Streamall/102.ch
+#EXTINF:-1 group-title="Arabic",OSN-Movies Action HD
+http://40.113.21.146:8000/Daziptv/Streamall/103.ch
+#EXTINF:-1 group-title="Arabic",OSN-Movies First more
+http://40.113.21.146:8000/Daziptv/Streamall/104.ch
+#EXTINF:-1 group-title="Arabic",OSN YaHala Shabab
+http://40.113.21.146:8000/Daziptv/Streamall/105.ch
+#EXTINF:-1 group-title="Arabic",OSN Movies Premier
+http://40.113.21.146:8000/Daziptv/Streamall/106.ch
 
 
 
-
+#EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
+http://maxspeed.from-me.org:8000/live/edgar/edgar1/1940.m3u8
 
 #EXTINF:-1 group-title="Arabic",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
@@ -124,7 +150,7 @@ http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Alfajr TV
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
 #EXTINF:-1 group-title="Arabic",Funoon
-http://38.99.146.36:7777/Funoon_HD.m3u8
+http://maxspeed.from-me.org:8000/live/edgar/edgar1/1545.m3u8
 #EXTINF:-1 group-title="Arabic",Mehwar TV
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar
@@ -140,123 +166,7 @@ http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
  http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 
 
-#EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
- http://38.99.146.36:7777/RotanaAflam_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
- http://38.99.146.36:7777/RotanaCinema_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Rotana Khaligi
- http://38.99.146.36:7777/RotanaKhalijiah_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
- http://38.99.146.36:7777/RotanaMasriya_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
- http://38.99.146.36:7777/RotanaZaman_HD.m3u8
 
- #EXTINF:-1 group-title="Aflam & Drama",Sama Cinema
- http://38.99.146.36:7777/SamaCinema_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Star 1 Cinema
- http://38.99.146.36:7777/StarCinema1_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Star 2 Cinema
- http://38.99.146.36:7777/StarCinema2_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Nile Cinema
- http://38.99.146.36:7777/NileCinema_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
- http://38.99.146.36:7777/NileComedy_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Nile Culture
- http://38.99.146.36:7777/NileCulture_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Nile Drama
- http://38.99.146.36:7777/NileDrama_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Nile Drama 2
- http://38.99.146.36:7777/NileDrama2_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Nile Family
- http://38.99.146.36:7777/NileFamily_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Nile Tv
- http://38.99.146.36:7777/NileInt_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Nile Life
- http://38.99.146.36:7777/NileLife_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
- http://38.99.146.36:7777/Hayat_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Alhayat 2
- http://38.99.146.36:7777/Alhayat2_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Al Amaken Drama
- http://38.99.146.36:7777/AlAmakenDrama_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Cima
- http://38.99.146.36:7777/Cima_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Time Cinema
- http://38.99.146.36:7777/TimeCinema_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Time Drama
- http://38.99.146.36:7777/TimeDrama_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Taxi El Sahra
- http://38.99.146.36:7777/TimeTiatro_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
- http://38.99.146.36:7777/MogaComedy_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Chobra Cima
- http://38.99.146.36:7777/LayaliCinema_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Dream 1
- http://38.99.146.36:7777/Dream1_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Dream 2
- http://38.99.146.36:7777/Dream2_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Oscar Drama
- http://38.99.146.36:7777/OscarDrama_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Oscar Drama 2
- http://38.99.146.36:7777/OscarDrama2_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Panorama Drama
- http://38.99.146.36:7777/PanoramaDrama_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Panorama Drama 2
- http://38.99.146.36:7777/PanoramaDrama2_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Panorama film
- http://38.99.146.36:7777/PanoramaFilm_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Bayrout Cinema
- http://38.99.146.36:7777/AlTet_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Egypt 2
- http://38.99.146.36:7777/AlThanya_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Beladi
- http://38.99.146.36:7777/Beladi_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Blue Nile
- http://38.99.146.36:7777/BlueNile_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Cairo Cinema
- http://38.99.146.36:7777/CairoCinema_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Cairo Comedy
- http://38.99.146.36:7777/CairoComedy_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
- http://38.99.146.36:7777/CairoDrama_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Imagines Movies
- http://38.99.146.36:7777/ImagineMovies_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Cine Majesti
- http://38.99.146.36:7777/MajesticCinema_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Albait Baitak Cinema
- http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Masrawi Aflam
- http://38.99.146.36:7777/MasrawiAflam_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Massaya
- http://38.99.146.36:7777/Massaya_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Tahrir
- http://38.99.146.36:7777/Tahrir_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",On TV
- http://38.99.146.36:7777/ONTV_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",ONTV Live
- http://38.99.146.36:7777/ONTVLive_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",AlKahera
- http://38.99.146.36:7777/AlKahera_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",AlQahera W Elnas
- http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",AlQahera W Elnas 2
- http://38.99.146.36:7777/AlKaheraWalNas2_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",AlMasrawia
- http://38.99.146.36:7777/AlMasrawia_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Al Masriyah
- http://38.99.146.36:7777/AlMasriyah_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Sada Al Balad
- http://38.99.146.36:7777/SadaAlBalad_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",Sada AlBalad Drama
- http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",CBC
- http://38.99.146.36:7777/CBC_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",CBC Extra
- http://38.99.146.36:7777/CBC2_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",CBC Drama
- http://38.99.146.36:7777/CBCDrama_HD.m3u8
- #EXTINF:-1 group-title="Aflam & Drama",CBC Sofra
- http://38.99.146.36:7777/CBCSofra_HD.m3u8
 
 
 
@@ -268,8 +178,8 @@ http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
 http://195.244.40.135:8000/play/a038
 #EXTINF:-1 group-title="Aflam & Drama",Cinema 2
 http://195.244.40.135:8000/play/a037
-#EXTINF:-1 group-title="Aflam & Drama",Cinema
-http://195.244.40.135:8000/play/a036 Belody Aflam
+#EXTINF:-1 group-title="Aflam & Drama",Belody Aflam
+http://195.244.40.135:8000/play/a036 
 #EXTINF:-1 group-title="Aflam & Drama",Darbaka Aflam
 http://195.244.40.135:8000/play/a034
 #EXTINF:-1 group-title="Aflam & Drama",Aljoumhour
@@ -281,6 +191,16 @@ http://195.244.40.135:8000/play/a031
 http://195.244.40.135:8000/play/a035
 
 
+#EXTINF:-1 group-title="Aflam & Drama",STAR AFLAM
+http://maxspeed.from-me.org:8000/live/edgar/edgar1/1504.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",ROTANA CINEMA
+http://maxspeed.from-me.org:8000/live/edgar/edgar1/1410.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",PANORAMA COMEDY
+http://maxspeed.from-me.org:8000/live/edgar/edgar1/1556.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Nile Drama
+http://maxspeed.from-me.org:8000/live/edgar/edgar1/1502.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
+http://maxspeed.from-me.org:8000/live/edgar/edgar1/1503.m3u8
 
 
 
@@ -542,23 +462,32 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
 
 
-#EXTINF:0 group-title="Sport",beIN Sport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/491.m3u8
-#EXTINF:0 group-title="Sport",beIN Sport 2
-http://skyiptv.ddns.net:8000/live/edi/edi/492.m3u8
-#EXTINF:0 group-title="Sport",beIN Sport 3
-http://skyiptv.ddns.net:8000/live/edi/edi/493.m3u8
-#EXTINF:0 group-title="Sport",beIN Sport 4
-http://skyiptv.ddns.net:8000/live/edi/edi/494.m3u8
-#EXTINF:0 group-title="Sport",beIN Sport 5
-http://skyiptv.ddns.net:8000/live/edi/edi/495.m3u8
-#EXTINF:0 group-title="Sport",beIN Sport 6
-http://skyiptv.ddns.net:8000/live/edi/edi/496.m3u8
-#EXTINF:0 group-title="Sport",beIN Sport 7
-http://skyiptv.ddns.net:8000/live/edi/edi/497.m3u8
 
-#EXTINF:-1 group-title="Sport",Sky Bundesliga HD 1
-http://mainstream.dyndns.tv:8000/live/conny/conny/5.m3u8
+#EXTINF:-1 group-title="Sport",BEIN SPORTS
+http://40.113.21.146:8000/Daziptv/Streamall/134.ch
+EXTINF:-1 group-title="Sport",Ar:Bien sport 1 HD
+http://40.113.21.146:8000/Daziptv/Streamall/88.ch
+#EXTINF:-1 group-title="Sport",Ar:Bein sport 2 HD
+http://40.113.21.146:8000/Daziptv/Streamall/99.ch
+#EXTINF:-1 group-title="Sport",Ar:Bein sport 3 HD
+http://40.113.21.146:8000/Daziptv/Streamall/98.ch
+#EXTINF:-1 group-title="Sport",Ar:Bein sport 4 HD
+http://40.113.21.146:8000/Daziptv/Streamall/97.ch
+#EXTINF:-1 group-title="Sport",Ar:Bien sport 5 HD
+http://40.113.21.146:8000/Daziptv/Streamall/112.ch
+#EXTINF:-1 group-title="Sport",Ar:Bein sport 6 HD
+http://40.113.21.146:8000/Daziptv/Streamall/96.ch
+#EXTINF:-1 group-title="Sport",Ar:Bein sport 7 HD
+http://40.113.21.146:8000/Daziptv/Streamall/95.ch
+#EXTINF:-1 group-title="Sport",Ar:Bein sport 8 HD
+http://40.113.21.146:8000/Daziptv/Streamall/94.ch
+#EXTINF:-1 group-title="Sport",AR: bein sport 9 HD
+http://40.113.21.146:8000/Daziptv/Streamall/111.ch
+#EXTINF:-1 group-title="Sport",Ar:Bien sport 10 HD
+http://40.113.21.146:8000/Daziptv/Streamall/108.ch
+#EXTINF:-1 group-title="Sport",Ar:Bien sport 11 HD
+http://40.113.21.146:8000/Daziptv/Streamall/109.ch
+
 
 #EXTINF:-1 group-title="Sky",Sky 3D
 http://mainstream.dyndns.tv:8000/live/conny/conny/828.m3u8
