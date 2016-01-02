@@ -95,62 +95,17 @@ rtmp://streaming.tootvs.com/8010/8010
  
 
 
-#EXTINF:-1 group-title="Arabic",MBC 1
- http://40.113.21.146:8000/Daziptv/Streamall/151.ch
-#EXTINF:-1 group-title="Arabic",MBC 2
-http://40.113.21.146:8000/Daziptv/Streamall/145.ch
-#EXTINF:-1 group-title="Arabic",MBC 4
-http://40.113.21.146:8000/Daziptv/Streamall/144.ch
-#EXTINF:-1 group-title="Arabic",MBC Drama
- http://40.113.21.146:8000/Daziptv/Streamall/152.ch
- #EXTINF:-1 group-title="Arabic",MBC Masr
- http://40.113.21.146:8000/Daziptv/Streamall/153.ch
- #EXTINF:-1 group-title="Arabic",MBC Action
- http://40.113.21.146:8000/Daziptv/Streamall/153.ch
-
-EXTINF:-1 group-title="Arabic",OSN-CINEMA1
-http://40.113.21.146:8000/Daziptv/Streamall/90.ch
-#EXTINF:-1 group-title="Arabic",OSN-CINEMA2
-http://40.113.21.146:8000/Daziptv/Streamall/91.ch
-#EXTINF:-1 group-title="Arabic",OSN YaHala Drama
-http://40.113.21.146:8000/Daziptv/Streamall/107.ch
-#EXTINF:-1 group-title="Arabic",OSN-MBC DRAMA
-http://40.113.21.146:8000/Daziptv/Streamall/93.ch
-#EXTINF:-1 group-title="Arabic",OSN-YaHala-HD
-http://40.113.21.146:8000/Daziptv/Streamall/92.ch
-#EXTINF:-1 group-title="Arabic",OSN-Movies HD
-http://40.113.21.146:8000/Daziptv/Streamall/102.ch
-#EXTINF:-1 group-title="Arabic",OSN-Movies Action HD
-http://40.113.21.146:8000/Daziptv/Streamall/103.ch
-#EXTINF:-1 group-title="Arabic",OSN-Movies First more
-http://40.113.21.146:8000/Daziptv/Streamall/104.ch
-#EXTINF:-1 group-title="Arabic",OSN YaHala Shabab
-http://40.113.21.146:8000/Daziptv/Streamall/105.ch
-#EXTINF:-1 group-title="Arabic",OSN Movies Premier
-http://40.113.21.146:8000/Daziptv/Streamall/106.ch
-
-
-
-#EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
-http://maxspeed.from-me.org:8000/live/edgar/edgar1/1940.m3u8
-
 #EXTINF:-1 group-title="Arabic",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Melody Classic
 http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Melody Drama
 http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Arabic",Alfajr TV
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
-#EXTINF:-1 group-title="Arabic",Funoon
-http://maxspeed.from-me.org:8000/live/edgar/edgar1/1545.m3u8
+
+#EXTINF:-1 group-title="Arabic",Sada Albalad Drama
+http://2.109.65.142/masa/14222.m3u8
 #EXTINF:-1 group-title="Arabic",Mehwar TV
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar
@@ -173,41 +128,10 @@ http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
 
 
 
-
-#EXTINF:-1 group-title="Aflam & Drama",Cinema 1
-http://195.244.40.135:8000/play/a038
-#EXTINF:-1 group-title="Aflam & Drama",Cinema 2
-http://195.244.40.135:8000/play/a037
-#EXTINF:-1 group-title="Aflam & Drama",Belody Aflam
-http://195.244.40.135:8000/play/a036 
-#EXTINF:-1 group-title="Aflam & Drama",Darbaka Aflam
-http://195.244.40.135:8000/play/a034
-#EXTINF:-1 group-title="Aflam & Drama",Aljoumhour
-http://195.244.40.135:8000/play/a033
-
-#EXTINF:-1 group-title="Aflam & Drama",Cairo One 
-http://195.244.40.135:8000/play/a031
-#EXTINF:-1 group-title="Aflam & Drama",Abla Fahita
-http://195.244.40.135:8000/play/a035
-
-
-#EXTINF:-1 group-title="Aflam & Drama",STAR AFLAM
-http://maxspeed.from-me.org:8000/live/edgar/edgar1/1504.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",ROTANA CINEMA
-http://maxspeed.from-me.org:8000/live/edgar/edgar1/1410.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",PANORAMA COMEDY
-http://maxspeed.from-me.org:8000/live/edgar/edgar1/1556.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Nile Drama
-http://maxspeed.from-me.org:8000/live/edgar/edgar1/1502.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
-http://maxspeed.from-me.org:8000/live/edgar/edgar1/1503.m3u8
-
-
-
 #EXTINF:-1 group-title="Aflam & Drama",Zee Alwan
 http://2.109.65.142/masa/14209.m3u8
-#EXTINF:-1 group-title="Aflam & Drama",Times Action
-http://195.244.40.135:8000/play/a032
+#EXTINF:-1 group-title="Aflam & Drama",Zee Aflam 2
+http://2.109.65.142/masa/14210.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Time Comedy
 http://2.109.65.142/masa/14201.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Time Cinema
@@ -218,7 +142,10 @@ http://2.109.65.142/masa/14230.m3u8
 http://2.109.65.142/masa/14202.m3u8
 #EXTINF:-1 group-title="Aflam & Drama",Cairo Drama
 http://2.109.65.142/masa/14207.m3u8
-
+#EXTINF:-1 group-title="Aflam & Drama",Tok Tok Aflam
+http://2.109.65.142/masa/14205.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",Cinema Pro
+http://2.109.65.142/masa/14208.m3u8
 
 
 
@@ -232,6 +159,12 @@ http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1 group-title="Arabic",Alnahar Algerie
 http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
 
+
+
+#EXTINF:-1 group-title="Aflam & Drama",LBC
+http://2.109.65.142/masa/14211.m3u8
+#EXTINF:-1 group-title="Aflam & Drama",TL Liban
+http://2.109.65.142/masa/14215.m3u8
 #EXTINF:-1 group-title="Arabic",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Aljadeed
