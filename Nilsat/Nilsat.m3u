@@ -155,11 +155,11 @@ http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
 
 
 
-#EXTINF:-1 group-title="Aflam & Drama",Rotanan Aflam
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Aflam
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/rotana_aflam
-#EXTINF:-1 group-title="Aflam & Drama",Rotanan Masriya
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/rotana_masriya
-#EXTINF:-1 group-title="Aflam & Drama",Rotanan Classic
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/rotana_classic
 #EXTINF:-1 group-title="Aflam & Drama",Art Aflam 1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/art_aflam_1
