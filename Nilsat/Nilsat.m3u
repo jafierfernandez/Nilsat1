@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 group-title="Arabic",Medi 1
-http://maxspeed.from-me.org:8000/live/edgar/edgar1/1059.m3u8
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/medi_1_sat
 #EXTINF:-1 group-title="Arabic",2M
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
@@ -104,8 +104,37 @@ http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Alfajr TV
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
 
+#EXTINF:-1 group-title="Arabic",MBC 1
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
+#EXTINF:-1 group-title="Arabic",MBC Drama
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_drama
+#EXTINF:-1 group-title="Arabic",MBC Masr
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_masr
+#EXTINF:-1 group-title="Arabic",MBC Masr 2
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_masr_2
 #EXTINF:-1 group-title="Arabic",Sada Albalad Drama
 http://2.109.65.142/masa/14222.m3u8
+
+
+#EXTINF:-1 group-title="Arabic",Al Hayat
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/alhayat
+#EXTINF:-1 group-title="Arabic",Al Hayat 2
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/alhayat_2
+#EXTINF:-1 group-title="Arabic",Panorama Drama
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/panorama_drama
+#EXTINF:-1 group-title="Arabic",Panorama Drama 2
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/panorama_drama_2
+#EXTINF:-1 group-title="Arabic",CBC Drama
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc_drama
+#EXTINF:-1 group-title="Arabic",Abu Dhabi
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/abu_dhabi
+#EXTINF:-1 group-title="Arabic",Abu Dhabi Drama
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/abu_dhabi_drama
+#EXTINF:-1 group-title="Arabic",Al Emarat
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/abu_dhabi_emarat
+#EXTINF:-1 group-title="Arabic",Funoon
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/funoon
+
 #EXTINF:-1 group-title="Arabic",Mehwar TV
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar
@@ -126,6 +155,36 @@ http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
 
 
 
+#EXTINF:-1 group-title="Aflam & Drama",Rotanan Aflam
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/rotana_aflam
+#EXTINF:-1 group-title="Aflam & Drama",Rotanan Masriya
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/rotana_masriya
+#EXTINF:-1 group-title="Aflam & Drama",Rotanan Classic
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/rotana_classic
+#EXTINF:-1 group-title="Aflam & Drama",Art Aflam 1
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/art_aflam_1
+#EXTINF:-1 group-title="Aflam & Drama",Art Aflam 2
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/art_aflam_2
+#EXTINF:-1 group-title="Aflam & Drama",Art Cinema
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/art_cinema
+#EXTINF:-1 group-title="Aflam & Drama",Art Hekayat
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/art_hekayat
+#EXTINF:-1 group-title="Aflam & Drama",Art Hekayat 2
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/art_hekayat_2
+#EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/moga_comedy
+#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/nile_comedy
+#EXTINF:-1 group-title="Aflam & Drama",Nile Cinema
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/nile_cinema
+#EXTINF:-1 group-title="Aflam & Drama",Nile Drama
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/nile_drama
+#EXTINF:-1 group-title="Aflam & Drama",Star 1
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/star_cinema_1
+#EXTINF:-1 group-title="Aflam & Drama",Star 2
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/star_cinema_2
+#EXTINF:-1 group-title="Aflam & Drama",Cima
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cima
 
 
 #EXTINF:-1 group-title="Aflam & Drama",Zee Alwan
@@ -396,111 +455,31 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport",BEIN SPORTS
-http://40.113.21.146:8000/Daziptv/Streamall/134.ch
-EXTINF:-1 group-title="Sport",Ar:Bien sport 1 HD
-http://40.113.21.146:8000/Daziptv/Streamall/88.ch
-#EXTINF:-1 group-title="Sport",Ar:Bein sport 2 HD
-http://40.113.21.146:8000/Daziptv/Streamall/99.ch
-#EXTINF:-1 group-title="Sport",Ar:Bein sport 3 HD
-http://40.113.21.146:8000/Daziptv/Streamall/98.ch
-#EXTINF:-1 group-title="Sport",Ar:Bein sport 4 HD
-http://40.113.21.146:8000/Daziptv/Streamall/97.ch
-#EXTINF:-1 group-title="Sport",Ar:Bien sport 5 HD
-http://40.113.21.146:8000/Daziptv/Streamall/112.ch
-#EXTINF:-1 group-title="Sport",Ar:Bein sport 6 HD
-http://40.113.21.146:8000/Daziptv/Streamall/96.ch
-#EXTINF:-1 group-title="Sport",Ar:Bein sport 7 HD
-http://40.113.21.146:8000/Daziptv/Streamall/95.ch
-#EXTINF:-1 group-title="Sport",Ar:Bein sport 8 HD
-http://40.113.21.146:8000/Daziptv/Streamall/94.ch
-#EXTINF:-1 group-title="Sport",AR: bein sport 9 HD
-http://40.113.21.146:8000/Daziptv/Streamall/111.ch
-#EXTINF:-1 group-title="Sport",Ar:Bien sport 10 HD
-http://40.113.21.146:8000/Daziptv/Streamall/108.ch
+EXTINF:-1 group-title="Sport",Bien sport 1 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_1
+#EXTINF:-1 group-title="Sport",Bein sport 2 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_2
+#EXTINF:-1 group-title="Sport",Bein sport 3 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_3
+#EXTINF:-1 group-title="Sport",Bein sport 4 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_4
+#EXTINF:-1 group-title="Sport",Bien sport 5 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_5
+#EXTINF:-1 group-title="Sport",Bein sport 6 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_6
+#EXTINF:-1 group-title="Sport",Bein sport 7 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_7
+#EXTINF:-1 group-title="Sport",Bein sport 8 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_8
+#EXTINF:-1 group-title="Sport",Bein sport 9 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_9
+#EXTINF:-1 group-title="Sport",Bien sport 10 HD
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_10
 #EXTINF:-1 group-title="Sport",Ar:Bien sport 11 HD
-http://40.113.21.146:8000/Daziptv/Streamall/109.ch
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_11
 
 
-#EXTINF:-1 group-title="Sky",Sky 3D
-http://mainstream.dyndns.tv:8000/live/conny/conny/828.m3u8
 
-#EXTINF:-1 group-title="Sky",Sky TNT Serie HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/216.m3u8
-#EXTINF:-1 group-title="Sky",Sky TNT Film HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/217.m3u8
-#EXTINF:-1 group-title="Sky",Sky MGM HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/201.m3u8
-#EXTINF:-1 group-title="Sky",Sky History 
-http://mainstream.dyndns.tv:8000/live/conny/conny/202.m3u8
-#EXTINF:-1 group-title="Sky",Sky Fox HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/204.m3u8
-
-#EXTINF:-1 group-title="Sky",SyFy HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/964.m3u8
-#EXTINF:-1 group-title="Sky",Sky AXN HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/205.m3u8
-#EXTINF:-1 group-title="Sky",Sky 13 Street HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/206.m3u8
-#EXTINF:-1 group-title="Sky",Sky Cinema HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/218.m3u8
-#EXTINF:-1 group-title="Sky",Sky 007 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/2.m3u8
-#EXTINF:-1 group-title="Sky",Sky Action HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/76.m3u8
-#EXTINF:-1 group-title="Sky",Sky Cinema +1 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1.m3u8
-#EXTINF:-1 group-title="Sky",Sky Cinema +24 HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/160.m3u8
-#EXTINF:-1 group-title="Sky",Sky Comedy
-http://mainstream.dyndns.tv:8000/live/conny/conny/161.m3u8
-#EXTINF:-1 group-title="Sky",Sky Emotion
-http://mainstream.dyndns.tv:8000/live/conny/conny/241.m3u8
-#EXTINF:-1 group-title="Sky",Sky Krimi
-http://mainstream.dyndns.tv:8000/live/conny/conny/162.m3u8
-
-#EXTINF:-1 group-title="Sky",Sky Kino Welt 
-http://mainstream.dyndns.tv:8000/live/conny/conny/981.m3u8
-#EXTINF:-1 group-title="Sky",Sky Universal HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1165.m3u8
-#EXTINF:-1 group-title="Sky",Sky Disney Channel HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1164.m3u8
-#EXTINF:-1 group-title="Sky",Sky Disney Cinemagic HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/1166.m3u8
-
-
-#EXTINF:-1 group-title="Sky",Sky Nat Geo HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/323.m3u8
-#EXTINF:-1 group-title="Sky",Sky Nat Geo Wild HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/6.m3u8
-#EXTINF:-1 group-title="Sky",Sky Discovery Channel HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/203.m3u8
-#EXTINF:-1 group-title="Sky",Sky Atlantic HD
-http://mainstream.dyndns.tv:8000/live/conny/conny/159.m3u8
-#EXTINF:-1 group-title="Sky",Sky Bundesliga HD1
-http://mainstream.dyndns.tv:8000/live/conny/conny/5.m3u8
-#EXTINF:-1 group-title="Sky",Sky Sport HD1
-http://mainstream.dyndns.tv:8000/live/conny/conny/7.m3u8
-
-
-#EXTINF:-1 group-title="Sky",Sky Select 9 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7625.m3u8
-#EXTINF:-1 group-title="Sky",Sky Select 8 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7626.m3u8
-#EXTINF:-1 group-title="Sky",Sky Select 7 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7627.m3u8
-#EXTINF:-1 group-title="Sky",Sky Select 6 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7628.m3u8
-#EXTINF:-1 group-title="Sky",Sky select 5 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7629.m3u8
-#EXTINF:-1 group-title="Sky",Sky select 4 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7630.m3u8
-#EXTINF:-1 group-title="Sky",Sky select 3 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7631.m3u8
-#EXTINF:-1 group-title="Sky",Sky select 2 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7632.m3u8
-#EXTINF:-1 group-title="Sky",Sky select 1 HD
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7633.m3u8
 
 
 #EXTINF:-1 group-title="Deutsch",ORF 1 HD
