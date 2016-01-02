@@ -27,8 +27,14 @@ http://bit.ly/1k8gYtS
 #EXTINF:-1 group-title="Kids Arabic", Jeem Kids
 http://2.109.65.141/masan/14103.m3u8
  
-#EXTINF:-1 group-title="Kids Arabic",Agyal
+#EXTINF:-1 group-title="Kids Arabic",Toyor Aljanah
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/toyor_al_janah
+#EXTINF:-1 group-title="Kids Arabic",Karameesh
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/karameesh
 
+
+
+#EXTINF:-1 group-title="Kids Arabic",Agyal
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
  #EXTINF:-1 group-title="Kids Arabic",AlJazeera Children
  http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
@@ -38,15 +44,15 @@ http://streaming.i-sat.tv:1935/live/semsem/chunklist_w2044362970.m3u8
  rtmpt://78.100.40.195:1935/brm?gmswf=2986351024/brm
 
 #EXTINF:-1 group-title="Kids Arabic",SpaceToon
-http://2.109.65.138/masa/13768.m3u8
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/spacetoon
 #EXTINF:-1 group-title="Kids Arabic",Noon
 http://2.109.65.142/masa/14225.m3u8
 #EXTINF:-1 group-title="Kids Arabic",Kanari
 http://2.109.65.142/masa/14224.m3u8
 #EXTINF:-1 group-title="Kids Arabic",MBC 3
-http://2.109.65.146/masa/14617.m3u8
-
-
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_3
+#EXTINF:-1 group-title="Kids Arabic",Cartonn Network
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cartoon_network
 
  
 
@@ -120,10 +126,18 @@ http://2.109.65.142/masa/14222.m3u8
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/alhayat
 #EXTINF:-1 group-title="Arabic",Al Hayat 2
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/alhayat_2
+#EXTINF:-1 group-title="Arabic",Al Hayat Musalsalat
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/alhayat_musalsalat
 #EXTINF:-1 group-title="Arabic",Panorama Drama
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/panorama_drama
 #EXTINF:-1 group-title="Arabic",Panorama Drama 2
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/panorama_drama_2
+#EXTINF:-1 group-title="Arabic",CBC 
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc
+#EXTINF:-1 group-title="Arabic",CBC 2
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc_2
+#EXTINF:-1 group-title="Arabic",CBC Sofra
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc_sofra
 #EXTINF:-1 group-title="Arabic",CBC Drama
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc_drama
 #EXTINF:-1 group-title="Arabic",Abu Dhabi
@@ -134,6 +148,11 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/abu_dhabi_dram
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/abu_dhabi_emarat
 #EXTINF:-1 group-title="Arabic",Funoon
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/funoon
+#EXTINF:-1 group-title="Arabic",Dream 1
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/dream_1
+
+
+
 
 #EXTINF:-1 group-title="Arabic",Mehwar TV
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
@@ -143,7 +162,8 @@ http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/chunklist_w785
 http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar Drama
 http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="Arabic",Nessma
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/nessma
 #EXTINF:-1 group-title="Arabic", Syria Drama
  rtmp://82.137.248.21:1935/Drama/DramaLive3
 #EXTINF:-1 group-title="Arabic",Roya TV
@@ -185,7 +205,8 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/star_cinema_1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/star_cinema_2
 #EXTINF:-1 group-title="Aflam & Drama",Cima
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cima
-
+#EXTINF:-1 group-title="Aflam & Drama",Cairo Cinema
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cairo_cinema
 
 #EXTINF:-1 group-title="Aflam & Drama",Zee Alwan
 http://2.109.65.142/masa/14209.m3u8
@@ -432,19 +453,21 @@ http://2.109.65.249/masa/24915.m3u8
 #EXTINF:-1 group-title="Arabic Music",Melody Hits
 http://38.96.148.118/MelodyHits/smil:hits.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic Music",Rotana Music
-http://185.5.222.227:4242/bysid/5601
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/rotana_music
 #EXTINF:-1 group-title="Arabic Music",Rotana Clip
-http://bit.ly/1JlAcmp
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/rotana_clip
 #EXTINF:-1 group-title="Arabic Music",Wanasah
-http://178.33.88.129:888/udp/239.102.0.130:1234
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/wanasah
+#EXTINF:-1 group-title="Arabic Music",Al Haneen Music
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/al_haneen_music
 #EXTINF:-1 group-title="Arabic Music",Aghanina
 http://178.33.88.129:888/udp/239.102.0.217:1234
 #EXTINF:-1 group-title="Arabic Music",Arabica
 http://178.33.88.129:888/udp/239.102.0.204:1234
 #EXTINF:-1 group-title="Arabic Music",Mazzika
-http://178.33.88.129:888/udp/239.102.0.183:1234
-#EXTINF:-1 group-title="Arabic Music",Musicplus 
-http://178.33.88.129:888/udp/239.102.0.113:1234
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mazzika
+#EXTINF:-1 group-title="Arabic Music",Music Plus 
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/music_plus
 #EXTINF:-1 group-title="Arabic Music",Melody 
 http://178.33.88.129:888/udp/239.102.0.110:1234
 #EXTINF:-1 group-title="Arabic Music",Aghani
