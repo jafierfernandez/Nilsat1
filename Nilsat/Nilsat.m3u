@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="Arabic",Medi 1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/medi_1_sat
 #EXTINF:-1 group-title="Arabic",2M
-rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/2m
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/2_m
 #EXTINF:-1 group-title="Arabic",Al Aoula 
 http://bit.ly/1TJhpGh
 #EXTINF:-1 group-title="Arabic",Arryadia 
@@ -113,20 +113,7 @@ rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
 http://2.109.65.142/masa/14222.m3u8
 
 
-#EXTINF:-1 group-title="Arabic",OSN Alyoum
-http://0100dyndns.tv:7879/live/awad/awad/69.m3u8
-#EXTINF:-1 group-title="Arabic",OSN Alyoum HD+
-http://0100dyndns.tv:7879/live/awad/awad/461.m3u8
-#EXTINF:-1 group-title="Arabic",OSN Cinma 1
-http://0100dyndns.tv:7879/live/awad/awad/48.m3u8
-#EXTINF:-1 group-title="Arabic",OSN Cinma 2
-http://0100dyndns.tv:7879/live/awad/awad/47.m3u8
-#EXTINF:-1 group-title="Arabic",OSN Yahala HD
-http://0100dyndns.tv:7879/live/awad/awad/31.m3u8
-#EXTINF:-1 group-title="Arabic",OSN Yahala Drama
-http://0100dyndns.tv:7879/live/awad/awad/56.m3u8
-#EXTINF:-1 group-title="Arabic",OSN Yahala Shabab
-http://0100dyndns.tv:7879/live/awad/awad/67.m3u8
+
 
 #EXTINF:-1 group-title="Arabic",MBC 1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
