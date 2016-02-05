@@ -547,9 +547,9 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Français",SyFy HD
 http://0100dyndns.tv:7879/live/awad/awad/660.m3u8
-#EXTINF:-1 group-title="Français",AXN_White
+#EXTINF:-1 group-title="Français",AXN White
 http://0100dyndns.tv:7879/live/awad/awad/851.m3u8
-#EXTINF:-1 group-title="Français",Canal Decale HD
+#EXTINF:-1 group-title="Français",Canal+ Decale HD
 http://0100dyndns.tv:7879/live/awad/awad/645.m3u8
 #EXTINF:-1 group-title="Français",Canal+ Cinema HD
 http://0100dyndns.tv:7879/live/awad/awad/636.m3u8
