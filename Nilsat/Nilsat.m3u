@@ -113,6 +113,21 @@ rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
 http://2.109.65.142/masa/14222.m3u8
 
 
+#EXTINF:-1 group-title="Arabic",OSN Alyoum
+http://0100dyndns.tv:7879/live/awad/awad/69.m3u8
+#EXTINF:-1 group-title="Arabic",OSN Alyoum HD+
+http://0100dyndns.tv:7879/live/awad/awad/461.m3u8
+#EXTINF:-1 group-title="Arabic",OSN Cinma 1
+http://0100dyndns.tv:7879/live/awad/awad/48.m3u8
+#EXTINF:-1 group-title="Arabic",OSN Cinma 2
+http://0100dyndns.tv:7879/live/awad/awad/47.m3u8
+#EXTINF:-1 group-title="Arabic",OSN Yahala HD
+http://0100dyndns.tv:7879/live/awad/awad/31.m3u8
+#EXTINF:-1 group-title="Arabic",OSN Yahala Drama
+http://0100dyndns.tv:7879/live/awad/awad/56.m3u8
+#EXTINF:-1 group-title="Arabic",OSN Yahala Shabab
+http://0100dyndns.tv:7879/live/awad/awad/67.m3u8
+
 #EXTINF:-1 group-title="Arabic",MBC 1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
 #EXTINF:-1 group-title="Arabic",MBC Drama
@@ -530,6 +545,45 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Français",SyFy HD
+http://0100dyndns.tv:7879/live/awad/awad/660.m3u8
+#EXTINF:-1 group-title="Français",AXN_White
+http://0100dyndns.tv:7879/live/awad/awad/851.m3u8
+#EXTINF:-1 group-title="Français",Canal Decale HD
+http://0100dyndns.tv:7879/live/awad/awad/645.m3u8
+#EXTINF:-1 group-title="Français",Canal+ Cinema HD
+http://0100dyndns.tv:7879/live/awad/awad/636.m3u8
+#EXTINF:-1 group-title="Français",Canal+ Series HD
+http://0100dyndns.tv:7879/live/awad/awad/637.m3u8
+#EXTINF:-1 group-title="Français",Canal+ HD
+http://0100dyndns.tv:7879/live/awad/awad/643.m3u8
+#EXTINF:-1 group-title="Français",Comedie+
+http://0100dyndns.tv:7879/live/awad/awad/661.m3u8
+#EXTINF:-1 group-title="Français",Cine+ Famiz
+http://0100dyndns.tv:7879/live/awad/awad/665.m3u8
+#EXTINF:-1 group-title="Français",Action
+http://0100dyndns.tv:7879/live/awad/awad/667.m3u8
+#EXTINF:-1 group-title="Français",TCM Cinema
+http://0100dyndns.tv:7879/live/awad/awad/546.m3u8
+#EXTINF:-1 group-title="Français",Cine+ Classic HD
+http://0100dyndns.tv:7879/live/awad/awad/642.m3u8
+#EXTINF:-1 group-title="Français",Cine+ Frisson HD
+http://0100dyndns.tv:7879/live/awad/awad/641.m3u8
+#EXTINF:-1 group-title="Français",Cine+ Famiz HD
+http://0100dyndns.tv:7879/live/awad/awad/640.m3u8
+#EXTINF:-1 group-title="Français",Cine+ Emotion HD
+http://0100dyndns.tv:7879/live/awad/awad/638.m3u8
+#EXTINF:-1 group-title="Français",Canal Sport HD
+http://0100dyndns.tv:7879/live/awad/awad/644.m3u8
+#EXTINF:-1 group-title="Français",Canal+ Liga
+http://0100dyndns.tv:7879/live/awad/awad/554.m3u8
+#EXTINF:-1 group-title="Français",Canal Family HD
+http://0100dyndns.tv:7879/live/awad/awad/639.m3u8
+
+#EXTINF:-1 group-title="Français",TF1 HD
+http://0100dyndns.tv:7879/live/awad/awad/542.m3u8
+#EXTINF:-1 group-title="Français",Canal+ Football
+http://0100dyndns.tv:7879/live/awad/awad/405.m3u8
 
 
 
@@ -539,6 +593,7 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/canal_plus
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/canal_plus_cinema
 #EXTINF:-1 group-title="Français",Canal+ Series
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/canal_plus_seiries
+
 #EXTINF:-1 group-title="Français",Canal+ Sport
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/canal_plus_sport
 #EXTINF:-1 group-title="Français", Premiere
@@ -606,31 +661,32 @@ http://stream.live-tv-direct.com:8009/apple/nrj/nrj/nrj12hi.m3u8
 
 
 
-#EXTINF:-1 group-title="Español",CANAL+ ESTRENOS
-http://62.210.162.88:80/live/ES91/152005022016/1721.ts
-#EXTINF:-1 group-title="Español",CANAL DCINE
+#EXTINF:-1 group-title="Español",Canal+ Estrenos
+http://62.210.162.88:80/live/ES91/152005022016/1721.m3u8
+#EXTINF:-1 group-title="Español",Canal+ DCine
 http://62.210.162.88:80/live/ES91/152005022016/1737.ts
-#EXTINF:-1 group-title="Español",AXN WHITE
+#EXTINF:-1 group-title="Español",Canal+ Xtra
+http://62.210.162.88:80/live/ES91/152005022016/1534.ts
+#EXTINF:-1 group-title="Español",Canal+ Comedia
+http://62.210.162.88:80/live/ES91/152005022016/1738.ts
+#EXTINF:-1 group-title="Español",Hollywood
+http://62.210.162.88:80/live/ES91/152005022016/1533.ts
+#EXTINF:-1 group-title="Español",AXN White
 http://62.210.162.88:80/live/ES91/152005022016/1741.ts
 #EXTINF:-1 group-title="Español",FOX
 http://62.210.162.88:80/live/ES91/152005022016/1739.ts
 #EXTINF:-1 group-title="Español",TNT
 http://62.210.162.88:80/live/ES91/152005022016/1535.ts
-#EXTINF:-1 group-title="Español",CANAL COMEDIA
-http://62.210.162.88:80/live/ES91/152005022016/1738.ts
 #EXTINF:-1 group-title="Español",13 TV
 http://62.210.162.88:80/live/ES91/152005022016/1744.ts
-#EXTINF:-1 group-title="Español",xtra
-http://62.210.162.88:80/live/ES91/152005022016/1534.ts
-#EXTINF:-1 group-title="Español",telesur
+#EXTINF:-1 group-title="Español",Telesur
 http://62.210.162.88:80/live/ES91/152005022016/1538.ts
-#EXTINF:-1 group-title="Español",hollywood
-http://62.210.162.88:80/live/ES91/152005022016/1533.ts
+
 #EXTINF:-1 group-title="Español",FDF
 http://62.210.162.88:80/live/ES91/152005022016/1532.ts
-#EXTINF:-1 group-title="Español",cuatro
+#EXTINF:-1 group-title="Español",Cuatro
 http://62.210.162.88:80/live/ES91/152005022016/1536.ts
-#EXTINF:-1 group-title="Español",clan
+#EXTINF:-1 group-title="Español",Clan
 http://62.210.162.88:80/live/ES91/152005022016/1541.ts
 #EXTINF:-1 group-title="Español",TVE 1
 http://62.210.162.88:80/live/ES91/152005022016/1722.ts
@@ -638,56 +694,54 @@ http://62.210.162.88:80/live/ES91/152005022016/1722.ts
 http://62.210.162.88:80/live/ES91/152005022016/1723.ts
 #EXTINF:-1 group-title="Español",TV3 24
 http://62.210.162.88:80/live/ES91/152005022016/1762.ts
-#EXTINF:-1 group-title="Español",TRAVEL TV
+#EXTINF:-1 group-title="Español",Travel TV
 http://62.210.162.88:80/live/ES91/152005022016/1754.ts
-#EXTINF:-1 group-title="Español",RTP ASTURIAS
+#EXTINF:-1 group-title="Español",RTP Asturias
 http://62.210.162.88:80/live/ES91/152005022016/1747.ts
-#EXTINF:-1 group-title="Español",ONDA SEVILLA
+#EXTINF:-1 group-title="Español",Onda Sevilla
 http://62.210.162.88:80/live/ES91/152005022016/1761.ts
-#EXTINF:-1 group-title="Español",MEGA
+#EXTINF:-1 group-title="Español",Mega
 http://62.210.162.88:80/live/ES91/152005022016/1742.ts
-#EXTINF:-1 group-title="Español",LA SEXTA
+#EXTINF:-1 group-title="Español",La Sexta
 http://62.210.162.88:80/live/ES91/152005022016/1726.ts
-#EXTINF:-1 group-title="Español",ANTENA 3
+#EXTINF:-1 group-title="Español",Antena 3
 http://62.210.162.88:80/live/ES91/152005022016/1724.ts
-#EXTINF:-1 group-title="Español",INTERECONOMIA
+#EXTINF:-1 group-title="Español",Intereconomia
 http://62.210.162.88:80/live/ES91/152005022016/1758.ts
-#EXTINF:-1 group-title="Español",GALIZA TV EUROPA
+#EXTINF:-1 group-title="Español",Galiza TV Europa
 http://62.210.162.88:80/live/ES91/152005022016/1745.ts
-#EXTINF:-1 group-title="Español",GALIZA TV AMERICA
+#EXTINF:-1 group-title="Español",Galiza TV America
 http://62.210.162.88:80/live/ES91/152005022016/1746.ts
-#EXTINF:-1 group-title="Español",CANAL  FUTBOL
+#EXTINF:-1 group-title="Español",Canal+  Futbol
 http://62.210.162.88:80/live/ES91/152005022016/1728.ts
-#EXTINF:-1 group-title="Español",EXTREMADURA TV
+#EXTINF:-1 group-title="Español",Extremadura TV
 http://62.210.162.88:80/live/ES91/152005022016/1748.ts
-#EXTINF:-1 group-title="Español",EURONEWS
-http://62.210.162.88:80/live/ES91/152005022016/1756.ts
-#EXTINF:-1 group-title="Español",CEUTA TV
+#EXTINF:-1 group-title="Español",Ceuta TV
 http://62.210.162.88:80/live/ES91/152005022016/1753.ts
-#EXTINF:-1 group-title="Español",CASTILLA LA MANCHA TV
+#EXTINF:-1 group-title="Español",Castilla La Mancha TV
 http://62.210.162.88:80/live/ES91/152005022016/1750.ts
 
-#EXTINF:-1 group-title="Español",CANAL COSTA
+#EXTINF:-1 group-title="Español",Canal Costa
 http://62.210.162.88:80/live/ES91/152005022016/1759.ts
-#EXTINF:-1 group-title="Español",ANIME TV
+#EXTINF:-1 group-title="Español",Anime TV
 http://62.210.162.88:80/live/ES91/152005022016/1755.ts
-#EXTINF:-1 group-title="Español",ANDORRA TV
+#EXTINF:-1 group-title="Español",Andorra TV
 http://62.210.162.88:80/live/ES91/152005022016/1749.ts
 
-#EXTINF:-1 group-title="Español",la 1
+#EXTINF:-1 group-title="Español",La 1
 http://62.210.162.88:80/live/ES91/152005022016/1539.ts
-#EXTINF:-1 group-title="Español",la2
+#EXTINF:-1 group-title="Español",La2
 http://62.210.162.88:80/live/ES91/152005022016/1540.ts
 
 
-#EXTINF:-1 group-title="Español",TOROS
+#EXTINF:-1 group-title="Español",Toros
 http://62.210.162.88:80/live/ES91/152005022016/1531.ts
 #EXTINF:-1 group-title="Español",DEPORT HD
 http://62.210.162.88:80/live/ES91/152005022016/1530.ts
 
-#EXTINF:-1 group-title="Español",FOX SPORTS
+#EXTINF:-1 group-title="Español",FOX Sports
 http://62.210.162.88:80/live/ES91/152005022016/1731.ts
-#EXTINF:-1 group-title="Español",FOX SPORTS 2
+#EXTINF:-1 group-title="Español",FOX Sports 2
 http://62.210.162.88:80/live/ES91/152005022016/1732.ts
 #EXTINF:-1 group-title="Español",ESPN
 http://62.210.162.88:80/live/ES91/152005022016/1734.ts
