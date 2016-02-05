@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="Arabic",Medi 1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/medi_1_sat
 #EXTINF:-1 group-title="Arabic",2M
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/2m
 #EXTINF:-1 group-title="Arabic",Al Aoula 
 http://bit.ly/1TJhpGh
 #EXTINF:-1 group-title="Arabic",Arryadia 
@@ -83,7 +83,7 @@ http://ewns-hls-b-cdn.hexaglobe.net/5f8d242b353680069326d836cc8fe5ad/567817d1/eu
 #EXTINF:-1 group-title="News Arabic",Alhiwar
 http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/jwplayer.m3u8   
 #EXTINF:-1 group-title="News Arabic",Orient
-http://ls01.orienths.org/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
+http://2.109.65.142/masa/14234.m3u8
 #EXTINF:-1 group-title="News Arabic",Maan News
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 #EXTINF:-1 group-title="News Arabic",TRT Ar
@@ -109,6 +109,9 @@ http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
 http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Alfajr TV
 rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
+#EXTINF:-1 group-title="Arabic",Sada Albalad Drama
+http://2.109.65.142/masa/14222.m3u8
+
 
 #EXTINF:-1 group-title="Arabic",MBC 1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
@@ -118,8 +121,7 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_drama
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_masr
 #EXTINF:-1 group-title="Arabic",MBC Masr 2
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_masr_2
-#EXTINF:-1 group-title="Arabic",Sada Albalad Drama
-http://2.109.65.142/masa/14222.m3u8
+
 
 
 #EXTINF:-1 group-title="Arabic",Al Hayat
@@ -517,67 +519,11 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_11
 
 
 
-#EXTINF:-1 group-title="Deutsch",ORF 1 HD
-http://62.65.140.153:80/session/57741bec-a793-11e5-b808-005056bc06d1/nvnv5a/1/1010/index.m3u8?
+
 #EXTINF:-1 group-title="Deutsch",ORF 2 HD
-http://62.65.140.155:80/session/580f6f84-a793-11e5-9b1d-005056bc06d1/nvnv5a/1/1011/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",SRF 1 HD
-http://62.65.140.214:80/session/65443d42-a793-11e5-a16f-005056bc06d1/nvnv5a/1/1008/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",SRF 2 HD
-http://62.65.140.215:80/session/65aa33cc-a793-11e5-abd7-005056bc1a52/nvnv5a/1/1009/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",SRF Info
-http://62.65.140.149:80/session/6615e9fa-a793-11e5-9321-005056bc1a52/nvnv5a/1/1003/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",3+ HD
-http://62.65.140.215:80/session/396fa06c-a793-11e5-9aac-005056bc49ac/nvnv5a/1/1013/index.m3u8
-#EXTINF:-1 group-title="Deutsch",4+ HD
-http://62.65.140.216:80/session/3a41da64-a793-11e5-a10b-005056bc1a52/nvnv5a/1/1031/index.m3u8
-#EXTINF:-1 group-title="Deutsch",5+ HD
-http://62.65.140.152:80/session/3ac3b3ae-a793-11e5-bd63-005056bc06d1/nvnv5a/1/1047/index.m3u8
-#EXTINF:-1 group-title="Deutsch",Puls 8 HD
-http://62.65.140.215:80/session/59e8d5e8-a793-11e5-9b1c-005056bc49ac/nvnv5a/2/1053/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",Anixe HD
-http://62.65.140.215:80/session/3bd89d90-a793-11e5-97c8-005056bc06d1/nvnv5a/1/1134/index.m3u8
-
-#EXTINF:-1 group-title="Deutsch",Kanal 9
-http://62.65.140.152:80/session/4076c854-a793-11e5-8016-005056bc06d1/nvnv5a/2/2041/index.m3u8
-
-
-#EXTINF:-1 group-title="Deutsch",Kabel 1 HD
-http://62.65.140.152:80/session/50ab12ac-a793-11e5-81a1-005056bc1a52/nvnv5a/1/1039/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",Kika HD
-http://62.65.140.153:80/session/5131a466-a793-11e5-b9e8-005056bc06d1/nvnv5a/1/1116/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",Prosieben HD
-http://62.65.140.216:80/session/590108bc-a793-11e5-9ca1-005056bc06d1/nvnv5a/1/1037/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",RTL 2 HD
-http://62.65.140.150:80/session/5eddb80c-a793-11e5-9dcb-005056bc1a52/nvnv5a/1/1024/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",RTL HD
-http://62.65.140.151:80/session/5fc5cf48-a793-11e5-b25b-005056bc06d1/nvnv5a/1/1020/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",VOX HD
-http://62.65.140.213:80/session/885de530-a793-11e5-988f-005056bc06d1/nvnv5a/1/1021/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",Sat 1 HD
-http://62.65.140.148:80/session/63476b40-a793-11e5-b7f7-005056bc06d1/nvnv5a/1/1038/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",Tele 5
-http://62.65.140.151:80/session/695f183e-a793-11e5-abca-005056bc49ac/nvnv5a/1/1090/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",RTL Nitro HD
-http://62.65.140.215:80/session/60387444-a793-11e5-a114-005056bc49ac/nvnv5a/1/1027/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",CH TV HD
-http://62.65.140.217:80/session/43142796-a793-11e5-837b-005056bc06d1/nvnv5a/1/1032/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",S1 HD
-http://62.65.140.148:80/session/62dc60d4-a793-11e5-896c-005056bc49ac/nvnv5a/1/1035/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",Tele 1 HD
-http://62.65.140.214:80/session/68ded07a-a793-11e5-85df-005056bc49ac/nvnv5a/1/1128/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",ZDF Neo HD
-http://62.65.140.152:80/session/8552f902-a793-11e5-9c78-005056bc49ac/nvnv5a/1/1121/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",ZDF HD
-http://62.65.140.148:80/session/85bda964-a793-11e5-bfc1-005056bc1a52/nvnv5a/2/1166/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",ZDF Kultur HD
-http://62.65.140.148:80/session/864e2534-a793-11e5-992f-005056bc49ac/nvnv5a/1/1119/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",ZDF Info HD
-http://62.65.140.152:80/session/86da3a38-a793-11e5-a9b6-005056bc06d1/nvnv5a/1/1118/index.m3u8?
-#EXTINF:-1 group-title="Deutsch",ARD HD
-http://62.65.140.217:80/session/3c3be5ee-a793-11e5-8954-005056bc06d1/nvnv5a/2/1165/index.m3u8
-#EXTINF:-1 group-title="Deutsch",Arte HD
-http://62.65.140.151:80/session/3d26a32c-a793-11e5-9900-005056bc49ac/nvnv5a/1/1150/index.m3u8
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Deutsch",ORF 3 HD
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 
 
 
@@ -585,16 +531,16 @@ http://62.65.140.151:80/session/3d26a32c-a793-11e5-9900-005056bc49ac/nvnv5a/1/11
 
 
 
-#EXTINF:-1 group-title="Englisch",Film 4
-http://62.65.140.148:80/session/4a02e34e-a793-11e5-a5b8-005056bc06d1/nvnv5a/2/4023/index.m3u8?
-#EXTINF:-1 group-title="Englisch",Canal 4 HD
-http://62.65.140.213:80/session/426164da-a793-11e5-a8ab-005056bc49ac/nvnv5a/2/4022/index.m3u8?
 
 
 #EXTINF:-1 group-title="Français",Canal+ 
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/canal_plus
 #EXTINF:-1 group-title="Français",Canal+ Cinema
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/canal_plus_cinema
+#EXTINF:-1 group-title="Français",Canal+ Series
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/canal_plus_seiries
+#EXTINF:-1 group-title="Français",Canal+ Sport
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/canal_plus_sport
 #EXTINF:-1 group-title="Français", Premiere
 http://teleclub.fr/ch02.ts
 #EXTINF:-1 group-title="Français", West
