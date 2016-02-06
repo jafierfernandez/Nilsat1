@@ -108,9 +108,17 @@ http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Melody Drama
 http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Alfajr TV
-rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
+rtmp://vstream2.hadara.ps:1935/alfajertv/alfajertv
 #EXTINF:-1 group-title="Arabic",Sada Albalad Drama
 http://2.109.65.142/masa/14222.m3u8
+#EXTINF:-1 group-title="Arabic",Mehwar TV
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Arabic",Al Nahar
+http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/chunklist_w785997908.m3u8
+#EXTINF:-1 group-title="Arabic",Al Nahar Al Yaoum
+http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Al Nahar Drama
+http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
 
 
 
@@ -164,14 +172,7 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/al_masriyah
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/al_oula
 #EXTINF:-1 group-title="Arabic",Almisriya 2
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/al_thaniya
-#EXTINF:-1 group-title="Arabic",Mehwar TV
-http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Arabic",Al Nahar
-http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/chunklist_w785997908.m3u8
-#EXTINF:-1 group-title="Arabic",Al Nahar Al Yaoum
-http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",Al Nahar Drama
-http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Arabic",Nessma
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/nessma
 #EXTINF:-1 group-title="Arabic", Syria Drama
