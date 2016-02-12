@@ -59,7 +59,7 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cartoon_networ
 
 
 #EXTINF:-1 group-title="News Arabic",Sky News Ar
-http://snammdlive.mmdlive.lldns.net/snammdlive/fc3fcdd7b831425c944e17e1c764b31a/manifest.m3u8
+http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Arabia
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title="News Arabic",Al Hadath
