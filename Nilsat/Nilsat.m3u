@@ -123,7 +123,16 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3
 http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="Arabic",MBC 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 group-title="Arabic",MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Max
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1 group-title="Arabic",MBC Bollywood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1 group-title="Arabic",MBC 1
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
@@ -152,6 +161,8 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc_2
 #EXTINF:-1 group-title="Arabic",CBC Sofra
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc_sofra
+#EXTINF:-1 group-title="Arabic",CBC Drama
+http://185.5.222.231:4242/bysid/5107
 #EXTINF:-1 group-title="Arabic",CBC Drama
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/cbc_drama
 #EXTINF:-1 group-title="Arabic",Abu Dhabi
@@ -534,15 +545,23 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Français",Cine+ Frisson HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/62.m3u8
+#EXTINF:-1 group-title="Français",Canal+ Decale HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/52.m3u8
+#EXTINF:-1 group-title="Français",Canal+ Cinema HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/50.m3u8
+#EXTINF:-1 group-title="Français",Cine+ Premiere
+http://top-iptv.zapto.org:8000/live/Aria/Aria/71.m3u8
+
+
 
 #EXTINF:-1 group-title="Français",SyFy HD
 http://0100dyndns.tv:7879/live/awad/awad/660.m3u8
 #EXTINF:-1 group-title="Français",AXN White
 http://0100dyndns.tv:7879/live/awad/awad/851.m3u8
-#EXTINF:-1 group-title="Français",Canal+ Decale HD
-http://0100dyndns.tv:7879/live/awad/awad/645.m3u8
-#EXTINF:-1 group-title="Français",Canal+ Cinema HD
-http://0100dyndns.tv:7879/live/awad/awad/636.m3u8
+
+
 #EXTINF:-1 group-title="Français",Canal+ Series HD
 http://0100dyndns.tv:7879/live/awad/awad/637.m3u8
 #EXTINF:-1 group-title="Français",Canal+ HD
@@ -557,8 +576,7 @@ http://0100dyndns.tv:7879/live/awad/awad/667.m3u8
 http://0100dyndns.tv:7879/live/awad/awad/546.m3u8
 #EXTINF:-1 group-title="Français",Cine+ Classic HD
 http://0100dyndns.tv:7879/live/awad/awad/642.m3u8
-#EXTINF:-1 group-title="Français",Cine+ Frisson HD
-http://0100dyndns.tv:7879/live/awad/awad/641.m3u8
+
 #EXTINF:-1 group-title="Français",Cine+ Famiz HD
 http://0100dyndns.tv:7879/live/awad/awad/640.m3u8
 #EXTINF:-1 group-title="Français",Cine+ Emotion HD
