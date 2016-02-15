@@ -5,9 +5,9 @@
 
 
 #EXTINF:-1 group-title="Arabic",Medi 1
-rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/medi_1_sat
+http://5.196.90.97/origin02/amlst:medi1tv/chunklist_w735390060_b800000.m3u8
 #EXTINF:-1 group-title="Arabic",2M
-rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/2_m
+http://176.31.228.230/origin02/amlst:2m-maroc/chunklist_w1479467785_b800000.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
 http://bit.ly/1TJhpGh
 #EXTINF:-1 group-title="Arabic",Arryadia 
@@ -113,14 +113,15 @@ rtmp://vstream2.hadara.ps:1935/alfajertv/alfajertv
 http://2.109.65.142/masa/14222.m3u8
 #EXTINF:-1 group-title="Arabic",Mehwar TV
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Arabic",Al Nahar Cinema
+http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar
 http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar Al Yaoum
 http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Arabic",Al Nahar Sport
-http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Arabic",MBC 2
