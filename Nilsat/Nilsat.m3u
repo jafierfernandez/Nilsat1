@@ -5,9 +5,9 @@
 
 
 #EXTINF:-1 group-title="Arabic",Medi 1
-http://5.196.90.97/origin02/amlst:medi1tv/chunklist_w735390060_b800000.m3u8
+http://37.187.24.177:80/Hamadil1xa131/Hamadil1xa131/939.ch
 #EXTINF:-1 group-title="Arabic",2M
-http://176.31.228.230/origin02/amlst:2m-maroc/chunklist_w1479467785_b800000.m3u8
+http://37.187.140.23/origin02/amlst:2m-maroc/chunklist_w2021744534_b300000.m3u8
 #EXTINF:-1 group-title="Arabic",Al Aoula 
 http://bit.ly/1TJhpGh
 #EXTINF:-1 group-title="Arabic",Arryadia 
@@ -121,8 +121,8 @@ http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
 http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Arabic",Al Nahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Arabic", Alwataniya 1
+http://2.109.65.143/masa/14309.m3u8
 
 #EXTINF:-1 group-title="Arabic",MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
