@@ -108,7 +108,7 @@ http://38.96.148.118/MelodyClassic/smil:classic.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Melody Drama
 http://38.96.148.118/MelodyDrama/smil:drama.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1 group-title="Arabic",Alfajr TV
-rtmp://vstream2.hadara.ps:1935/alfajertv/alfajertv
+rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv
 #EXTINF:-1 group-title="Arabic",Sada Albalad Drama
 http://2.109.65.142/masa/14222.m3u8
 #EXTINF:-1 group-title="Arabic",Mehwar TV
