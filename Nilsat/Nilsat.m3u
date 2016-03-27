@@ -435,7 +435,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?
 
 
 #EXTINF:-1 group-title="Relegion Arabic",Alresalah
-rtmp://74.50.103.199:1935/live?v=1381163539/sp15_13.stream
+rtmpt://199.167.151.237:1935/live?v=2986706136/sp15_13.stream
 #EXTINF:-1 group-title="Relegion Arabic",Iqraa TV
 http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Relegion Arabic",Alrahma
@@ -454,10 +454,7 @@ http://46.245.160.224/medine/medine/gmswf.m3u8
 http://streaming.i-sat.tv:1935/live/alerth/playlist.m3u8
 
 
-#EXTINF:0 group-title="Relegion Arabic",Alnada TV
-http://bit.ly/1RvyQNP
-#EXTINF:0 group-title="Relegion Arabic",Alistiqama TV
-http://bit.ly/1Jjh9ZT
+
 
 
 #EXTINF:-1 group-title="Relegion Arabic",Wissal TV
@@ -546,53 +543,7 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Français",Cine+ Frisson HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/62.m3u8
-#EXTINF:-1 group-title="Français",Canal+ Decale HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/52.m3u8
-#EXTINF:-1 group-title="Français",Canal+ Cinema HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/50.m3u8
-#EXTINF:-1 group-title="Français",Cine+ Premiere
-http://top-iptv.zapto.org:8000/live/Aria/Aria/71.m3u8
 
-
-
-#EXTINF:-1 group-title="Français",SyFy HD
-http://0100dyndns.tv:7879/live/awad/awad/660.m3u8
-#EXTINF:-1 group-title="Français",AXN White
-http://0100dyndns.tv:7879/live/awad/awad/851.m3u8
-
-
-#EXTINF:-1 group-title="Français",Canal+ Series HD
-http://0100dyndns.tv:7879/live/awad/awad/637.m3u8
-#EXTINF:-1 group-title="Français",Canal+ HD
-http://0100dyndns.tv:7879/live/awad/awad/643.m3u8
-#EXTINF:-1 group-title="Français",Comedie+
-http://0100dyndns.tv:7879/live/awad/awad/661.m3u8
-#EXTINF:-1 group-title="Français",Cine+ Famiz
-http://0100dyndns.tv:7879/live/awad/awad/665.m3u8
-#EXTINF:-1 group-title="Français",Action
-http://0100dyndns.tv:7879/live/awad/awad/667.m3u8
-#EXTINF:-1 group-title="Français",TCM Cinema
-http://0100dyndns.tv:7879/live/awad/awad/546.m3u8
-#EXTINF:-1 group-title="Français",Cine+ Classic HD
-http://0100dyndns.tv:7879/live/awad/awad/642.m3u8
-
-#EXTINF:-1 group-title="Français",Cine+ Famiz HD
-http://0100dyndns.tv:7879/live/awad/awad/640.m3u8
-#EXTINF:-1 group-title="Français",Cine+ Emotion HD
-http://0100dyndns.tv:7879/live/awad/awad/638.m3u8
-#EXTINF:-1 group-title="Français",Canal Sport HD
-http://0100dyndns.tv:7879/live/awad/awad/644.m3u8
-#EXTINF:-1 group-title="Français",Canal+ Liga
-http://0100dyndns.tv:7879/live/awad/awad/554.m3u8
-#EXTINF:-1 group-title="Français",Canal Family HD
-http://0100dyndns.tv:7879/live/awad/awad/639.m3u8
-
-#EXTINF:-1 group-title="Français",TF1 HD
-http://0100dyndns.tv:7879/live/awad/awad/542.m3u8
-#EXTINF:-1 group-title="Français",Canal+ Football
-http://0100dyndns.tv:7879/live/awad/awad/405.m3u8
 
 
 
