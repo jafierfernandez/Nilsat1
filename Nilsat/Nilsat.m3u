@@ -532,6 +532,28 @@ rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/bein_sport_11
 
 
 
+#EXTINF:-1 group-title="Sky",SKY ATLANTIC HD 
+rtmp://cdn1.neoiptv.biz/iptv/ch402?code=090031211391113
+#EXTINF:-1 group-title="Sky",SKY CINEMA HD 
+rtmp://cdn1.neoiptv.biz/iptv/ch401?code=090031211391113
+#EXTINF:-1 group-title="Sky",Sky Emotion 
+rtmp://cdn1.neoiptv.biz/iptv/ch413?code=090031211391113
+#EXTINF:-1 group-title="Sky",Sky Comedy 
+rtmp://cdn1.neoiptv.biz/iptv/ch412?code=090031211391113
+#EXTINF:-1 group-title="Sky",Sky Action 
+rtmp://cdn1.neoiptv.biz/iptv/ch411?code=090031211391113
+#EXTINF:-1 group-title="Sky",NAT GEO WILD HD 
+rtmp://cdn1.neoiptv.biz/iptv/ch409?code=090031211391113
+#EXTINF:-1 group-title="Sky",Discovery HD 
+rtmp://cdn1.neoiptv.biz/iptv/ch410?code=090031211391113
+#EXTINF:-1 group-title="Sky",Nat Geo 
+rtmp://cdn1.neoiptv.biz/iptv/ch408?code=090031211391113
+#EXTINF:-1 group-title="Sky",Syfy 
+rtmp://cdn1.neoiptv.biz/iptv/ch414?code=090031211391113
+#EXTINF:-1 group-title="Sky",SKY_Sport 1 HD 
+rtmp://cdn1.neoiptv.biz/iptv/ch405?code=090031211391113
+#EXTINF:-1 group-title="Sky",Sky Sport 2 HD 
+rtmp://cdn1.neoiptv.biz/iptv/ch406?code=090031211391113
 
 
 #EXTINF:-1 group-title="Deutsch",ORF 2 HD
